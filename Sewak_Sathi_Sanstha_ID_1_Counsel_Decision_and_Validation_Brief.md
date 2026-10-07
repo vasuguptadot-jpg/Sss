@@ -3325,3 +3325,370 @@ DOCUMENTS COMPLETE
 > ### **`THE PACK IS COMPLETE AGAINST ITS SPECIFICATION: SEVEN ITEMS, ONE QUESTION, ONE SENDER, ONE PAYMENT POSITION, FIFTEEN ABSENCES, TWENTY PROHIBITIONS, ELEVEN DELIVERABLES AND TWELVE FACTS LEFT BLANK. IT CONTAINS NO ANSWER. IT CANNOT SEND ITSELF.`**
 
 ---
+
+# PART XXIV — THE FOUNDER DISCLOSURE PACK
+
+## XXIV.0 What this Part is, and the rule that governs every field in it
+
+**[P]** Mandate §29: *"a founder disclosure pack in KNOWN / UNKNOWN / DOCUMENT REQUIRED / FOUNDER CONFIRMATION REQUIRED — do not fill the missing fields."* **[S-K(E): §XXVI.1]**: the seven declarations are attached to the counsel instruction *"as the fact base"*.
+
+| Item | **Content** |
+|---|---|
+| **What this pack is** | **A checklist of everything a qualified professional will need from the founder that is not in the corpus, sorted into four categories, with every blank field left blank** |
+| **What it is not** | **A questionnaire that has been answered. **A disclosure that has been made. **A record of facts. **A substitute for the founder speaking to a professional in person** |
+| **Why it is not filled in** | **Because filling it in would be the eighth performance of an action that only a person can perform. **`U-PD-16` records six instruments that did the work and advanced nothing; **mandate §29 forbids the fields; and **Rule K-4** forbids treating an inference as a disclosure** |
+| **Who fills it in** | **The founder, personally, in writing, and only the founder. **No instrument, no agent and no advisor may complete a field on his behalf, because the pack's purpose is to establish what one natural person knows and will confirm** |
+| **When it is filled in** | **When the professional asks for it, or before the instruction at Part XXIII is sent, at the founder's choice. **Either is acceptable; **neither is performed here** |
+| **The identifier series** | **`DIS-01 … DIS-50`. **The prefix was searched against the whole corpus and against the CEA before first use and returns zero occurrences — **NC-1**. **`DP-` was rejected: 23 occurrences in the repository's own instruments** |
+| **What `KNOWN` contains** | **Twenty-two items, none of them blank, because each is already established by a source the pack cites: the seven declarations at §IV.4 and the fifteen absences at §XXIII.1 Section 8** |
+| **What the other three categories contain** | **Fifty blank fields — 28 `UNKNOWN`, 12 `DOCUMENT REQUIRED`, 10 `FOUNDER CONFIRMATION REQUIRED`. **Not one is filled** |
+
+## XXIV.1 The four categories, defined
+
+**[P]** `[SOURCE]` as to their names — mandate §29 — and `[PROPOSED]` as to their definitions, which are written so that no field can be entered in the wrong one.
+
+| Category | **Definition** | **The test for entering a field here** | **What may be written in it** | **What may not** |
+|---|---|---|---|---|
+| ### **`KNOWN`** | **A statement that exists, in a source, and is attributed** | **Can the statement be cited to a location? **If yes, it is `KNOWN` — as a statement, not as a fact** | **The statement, its source, and its tag — `[SOURCE]` or `[FOUNDER ASSERTION]`** | **Any upgrade. **A `[FOUNDER ASSERTION]` does not become a `FACT` by being entered here — **FA-R1**, Rule K-4** |
+| ### **`UNKNOWN`** | **A fact that only the founder holds, and that no source states** | **Does any corpus location state it? **If no, and if the professional will need it, it is `UNKNOWN`** | **Nothing, until the founder writes it. **The field reads `[TO BE COMPLETED BY THE FOUNDER]`** | **An inference, an estimate, a plausible reconstruction, or a restatement of what the founder has said about something else** |
+| ### **`DOCUMENT REQUIRED`** | **A document that would establish a fact, and that has not been produced** | **Would a document settle it better than a statement? **If yes, it is `DOCUMENT REQUIRED`, whether or not the document is believed to exist** | **Nothing, until the document is received, hashed and verified — **REQUEST → RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE** | **A description of the document. **A reference to it. **A summary of it. **Rule v1.3-J: a reference to a document is not the document** |
+| ### **`FOUNDER CONFIRMATION REQUIRED`** | **A statement that exists, whose accuracy only the founder can confirm or deny** | **Is there a statement somewhere that the professional will rely on, and that only the founder can vouch for? **If yes, it needs confirmation** | **Nothing, until the founder confirms or denies it in writing, with a date** | **Silence treated as confirmation. **`PRS-3 NONE`: an absence of denial is not an assertion, and is not evidence** |
+
+## XXIV.2 Category 1 — `KNOWN`: twenty-two items, none blank
+
+**[P]** `[FOUNDER ASSERTION]` for items 1–7, evidence level `E1`, with items 4 and 5 being **express negatives** at `PRS-3 NONE` **[S-K(E): §II.3, 172]**. `[SOURCE]` for items 8–22. **These twenty-two items are the fact base attached to the instruction at Part XXIII, and they are the only entries in this pack that are not blank.**
+
+| # | **The known item** | **Its source** | **Its tag** |
+|---|---|---|---|
+| **1** | **Krytos is intended to be the Virtual Brain / ecosystem head of the founder's projects** | **§IV.4 `FA-1`; **[S-K(E): §II.3]**** | **`[FOUNDER ASSERTION]` `E1`** |
+| **2** | **Krytos is intended to be the ecosystem head** | **§IV.4 `FA-2`** | **`[FOUNDER ASSERTION]` `E1`** |
+| **3** | **India is intended as the governing jurisdiction** | **§IV.4 `FA-3`; **[S-K(E):1723 `U-PD-15`]**** | **`[FOUNDER ASSERTION]` `E1`** |
+| **4** | **No formal Krytos constitutive or governing document has yet been established** | **§IV.4 `FA-4`** | ### **`[FOUNDER ASSERTION]` `E1` — EXPRESS NEGATIVE** |
+| **5** | **No legal work establishing Krytos's legal form has yet been completed** | **§IV.4 `FA-5`** | ### **`[FOUNDER ASSERTION]` `E1` — EXPRESS NEGATIVE** |
+| **6** | **Krytos is intended to be controlled and owned by the founder** | **§IV.4 `FA-6`** | **`[FOUNDER ASSERTION]` `E1`** |
+| **7** | **The current architecture is being designed now** | **§IV.4 `FA-7`** | **`[FOUNDER ASSERTION]` `E1`** |
+| **8** | **No legal or constitutive document of any kind exists** | **§XXIII.1 Section 8 item 1; **`FA-4`; **`DOC-01 … DOC-19`: 0 exist, 0 supplied, 5 referenced and not supplied **[S-K(E):565]**** | **`[SOURCE]`** |
+| **9** | **No legal structuring work has been completed** | **§XXIII.1 Section 8 item 2; **`FA-5`**** | **`[SOURCE]`** |
+| **10** | **No legal person exists on either side** | **§XXIII.1 Section 8 item 3; **[S-G:2323]**; **`PP-03`**** | **`[SOURCE]`** |
+| **11** | **No bank account and no bank mandate exist** | **§XXIII.1 Section 8 item 4; **`A-N16`; **`T-1 … T-5` = 0 of 5 **[S-K(E):1115–1119]**** | **`[SOURCE]`** |
+| **12** | **No registered or reserved name, and no name search performed** | **§XXIII.1 Section 8 item 5; **`SR-14` **[S-F:1891]**** | **`[SOURCE]`** |
+| **13** | **No ownership document for any asset — 0 of 17 classes have a stated owner** | **§XXIII.1 Section 8 item 6; **`OC-10`; **`SR-12`, `SR-13` **[S-F:1889–1890]**** | **`[SOURCE]`** |
+| **14** | **No insurance policy, quotation, broker engagement or written answer** | **§XXIII.1 Section 8 item 7; **`SR-04` **[S-F:1881]**; **`L1 … L15`**; **`PP-06`**** | **`[SOURCE]`** |
+| **15** | **No accounting framework, no basis, no accounts, no auditor, no statutory registration** | **§XXIII.1 Section 8 item 8; **`SR-05`, **CEA Part XXII**** | **`[SOURCE]`** |
+| **16** | **No privacy notice, retention schedule, named privacy officer or data-fiduciary identity** | **§XXIII.1 Section 8 item 9; **`SR-05`, `SR-06` **[S-F:1882–1883]**; **`A-N14`; **`PP-05`**** | **`[SOURCE]`** |
+| **17** | **No certified safeguarding capability** | **§XXIII.1 Section 8 item 10; **`SR-31` **[S-F:1908]**** | **`[SOURCE]`** |
+| **18** | **No employee, no engagement document, no classification opinion, no payroll** | **§XXIII.1 Section 8 item 11; **`SR-02` **[S-F:1879]**; **`PP-07`; **`C-20`**** | **`[SOURCE]`** |
+| **19** | **No governance body in operation** | **§XXIII.1 Section 8 item 12; **CEA Part XX — 0 of 16 acts executable; **`APPROVES` unassigned in 13 of 16; **`SIGNS` blocked in every money act**** | **`[SOURCE]`** |
+| **20** | **No successor to the founder named anywhere** | **§XXIII.1 Section 8 item 13; **`LDR-U19` **[S-D:4594]**; **[S-F:159]**** | **`[SOURCE]`** |
+| **21** | **No funding, no fee, no budget, no amount stated anywhere** | **§XXIII.1 Section 8 item 14; **`BLK-D-07` **[S-F:695]**; **CEA `F-10`; **`V-01 … V-22` empty**** | **`[SOURCE]`** |
+| **22** | **No economic blueprint document has ever been received** | **§XXIII.1 Section 8 item 15; **`EV-B-01` `E0`/`E1`/`P0`; **`RS-9`; **`FD-1`; **`PV-1 … PV-6` still absent**** | **`[SOURCE]`** |
+
+## XXIV.3 Category 2 — `UNKNOWN`: twenty-eight fields, every one blank
+
+**[P]** `[UNKNOWN]`. **Each field reads `[TO BE COMPLETED BY THE FOUNDER]`. Nothing below is filled in, estimated, inferred or illustrated. The fifth column states which question in the register the field feeds, so that the founder can see why each is asked — and so that no field is asked without a reason.**
+
+| ID | **The field** | **The question put to the founder** | **Entry** | **What it feeds** |
+|---|---|---|---|---|
+| **`DIS-01`** | **Full legal name of the instructing person** | **What is your full legal name, as it appears on your identity documents?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **§XXIII.1 Sections 1 and 16; **`CQ-01 … CQ-04`**** |
+| **`DIS-02`** | **Address for service** | **At what address may a professional serve documents on you personally?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-01`; **`PLV-08`** jurisdiction and forum** |
+| **`DIS-03`** | **Tax residency of the instructing person** | **In which jurisdiction are you resident for tax purposes, and has that changed in the last several years?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-16 … CQ-18`; **`TX-01`, `TX-14`; node 7 of **`GC-01`**** |
+| **`DIS-04`** | **Whether the instructing person holds any office anywhere** | **Are you a director, partner, trustee, member, officer or proprietor of any body, anywhere, at present or in the past?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-12`, `CQ-29`, `CQ-30`; **`LD-01 … LD-09`; **`RSK-6`**** |
+| **`DIS-05`** | **Any prior professional engagement on this subject** | **Have you ever instructed a lawyer, chartered accountant, company secretary, broker or advisor on Sewak Sathi or Krytos? If so, whom, when, on what, and what came of it?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-01`; **`U-PD-16`** — whether a seventh instruction differs from the six** |
+| **`DIS-06`** | **The intended operating state or states** | **In which state or states do you intend the organisation to operate?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-02`, `CQ-34`; **`FC-E6`** state heterogeneity; **`OPT-B`, `OPT-C`**** |
+| **`DIS-07`** | **Whether any foreign element is contemplated** | **Do you contemplate any source of funds, any activity, any person or any asset outside India?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-17`, `CQ-18`; **`TX-08`, `TX-15`; **`BLK-B-02`** |
+| **`DIS-08`** | **Whether any activity has already taken place** | **Has any activity of any kind taken place under the name Sewak Sathi, or under any other name, for these purposes? If so, what, when, where, with whom, and with whose money?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | ### **`CQ-06` — the only question in the register with no entity dependency at all, and the escape hatch at §XXI.5 circle 3** |
+| **`DIS-09`** | **Whether any name has been used publicly** | **Has any name been used publicly — on any medium, to any person, in any form? Which, where, and since when?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-28`, `CQ-35`; **`SR-14`; **`CF-02`; **`BR-1 … BR-n`** |
+| **`DIS-10`** | **Whether any person has acted in any capacity** | **Has anyone ever acted as a promoter, subscriber, director, trustee, member, partner, signatory, agent or occupier of premises for these purposes? Who, when, and in what capacity?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-01`, `CQ-03`, `CQ-12`; **`LD-01 … LD-09`; **`UD-01 … UD-14`**** |
+| **`DIS-11`** | **Whether any person other than the founder is intended to hold an interest** | **Do you intend anyone other than yourself to hold any interest of any kind — a share, a membership, a beneficial interest, a right to surplus?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-29`, `CQ-32`, `CQ-35`; node 3 and node 8 of **`GC-01`; **`CF-16`**** |
+| **`DIS-12`** | **What Krytos is intended to hold** | **Do you intend Krytos to hold anything — money, property, intellectual property, a name, a contract, a shareholding? What?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-29`, `CQ-30`, `CQ-31`; **`H-Q17`; **`UE-24`; **`AH-10`**** |
+| **`DIS-13`** | **Whether commercial activity is intended at all** | **Do you intend any commercial activity? If so, in which of the categories the source material lists, and at what scale?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-04`, `CQ-17`, `CQ-20`; the seven venture categories **[S: Ch.17]**; **`GC-01`** node 4** |
+| **`DIS-14`** | **Whether any donation or grant is contemplated** | **Do you contemplate receiving donations, grants, subscriptions or contributions? From whom, of what kind, and with what restrictions?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-16`, `CQ-17`; **`TX-02 … TX-06`; **`C-19`** collecting funds; **`G-16`** grant capture** |
+| **`DIS-15`** | **Who would perform work, and how** | **Who do you intend would perform work — and would each person work under direction, on their own account, with their own tools, on a schedule, for a stated amount?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-05 … CQ-09`, `CQ-33`; **`PLV-01 … PLV-16`; **`SR-02`**** |
+| **`DIS-16`** | **Whether anyone has been promised anything** | **Has anyone been promised compensation, a share, a fee, a reimbursement, a position or a benefit — in writing or orally, at any time?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-07`, `CQ-08`; **`PLV-05`, `PLV-13`; **`CD-13`, `CD-17`; **`ACR-4`** |
+| **`DIS-17`** | **Whether anyone has already worked** | **Has anyone already performed work of any kind for these purposes? Who, what, when, for how long, and were they paid?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-06`, `CQ-08`; **`AG-10`; **`HC-1 … HC-15`; **`UD-01 … UD-14`**** |
+| **`DIS-18`** | **Whether any money has moved in either direction** | **Has any money moved in connection with this matter — received, paid, held, transferred, reimbursed, lent, gifted — by you or by anyone else? How was each movement recorded?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-06`, `CQ-19`, `CQ-31`; **`C-15`, `C-19`; **`T-5`; **`AH-01 … AH-06`**** |
+| **`DIS-19`** | **Whether any personal money has been spent on this matter** | **Have you spent your own money on this matter? On what, when, how much, and how did you record it?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-14`, `CQ-31`; **`HC-1 … HC-15`; **`AG-10`; **§XXIII.1 deliverable 10** |
+| **`DIS-20`** | **Whether any expense has been incurred but not paid** | **Is there any expense that has been incurred and not paid? To whom, for what, and since when?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-08`, `CQ-19`; **`ACR-1 … ACR-5`; **`DR-1 … DR-9`; **`CD-21`**** |
+| **`DIS-21`** | **How the professional's fees would be paid** | **How do you propose to pay for the professional advice this instruction seeks — personally, from a personal account, by any other means? Have you taken tax advice on that?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **§XXIII.1 Section 14 and deliverable 10; **§XXI.5 circle 2; **`BLK-D-07`** |
+| **`DIS-22`** | **What personal data is or would be held** | **Is any personal data of any person held anywhere — in any medium, in any form, by you or by anyone else? Whose, what, where, and since when?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-27`; **`SR-05`, `SR-06`; **`C-23`; **`PP-05`; **`A-N14`**** |
+| **`DIS-23`** | **Whether any minor is or would be within scope** | **Are any minors within the scope of any activity, present or intended? In what circumstances?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-26`; **`SR-31`; **`C-22`; **`A-09`, `A-B6`**** |
+| **`DIS-24`** | **Whether any protection or first-response activity has occurred** | **Has any protection or first-response activity of any kind occurred? When, where, involving whom, and with what outcome?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-23`, `CQ-24`, `CQ-25`; **`L1 … L15`; **`C-21`; **`P0-F`; **§9.2 rule 1** |
+| **`DIS-25`** | **Whether any incident, complaint or allegation has arisen** | **Has any incident, complaint, allegation, injury, loss or dispute arisen in connection with this matter, whether or not it was recorded?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-22 … CQ-24`; **`RSK-1 … RSK-15`; **`L4`, `L7`, `L12`; **`F-10`** |
+| **`DIS-26`** | **Who holds the four unpaid control roles, in fact** | **Who is, in fact, performing each of the four unpaid control roles? Since when, on what understanding, and have they been told what they are accepting?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-10 … CQ-12`; **`UD-01 … UD-14`; **`PVR-22`; **`LD-01 … LD-27`**** |
+| **`DIS-27`** | **Whether any conflict of interest exists** | **Does any person who would hold any role have any interest — personal, financial, familial, in another organisation — that could conflict?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-11`, `CQ-13`; **`CF-16`; **`COI-1 … COI-4`; **CEA §XX.1**** |
+| **`DIS-28`** | **Whether the founder has decided anything not recorded anywhere** | **Have you decided anything about the structure, the compensation, the funding or the governance that is not written down anywhere in the corpus? What, and when?** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **Every question in the register. **An unrecorded decision is the one thing that could change the answer to any of them, and the corpus cannot know of it**** |
+
+## XXIV.4 Category 3 — `DOCUMENT REQUIRED`: twelve fields, every one blank
+
+**[P]** `[UNKNOWN]` as to existence. **Rule v1.3-J: `NO SOURCE → NO FACT → NO CLOSURE`; a reference to a document is not the document. Rule K-5: a declaration is not a receipt. **Each row states what would be produced, and what happens to it when it is — REQUEST → RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE ARCHITECTURE. **No row records that a document exists.**
+
+| ID | **The document** | **What it would establish** | **Believed to exist?** | **Entry — received, hashed, verified** | **What it feeds** |
+|---|---|---|---|---|---|
+| **`DIS-29`** | **Any constitutive or governing document of Krytos, of any kind, in any form** | **Whether Krytos is constituted — and would close `GC-01` node 1 on evidence rather than on a declaration** | **`FA-4` states that none has been established. **That is a declaration, not a search** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-29`, `CQ-30`; **`CF-21`; node 1** |
+| **`DIS-30`** | **Any document of ownership, assignment, licence or transfer of any name, mark, work, curriculum, architecture or system** | **Who owns the seventeen classes of asset, none of which has a stated owner** | **`OC-10`: 0 of 17** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-14`, `CQ-15`, `CQ-35`; **`SR-12`, `SR-13`; **`CF-02`, `CF-10`**** |
+| **`DIS-31`** | **The foundational economic blueprint — `Zero_Capital_Local_Venture_Ecosystem_Blueprint.pdf`** | **Nothing that any question in this brief depends on. **It is sought in parallel, at `A-5`, and its absence does not block any of the thirty-five questions** | **`NOT PRESENT` — `EV-B-01` `E0`/`E1`/`P0`; **`RS-9`**; round five **`PV-1 … PV-6`** still absent** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-19`; **`SR-21`, `SR-22`; **`FD-1`; **`CQ-GAP-4`** |
+| **`DIS-32`** | **Any bank statement, account opening document, mandate or signatory list of any kind** | **Whether any account exists anywhere, and whether `T-1 … T-5` could pass on evidence** | **No — **`T-1 … T-5`** = 0 of 5** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-10`, `CQ-19`; **`A-N16`, `SR-03`, `P0-C`, `BLK-A-03`**** |
+| **`DIS-33`** | **Any record of any money movement of any kind connected with this matter** | **The factual base for `CQ-06`, and the only evidence capable of settling whether any payment has occurred** | **Unknown — **`DIS-18`** asks the same question in words** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-06`, `CQ-19`, `CQ-31`; **`AH-01 … AH-06`; **`C-15`** |
+| **`DIS-34`** | **Any engagement, agreement, term sheet, promise or written undertaking given to any person** | **Whether any obligation exists, to whom, and on what terms** | **Unknown — **`DIS-16`** asks the same question in words** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-07`, `CQ-08`; **`PLV-07`, `PLV-13`; **`CD-13`** |
+| **`DIS-35`** | **Any insurance policy, quotation, proposal form, broker correspondence or written cover statement** | **Whether any of `L1 … L15` has been answered anywhere, by anyone** | **No — **`PP-06`**; §9.2 rule 1 not satisfied** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-22 … CQ-24`; **`SR-04`; **`BLK-B-04`; **`P0-F`** |
+| **`DIS-36`** | **Any privacy notice, retention schedule, data inventory, consent form or breach procedure** | **Whether any data-protection obligation has been discharged anywhere** | **No — **`SR-05`, `SR-06`; **`A-N14`**** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-27`; **`C-23`; **`PP-05`; **`BLK-A-13`** |
+| **`DIS-37`** | **Any safeguarding policy, certification, training record or reporting protocol** | **Whether any safeguarding duty has been discharged** | **No — **`SR-31`; **`A-09`, `A-B6`** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-26`; **`C-22`; **`P0-F`; blocker 6 of the nine** |
+| **`DIS-38`** | **Any tax registration, assessment, return, computation or advice of any kind** | **Whether any tax position exists anywhere** | **No — **`TX-01 … TX-19`** all `UNKNOWN`** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-16 … CQ-18`; **`BLK-B-02`; **`ID-5`** |
+| **`DIS-39`** | **Any accounts, ledger, book of account, financial statement or audit report** | **Whether any accounting record exists anywhere** | **No — **`AH-01 … AH-18`** all `UNKNOWN`; **CEA `F-17` open** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-20`, `CQ-21`; **`ID-6`; **`REC-01 … REC-17`** |
+| **`DIS-40`** | **Any governance record — resolution, minute, appointment, delegation, reserved-matters list or decision register entry in operation** | **Whether any body has ever decided anything** | **No — **`APPROVES`** unassigned in 13 of 16 acts; **`REC-11`** the decision register is not in operation **[S-F:158]** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`CQ-10 … CQ-13`; **`GF-1 … GF-6`; **`GD-01 … GD-15`; **`BLK-C-11`** |
+
+## XXIV.5 Category 4 — `FOUNDER CONFIRMATION REQUIRED`: ten fields, every one blank
+
+**[P]** `[FOUNDER ASSERTION]` pending. **Each row is a statement that exists somewhere, that a professional will rely on, and that only the founder can confirm or deny. **`PRS-3 NONE`: silence is not confirmation, and an absence of denial is not evidence. **Each field requires a written confirmation or denial, dated, and nothing less.**
+
+| ID | **The statement requiring confirmation** | **Where it stands at present** | **Confirm or deny** | **Date** | **Signature** |
+|---|---|---|---|---|---|
+| **`DIS-41`** | **That the seven declarations at §XXIV.2 items 1–7 are yours, are accurate as at the date of signature, and have not changed** | **Recorded at evidence level `E1`, from a single occasion** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-42`** | **That the fifteen absences at §XXIII.1 Section 8 are true to the best of your knowledge as at the date of signature** | **Stated in the instruction pack, unconfirmed since** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-43`** | **That *"India is intended as the governing jurisdiction"* remains your intention, and that no other jurisdiction is contemplated** | **`FA-3`. **`U-PD-15`: a jurisdiction was acquired and an entity was not** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-44`** | **That *"Krytos is intended to be controlled and owned by the founder"* is a forward-looking intention and not a statement of present ownership** | **`FA-6`, in the future tense. **`CF-13`: a source verification records *"no invented ownership — VERIFIED"* and still holds** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-45`** | **That the clause recording Krytos as *"the parent/company context and ownership context already established in v1.0"* does not refer to any constitutive document that exists** | **`CF-21` — `FA-6` against that clause, both from the same person, both given to counsel unreconciled** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-46`** | **That no payment of any kind has been made by you or by anyone else in connection with this matter other than as disclosed at `DIS-18` and `DIS-19`** | **`C-15`: any external payment is prohibited; **`A-N16 REMAINS BLOCKED`; **`T-5`** — separation of personal and organisational funds fails** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-47`** | **That no protection or first-response activity has occurred other than as disclosed at `DIS-24`** | **`C-21`; **`P0-F` fails; **`PP-06`; §9.2 rule 1** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-48`** | **That the four unpaid control roles are, in fact, performed by the persons disclosed at `DIS-26`, and that no other person performs any of them** | **The CEA names the role set; **no appointment record exists**; the Internal Auditor row is `NONE IN PRACTICE`** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-49`** | **That you understand no organisation exists that could be bound by any professional's advice or that could pay for it, and that you instruct personally** | **§XXIII.1 Sections 1 and 14; **`U-PD-9`; **`DA-30`** — no instrument confers authority on the discloser** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+| **`DIS-50`** | **That you are not asking any professional to confirm any of the above, and that a professional's disagreement with any item would not be treated as a defect in the professional** | **`DA-30`: the disclosure confers no authority. **Rule **`VG-1`**: stop-work and escalate, never enforce** | **`[TO BE COMPLETED BY THE FOUNDER]`** | **`[DATE]`** | **`[SIGNATURE]`** |
+
+## XXIV.6 The pack counted
+
+**[P]** Computed from this Part. **No figure is estimated.**
+
+| Measure | **Count** | **How computed** |
+|---|---|---|
+| **Items in category `KNOWN`** | **22** | **§XXIV.2 — 7 declarations plus 15 absences** |
+| **Items in category `UNKNOWN`** | **28** | **§XXIV.3 — `DIS-01 … DIS-28`** |
+| **Items in category `DOCUMENT REQUIRED`** | **12** | **§XXIV.4 — `DIS-29 … DIS-40`** |
+| **Items in category `FOUNDER CONFIRMATION REQUIRED`** | **10** | **§XXIV.5 — `DIS-41 … DIS-50`** |
+| **Total items in the pack** | ### **`72`** | **22 + 28 + 12 + 10** |
+| **Blank fields** | ### **`50`** | **28 + 12 + 10 — every field in categories 2, 3 and 4** |
+| **Blank fields completed by this brief** | ### **`0`** | **Verified by extraction, not by inspection — see §XXIV.8** |
+| **Non-blank items, and their authority** | **22** | **Each cited to a source location. **7 are `[FOUNDER ASSERTION]` at `E1`; **15 are `[SOURCE]`** |
+| **Register questions fed by at least one field** | ### **`35 OF 35`** | **Every question in **Part XIX** is named, expressly or inside a stated range, in the last column of at least one `DIS-` row in §XXIV.3, §XXIV.4 or §XXIV.5 — verified by extraction** |
+| **Fields whose entry would change a verdict** | **1** | **`DIS-29` — a constitutive document of Krytos would close `GC-01` node 1 on evidence rather than on a declaration, and would displace **`CF-21`** |
+| **Fields that ask the same question in two forms** | **3 pairs** | **`DIS-18` and `DIS-33` · `DIS-16` and `DIS-34` · `DIS-24` and `DIS-47` — words and documents, because a document may exist where a recollection does not, and the reverse** |
+
+## XXIV.7 What this pack does not ask, and why
+
+**[P]** `[PROPOSED]` as to the list; `[SOURCE]` as to each reason. **A disclosure pack that asks for everything is a pack that will not be completed. Each exclusion below is deliberate.**
+
+| # | **Not asked** | **Why not** |
+|---|---|---|
+| **1** | **The founder's opinion on which legal form is right** | **Mandate §10. **The chain is `OPTION SET → CONSEQUENCE ANALYSIS → PROFESSIONAL VALIDATION → HUMAN DECISION`, and the founder's opinion belongs at the fourth step, after the third. **Asking for it now would contaminate the professional validation** |
+| **2** | **Any figure — of compensation, budget, reserve, percentage, ratio, fee or amount** | **Mandate §24. **Zero invented economic numbers. **Where the corpus has a figure, it is cited by location and not restated; **where it has none, this pack does not create one** |
+| **3** | **Whether the blueprint's *"Zero-Capital"* premise is true** | **Mandate §3. **The blueprint is absent and classified `HISTORICAL / REFERENCE ONLY` by **`FD-1`**. **`DIS-31` seeks the file; **nothing here treats its premise as established** |
+| **4** | **Whether Krytos is a company, a parent, or already constituted** | **Mandate §2 and the five forbidden assumptions of v1.3-H. **`DIS-29` seeks a document; **no question in this pack asks the founder to characterise Krytos legally** |
+| **5** | **Any question whose answer this brief already asserts** | **Asking a question the pack has already answered would be a manufactured answer — mandate §21. **Every field here is a field no source states** |
+| **6** | **Whether any person is personally liable, or is protected** | **Mandate §8. **`DIS-10`, `DIS-26` and `DIS-27` gather facts; **the liability analysis is **Part VIII**, and it never says either thing** |
+| **7** | **Whether any insurance covers anything** | **Mandate §18 and **`PP-06`**: insurance is a **`QUESTION FOR BROKER/COUNSEL`**. **`DIS-35` seeks documents; **no field asks the founder whether cover exists** |
+| **8** | **Whether the pilot may proceed** | **`C-25`; **`GATE P0`** = 0 of 10; **Rule F-14: a pass requires evidence, not assertion. **No field asks the founder to authorise anything** |
+| **9** | **Any question about software, systems, platforms or providers** | **`C-27`; **`SR-77`; **`BLK-F-01`; **[S-A: §23.1]**; **[S-B: §40]**; **[S-F:989]**. **No field asks about technology** |
+| **10** | **Whether the founder would pay personally for the advice** | **`DIS-21` asks how he proposes to pay, which is a fact. **Whether he should is `REQUIRES FOUNDER DECISION` and `REQUIRES QUALIFIED TAX ADVICE`, and **§XXIII.1 deliverable 10 puts it to counsel** |
+
+## XXIV.8 The rule against filling, and its verification
+
+**[P]** Mandate §29: *"do not fill the missing fields."* **The rule is stated here as a testable condition, so that compliance is a result and not an intention.**
+
+| Test | **The condition** | **How it was checked** | **Result** |
+|---|---|---|---|
+| **1** | **Every field in categories 2, 3 and 4 reads `[TO BE COMPLETED BY THE FOUNDER]`** | **By extraction of the entry column across all 50 rows** | ### **`50 OF 50 — PASS`** |
+| **2** | **No field in categories 2, 3 or 4 contains a name, an amount, a date, a place, a state, a jurisdiction, a professional's name, a document title believed to exist, or a yes/no answer** | **By extraction and inspection of the same 50 rows** | ### **`PASS — the only proper nouns are the blueprint's title at `DIS-31`, which is a document sought and expressly recorded as `NOT PRESENT`** |
+| **3** | **No confirmation field at §XXIV.5 is marked confirmed** | **By extraction of the confirm/deny, date and signature columns across all 10 rows** | ### **`0 OF 10 CONFIRMED — PASS`** |
+| **4** | **Nothing in category `KNOWN` is stated as a fact where its source is an assertion** | **By tag: 7 items carry `[FOUNDER ASSERTION]` at `E1`, and 2 of those 7 are marked `EXPRESS NEGATIVE`** | ### **`PASS — FA-R1, FA-R2, Rule K-4`** |
+| **5** | **No field is answered by inference from another field** | **By construction: 3 pairs ask the same question in two forms — words and documents — and each pair is cross-referenced rather than answered** | ### **`PASS`** |
+| **6** | **The pack does not tell the founder what to write** | **Each field states the question, the reason it is asked and what it feeds. **None states an expected answer, a preferred answer or a range** | ### **`PASS`** |
+
+> ### **`SEVENTY-TWO ITEMS. TWENTY-TWO KNOWN, EACH CITED. FIFTY BLANK, EACH UNFILLED. THE PACK IS COMPLETE AS A CHECKLIST AND EMPTY AS A DISCLOSURE, AND BOTH ARE THE POINT: A DISCLOSURE THAT AN INSTRUMENT COULD COMPLETE WOULD NOT BE A DISCLOSURE.`**
+
+---
+
+# PART XXV — THE REQUIRED PROFESSIONAL OUTPUT FORMAT
+
+## XXV.1 Why the format is controlled, and what "controlled" means here
+
+**[P]** Mandate §30. **An answer that arrives in free prose cannot be audited, cannot be compared across candidates, cannot be routed to the discipline that must act on it, and cannot be distinguished from an opinion offered in passing. The format exists so that a professional's answer becomes a record the architecture can hold — and so that the two fields that are counsel's, and counsel's alone, are visibly counsel's.**
+
+| Item | **Content** |
+|---|---|
+| **What "controlled" means** | **Eleven fields, in a fixed order, every one of them present in every answer, whether or not it has content. **A field with no content reads `NOT APPLICABLE` or `UNKNOWN — PROFESSIONAL DETERMINATION REQUIRED`, and is never omitted** |
+| **Who completes which field** | **Fields 1 to 6, 9 and 10 are completed by the instructing person, from this brief — they are given, not asked for. **Fields 7 and 8 are completed by the professional and by no one else. **Field 11 is completed by whoever receives the answer** |
+| **What the format does not do** | **It does not constrain the substance of any answer. **It does not require any particular conclusion. **It does not limit the length of field 7. **It does not prevent a professional from saying that a question cannot be answered, from declining, or from answering differently from the way the architecture expects** |
+| **What it prevents** | **An answer that cannot be traced. **An answer whose conditions are unstated. **An answer that silently resolves a conflict the corpus records as unresolved. **An answer written by the wrong person into the wrong field** |
+| **Where it is already used in this brief** | **§IX.9, for **`SR-01`** / **`LDR-U08`** — the only question in this brief answered in the full eleven-field form, and it is answered only in fields 1 to 6, 9 and 10, with 7 and 8 left for counsel** |
+| **Its relationship to the register** | **Part XIX's register carries fifteen fields per question, because a *question* needs more apparatus than an *answer* does. **§XXV.8 maps the fifteen onto the eleven, so that no field is lost and none is duplicated** |
+
+## XXV.2 The eleven fields
+
+**[P]** Fields 1–6, 9 and 10 as specified by mandate §30; field 11 as required by mandate §23 (traceability), by Rule K-5 (a declaration is not a receipt) and by §XXIII.2 items 7 and 8, which require the sender to verify an answer against this Part before deciding.
+
+| # | **Field** | **Completed by** | **What may be written in it** | **What may not** | **The failure it prevents** |
+|---|---|---|---|---|---|
+| **1** | **`QUESTION`** | **The instructing person** | **The question, in the words of the register, with its `CQ-` number** | **A paraphrase that narrows or widens it. **A question that implies its answer — mandate §28** | **Answering a different question from the one asked** |
+| **2** | **`PROFESSIONAL DISCIPLINE`** | **The instructing person** | **The discipline that holds the answer, named as the corpus names it** | **A generalist label. **A discipline that does not hold the answer** | **An answer from the wrong profession, which is no answer** |
+| **3** | **`CURRENT ARCHITECTURAL STATUS`** | **The instructing person** | **The `[SOURCE]` state, with its citation, unchanged** | **Any characterisation of that state. **Any suggestion that it is provisional, excessive or mistaken** | **A professional advising against a state of affairs that was never described to them** |
+| **4** | **`FACTS REQUIRED`** | **The instructing person** | **The facts, each of which the professional may request from the disclosure pack** | **An assumed fact. **A fact the pack does not contain, stated as though it did** | **An answer resting on a fact nobody supplied** |
+| **5** | **`DOCUMENTS REQUIRED`** | **The instructing person** | **The documents, each marked as received or as `DOCUMENT REQUIRED`** | **A description of a document in place of the document. **Rule v1.3-J** | **An answer resting on a document that does not exist** |
+| **6** | **`ENTITY DEPENDENCY`** | **The instructing person** | **`YES` · `NO` · `PARTLY`, with the qualification stated in words where it is `PARTLY` or a qualified `NO`** | **A bare `NO` where the dependency is real. **An unstated qualification** | **Commissioning an answer that cannot be given, or withholding a question that could have been** |
+| **7** | ### **`PROFESSIONAL DETERMINATION`** | ### **`THE PROFESSIONAL — AND NO ONE ELSE`** | **The determination, in the professional's own words, of any length, with any conclusion, including that no conclusion is available** | **Anything written by the instructing person, by an instrument, or by this brief. **The marker `[TO BE COMPLETED BY COUNSEL]` must be replaced, not annotated** | **A manufactured answer — the single failure this whole document exists to prevent** |
+| **8** | ### **`CONDITIONS / ASSUMPTIONS`** | ### **`THE PROFESSIONAL — AND NO ONE ELSE`** | **Every condition, every assumption, every limitation, every jurisdiction, every fact relied on, and every circumstance in which the determination would change** | **An empty field where conditions exist. ***"Subject to the facts"* is not a condition; the facts must be named** | **A determination that is relied on after its conditions have ceased to hold** |
+| **9** | **`CONSEQUENCE FOR CURRENT ARCHITECTURE`** | **The instructing person, after receipt** | **What the determination unblocks, what it confirms as blocked, and what it requires to change** | **An inference beyond the determination. **A consequence the professional did not state, presented as though they had** | **Reading an answer as authorising more than it does** |
+| **10** | **`NEXT DEPENDENCY`** | **The instructing person, after receipt** | **The identifier the answer feeds, and what still stands between this answer and any act** | **A claim that the answer closes the item. **`SR-01`'s evidence is a written decision **plus** an opinion — the opinion alone closes nothing** | **Treating professional validation as the human decision, which is step 4 of the chain** |
+| **11** | **`TRACEABILITY, RECEIPT AND ARCHITECTURE UPDATE`** | **Whoever receives the answer** | **Three things: the citation for every statement in field 7 that rests on a source; the receipt record — who received it, when, from whom, in what form; and the single architecture update that follows, or an express statement that none follows** | **A receipt asserted rather than recorded — Rule K-5. **An update made silently, without a decision** | **An answer that arrives, is believed, and is then lost — which is what has happened to six instruments' worth of work** |
+
+## XXV.3 The blank template
+
+**[P]** Copy-sendable. **Every field is present. Fields 7 and 8 carry the marker and nothing else. Field 11 carries its three sub-parts.**
+
+```
+════════════ PROFESSIONAL DETERMINATION — CONTROLLED FORMAT ════════════
+
+1  QUESTION
+   [CQ-nn] [the question, in the words of the register]
+
+2  PROFESSIONAL DISCIPLINE
+   [the discipline that holds the answer]
+
+3  CURRENT ARCHITECTURAL STATUS
+   [SOURCE] [the state, with its citation, unchanged]
+
+4  FACTS REQUIRED
+   [each fact, and whether it has been supplied]
+
+5  DOCUMENTS REQUIRED
+   [each document, marked RECEIVED or DOCUMENT REQUIRED]
+
+6  ENTITY DEPENDENCY
+   [YES · NO · PARTLY — with the qualification stated in words]
+
+7  PROFESSIONAL DETERMINATION
+   [TO BE COMPLETED BY COUNSEL]
+
+8  CONDITIONS / ASSUMPTIONS
+   [TO BE COMPLETED BY COUNSEL]
+
+9  CONSEQUENCE FOR CURRENT ARCHITECTURE
+   [what unblocks · what remains blocked · what must change]
+
+10 NEXT DEPENDENCY
+   [the identifier this answer feeds · what still stands between it and any act]
+
+11 TRACEABILITY, RECEIPT AND ARCHITECTURE UPDATE
+   11a  Citation for every statement in field 7 that rests on a source
+        [TO BE COMPLETED BY THE PROFESSIONAL]
+   11b  Receipt record — received by, date, from, in what form, verified how
+        [TO BE COMPLETED ON RECEIPT]
+   11c  The single architecture update that follows, or an express statement
+        that none follows
+        [TO BE COMPLETED AFTER THE HUMAN DECISION]
+
+════════════════════════ END OF CONTROLLED FORMAT ════════════════════════
+```
+
+## XXV.4 Why there is no worked example
+
+**[P]** `[PROPOSED]`. **A worked example would contain a determination. A determination is field 7. Field 7 belongs to the professional. Therefore a worked example would be the exact defect this Part exists to prevent — and it would be worse than no example, because it would be the first thing a reader turned to.**
+
+| Considered | **Rejected because** |
+|---|---|
+| **A worked example for `SR-01`, with a plausible determination filled in** | **It would be read as a recommendation, and mandate §10 forbids this brief from selecting an entity. **It would also be read as the answer this brief expects, which mandate §28 forbids** |
+| **A worked example using an invented question, so that no real question is pre-answered** | **An invented question is an invented economic item. **Mandate §24 permits no invented content, and an example's content is content** |
+| **A worked example with field 7 left blank, showing only fields 1–6, 9–11** | **This is what §IX.9 already is, and it is included there for `SR-01`. **It is a real instance, not an illustration, and it is the only one this brief can properly contain** |
+| **A sample determination quoted from a statute or a textbook** | **Mandate §25: no web-based legal certainty; **no external source is used to establish any position here, and the corpus's own disclaimer is preserved — *"no economic, legal or tax conclusion is drawn from any of them"* **[S-B:4010]**** |
+
+## XXV.5 What a compliant field 7 looks like — form, never content
+
+**[P]** `[PROPOSED]` as to form. **Nothing in this section suggests what any determination should say. Each row is a formal property an answer either has or does not have.**
+
+| Property | **Required** | **Why** |
+|---|---|---|
+| **Authorship** | **Written by the instructed professional, and identified as such** | **Field 7 is counsel's. **An answer authored elsewhere and adopted by counsel is not a determination** |
+| **Jurisdiction** | **The jurisdiction the determination is given for, stated** | **`FA-3` supplies an asserted jurisdiction: India. **A determination given for another jurisdiction is not the answer to the question asked** |
+| **Currency** | **Whether the determination is given as at current law, and the date as at which it is given** | **Mandate §24: a statutory number is marked `CURRENT-LAW PROFESSIONAL VERIFICATION REQUIRED`. **A determination that does not state its date cannot be aged** |
+| **Completeness** | **An answer to the question as asked, or an express statement that it cannot be answered, or that it can be answered only in part** | **Mandate §6: an unanswerable question reads `UNKNOWN — PROFESSIONAL DETERMINATION REQUIRED`. **That is a compliant field 7, and a partial answer with the unanswered part identified is also compliant** |
+| **Specificity** | **Named variables rather than generalities. **The corpus's own rule is that a generic *"it depends"* is not an answer — §VI lists sixteen named legal variables for that reason** | **Mandate §6** |
+| **Per-candidate treatment** | **Where the question is asked of each of the ten candidates, a determination for each, including any that is unavailable** | **§XXIII.1 deliverables 1 to 9 are per candidate. **A determination given for one candidate only does not answer them** |
+| **Conflicts** | **Where the determination touches a recorded conflict, both texts addressed** | **Mandate §32: surface a law-versus-architecture conflict rather than silently rewriting it. **A determination that resolves **`GC-01`** must say which text it prefers and why** |
+| **No implied authority** | **Nothing in field 7 may be written so as to authorise an act, close a gate, appoint a person or constitute a body** | **`DA-29`, `DA-30`. **A professional advises; **the architecture is amended only by a human decision recorded afterwards** |
+| **Signature** | **Signed, dated, and stating the capacity in which the professional signs** | **Rule K-5. **An unsigned answer cannot be received, verified or relied on** |
+
+## XXV.6 The receipt and verification procedure
+
+**[P]** `[SOURCE]` — Rule K-10: **REQUEST → RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE ARCHITECTURE**. **The six steps are the corpus's own. **§XXIII.2 items 6 to 8 assign them to the sender; **this section states what each step requires of an answer in this format.**
+
+| Step | **What it requires of an answer** | **What may not be skipped** |
+|---|---|---|
+| **1 `REQUEST`** | **The question was sent, in the controlled format, with fields 1–6, 9 and 10 completed and fields 7 and 8 marked** | **The request. **An answer that arrives without having been requested is not a determination; **it is an opinion, and **`PP-01 … PP-09`** forbid inferring anything from it** |
+| **2 `RECEIVE`** | **The answer is received, and its receipt is recorded — field 11b** | **The record. ***"Received"* is not a receipt; **the date, the sender, the form and the recipient are** |
+| **3 `VERIFY`** | **All eleven fields are present. **Field 7 and field 8 are completed by the professional. **Every condition in field 8 is stated in words. **The answer is signed and dated** | **Any of the four checks. **§XXV.7 lists the ten grounds on which an answer must be returned** |
+| **4 `VALIDATE`** | **The determination is checked against the question as asked, against the jurisdiction stated, against the date, and against the recorded conflicts** | **The conflict check. **A determination that does not address both texts of a conflict it touches has not answered the question** |
+| **5 `DECIDE`** | **A human decision is made and recorded, in the same format, by a person with authority — and, where the decision carries a conflict, by a disinterested person** | **The decision. **Professional validation is step 3 of the chain **`OPTION SET → CONSEQUENCE ANALYSIS → PROFESSIONAL VALIDATION → HUMAN DECISION`; **it is not step 4** |
+| **6 `UPDATE ARCHITECTURE`** | **The architecture is amended, expressly, at a stated location, with the amendment attributed to the determination and to the decision** | **The attribution. **A silent update is the failure mode **`ER-1` … `ER-5`** record, and mandate §32 requires that a conflict be surfaced rather than rewritten** |
+
+## XXV.7 The ten grounds on which an answer must be returned as non-compliant
+
+**[P]** `[PROPOSED]`. **An answer returned is not an answer rejected: the professional may be perfectly right and the format may still be unusable. Each ground is formal, and each is curable by the professional alone.**
+
+| # | **Ground** | **The test** |
+|---|---|---|
+| **1** | **A field is missing** | **All eleven present, in order, whether or not populated. **An inapplicable field reads `NOT APPLICABLE`** |
+| **2** | **Field 7 or field 8 still carries the marker** | **`[TO BE COMPLETED BY COUNSEL]` must be replaced, not annotated, not qualified, not left standing** |
+| **3** | **Field 7 or field 8 was completed by someone other than the professional** | **Authorship stated and signed. **Any other authorship makes the answer the instructing person's own opinion, which is not what was commissioned** |
+| **4** | **Field 8 is empty where field 7 rests on any assumption** | **Every assumption, condition, limitation, jurisdiction, fact relied on and circumstance of change named. ***"Subject to the facts"* does not satisfy this** |
+| **5** | **The jurisdiction is not stated** | **Stated, and consistent with the asserted jurisdiction at **`FA-3`**, or expressly different from it and explained** |
+| **6** | **The date and the currency of law are not stated** | **Both stated, so that the determination can be aged** |
+| **7** | **The answer is generic where the question named variables** | **Mandate §6: no generic *"it depends"*. **Where the answer does depend, the thing it depends on is named** |
+| **8** | **The question was asked per candidate and the answer is given for one** | **A determination for each candidate, including any that is legally unavailable, with the reason** |
+| **9** | **A recorded conflict is touched and not addressed** | **Both texts addressed. **Where the determination prefers one, it says so and says why — mandate §32** |
+| **10** | **Field 11a is empty where field 7 cites any source** | **Every statement in field 7 that rests on a source carries a citation, so that the answer is auditable in the same way as this brief** |
+
+## XXV.8 The fifteen-field register mapped onto the eleven-field answer
+
+**[P]** Part XIX carries fifteen fields per question. **The answer format carries eleven. **The mapping is stated so that nothing is lost between the two, and so that no field is completed twice by different people.**
+
+| Register field | **Where it goes in the answer format** | **Note** |
+|---|---|---|
+| **1 `THE QUESTION`** | **Field 1** | **Verbatim, with its `CQ-` number** |
+| **2 `PROFESSIONAL DISCIPLINE`** | **Field 2** | **Unchanged** |
+| **3 `ORIGIN`** | **Field 3, as part of the citation** | **The identifier that raised the question is part of the architectural status** |
+| **4 `CURRENT ARCHITECTURAL STATUS`** | **Field 3** | **Unchanged, with its `[SOURCE]` tag** |
+| **5 `CLASS`** | **Not carried** | **The class was a routing device for this brief. **A professional who answers does not need to be told which of ten classes the question was filed under** |
+| **6 `SECONDARY CLASS`** | **Field 2, where a second discipline is needed** | **Where two disciplines hold parts of one answer, both are named in field 2 and each answers its part** |
+| **7 `FACTS REQUIRED`** | **Field 4** | **With each fact marked supplied or requested, against the disclosure pack** |
+| **8 `DOCUMENTS REQUIRED`** | **Field 5** | **With each document marked received or `DOCUMENT REQUIRED`** |
+| **9 `ENTITY DEPENDENCY`** | **Field 6** | **With the qualification stated in words** |
+| **10 `TAGS`** | **Field 3 and field 11a** | **The tags stay with the status; **any tag applied to a statement in field 7 is recorded in field 11a** |
+| **11 `PROFESSIONAL DETERMINATION`** | **Field 7** | **Counsel's. **The marker is replaced** |
+| **12 `CONDITIONS / ASSUMPTIONS`** | **Field 8** | **Counsel's. **The marker is replaced** |
+| **13 `CONSEQUENCE IF ANSWERED`** | **Field 9** | **Completed on receipt, against what was actually determined** |
+| **14 `CONSEQUENCE IF NOT ANSWERED`** | **Field 9, where the answer is partial or declined** | **Where field 7 says a question cannot be answered, field 9 records what remains blocked** |
+| **15 `NEXT DEPENDENCY`** | **Field 10** | **Completed on receipt** |
+| **— none —** | **Field 11** | **New in the answer format, because the register is a list of questions and the answer is a record. **A record needs a receipt, and a receipt needs an attribution** |
+
+## XXV.9 The format counted
+
+**[P]** Computed. **No figure is estimated.**
+
+| Measure | **Count** |
+|---|---|
+| **Fields in the controlled format** | **11** |
+| **Fields completed by the instructing person** | **8 — fields 1, 2, 3, 4, 5, 6, 9, 10** |
+| **Fields completed by the professional and by no one else** | ### **`2 — fields 7 and 8`** |
+| **Fields completed on receipt** | **1 — field 11, in three sub-parts** |
+| **Sub-parts of field 11** | **3 — citation, receipt record, architecture update** |
+| **Fields carrying the marker `[TO BE COMPLETED BY COUNSEL]` in the blank template** | **2** |
+| **Fields carrying a marker in the template at §XXV.3 that are not counsel's** | **2 — field 11a is the professional's; **11b and 11c are the recipient's** |
+| **Questions in this brief already rendered in the full format** | **1 — `SR-01` / `LDR-U08` at §IX.9** |
+| **Questions in this brief that will require the format on receipt** | **35 — every `CQ-` row** |
+| **Grounds on which an answer must be returned** | **10 — §XXV.7** |
+| **Formal properties required of field 7** | **9 — §XXV.5** |
+| **Steps in the receipt procedure** | **6 — REQUEST, RECEIVE, VERIFY, VALIDATE, DECIDE, UPDATE ARCHITECTURE** |
+| **Register fields mapped** | **15 into 11, with 1 dropped, 2 merged and 1 added — §XXV.8** |
+| **Determinations written by this brief** | ### **`0`** |
+
+> ### **`ELEVEN FIELDS. TWO OF THEM ARE NOT THIS BRIEF'S TO WRITE, NOT THE FOUNDER'S TO WRITE, AND NOT ANY INSTRUMENT'S TO WRITE. THE FORMAT EXISTS SO THAT THE TWO EMPTY FIELDS STAY EMPTY UNTIL A PROFESSIONAL FILLS THEM.`**
+
+---
