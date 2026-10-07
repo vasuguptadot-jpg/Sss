@@ -356,3 +356,132 @@
 **Corpus unaltered: v1.3-G (B) · v1.3-H (D) · v1.3-I (D) · v1.3-J (D) · v1.3-K (D) · v1.3-K(E) delta audit (C), `sha256 5f857141468b1a9ef0e94a1ec65e0f8e9a9392d102b6b7abe92d84b1e2a83828`.**
 
 **No successor instrument. DA-31 stands.**
+
+---
+
+# ADDENDUM — ROUND 3: A SECOND DECLARATION OF ATTACHMENT, AND A SECOND NON-DELIVERY
+
+| | |
+|---|---|
+| **Addendum type** | **Intake-recovery verification, round 3 — appended to this record. Not a new instrument, not a new architecture, not v1.3-L** |
+| **Trigger** | **An instruction stating *"EV-B-01 has now been attached"*, accompanied by a platform-generated declaration block: *"The user attached the following files (saved to /home/user/uploads/): Zero_Capital_Local_Venture_Ecosystem_Blueprint.pdf"*** |
+| **Inspection performed** | **7 October 2026, 08:38 UTC · sandbox `ioqvj8do4hu7h8ihigeb9` — a *different* sandbox instance from rounds 1 and 2 (`iwwl7bcf2dhgmouw9uj70`)** |
+| **Inspection steps** | **`IR-21 … IR-32` — twelve steps, three of them on surfaces no prior round reached** |
+| **Result** | **`FILE NOT PRESENT IN CURRENT INTAKE` — for the second time on a declared attachment, in a second sandbox instance** |
+| **Registers amended** | **0 · `EV-B-01` unchanged at `E0 content / E1 assertion / P0` · 0 figures adopted · 0 characters reconstructed** |
+
+## A.1 Round-3 inspection log — IR-21 … IR-32
+
+**[P]** Three steps are new. **IR-27** tests a *second access path* — the file-reading tool, which need not share the shell's mount namespace, so a file invisible to `find` could still be visible to it. **IR-24** scans file *contents* rather than names, so a PDF delivered under any other name or extension would still be found. **IR-25** reaches `/tmp/arena-workspace`, a directory that did not exist in rounds 1–2.
+
+| ID | **Surface** | **Method** | **Result** |
+|---|---|---|---|
+| **IR-21** | Clock and sandbox identity | `date -u`; `env` | **Wed 7 Oct 2026 08:38:08 UTC · sandbox `ioqvj8do4hu7h8ihigeb9` — *not* the round-2 sandbox. A fresh instance, so nothing from any earlier session persisted into it either** |
+| **IR-22** | **The declared attachment path** | `ls -la /home/user/uploads/` | **`No such file or directory`. Third consecutive session in which the declared path does not exist** |
+| **IR-23** | Whole filesystem — every PDF by name | `find / -xdev -iname '*.pdf'` | **0 matches** |
+| **IR-24** | **Whole filesystem — PDF by *content*, not name** | Python walk of `/home`, `/tmp`, `/mnt`, `/media`, `/srv`, `/var/tmp`, `/root`, `/run`; first 2,048 bytes of every file tested for the magic `%PDF-` | **315 files scanned, 58 unreadable or skipped, **0 files anywhere contain PDF content under any filename or extension**. This closes the possibility that the file arrived renamed** |
+| **IR-25** | **`/tmp/arena-workspace`** *(new surface)* | `find`, `ls -laR` | **Exists, created 08:38 with the sandbox, and is **empty** — 0 entries** |
+| **IR-26** | Filename search — declared name and near-names | `find / -xdev` for `*zero*capital*`, `*blueprint*`, `*venture*`, `*ecosystem*`, `*attach*`, `*upload*` | **1 match: this project's own v1.3-J register, whose name contains the word *Blueprint*. **0 matches for the declared filename*** |
+| **IR-27** | **The file-reading tool — a second, independent access path** | Three separate resolutions of the same target: absolute `/home/user/uploads/Zero_Capital_Local_Venture_Ecosystem_Blueprint.pdf`, home-relative `~/uploads/…`, and the declared path as given | **`File not found` on all three. **The tool's view of the filesystem agrees with the shell's: the file is not there by either route*** |
+| **IR-28** | Recently arrived files | `find / -xdev -type f -mmin -720`, system paths excluded | **39 matches, all of them this repository's own files, its `.git` internals, and one CA certificate. **No intake drop of any kind*** |
+| **IR-29** | Conventional intake locations | Existence and depth-2 listing of `/home/user/uploads`, `/uploads`, `/upload`, `/attachments`, `/data`, `/workspace`, `/tmp`, `/var/tmp`, `/mnt`, `/media`, `/srv`, `/home`, `/root` | **`/home/user/uploads`, `/uploads`, `/upload`, `/attachments`, `/data`, `/workspace` — **all ABSENT**. `/tmp` holds only X11 sockets, systemd temporaries and the empty `arena-workspace`. `/mnt`, `/media`, `/srv`, `/root` empty** |
+| **IR-30** | Environment — attachment or manifest variables | `env \| sort` | **16 variables. None is an attachment path, a manifest, an incoming-file pointer or an upload directory. `E2B_TEMPLATE_ID=mn0k6lgvyo6q8utbj8jh` and the sandbox ID are the only platform values present** |
+| **IR-31** | **Git — every ref, every tree, every blob** | `git ls-remote origin`; `git for-each-ref` + `git ls-tree -r` per ref; `git cat-file --batch-all-objects` with each blob's first five bytes tested; `git fsck --dangling --lost-found` | **3 remote refs, 7 local and remote ref names enumerated. **8 distinct paths exist across all of them: seven `.md` instruments and the zip. 0 PDF blobs. 0 dangling or unreachable objects. No `lost-found`. The file has never been committed or pushed to this repository on any branch*** |
+| **IR-32** | Archive identity | `sha256sum`; `unzip -l` | **`504608e6530d3c512d788c05aa48433df38f6ebaf089d25b8ae0aa1f623d3ea9` · 4,962,994 bytes · **12 entries** — byte-identical to all seven prior generations. Its only PDF remains the v1.2 visual edition identified at §3** |
+
+| Field | **Result** |
+|---|---|
+| **Round-3 inspection steps** | **12 — `IR-21 … IR-32`** |
+| **Cumulative inspection steps across three rounds** | **32 — `IR-1 … IR-32`** |
+| **Intake surfaces checked, cumulative** | **14** |
+| **Sandbox instances in which the file was declared and not found** | **2 — `iwwl7bcf2dhgmouw9uj70` and `ioqvj8do4hu7h8ihigeb9`** |
+| **Independent access paths tested** | **2 — the shell filesystem and the file-reading tool, three resolutions each** |
+| **Files scanned for PDF content** | **315** |
+| **PDFs found in the intake** | **0** |
+| **Occurrences of the declared filename anywhere** | **1 — inside this project's own audit, recording its absence** |
+| **Characters of blueprint content reconstructed** | **0** |
+
+## A.2 The escalated diagnosis
+
+**[P]** Round 2 classified the failure as an attachment/intake problem on the evidence of one non-delivery. **Round 3 supplies the second data point, and it changes the diagnosis from *"a transfer did not arrive"* to *"this transfer channel does not deliver this file to this environment."***
+
+| Observation | **What it establishes** |
+|---|---|
+| **Two declarations, two non-deliveries** | The platform generated an attachment declaration on two separate occasions, naming the same file and the same path. **On neither occasion did the path exist.** A declaration is generated independently of the bytes; the correlation between declaring and delivering is, on this evidence, zero |
+| **Two different sandbox instances** | Rounds 2 and 3 ran in different sandboxes with different IDs. **The failure is therefore not a stale or corrupted single instance** — it reproduces across a fresh environment |
+| **A fresh sandbox contains no residue** | IR-25 and IR-28: the new instance holds only the repository and its own system files. **Nothing from any prior session's intake persists, so a file that failed to land earlier cannot land later by accumulation** |
+| **No PDF content exists under any name** | IR-24 tested contents, not names. **The file is not present misnamed, re-extensioned, truncated to zero bytes, or split** |
+| **The file tool agrees with the shell** | IR-27. **There is no second filesystem view in which the file is visible. The absence is not an artefact of one tool's namespace** |
+| **The repository route is verified working** | IR-31: `git ls-remote`, fetch, `ls-tree` and `cat-file` all function; eight paths are visible across refs; the round-2 record itself travelled this route successfully *(commit `248e9e2`)*. **This channel demonstrably delivers bytes to this environment. The attachment channel demonstrably does not** |
+| **The environment can process a PDF** | §3: all 185 streams of the corpus PDF were decoded and 449,593 characters extracted natively, without OCR. **Capability is not the constraint. A PDF committed to this repository would be found, hashed, paginated and extracted in the same session it arrives** |
+
+> ### **`DIAGNOSIS, ROUND 3: THE ATTACHMENT CHANNEL IS NOT DELIVERING THIS FILE TO THE EXECUTION ENVIRONMENT. THE FAILURE IS REPRODUCIBLE ACROSS SANDBOX INSTANCES, AND THE DECLARATION OF AN ATTACHMENT IS NOT EVIDENCE OF AN ATTACHMENT.`**
+>
+> **This is recorded without any inference about the sender's conduct. The declaration block is platform-generated; the file it names is genuinely absent; and re-attempting the identical action in the identical channel has now failed twice.**
+
+## A.3 EV-B-01 — state after round 3
+
+| Field | **Round 2** | **Round 3** | **Moved?** |
+|---|---|---|---|
+| **Evidence ID** | `EV-B-01` | **`EV-B-01` — no new ID, because no new evidence item arrived** | **No** |
+| **Response state** | `RS-9 ASSERTED SUPPLIED — NOT PRESENT IN INTAKE` | **`RS-9` — unchanged, and now on a second declaration** | **No** |
+| **File presence** | `NOT PRESENT IN CURRENT INTAKE` | **`NOT PRESENT IN CURRENT INTAKE` — confirmed on 12 further steps, including a content-level scan and a second access path** | **No — strengthened** |
+| **Content level** | `E0` | **`E0`** | **No** |
+| **Assertion level** | `E1` | **`E1`** | **No** |
+| **Provenance level** | `P0` | **`P0`** | **No** |
+| **Corroboration of the absence** | `E2 — internally corroborated` *(2 grounds)* | **`E2 — internally corroborated` *(3 grounds: round-2 inspection, the corpus document dated 1 October 2026, round-3 inspection across a second sandbox and a second access path)*. **The level cannot exceed E2: corroborating an absence is an internal record, and no document exists to raise it*** | **Level unchanged · grounds 2 → 3** |
+| **Overall** | `E0 / E1 / P0` | **`E0 / E1 / P0` — UNCHANGED** | **No** |
+
+| Register | **Round-3 impact** |
+|---|---|
+| **`LDR-U17`** | **None. `PARTIALLY RESOLVED AS TO LOCUS; UNRESOLVED AS TO SOURCE`. U17-R2 remains `MET AT E1`; U17-R3 … U17-R9 remain `NOT MET`** |
+| **`GC-01`** | **None. Economic portion still not re-runnable. Tree `UNRESOLVED`; 1 of 9 nodes closed negatively** |
+| **`EC-01 … EC-26`** | **None. 26 of 26 remain `SOURCE NOT RECEIVED`. Frames A … G remain defined and unpopulated. `CLM-01` remains unused** |
+| **Stop conditions** | **None. `STOP-07` and `STOP-08` remain `TRIGGERED`; `STOP-09` remains `CLEARED`** |
+| **Foundational inputs** | **None. `INPUT-05` remains `NOT RECOVERED — ASSERTED SUPPLIED, FILE ABSENT`; 0 of 5 reach E3** |
+| **`PV-01 … PV-52`** | **None. 19 `FORMULABLE`, 0 commissioned, 0 answered** |
+| **Pilot gates** | **None. `GATE P0 = 0 of 10`; 22 of 22 Tier-0 outstanding; pilot not authorised** |
+| **Prior instruments** | **None amended. All seven stand unaltered, including the delta audit at `sha256 5f857141468b1a9ef0e94a1ec65e0f8e9a9392d102b6b7abe92d84b1e2a83828`** |
+
+## A.4 The minimum action, re-ranked on round-3 evidence
+
+**[P]** Round 2 listed three acceptable routes in the order *attach → push → verbatim text*. **Round 3 re-ranks them, because the evidence now distinguishes a channel that has failed twice from a channel that is verified to work.**
+
+| Rank | **Route** | **Why this rank** | **Acceptance test — what this record will find** |
+|---|---|---|---|
+| **1 — PRIMARY** | **Commit the PDF to the repository and push it to `arena/d871640c-sss`** | **This channel is verified to deliver bytes to this environment: seven instruments and this record all arrived by it, and IR-31 confirms `ls-remote`, fetch, `ls-tree` and `cat-file` all function. It bypasses the attachment layer entirely** | **`git ls-tree -r origin/arena/d871640c-sss` lists the path; `git cat-file` yields a blob whose first five bytes are `%PDF-`. **Both tests are already written into IR-31 and will be re-run verbatim*** |
+| **2** | **Attach the PDF again** | **Retained because a third attempt may succeed and because no sender-side fault is established or assumed. **Demoted because the identical action has now failed twice across two sandbox instances*** | **`ls -la /home/user/uploads/` lists the file, and `find / -xdev -iname '*.pdf'` returns it** |
+| **3** | **Supply the complete verbatim text of the PDF as a text file**, marked as a rendering, with the PDF's byte size, page count and `sha256` | **A fallback, not an equivalent. It would be received at a **lower** provenance level than the document itself, recorded as a rendering, and never silently treated as the PDF** | **A text file present in the workspace, self-described as a rendering, accompanied by the three identifiers** |
+
+| Field | **Detail** |
+|---|---|
+| **What counts as delivery** | **Bytes in the workspace or in the repository object store. **Not a declaration, not a path named in an instruction, not a filename mentioned in text, not a link — Rule K-5 (`REFERENCE ≠ SUPPLY`)*** |
+| **What happens the moment it arrives** | **Rule K-55 in order, none skipped: `RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE`. Hash, page count, metadata, native text extraction, `CLM-01` onward per claim at EX-1 … EX-9 with each claim carrying its own E-level *(Rule K-50)* and its own qualifier *(Rule K-49)*, then populate `EC-01 … EC-26` against frames A … G, resolve `CF-22`, and re-test `LDR-U17`, GC-01's economic limb and `INPUT-05`. **Extraction capability is proven, not assumed: §3 decoded 185 of 185 streams and read 179 pages of the corpus's PDF, including its `ASCII85 + Flate` encoding*** |
+| **What will not happen on arrival** | **No figure adopted. No gate moved *(DA-29)*. `A-N16` still blocked *(Rule K-56)*. GC-01 not closed *(Rule [S-K: §XII.3])*. No entity selected. No pilot authorised. **Receipt is not acceptance; authenticity is not correctness; a document does not confer level on its claims*** |
+| **What is still not requested** | **No repetition of any information already supplied as text. FA-1 … FA-7 stand; `A-03.2` and `A-03.3` remain closed by express negative and must not be re-issued. No deadline, no escalation, no consequence — none exists in the corpus and none is invented** |
+
+## A.5 Terminal output — round 3
+
+> # **EV-B-01 INTAKE FAILURE — FILE NOT PRESENT IN CURRENT INTAKE**
+>
+> **Round 3 · 7 October 2026 08:38 UTC · sandbox `ioqvj8do4hu7h8ihigeb9` · steps `IR-21 … IR-32` · cumulative `IR-1 … IR-32` across 14 intake surfaces and 2 sandbox instances.**
+>
+> **What file presence was checked:** the declared path `/home/user/uploads/` *(absent for the third consecutive session)* · every PDF by name filesystem-wide *(0)* · **every file's contents for the `%PDF-` magic across 315 files** *(0 — the file is not present under any other name or extension)* · the newly existing `/tmp/arena-workspace` *(empty)* · six near-name filename patterns *(0 relevant)* · **the file-reading tool by three separate path resolutions** *(all `File not found`)* · files modified in the last twelve hours *(none but this repository and its `.git`)* · thirteen conventional intake directories *(six absent, the rest empty)* · all sixteen environment variables *(no manifest, no attachment pointer)* · **all seven git ref names, their complete trees and every blob** *(8 distinct paths, 0 PDF blobs, 0 dangling objects)* · and the archive *(byte-identical, 12 entries)*.
+>
+> **The exact current evidence state:** **`EV-B-01 — E0 content / E1 assertion / P0 provenance`, `RS-9 ASSERTED SUPPLIED — NOT PRESENT IN INTAKE` — unchanged.** The absence is corroborated at **E2** on **three** grounds. **`E3` is not claimed and is not claimable: E3 requires a source document, and there is none.**
+>
+> **Whether the failure is an attachment/intake problem:** **`YES — AND IT IS NOW REPRODUCIBLE.`** Two platform-generated attachment declarations, naming the same file and path, in two different sandbox instances, with zero deliveries. The repository channel is verified working and delivered this record itself. The environment's PDF-reading capability is proven. **The constraint is the attachment channel, not the file, not the sender's information, not the evidence and not the architecture.**
+>
+> **The minimum action required:** **rank 1 — commit the PDF to the repository and push it to `arena/d871640c-sss`,** which bypasses the failing channel and is testable by the two commands already written into IR-31. Rank 2 — attach it again. Rank 3 — supply its complete verbatim text, marked as a rendering, with byte size, page count and `sha256`, at a lower recorded provenance level. **No repetition of any information already supplied as text is requested.**
+>
+> **Registers amended: 0 · Economic items processed: 0 of 26 · Claims extracted: 0 · Figures adopted as final policy: 0 · Gates moved: 0 · Instruments superseded: 0 · Characters reconstructed: 0.**
+>
+> ### **No new architecture version created.**
+
+---
+
+**END OF ADDENDUM — round 3. This record now spans three inspection rounds, `IR-1 … IR-32`.**
+
+**Corpus unaltered: v1.3-G (B) · v1.3-H (D) · v1.3-I (D) · v1.3-J (D) · v1.3-K (D) · v1.3-K(E) delta audit (C) · EV-B-01 verification record, rounds 1–3.**
+
+**No successor instrument. DA-31 stands.**
