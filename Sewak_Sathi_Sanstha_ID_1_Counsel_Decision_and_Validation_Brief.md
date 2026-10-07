@@ -2334,7 +2334,7 @@ NEXT DEPENDENCY
 
 | ID | 1 `THE QUESTION` | 2 `DISCIPLINE` | 3 `ORIGIN` | 4 `CURRENT STATUS` | 5 `CLASS` | 6 `SECONDARY` | 7 `FACTS REQUIRED` | 8 `DOCUMENTS REQUIRED` | 9 `ENTITY DEP.` | 10 `TAGS` | 11 `DETERMINATION` | 12 `CONDITIONS` | 13 `IF ANSWERED` | 14 `IF NOT ANSWERED` | 15 `NEXT DEPENDENCY` |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **CQ-22** | **What insurance products are available and appropriate for a mass-membership voluntary organisation performing community service and emergency first response in India, and what are their standard exclusions?** | **Insurance broker / adviser **[S-A:2340 V4]**, **[S-B:3999 EV-5]**** | **`L1`, `RSK-1 … RSK-3`, `SR-04`, `PP-06`, `HC-11`, `RC-6`** | **`[SOURCE]` — **`L1`** verbatim at **[S-A:703]**, with the corpus's own reason: *"the organisation cannot design its protocol around cover it cannot obtain"*; **`SR-04`** *"written answers to A-10 §9.1 L1–L15"*, `DECISION REQUIRED`, gate **`P0-B`** **[S-F:1881]**; **`PP-06`**: *"activity performed is not activity covered"*; **`HC-11`** `UNKNOWN`** | **⑥ Requires insurance or liability analysis** | **② Requires entity selection · ⑦ Factual evidence** | **Every activity actually contemplated, in which state, at what frequency, with how many people, involving whom; whether any activity has ever occurred; whether any person has ever been injured or any property damaged** | **This brief Part XVI in full; **[S-A: §9.1, §9.2, §9.3]**; **[S-A:2340 V4]**; **[S-B:3999 EV-5]**; CEA Parts XVII, XXII** | **`PARTLY` — a broker can describe the market without an entity; no policy can be taken out without one** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Supplies **L1**'s answer, which every other **L** row depends on; begins to discharge **`SR-04`**; makes **§9.2 rule 3** writable in principle** | **No protocol may be designed around cover; **§9.2 rule 1** stays in force; **`P0-B`** and **`P0-F`** stay failed** | **`CQ-22` → `CQ-23 … CQ-26` → `SR-04` → `§9.2 rule 1`** |
+| **CQ-22** | **What insurance products are available and appropriate for a mass-membership voluntary organisation performing community service and emergency first response in India, and what are their standard exclusions?** | **Insurance broker / adviser **[S-A:2340 V4]**, **[S-B:3999 EV-5]**** | **`L1`, `RSK-1 … RSK-3`, `SR-04`, `PP-06`, `HC-11`, `RSK-6`** | **`[SOURCE]` — **`L1`** verbatim at **[S-A:703]**, with the corpus's own reason: *"the organisation cannot design its protocol around cover it cannot obtain"*; **`SR-04`** *"written answers to A-10 §9.1 L1–L15"*, `DECISION REQUIRED`, gate **`P0-B`** **[S-F:1881]**; **`PP-06`**: *"activity performed is not activity covered"*; **`HC-11`** `UNKNOWN`** | **⑥ Requires insurance or liability analysis** | **② Requires entity selection · ⑦ Factual evidence** | **Every activity actually contemplated, in which state, at what frequency, with how many people, involving whom; whether any activity has ever occurred; whether any person has ever been injured or any property damaged** | **This brief Part XVI in full; **[S-A: §9.1, §9.2, §9.3]**; **[S-A:2340 V4]**; **[S-B:3999 EV-5]**; CEA Parts XVII, XXII** | **`PARTLY` — a broker can describe the market without an entity; no policy can be taken out without one** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Supplies **L1**'s answer, which every other **L** row depends on; begins to discharge **`SR-04`**; makes **§9.2 rule 3** writable in principle** | **No protocol may be designed around cover; **§9.2 rule 1** stays in force; **`P0-B`** and **`P0-F`** stay failed** | **`CQ-22` → `CQ-23 … CQ-26` → `SR-04` → `§9.2 rule 1`** |
 | **CQ-23** | **Is any cover available at all for acts of "protection" or "first response"; and if not, what is the consequence for the pillar's design?** | **Insurance broker + counsel **[S-A:2340 V4]**, **[S-A:2341 V5]**** | **`L4`, `RSK-4`, `A-11`, `C-21`, `P0-F`, `VG-1 … VG-6`** | **`[SOURCE]` — **`L4`** at **[S-A:706]**: *"if this class of activity is uninsurable, the activity must be redesigned or not activated (A-11)"*; **`C-21`**: *"operating the protection function"* is prohibited, **`P0-F` fails**, **`PP-06`** **[S-K(E):1605]**; **[S-D: §36.4 `VG-1 … VG-6`]** — *"stop-work and escalate, never enforce"*, *"local authority is not legal authority"*** | **⑥ Requires insurance or liability analysis** | **⑩ Cannot yet be answered · ⑨ Governance decision** | **What protection and first-response activity is actually contemplated; whether any has ever occurred; whether any person has ever been transported, moved, restrained, searched or assisted physically** | **This brief Part XVI; **[S-A: §9.1 `L4`, §9.2 rule 2, Part 11 `A-11`]**; **[S-D: §36.4]**; **[S-K(E):1605]**; CEA Part XXII** | **`PARTLY`** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]` `[PROHIBITED ASSUMPTION]` against assuming the pillar is insurable** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines whether an entire architectural pillar survives, must be redesigned, or must not be activated — **the only question in this register with that power**** | **The protection pillar stays prohibited under **`C-21`**; **`A-07`** may not be published; **§9.2 rule 2** stays in force indefinitely** | **`CQ-22` → `CQ-23` → `A-11` → `P0-F` → `A-07`** |
 | **CQ-24** | **What is the organisation's potential liability for a member's acts — vicarious, principal, or otherwise — and how does that change with member classification (volunteer / stipend / contract / employee)?** | **Counsel **[S-A:2340 V4]**; labour counsel **[S-A:2339 V3]**, **[S-C:4122 HV-1]**** | **`L7`, `RSK-7`, `SR-02`, `CD-01`, `PLV-01 … PLV-16`, `PP-07`, `UD-06`, `UD-07`** | **`[SOURCE]` — **`L7`** at **[S-A:709]**: *"classification is UNRESOLVED **[S: Ch.33]**, so liability is currently indeterminate"*; **`PP-07`**: *"engaging a person does not classify them"*; **`SR-02`** `DECISION REQUIRED`, `BLOCKER A / Tier 0`, next action *"Commission now"* **[S-F:1879]**; **`C-20`**: *"employing or engaging anyone as a worker"* is prohibited **[S-K(E):1604]**** | **⑥ Requires insurance or liability analysis** | **⑤ Labour and employment · ② Requires entity selection** | **Who has ever acted on the organisation's behalf, in what capacity, on whose instruction, with what authority, and with what result; whether anyone has ever been told they represented the organisation** | **This brief Parts VI, XIII, XVI, XVII; **[S-A: §9.1 `L7`, Annexure B `V3`, `V4`]**; **[S-C: Annexure C `HV-1`]**; **`SR-02`**; CEA Parts V, XV** | **`YES`** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines **`UD-06`** for all four unpaid control roles; determines whether **Part VIII**'s exposure map can ever carry anything other than `QUESTION`; determines **`RSK-7`**** | **Liability stays indeterminate; **Part VIII**'s twenty-seven dimensions stay unanswered; no member may lawfully be deployed** | **`SR-02` → `CQ-05 … CQ-08` → `CQ-24` → `UD-06`, `RSK-7`** |
 | **CQ-25** | **What is the legal boundary of the intervention step; what does applicable criminal procedure permit a private person to do; and what protections, if any, apply to a layperson giving emergency first aid in good faith?** | **Criminal / regulatory counsel **[S-A:2341 V5]** — *"the intervention boundary (L8); Good-Samaritan and first-aid protections (L9); mandatory reporting duties (L10); the duty-to-assist question (C-03); arrest and handover powers"*; counsel for **`L9`**** | **`L8`, `L9`, `RSK-8`, `RSK-9`, `VG-1 … VG-6`, `CR-3`, `CR-4`, `A-20`, **[S-A:2358 Annexure C item 3]**** | **`[SOURCE]` — **`L8`** at **[S-A:710]**: *"the operational boundary must be defined by counsel, not by this document"*; **`L9`** at **[S-A:711]**: *"determines what first-aid training may lawfully cover and what members may be told"*; **[S-D: §36.4 `VG-2`]**: *"any instruction to detain, search, confiscate, interrogate or expel a person is outside every role's authority and is a conduct matter under CR-3"*; **`VG-5`**: any use-of-force or detention incident is an immediate **`CR-4`** sealed-category integrity matter; **[S-A:2358]** cites the private-person arrest power and the general duty to assist, **`[X]`**, with *"no operational instruction … derived from it"*** | **⑥ Requires insurance or liability analysis** | **⑤ Labour and employment · ⑦ Factual evidence** | **Whether any intervention, detention, search, confiscation, first aid, transport or use of force has ever occurred; whether any first-aid training has ever been given or received; whether any member has ever been told what they may do** | **This brief Part XVI; **[S-A: §9.1 `L8`, `L9`; Annexure B `V5`; Annexure C item 3]**; **[S-D: §36.4]**; **[S: Ch.16 step 7]**; **`A-20`**; **`CR-3`, `CR-4`**** | **`NO` for the boundary's statement · `YES` for the organisation's own exposure** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]` `[X]` for the criminal-procedure reference** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines **`VG-6`**'s *"completed legal-basis briefing"*; determines what first-aid training may cover; determines **`RSK-8`, `RSK-9`; feeds **`L12`**'s written statement** | **No protection activity may be trained for or activated (**§9.2 rule 1**); **`VG-6`** cannot be satisfied; any intervention would be ungoverned** | **`CQ-23` → `CQ-25` → `VG-6` → training content → `L12`** |
@@ -2347,7 +2347,7 @@ NEXT DEPENDENCY
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | **CQ-28** | **Is "Krytos" capable of being a legal person, a registered corporate name or a trade mark — and has any search ever been performed?** | **Corporate / entity counsel **[S-A:2337 V1]**; IP counsel **[S-A:2344 V8]**; governance / company secretary **[S-A:2345 V9]**** | **`FA-1`, `SR-01`, `SR-14`, `A-N12`, `A-N13`, `PLV-12`, `OPT-A … OPT-J`** | **`[SOURCE]` — **`FA-1`**: *"Krytos is the Virtual Brain"* is a functional description, **not a legal person, not a corporate name, not a registered entity**; **`SR-14`** name availability and registration, `DECISION REQUIRED` **[S-F:1891]**; **[S-A:1585–1586 `N12`, `N13`]** brand and IP ownership `UNRESOLVED`; **`SR-01`** *"legal entity structure under Krytos"* **[S-F:1878]**** | **② Requires entity selection** | **③ Constitutive documents · ⑩ Cannot yet been answered** | **Whether the name has ever been used commercially, registered, reserved, searched or opposed; whether any domain, mark, account or document bears it; whether anyone else uses it** | **This brief Parts IX, XII; **[S-G] §III.2 in full**; **[S-A:1585–1586]**; **`SR-01`, `SR-14`**; **`FC-01 … FC-33`**** | **`NO` for the search · `YES` for the registration** | **`[SOURCE]` `[FOUNDER ASSERTION]` for `FA-1` · `[PROFESSIONAL QUESTION]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines whether **`FA-1`** can ever become anything other than an assertion; determines **`SR-14`; feeds **`CQ-29`, `CQ-35`, `TX-19`**** | **`FA-1` stays an assertion forever; the name stays unusable; **`OPT-I`** stays blocked by **`UE-24`**** | **`CQ-28` → `SR-14` → `CQ-29`, `CQ-35`** |
 | **CQ-29** | **Does any parent, holding or group relationship exist in law between anything and anything; and if one is wanted, what instruments would create it?** | **Corporate / entity counsel; governance counsel** | **`FA-2`, `SEP-2`, `OPT-I`, `UE-24`, `FC-E7`, `FC-E8`, `AH-18`, `PLV-13`** | **`[SOURCE]` — **`FA-2`**: *"Krytos is the ecosystem head"* is **not a legally recognised parent, not a holding relationship**; **`SEP-2`**: `SEPARATED — RELATIONSHIP `UNKNOWN — DECISION REQUIRED`` · **`STRUCTURAL SEPARATION MAY BE REQUIRED — COUNSEL TO DETERMINE`**; **[S-G] §III.2 `OPT-I`** is *"the only option the corpus describes as the present conceptual state"* and is blocked by **`UE-24`**; **forbidden assumptions 1, 2 and 3**** | **② Requires entity selection** | **③ Constitutive documents · ⑨ Governance decision** | **Whether any body has ever directed, funded, owned or controlled any other; whether any person has ever acted for two bodies at once; whether any group structure has ever been documented anywhere** | **This brief Parts IX, XII; **[S-G] §III.2, §III.3**; **[S-H]** in full; **`GC-01`** both texts; **`FC-01 … FC-33`; `UE-24`**** | **`YES`** | **`[SOURCE]` `[FOUNDER ASSERTION]` for `FA-2` · `[PROFESSIONAL QUESTION]` `[UNKNOWN]` `[PROHIBITED ASSUMPTION]` against any parent/subsidiary reading** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines **`SEP-2`; determines whether **`OPT-I`** or **`OPT-H`** is available; determines **`AH-18`**'s consolidation question; lifts **`UE-24`** or confirms it** | **The ecosystem concept stays a description; **`OPT-I`** stays blocked; **`AH-18`** stays open; forbidden assumptions 1–3 stay live risks** | **`SR-01` → `CQ-28` → `CQ-29` → `GC-01` → `CQ-35`** |
-| **CQ-30** | **Can one natural person hold ownership and control of a body that also controls a not-for-profit operating entity — and if so, under what conditions, disclosures and recusal rules?** | **Corporate counsel; governance counsel; tax counsel** | **`FA-6`, `SEP-3`, `PLV-12`, `PLV-13`, `PLV-14`, `CF-16`, `SR-20`, `LDR-U16`, `GD-08`, act 11, `RC-6`** | **`[SOURCE]` — **`FA-6`**: *"Vasu Gupta will own and control Krytos"* is a forward-looking intention, **not present ownership, not a shareholding, not a membership, not a trust deed, not a directorship**; **`SEP-3`**: `SEPARATED — NEITHER EXISTS IN DOCUMENT`; **§VI.3**'s three entity-independent limbs **`PLV-12`, `PLV-13`, `PLV-14`**; **`SR-20`** / **`LDR-U16`** `AUTHORITY UNRESOLVED (beneficiary recusal)`, requiring *"a recorded position, even if nil"* **[S-F:1897]**; **`CF-16`** — a conflict *"that cannot be managed"*** | **② Requires entity selection** | **⑧ Founder decision · ⑨ Governance decision · ④ Tax and accounting** | **The founder's existing employments, directorships, proprietorships, partnerships, shareholdings, family interests and financial commitments; whether any has ever been disclosed to anyone; whether any conflict has ever arisen** | **This brief Parts VI, XII, XVIII; **Part XXIV**; **[S-H]** in full; **`SR-20`, `LDR-U16`, `CF-16`**; **`OPT-A … OPT-J`; `FC-01 … FC-33`**** | **`YES`** | **`[SOURCE]` `[FOUNDER ASSERTION]` for `FA-6` · `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines whether **`FA-6`** can ever be realised; determines **`SEP-3`; determines whether **`CF-16`** is manageable or structural; feeds **`GD-08`** and act 11** | **`FA-6` stays an intention; ownership and control stay conflated; **`CF-16`** stays unmanageable; act 11 stays impossible** | **`SR-01` → `CQ-30` → `SEP-3` → `GD-08`, `SR-20`** |
+| **CQ-30** | **Can one natural person hold ownership and control of a body that also controls a not-for-profit operating entity — and if so, under what conditions, disclosures and recusal rules?** | **Corporate counsel; governance counsel; tax counsel** | **`FA-6`, `SEP-3`, `PLV-12`, `PLV-13`, `PLV-14`, `CF-16`, `SR-20`, `LDR-U16`, `GD-08`, act 11, `RSK-6`** | **`[SOURCE]` — **`FA-6`**: *"Vasu Gupta will own and control Krytos"* is a forward-looking intention, **not present ownership, not a shareholding, not a membership, not a trust deed, not a directorship**; **`SEP-3`**: `SEPARATED — NEITHER EXISTS IN DOCUMENT`; **§VI.3**'s three entity-independent limbs **`PLV-12`, `PLV-13`, `PLV-14`**; **`SR-20`** / **`LDR-U16`** `AUTHORITY UNRESOLVED (beneficiary recusal)`, requiring *"a recorded position, even if nil"* **[S-F:1897]**; **`CF-16`** — a conflict *"that cannot be managed"*** | **② Requires entity selection** | **⑧ Founder decision · ⑨ Governance decision · ④ Tax and accounting** | **The founder's existing employments, directorships, proprietorships, partnerships, shareholdings, family interests and financial commitments; whether any has ever been disclosed to anyone; whether any conflict has ever arisen** | **This brief Parts VI, XII, XVIII; **Part XXIV**; **[S-H]** in full; **`SR-20`, `LDR-U16`, `CF-16`**; **`OPT-A … OPT-J`; `FC-01 … FC-33`**** | **`YES`** | **`[SOURCE]` `[FOUNDER ASSERTION]` for `FA-6` · `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines whether **`FA-6`** can ever be realised; determines **`SEP-3`; determines whether **`CF-16`** is manageable or structural; feeds **`GD-08`** and act 11** | **`FA-6` stays an intention; ownership and control stay conflated; **`CF-16`** stays unmanageable; act 11 stays impossible** | **`SR-01` → `CQ-30` → `SEP-3` → `GD-08`, `SR-20`** |
 | **CQ-31** | ### **`CAN SEWAK SATHI PAY KRYTOS?`** — **the corpus's true `H-Q17`, in its own words** | **Corporate counsel; tax counsel; chartered accountant** | **`H-Q17`, `GD-02`, `C_L1-a/b/c`, `SEP-4`, `TX-16`, `TX-17`, `PVR-09`, `ER-1`, **[S-K(E):852–856]**** | **`[SOURCE]` — **`H-Q17`** at **[S-K(E):854]**: status `UNKNOWN`, `REQUIRES PROFESSIONAL VALIDATION`, sharpened by the delta audit: *"paying an unconstituted construct is not possible"*; **`GD-02`** asks which of **`C_L1-a`, `C_L1-b`, `C_L1-c`** funds the L2 layer, `REQUIRES GOVERNANCE DECISION`; **CEA §XV.6**; **`C-17`**: *"paying the organisation service fee at priority 5"* is prohibited, *"its recipient is not identified"* **[S-K(E):1601]**; **ER-1**: the CEA mis-cites this question at nine locations** | **⑩ Cannot yet be answered** | **② Requires entity selection · ④ Tax and accounting · ⑨ Governance decision** | **Whether any payment of any kind has ever passed between the founder, any body, and anything described as Krytos; whether any Krytos document exists; whether any Krytos account, asset or record exists; whether anyone has ever claimed to act for Krytos** | **This brief Parts VII, IX, XII, XIV; **[S-K(E):852–856]**; **[S-H]** in full; **`GC-01`** both texts; CEA Parts XII, XV; **`C-17`; `PVR-09`**** | **`YES`** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]` `[PROHIBITED ASSUMPTION]` against any parent/subsidiary or counterparty reading** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines whether priority 5 has a recipient at all; resolves **`GD-02`**'s `C_L1-b` and `C_L1-c` limbs; determines **`TX-16`, `TX-17`, `PVR-09`; and it is the question **`U-PD-15`** requires to be asked, rather than *"which option is correct"*** | **Priority 5's recipient stays unidentified; **`C-17`** stays in force; the organisation's own funding stays unresolved while it is funded last and spent first** | **`SR-01` → `CQ-29` → `CQ-31` → `GD-02` → priority 5** |
 | **CQ-32** | **Is any payment between the founder, Sewak Sathi and Krytos remuneration, a fee, a distribution or something else — and does the character differ by candidate form?** | **Tax counsel; chartered accountant; corporate counsel** | **`SEP-4`, `TX-16`, `TX-17`, `PVR-08`, `PVR-09`, `CD-05`, `GD-08`, `GC-01`, `FC-E2`, `FC-E3`, act 11** | **`[SOURCE]` — **`SEP-4`**: `SEPARATED IN THE WATERFALL — TAX TREATMENT `REQUIRES PROFESSIONAL VALIDATION``; CEA **§XV.5**: *"priority 4 is payment for work performed; priority 8 is a residual claim on an enterprise — different legal characters, different tax characters, different approvals, different evidence"*; **`GC-01`**: the not-for-profit forms carry *"restrictions on profit distribution and founder upside"*; **[S-D:2999]**: leader equity, profit share and ownership stakes prohibited; **`C-18`**: *"distributing residual surplus or founder upside at priority 8"* is prohibited **[S-K(E):1602]**** | **④ Requires tax or accounting analysis** | **② Requires entity selection · ⑧ Founder decision · ⑨ Governance decision** | **Whether the founder has ever been paid anything by anyone for anything connected to this work; whether the founder has ever received any benefit in kind; whether any promise of future payment or share has ever been made, in any medium, to anyone** | **This brief Parts XI, XII, XIV; CEA Parts X, XI, XV, XVI; **`GC-01`** both texts; **[S: App. A §3.2]**; **[S-D:2999]**; **`SR-20`; `GD-08`**** | **`YES`** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]` `[FOUNDER ASSERTION]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Determines **`SEP-4`**'s content; determines **`TX-16`, `TX-17`; determines whether **`GD-08`** has any lawful answer; determines act 11's character** | **Priority 4 and priority 8 stay undefined; **`SEP-4`** stays a distinction without an instrument; **`GC-01`** stays unresolved** | **`CQ-16` → `CQ-30` → `CQ-32` → `GD-08` → act 11, act 16** |
 | **CQ-33** | **What attribution rule, and what record behind it, would separate value created by the founder's work from value created by members' work — and can such a rule exist at all with eleven people?** | **Chartered accountant; internal control design; governance counsel** | **`SEP-6`, `MLM-2`, `AG-10`, `CD-06`, `CD-19`, `AH-09`, `AH-11`, `AH-12`, `G-05`, `G-13`, `F-11`, `GD-11`, act 14** | **`[SOURCE]` — **`SEP-6`**: `SEPARATED — ATTRIBUTION MECHANISM DOES NOT EXIST`; **`MLM-2`**: the leader differential *"may not be a percentage of team revenue"* **[S-C: §22.3]**; CEA **§V.6 row 5**: *"the vulnerability is interpretive, not structural — it opens the moment anyone defines the leader multiplier as a share of the team's revenue"*; **CEA §V.6 row 6**: *"is any person's income correlated with the number of people they brought in? The correlation must be zero, and it is computable from records the architecture already keeps"* **[S-C: §22.4 T1]**; **`G-05`** expense shifting; **`G-13`** volunteer-count inflation; **`F-11`** open; **`GD-11`**** | **④ Requires tax or accounting analysis** | **⑨ Governance decision · ⑦ Factual evidence** | **Who has actually done what work, for how long, for whom; whether any founder work has ever been distinguished from member work; whether any record of either exists** | **This brief Parts XV, XVIII; CEA Parts V, XIX, XXI; **[S-C: §22.2 … §22.4]**; **`AG-02`, `AG-10`; `REC-05`, `REC-10`; `GD-07 RI-3`**** | **`NO` for the rule's design · `YES` for any payment computed under it** | **`[SOURCE]` `[PROFESSIONAL QUESTION]` `[PROFESSIONAL ANSWER REQUIRED]` `[UNKNOWN]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **`[TO BE COMPLETED BY COUNSEL]`** | **Makes **`SEP-6`** enforceable; makes **`CD-20`**'s correlation test computable; supplies act 14's written attribution rule; determines whether **`GD-07 RI-3`** can be policed** | **Founder upside could be computed from member-generated revenue, which is **`MLM-2`** inverted; **`AG-10`** capture stays invisible; act 14 has no rule** | **`AH-16`, `CD-21` → `CQ-33` → act 14, `SEP-6`, `GD-07`** |
@@ -2435,12 +2435,494 @@ NEXT DEPENDENCY
 
 | Gap | **Corpus entry** | **What is not carried, and why** |
 |---|---|---|
-| **`CQ-GAP-1`** | **[S-B:4000 `EV-6`]** competition / commercial counsel | **Contract enforceability, interest, consumer law, sponsorship and naming rights, and exclusion of liability for venture work. **Not registered because **no contract may be invented** — mandate §13 — and because **`RV-03` / `LV-07`** already record that no contract exists and no capacity to make one exists. **Counsel should treat it as live the moment `SR-01` returns**** |
+| **`CQ-GAP-1`** | **[S-B:4000 `EV-6`]** competition / commercial counsel | **Contract enforceability, interest, consumer law, sponsorship and naming rights, and exclusion of liability for venture work. **Not registered because **no contract may be invented** — mandate §13 — and because **`PRV-03` / `PLV-07`** already record that no contract exists and no capacity to make one exists. **Counsel should treat it as live the moment `SR-01` returns**** |
 | **`CQ-GAP-2`** | **[S-A:2347 `V11`]** and **[S-C:4128 `HV-7`]** communications, advertising and consumer counsel | **The representation analysis of the four named sections, the Public Protection Statement's wording, and per-language terminology review. **Not registered because **§9.2 rule 2 prohibits publication** until **L2**, **L3**, **L4**, **L8** and **L12** are answered in writing, and **`C-24`** prohibits publishing any claim above `CL-1`. **The question is therefore premature, not absent**** |
 | **`CQ-GAP-3`** | **[S-B:4004 `EV-10`]** banking / payments | **Payment-processing costs at weekly cadence, and collection instruments for SME customers. **Not registered because **no bank, provider or system may be named** — mandate §11 — and because **`SR-77`** makes technology procurement *"Tier 0 because it is a refusal"*. **Part X carries the mandate and signatory limbs in full**** |
 | **`CQ-GAP-4`** | **[S-C:4131 `HV-10`]** accessibility specialist | **Physical and digital accessibility of the public page, tasks, events and records. **Not registered because it is a human-system and operational question, and mandate §4 bars this brief from any operational or implementation design. **Recorded so that it is not lost**** |
 | **`CQ-GAP-5`** | **[S-F:160]** the consolidated count itself | **The corpus states **73 professional-validation items** at **[S-F:157]** and **77 distinct `[V]` items across 17 categories** at **[S-F:160]** — *"A-V1…A-V12 (12), HV-1…HV-10 (10), LV-1…LV-25 (25), LV-E-1…LV-E-30 (30)"*. **The two counts differ by four and this brief does not reconcile them: reconciling them would require re-deriving a de-duplication that only the corpus's author can attest to. **Recorded as an unreconciled internal count, not as an error in either**** |
 
 > ### **`THIRTY-FIVE QUESTIONS REGISTERED. THIRTY-TWO CORPUS DISCIPLINE ENTRIES CROSSWALKED, PLUS THE `PV` REGISTER ITSELF. TWENTY-SEVEN FULLY CARRIED. FOUR PARTLY. ONE NOT AT ALL. FIVE GAPS RECORDED AND NOT CLOSED. ZERO ANSWERS MANUFACTURED. FIELDS 11 AND 12 READ `[TO BE COMPLETED BY COUNSEL]` IN ALL THIRTY-FIVE ROWS.`**
+
+---
+
+# PART XX — PROVENANCE AND TRACEABILITY
+
+## XX.1 The rule, and the six-link chain
+
+**[P]** Mandate §23. **Every identifier used in this brief is traceable through six links. An identifier that cannot be traced through all six is not a citation; it is a rumour.**
+
+| Link | **What it records** | **Failure mode it prevents** |
+|---|---|---|
+| **1** | **`CURRENT ID`** — the identifier as this brief uses it | Silent renaming, which is how **ER-1**, **ER-2** and **ER-5** arise |
+| **2** | **`INSTRUMENT`** — the file that holds it, by its short form | Attribution to a document that does not contain it |
+| **3** | **`SECTION / TABLE / ROW`** — the exact location, by line number where the instrument is a plain-text file | *"Somewhere in v1.3-A"*, which is not a location |
+| **4** | **`THE QUESTION IT CARRIES`** — what is actually being asked | Answering a question the corpus never asked |
+| **5** | **`THE EVIDENCE REQUIRED`** — what would close it, in the corpus's own words where it states them | Treating a discussion as a decision |
+| **6** | **`DEPENDENCY`** — what must be true first | Commissioning work that cannot be performed |
+
+## XX.2 The trace — every question-bearing identifier in this brief
+
+**[P]** `[SOURCE]` throughout. **Line numbers are given for plain-text corpus files and were verified by search in this session. Section references are given for instruments whose internal numbering is the citable form.**
+
+| `CURRENT ID` | `INSTRUMENT` | `SECTION / TABLE / ROW` | `THE QUESTION IT CARRIES` | `EVIDENCE REQUIRED` | `DEPENDENCY` |
+|---|---|---|---|---|---|
+| **`SR-01`** | **[S-F]** | **1878** | **Legal entity structure under Krytos — `ID-1`** | ***"a written decision plus counsel opinion"*** | **None. It is the root. **`BLOCKER A / Tier 0`; gates `P0-A`, `P0-B`; owner Founder-CEO; next action *"Commission counsel"*** |
+| **`SR-02`** | **[S-F]** | **1879** | **Worker classification** | ***"classification opinion + written engagement terms"*** | **`SR-01`** |
+| **`SR-03`** | **[S-F]** | **1880** | **Bank mandate, two or more signatories, continuity rule** | ***"the mandate document"*** | **`SR-01`** |
+| **`SR-04`** | **[S-F]** | **1881** | **Written answers to `A-10 §9.1` `L1 … L15`** | **The fifteen written answers, retained as a governance record under **[S: Ch.27]**** | **`L1 … L15`** |
+| **`SR-05`** | **[S-F]** | **1882** | **Data fiduciary identity and named privacy officer** | **A named person and an identity — **neither exists, because neither a person nor an entity is constituted**** | **`SR-01`** |
+| **`SR-06`** | **[S-F]** | **1883** | **Retention and erasure schedule with actual periods** | **Actual periods. **No period is stated anywhere in this brief**** | **`SR-05`** |
+| **`SR-12`** | **[S-F]** | **1889** | **Brand ownership and licensing terms** | **`EXPLICITLY UNRESOLVED`** — a document of ownership | **`SR-01`** |
+| **`SR-13`** | **[S-F]** | **1890** | **IP ownership of architecture, SOPs, curricula, software and data models** | **`EXPLICITLY UNRESOLVED`** — a document of ownership | **`SR-01`** |
+| **`SR-14`** | **[S-F]** | **1891** | **Name availability and registration** | **A name search and a registration certificate** | **`SR-01`, `CQ-28`** |
+| **`SR-15`** | **[S-F]** | **1892** | **The leader multiplier `m_lead`** | ***"EXPLICITLY UNRESOLVED — pilot measures it"*; Tier 2; *"do not decide before measurement"*** | **Measurement, which requires an operating venture** |
+| **`SR-16`** | **[S-F]** | **1893** | **The leaderboard weights** | **`EXPLICITLY UNRESOLVED`** — the eight weights are stated in the register and are **not restated here** (mandate §24) | **Governance decision** |
+| **`SR-19`** | **[S-F]** | **1896** | **Custody of reserves and the restricted social-impact fund** | **`EXPLICITLY UNRESOLVED` — *"decide with `SR-03`"*** | **`SR-03`** |
+| **`SR-20`** | **[S-F]** | **1897** | **Founder compensation** | ***"EXPLICITLY UNRESOLVED — `AUTHORITY UNRESOLVED (beneficiary recusal)`"*, requiring *"a recorded position, even if nil"*** | **`SR-01`, `GD-01`, `GD-08`** |
+| **`SR-21`** | **[S-F]** | **1898** | **The economic blueprint** | **The document itself. **It is absent: **`EV-B-01` `E0` / `E1` / `P0`, `RS-9`, absence corroborated at `E2` on five grounds; round five `PV-1 … PV-6` — still absent; **`FD-1`** therefore classifies it `HISTORICAL / REFERENCE ONLY`**** | **Receipt of a document that has never been received** |
+| **`SR-22`** | **[S-F]** | **1899** | **The three illustrative percentages** | ***"EXPLICITLY UNRESOLVED — illustrative only"*; *"never publish as policy"*. **The figures are not restated here** — mandate §24 | **`SR-21`** |
+| **`SR-31`** | **[S-F]** | **1908** | **Certified safeguarding — the two-adult rule, image and consent absolutes, reporting protocol** | **`DECISION REQUIRED`** — a certified capability | **`SR-02`, `CQ-26`** |
+| **`SR-98`** | **[S-F]** | **1975** | **Eleven pre-pilot validations across eight professional categories** | **`VALIDATION REQUIRED`** — the register counts **5 items *"representing 11 pre-pilot validations at SR-98"*** **[S-F:1985]** | **Every one of the eleven** |
+| **`A-N16`** | **[S-A]** | **§22 `N16`; `UNRESOLVED` at 1589; the two-signatory rule stated at 879, 1032, 1642, 2346** | **Bank mandate continuity and minimum signatories** | ***"Two or more signatories with a continuity rule"* — a mandate document that does not exist** | **`SR-01`. **`T-1 … T-5 = 0 of 5` **[S-K(E):1115–1119]**. **I-PD-5**: eight proposal sites against one blocker site** |
+| **`LDR-U08`** | **[S-F]** | **604, rank 1 of the dependency tree; source **[S-D]**** | **Legal structure under Krytos** | **A written decision plus a counsel opinion — the same evidence as `SR-01`, of which it is the source item** | **None. It is the root** |
+| **`LDR-U16`** | **[S-F]** | **1897, as the source of `SR-20`** | **Founder compensation authority** | **A recorded position, even if nil** | **`SR-01`, `GD-01`** |
+| **`LDR-U19`** | **[S-D]** | **4594; **[S-F:1887]** as the source of `SR-10`** | **Successor to the founder / apex succession mechanism** | ***"Not named anywhere in the source hierarchy"*** | **`SR-01`. **`AUTHORITY UNRESOLVED` — *"the body that would decide is itself the subject of the decision"* **[S-F:159]**** |
+| **`PVR-03`** | **CEA** | **§XXIX.2** | **Earned compensation and partial payment** | **A classification opinion and a formula — **neither exists**** | **`SR-01`, `SR-02`. **One of three `PVR` items answerable before an entity exists**** |
+| **`PVR-05`** | **CEA** | **§XXIX.2** | **Revenue recognition** | **A framework and a basis — **none is prescribed here**** | **`SR-01`, `CQ-20`** |
+| **`PVR-22`** | **CEA** | **§XXIX.3** | **Personal liability of the four unpaid control roles** | **Written answers to `L1 … L15` and a classification opinion** | **`SR-02`, `SR-04`** |
+| **`GC-01`** | **[S-G]** | **491** | **The eight-priority waterfall against the not-for-profit forms** | **`SUBSTANTIVE CONFLICT, UNRECONCILED` — both texts are reproduced at §IX.6 and neither is preferred** | **`SR-01`, `CQ-17`, `CQ-18`** |
+| **`H-Q17`** | **[S-K(E)]** | **854; the `H-Q15 … H-Q19` block at 852–856** | ### **`Can Sewak Sathi pay Krytos?`** | **`UNKNOWN`, `REQUIRES PROFESSIONAL VALIDATION`; *"paying an unconstituted construct is not possible"*** | **`SR-01`, `CQ-29`. **Registered here as **CQ-31**; **ER-1** records the CEA's nine mis-citations** |
+| **`PP-01 … PP-09`** | **[S-J]** | **§XX.1, heading at 1672, rows at 1676–1684** | **The nine prohibited inferences** | **None — they are prohibitions, not questions. **Rule K-66 and **DA-20** preserve them verbatim** | **None** |
+| **`L1 … L15`** | **[S-A]** | **§9.1, 703–717**; framing rule at **695**; each-row rule at **699** | **The insurance and liability requirement-to-validate register** | ***"A question that must be answered in writing by a qualified professional, with the answer retained as a governance record under [S: Ch.27]"*** | **`SR-04`. **§9.2 rule 1 bars activation until the relevant rows are answered** |
+| **`C-10 … C-29`** | **[S-K(E)]** | **1594–1613** | **The prohibition series — twenty things that may not be done** | **None — they are prohibitions in force. **`C-15` *"any external payment"* at **1599**, `C-19` *"collecting funds"* at **1603**, `C-21` *"operating the protection function"* at **1605**, `C-25` *"running the pilot"* at **1609**, `C-27` *"procuring technology"* at **1611**** | **None. Each lifts only when its own stated condition is met** |
+| **`T-1 … T-5`** | **[S-K(E)]** | **§XII.1, 1111–1119; rows at 1115–1119; determination at §XII.2, 1121** | **The five `A-N16` tests** | **`0 OF 5 PASS` — the tests are the evidence, and they are already run** | **`SR-01`, `SR-03`** |
+| **`V1 … V12`** | **[S-A]** | **Annexure B, 2337–2348**; preamble at **2333** | **The corpus's first professional-validation register, grouped *"so a single instruction can be issued to each"*** | **A written answer per discipline, crosswalked at §XIX.9** | **Varies by discipline** |
+| **`EV-1 … EV-10`** | **[S-B]** | **Annexure C, 3995–4004**; preamble at **3991** | **The corpus's second register, economic** | **As above** | **Varies** |
+| **`HV-1 … HV-10`** | **[S-C]** | **Annexure C, 4122–4131** | **The corpus's third register, human-system** | **As above** | **Varies** |
+| **`PV` register** | **[S-F]** | **Part III; consolidated count at **[S-F:160]**, and 73 at **[S-F:157]**** | **The consolidated professional-validation register** | **0 answered · 19 `FORMULABLE` · 0 commissioned **[S-K(E): §XXVI]**. **The two counts differ by four — `CQ-GAP-5`**** | **`DA-31`** |
+| **`OPT-A … OPT-J`** | **[S-G]** | **§III.2, 585–760** | **The ten candidate legal forms** | **A counsel opinion on each, unfiltered — **`[S-K(E): §XXVI]`** requires counsel to receive all ten, including **`OPT-E`, `OPT-F`, `OPT-G`** which are `NOT PRESENT IN CORPUS`** | **`SR-01`** |
+| **`FC-01 … FC-33`** | **[S-G]** | **753–800; the matrix at §III.3** | **The four-pillar and eight-criteria consequences of each form** | **A scored matrix, obeying **Rules G-15 … G-20** — scored only from corpus statements, at §IX.5** | **`OPT-A … OPT-J`** |
+| **`UE-24`** | **[S-G], [S-H], [S-I], [S-J], [S-K], [S-K(E)]** | **carried through all six** | **The block on `OPT-I`, parent/holding plus operating** | **The removal of the block requires at least two legal persons** | **`SR-01`, `CQ-29`** |
+| **`DA-31`** | **[S-K(E)]** | **§XXVI** | **No successor instrument** | **None — it is a prohibition on this brief** | **None** |
+| **`U-PD-15`** | **[S-K(E)]** | **§XXVI** | **The question counsel must be asked — not *"which option is correct"*** | **A written instruction, which is Part XXIII** | **`SR-01`** |
+| **`U-PD-16`** | **[S-K(E)]** | **§XXVI** | **Six instruments performed `SR-01`'s next action; `SR-01` never advanced** | **A seventh performance is this brief. **§XXX.2 makes it the verdict's operative qualification**** | **A human act, not an instrument** |
+| **`U-PD-9`** | **[S-K(E)]** | **§XXVI** | **The performer must be one natural person** | **None — it is a constraint on Part XXIII** | **None** |
+| **`FD-1`** | **CEA** | **Part I; §I.2** | **The blueprint's status** | **`HISTORICAL / REFERENCE ONLY` — no silent inheritance, and nothing stated as read from the absent document** | **`SR-21`** |
+| **`A-07`, `A-09`, `A-10`, `A-11`, `A-17`, `A-20`, `A-22`** | **[S-A]** | **Part 9 and the amendment series** | **The Public Protection Statement, the safeguarding protocol, the liability register, the activation gate, data classification, the sealed category, institutional memory** | **Each requires its own written answer; **`A-07`** may not be published while **§9.2 rule 2** is in force** | **`L1 … L15`, `SR-31`** |
+| **`CF-16`** | **CEA** | **§XVI.3** | **Founder compensation — a conflict *"that cannot be managed"*** | **A disinterested approver who does not exist** | **`SR-01`, `GD-01`, `CQ-11`** |
+| **`RP-5`** | **CEA** | **Part XVI** | **Related-party control** | **A disinterested approver and an ownership position** | **`SR-12`, `SR-13`, `CQ-35`** |
+| **`OC-10`** | **[S-I], [S-J], [S-K(E)]** | **carried through all three; and at **[S-K(E):1119]** as the ground of `T-5`** | **Asset ownership** | **`0 OF 17 ASSET CLASSES HAVE A STATED OWNER`** | **`SR-01`, `CQ-15`, `AH-10`** |
+| **`EV-B-01`** | **EV-B-01 record** | **`E0`, `E1`, `E2`, `P0`** | **Whether the foundational economic document is present** | **`NOT PRESENT`. **Corroborated at **`E2`** on five grounds; re-verified at round five **`PV-1 … PV-6`** — still absent** | **Receipt** |
+
+## XX.3 The instrument register
+
+**[P]** Every instrument this brief reads, with its short form. **Tier 1 is the corpus; the CEA is Tier 1 and is cited by commit hash, because it is committed and must not be modified.**
+
+| Short form | **Instrument** | **Status here** |
+|---|---|---|
+| **[S]** | **The source document — `KRYTOS_SEWAK_SATHI_SANSTHA_VISUAL_MASTER_ARCHITECTURE_CONSTITUTION_LAUNCH_SPECIFICATION_v1_2.pdf`, with its extracted text at `appendix.txt` (9,870 lines), `extracted_text.txt` (14,028 lines, its twin) and `main_body.txt`** | **Tier 1. **Cited as `[S: Ch.n]`, `[S: App. A §n]`, `[S: Const. Art.n]`, `[S: SOP-n]`, or by `appendix.txt` line number** |
+| **[S-A] … [S-F]** | **`v1.3-A` institutional survival and legitimacy · `v1.3-B` costed Mohalla unit economics · `v1.3-C` human system participation · `v1.3-D` leadership, succession and performance · `v1.3-E` national identity, communication and reputation · `v1.3-F` consolidated cross-instrument register** | **Tier 1. **Cited by line number where the file is plain text** |
+| **[S-ST]** | **The strategic stress test** | **Tier 1** |
+| **[S-G] … [S-K]** | **`v1.3-G` entity structure · `v1.3-H` Krytos parent, ownership, control and succession · `v1.3-I` Krytos foundational disclosure and source reconciliation · `v1.3-J` foundational source acquisition and blueprint recovery · `v1.3-K` evidence request, receipt and provenance protocol** | **Tier 1** |
+| **[S-K(E)]** | **The `v1.3-K` delta audit — `DA-1 … DA-32`, Parts 0–XXVI** | **Tier 1** |
+| **EV-B-01** | **The intake, recovery and source-presence verification record** | **Tier 1** |
+| **CEA** | **The current economic architecture, committed at `76a30b3`, 389,835 bytes, 33 Parts, 157 tables, 0 table defects** | **Tier 1. **Cited by section, and **not modified** — the five reconciliations at §III.2 are recorded here and not applied there** |
+| **The foundational economic blueprint** | **Absent** | **`NOT PRESENT`. **`FD-1`: `HISTORICAL / REFERENCE ONLY`. **No percentage, budget, ratio, funding figure, reserve percentage, venture assumption or legal structure is inherited from it, and nothing in this brief is stated as read from it** |
+
+## XX.4 Identifiers coined by this brief, and where each is defined
+
+**[P]** `NC-1`. **Every prefix below was searched against the whole corpus and against the CEA before first use. **§IV.5 records the eight collisions that search found and the renames it forced.**
+
+| Prefix | **Defined at** | **What it names** | **Count** |
+|---|---|---|---|
+| **`EB-1 … EB-8`** | **§IV.2** | **The rules governing how evidence is used here** | **8** |
+| **`FA-R1 … FA-R4`** | **§IV.4** | **The rules for holding the founder's declarations as assertions** | **4** |
+| **`DBR-1 … DBR-5`** | **§V.4** | **The boundary rules of the `ID-1` decision** *(renamed from `BR-`, which collides with **[S-E:87]**)* | **5** |
+| **`PLV-01 … PLV-16`** | **§VI.2** | **`PVR-03`'s sixteen legal variables** *(renamed from `LV-`, which collides with **[S-F:160]**)* | **16** |
+| **`PVC-01 … PVC-10`** | **§VI.4** | **`PVR-03`'s ten constraints** *(renamed from `C-`, which collides with **[S-A:2145]** and **[S-K(E):1594]**)* | **10** |
+| **`REV-1 … REV-4`** | **§VII.2** | **The four meanings of revenue** *(renamed from `M-`, which collides with **[S-C:1078]**)* | **4** |
+| **`PRS-1 … PRS-4`** | **§VII.2** | **The four revenue separation rules** *(renamed from `RS-`, which collides with **[S-E:880]**)* | **4** |
+| **`PRV-01 … PRV-17`** | **§VII.3** | **`PVR-05`'s seventeen revenue variables** *(renamed from `RV-`, which collides with **[S-D:83]**)* | **17** |
+| **`RR-1`** | **§VII.4** | **The recognition rule that resolves toward cash** | **1** |
+| **`LD-01 … LD-27`** | **§VIII.2** | **`PVR-22`'s twenty-seven liability dimensions** | **27** |
+| **`FC-E1 … FC-E8`** | **§IX.5** | **The eight economic criteria added to the corpus's `FC-01 … FC-33` — each labelled `PROFESSIONAL INPUT — NOT CURRENT ARCHITECTURE DECISION` where it extends the corpus** | **8** |
+| **`NC-1 … NC-4`** | **§IV.5** | **The notation-collision rules** | **4** |
+| **`CD-01 … CD-21`** | **§XIII.2** | **The twenty-one compensation dimensions** | **21** |
+| **`TX-1 … TX-3`** | **§XIV.1** | **The three rules governing the tax matrix** | **3** |
+| **`TX-01 … TX-19`** | **§XIV.2** | **The nineteen tax heads** | **19** |
+| **`ACR-1 … ACR-5`** | **§XV.1** | **The five rules governing the accounting matrix** *(deliberately not `AC-`, which collides with **[S-C:1341]** and with the CEA's own accrual rules — **ER-5**)* | **5** |
+| **`AH-01 … AH-18`** | **§XV.2** | **The eighteen accounting heads** | **18** |
+| **`RSK-1 … RSK-15`** | **§XVI.4** | **The fifteen risk classes** *(renamed from `RC-`, which collides with **[S-E:1746]**)* | **15** |
+| **`UD-01 … UD-14`** | **§XVII.3** | **The fourteen dimensions of the four unpaid control roles** | **14** |
+| **`HC-15`** | **§XII.6** | **The fifteenth capital kind — `PROFESSIONAL INPUT — NOT CURRENT ARCHITECTURE DECISION`, supplied from CEA §XXIV.5 because mandate §14 requires fifteen and the CEA names fourteen** | **1** |
+| **`ER-1 … ER-5`** | **§III.2** | **The errata and reconciliations against the CEA** | **5** |
+| **`CQ-01 … CQ-35`** | **Part XIX** | **The professional question register** | **35** |
+| **`CQ-GAP-1 … CQ-GAP-5`** | **§XIX.10** | **The five corpus register entries this brief does not fully carry** | **5** |
+| **Total coined** | **23 distinct prefixes** | — | ### **`249`** |
+
+## XX.5 `SOURCE LOCATION NOT VERIFIED` — the register, and the finding that it is empty
+
+**[P]** Mandate §23: *"an identifier whose location cannot be established is marked `SOURCE LOCATION NOT VERIFIED`."* **The register is written, and the method is stated, so that the emptiness of the register is a result rather than an omission.**
+
+| Step | **What was done** | **Result** |
+|---|---|---|
+| **1** | **Every identifier in this brief was extracted by pattern and de-duplicated** | ### **`636 DISTINCT IDENTIFIERS`** |
+| **2** | **Those beginning with one of the 23 prefixes registered at §XX.4 were classified as coined by this brief, and each was checked against §XX.4 for a definition site** | **243 coined. **All defined — no coined identifier appears in this brief without a Part that defines it. **243 is not 249 because six of the §XX.4 entries name ranges or single identifiers counted by definition site, not by occurrence**** |
+| **3** | **The remaining 393 were each searched, as literal strings, across the entire corpus — `appendix.txt`, `extracted_text.txt`, `main_body.txt`, the source PDF's text, the architecture brief, `v1.3-A … v1.3-F`, the stress test — and across every instrument in this repository: `v1.3-G … v1.3-K`, the delta audit, the EV-B-01 record and the CEA** | **392 located** |
+| **4** | **The single unmatched identifier was examined** | **`LV-01`. **It appears once, at §IV.5, inside the collision register, where it names the prefix this brief **retired**. It is not a citation. **`RESOLVED — NOT A DEFECT`**** |
+| **5** | **The register of unverifiable locations** | ### **`SOURCE LOCATION NOT VERIFIED: NONE. 0 OF 636. 392 OF 393 EXTERNAL IDENTIFIERS LOCATED; THE ONE REMAINDER IS A RETIRED PREFIX NAMED IN THE COLLISION REGISTER, NOT A CITATION.`** |
+| **6** | **Citations taken from memory** | **`0`. **Every location above was produced by search of a file in this session. **Rule K-5: a declaration is not a receipt, and a recollection is not a citation**** |
+| **7** | **Web sources used to establish any legal, tax or accounting position** | **`0`. **Mandate §25. **Where the corpus itself cites an external source, that citation is reproduced with its `[X]` tag and its own disclaimer — *"no economic, legal or tax conclusion is drawn from any of them"* **[S-B:4010]** — and no position is taken on it** |
+
+## XX.6 What traceability does not buy
+
+| Limit | **Content** |
+|---|---|
+| **A location is not an answer** | **Every identifier above is located. **Not one of them is answered.** Locating `SR-01` at **[S-F:1878]** establishes that the question exists, that it is Tier 0, that its evidence is *"a written decision plus counsel opinion"*, and that its next action has been performed six times without effect. **It does not establish what the answer is** |
+| **A citation is not a document** | **Rule v1.3-J: **`NO SOURCE → NO FACT → NO CLOSURE`**. **A reference to a document is not the document. **`SR-21` is located; the blueprint is not present**** |
+| **An assertion is not a fact** | **Rule K-4. **`FA-1 … FA-7` are located, quoted and tagged — and remain assertions** |
+| **A repeated statement is not a decision** | **Rule **`DA-30`**. **The two-signatory rule appears at four separate locations in **[S-A]** alone — 879, 1032, 1642 and 2346 — and is still not a mandate: **`I-PD-5`, [S-K(E)]**** |
+| **A trace is not authority** | **This brief is **`NOT LEGAL ADVICE`**. **Its traceability makes it auditable, which is not the same as making it right** |
+
+---
+
+# PART XXI — DECISION DEPENDENCIES
+
+## XXI.1 What a dependency is here, and the six kinds
+
+**[P]** `[SOURCE]` — CEA **Part XXXI.1 `ID-1 … ID-18`**; **CEA §XXIX.4**; **[S-F:162 `CP-2`]**; **[S-F:1878–1975]**. **A dependency in this brief is not a task. It is a fact, a document, a person or a professional determination that must exist before a question can be answered at all.** A task can be scheduled; a dependency cannot be skipped, and no amount of drafting removes one.
+
+| # | **Kind** | **Definition** | **How it is removed** | **How it must not be removed** |
+|---|---|---|---|---|
+| **1** | **`ENTITY-DEPENDENT`** | The question has no answer until a legal person exists to be the subject of it | **`SR-01` is decided and a constitutive document is created** | **By treating an assertion as a legal person — **`FA-1 … FA-7`, `PP-01 … PP-09`, Rule K-4** |
+| **2** | **`DOCUMENT-DEPENDENT`** | The question's answer lives in a document that has not been produced | **The document is received and verified — **REQUEST → RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE** | **By describing the document, summarising it, or citing the reference to it. **A reference to a document is not the document**** |
+| **3** | **`PROFESSION-DEPENDENT`** | The question can only be answered by a qualified professional, and no such answer exists | **A written professional determination, in counsel's own words, with conditions and assumptions** | **By this brief answering it. **Fields 11 and 12 read `[TO BE COMPLETED BY COUNSEL]` in all 35 rows and are not this brief's to fill**** |
+| **4** | **`FACT-DEPENDENT`** | The question needs a fact that only the founder or a role-holder holds | **The founder supplies the fact in the disclosure pack, **Part XXIV** | **By inference from what the founder has said elsewhere. **`FA-R2`: a declaration is not a fact until verified**** |
+| **5** | **`HUMAN-DECISION-DEPENDENT`** | The question is answerable but requires a human to choose, and a choice that carries a conflict requires a disinterested chooser | **A recorded decision by a person or body with authority** | **By an instrument selecting the entity — mandate §10. **This brief does not select, recommend or rank**** |
+| **6** | **`MEASUREMENT-DEPENDENT`** | The question cannot be answered before operation produces data | **Operating, and measuring** | **By estimating. **`SR-15`'s own words: *"pilot measures it"*, *"do not decide before measurement"*** |
+
+## XXI.2 The chain, preserved from the CEA — 18 dependency steps, 16 of them behind the first
+
+**[P]** `[SOURCE]` — **CEA Part XXXI.1, `ID-1 … ID-18`**; the CEA's own finding is that *only `ID-1` and `ID-13` are available today* and that *sixteen of eighteen dependency steps sit behind `ID-1`*. **This brief reproduces the chain and does not re-derive it. Nothing in this Part advances any step.**
+
+| Step | **The dependency, as the CEA states it** | **Available today** | **The questions in this brief that attach to it** | **What removes it** |
+|---|---|---|---|---|
+| **`ID-1`** | **Legal entity structure — `SR-01` / `LDR-U08`** | **`YES`, and only as a decision framework — Parts V and IX of this brief** | **`CQ-01 … CQ-04`, `CQ-28`, `CQ-29`, `CQ-30`, `CQ-32`, `CQ-34`, `CQ-35`** | **A written decision plus a counsel opinion — **[S-F:1878]**. **Not by this brief. **Not by a seventh instrument**** |
+| **`ID-2`** | **Constitutive documents** | **`NO`** | **`CQ-01 … CQ-04`** | **`ID-1` decided, then documents created and filed** |
+| **`ID-3`** | **Worker classification — `SR-02`** | **`NO`** | **`CQ-05 … CQ-09`, `CQ-33`** | **`ID-2`, then a classification opinion and written engagement terms** |
+| **`ID-4`** | **Bank mandate — `SR-03` / `A-N16`** | **`NO`** | **`CQ-10`, `CQ-19`, `CQ-33`; the whole of Part X** | **`ID-2`, then a mandate document with two or more signatories and a continuity rule** |
+| **`ID-5`** | **Tax registration and status** | **`NO`** | **`CQ-16`, `CQ-17`, `CQ-18`, `CQ-33`; the whole of Part XIV** | **`ID-2`, then registration and a tax determination** |
+| **`ID-6`** | **Accounting framework and basis** | **`NO`** | **`CQ-20`, `CQ-21`; the whole of Part XV** | **`ID-2`, then a framework chosen by the entity's own officers on professional advice** |
+| **`ID-7`** | **Insurance and liability answers — `SR-04`, `L1 … L15`** | **`NO`** | **`CQ-22 … CQ-24`; the whole of Parts VIII and XVI** | **`ID-2` and `ID-3`, then written answers from a broker and counsel** |
+| **`ID-8`** | **Data fiduciary identity and privacy officer — `SR-05`** | **`NO`** | **`CQ-27`** | **`ID-2`, then a named person and an identified fiduciary** |
+| **`ID-9`** | **Retention and erasure schedule — `SR-06`** | **`NO`** | **`CQ-21`, `CQ-27`** | **`ID-8`, then periods set on professional advice** |
+| **`ID-10`** | **Governance authority and delegation** | **`NO`** | **`CQ-10 … CQ-13`; the whole of Part XVIII** | **`ID-2`, then constitutive delegation instruments** |
+| **`ID-11`** | **Brand and IP ownership — `SR-12`, `SR-13`** | **`NO`** | **`CQ-14`, `CQ-15`, `CQ-35`** | **`ID-2`, then documents of ownership and, if any, of licence** |
+| **`ID-12`** | **Name availability and registration — `SR-14`** | **`NO`** | **`CQ-28`** | **A search, then registration** |
+| **`ID-13`** | **The prohibition set — what may not be done now** | ### **`YES` — fully, and it is the only step besides `ID-1` that is available today** | **`CQ-25`, `CQ-26`; **`C-10 … C-29`, `PP-01 … PP-09`, **Part XXVII**** | **Nothing. It does not need removal; it needs observance** |
+| **`ID-14`** | **Safeguarding certification — `SR-31`** | **`NO`** | **`CQ-26`** | **`ID-3`, then a certified capability** |
+| **`ID-15`** | **The Krytos relationship — `H-Q17`, `GC-01`, `UE-24`** | **`NO`** | **`CQ-29`, `CQ-30`, `CQ-31`, `CQ-32`** | **`ID-2` on both sides — which requires two legal persons, of which at most one can be constituted at a time** |
+| **`ID-16`** | **Successor and apex succession — `LDR-U19`, `SR-10`** | **`NO`** | **`CQ-30`** | **`ID-2` and `ID-10` — **and see §XXI.5: this dependency is circular**** |
+| **`ID-17`** | **The economic blueprint — `SR-21`, `SR-22`** | **`NO`** | **`CQ-19`; **§XIX.10 `CQ-GAP-4`**** | **Receipt of a document never received — **`EV-B-01`, `FD-1`, `PV-1 … PV-6` still absent**** |
+| **`ID-18`** | **The eleven pre-pilot validations — `SR-98`** | **`NO`** | **`CQ-01 … CQ-35`, every one** | **All of the above** |
+| **Count** | **18 steps** | ### **`2 OF 18 AVAILABLE TODAY` — `ID-1` as a framework only, and `ID-13` in full** | **35 questions attach; **`CQ-25`** and **`CQ-26`** attach to the one step that is available, and both attach to steps that are not** | — |
+
+## XXI.3 `CP-2` — the critical path, verbatim, and what each link in it requires
+
+**[P]** `[SOURCE]` — **[S-F:162]**, the corpus's own consolidated critical path, answering *"What is the critical path?"* with ***"`CP-2` LEGAL / COMPLIANCE, and it is not close."*** **It is reproduced here unchanged. This brief adds no link, removes no link, and does not shorten it. The instrument adds: *"eight paths are mapped in Part VII; `CP-2` has the greatest downstream blocking effect because seven of the eight other paths contain at least one item that cannot lawfully operate without an entity."***
+
+> ### **`"ENTITY STRUCTURE DECIDED → COUNSEL VALIDATES TAX, EMPLOYMENT AND CLASSIFICATION → INSURANCE ANSWERS OBTAINED → BANK MANDATE AND TWO SIGNATORIES ESTABLISHED → WORKER COMPENSATION CAN LAWFULLY BE PAID → THE PILOT CAN PAY ANYONE → ANYTHING ECONOMIC CAN BE MEASURED."`** — **[S-F:162, `CP-2`]**
+
+| Link | **What it is** | **The professional discipline that answers it** | **The questions in this brief** | **Position today** |
+|---|---|---|---|---|
+| **1** | **Entity structure decided** | **Corporate / entity counsel** | **`CQ-01 … CQ-04`, `CQ-28`** | **`NOT DONE`. **`SR-01` `DECISION REQUIRED`, `BLOCKER A / Tier 0`; next action *"Commission counsel"* performed six times without advancing the register — **U-PD-16**, and a seventh time by this brief**** |
+| **2** | **Counsel validates tax, employment and classification** | **Tax counsel; labour counsel** | **`CQ-05 … CQ-09`, `CQ-16 … CQ-18`, `CQ-33`** | **`NOT REACHED`** — link 1 stands before it |
+| **3** | **Insurance answers obtained** | **Insurance broker; liability counsel** | **`CQ-22 … CQ-24`** | **`NOT REACHED`. **§9.2 rule 1: no written confirmation, no activation**** |
+| **4** | **Bank mandate and two signatories established** | **Banking counsel; the entity's own officers** | **`CQ-10`, **Part X**, **Part XVIII**** | **`NOT REACHED`. **`T-1 … T-5` = 0 of 5; **`BLK-A-03`; **`PP-04`**** |
+| **5** | **Worker compensation can lawfully be paid** | **Labour counsel; tax counsel** | **`CQ-05 … CQ-09`, `CQ-33`** | **`NOT REACHED`. **`C-15` and `C-16`: any external payment, and priority-1 worker compensation, are both prohibited until this link closes**** |
+| **6** | **The pilot can pay anyone** | **Governance counsel; the founder** | **`CQ-13`, **Part XXVII**** | **`NOT REACHED`. **`C-25`: running the pilot is prohibited**** |
+| **7** | **Anything economic can be measured** | **The accounting profession** | **`CQ-20`, `CQ-21`, **Part XV**** | **`NOT REACHED`. **No measurement is possible before a payment exists to measure — and **`SR-15`** cannot be decided before measurement**** |
+
+> ### **`THE CRITICAL PATH IS SEVEN LINKS LONG, EVERY LINK IS BLOCKED BY THE ONE BEFORE IT, AND THE FIRST LINK IS NOT AN ANALYTICAL TASK. IT IS A COMMISSION. NO PART OF THIS BRIEF IS THE FIRST LINK.`**
+
+## XXI.4 What has no dependency at all — the seven questions that can be worked today
+
+**[P]** Computed from the register: **field 9, `ENTITY DEPENDENCY`, across all 35 rows — 21 `YES`, 7 `PARTLY`, 6 qualified `NO`, 1 unqualified `NO`.** **Seven questions therefore carry an element that does not wait for `SR-01`. They are listed here so that nothing in this brief implies the whole register is idle.**
+
+| ID | **Field 9 as written in the register** | **The part that needs no entity** | **The part that does** | **Primary class** |
+|---|---|---|---|---|
+| **`CQ-06`** | **`NO`** — the only unqualified `NO` in the register | **The whole question: what happened, when, to whom. It is a question of historical fact, and facts do not wait for a legal person** | **Nothing. **Its answer then becomes evidence for **`CQ-05`** and **`SR-02`**** | **⑦ Requires factual evidence** |
+| **`CQ-21`** | **`NO` for the design and the paper record · `YES` for the retention period, which is a legal question** | **Designing the record and its fields, and beginning a paper record today** | **The retention period, which counsel must set** | **① Answerable now** |
+| **`CQ-25`** | **`NO` for the boundary's statement · `YES` for the organisation's own exposure** | **Stating the criminal boundary that already governs every person involved** | **The organisation's exposure, which needs a legal person** | **⑥ Insurance and liability** |
+| **`CQ-26`** | **`NO` for the duties' statement · `YES` for the organisation's own registration obligations** | **Stating the safeguarding duties that already bind individuals** | **Registration obligations, which attach to an entity** | **⑥ Insurance and liability** |
+| **`CQ-27`** | **`NO` for the record design · `YES` for fiduciary status, which requires a legal person** | **Designing the data-handling record** | **Fiduciary status, and therefore `SR-05` and `SR-06`** | **⑥ Insurance and liability** |
+| **`CQ-28`** | **`NO` for the search · `YES` for the registration** | **Searching name availability** | **Registering a name, which requires an applicant** | **② Requires entity selection** |
+| **`CQ-33`** | **`NO` for the rule's design · `YES` for any payment computed under it** | **Designing the withholding or deduction rule** | **Any payment, which requires **`ID-4`**** | **④ Tax and accounting** |
+
+> ### **`SEVEN OF THIRTY-FIVE. IN EVERY CASE BUT ONE THE ENTITY-INDEPENDENT PART IS A DESIGN, A STATEMENT OR A SEARCH — NOT A DETERMINATION. NOTHING ON THIS LIST PRODUCES AN ANSWER THAT A PROFESSIONAL MUST GIVE. IT PRODUCES WORK THAT CAN BE DONE WHILE THE PROFESSIONAL WORK IS COMMISSIONED.`**
+
+## XXI.5 Circular dependencies — three, and none is resolvable by analysis
+
+**[P]** `[SOURCE]`. **A circular dependency is one where the body that would decide is itself the subject of the decision, or where the evidence required can only be produced by the act the evidence is supposed to authorise. These are recorded, not solved. Solving one requires a human act outside the circle.**
+
+| # | **The circle** | **Its two arcs** | **Corpus anchor** | **What breaks it** |
+|---|---|---|---|---|
+| **1** | **Succession** | **An apex succession mechanism can only be adopted by a body with authority to adopt it · the body with authority to adopt it is the one whose succession is in question** | **`LDR-U19` ***"not named anywhere in the source hierarchy"*** **[S-D:4594]**; **[S-F:159]**: three decisions have `AUTHORITY UNRESOLVED` — `LDR-U01`, `A-N19`, `LDR-U19` — ***"in each case the body that would decide is itself the subject of the decision"*** | **The founder, acting personally, or a court, or a professional appointed for the purpose. **`REQUIRES COUNSEL`** — and the counsel engagement must itself be signed and paid for by someone, which is Part XXIII's whole problem** |
+| **2** | **Payment for the advice** | **Professional advice is required before any payment can lawfully be made · the advice itself must be paid for** | **`C-15`** — *"any external payment"* is prohibited **[S-K(E):1599]**, quoted at **[S-I: §XIII.3]** and preserved verbatim at **[S-K(E):1139]**: ***"no external payment can lawfully or operationally be made"***; **`A-N16 REMAINS BLOCKED`; `PP-04`; **`BLK-D-07`** — the professional fees for `BLK-B-01 … BLK-B-11`, whose variable is *"not stated anywhere"* **[S-F:695]**** | **The founder paying personally — which is `REQUIRES FOUNDER DECISION` and `REQUIRES QUALIFIED TAX ADVICE`, and which this brief neither decides nor recommends **[S-K(E): §XXVI]** |
+| **3** | **Classification and operation** | **Worker classification requires the facts of how people actually work · the facts of how people work cannot be produced without operating · operating requires the pilot, which is prohibited** | **`C-25`** — running the pilot is prohibited **[S-K(E):1609]**; **`SR-15`** — *"pilot measures it"*, *"do not decide before measurement"* **[S-F:1892]**; **`SR-02`** depends on `SR-01` | **`CQ-06` is the escape hatch the register already contains: the historical facts of who did what, when, and for whom can be supplied without operating anything. **That is why `CQ-06` carries the only unqualified `NO` in field 9** |
+
+## XXI.6 False dependencies — seven things that look blocked and are not
+
+**[P]** `[SOURCE]` and `[PROFESSIONAL QUESTION]`. **A false dependency is a belief that a question cannot be answered until something else happens, where the something else is not actually required by the question. Each is recorded so that it is not used, later, as a reason to do nothing.**
+
+| # | **The apparent dependency** | **Why it is false** | **The evidence that it is false** |
+|---|---|---|---|
+| **1** | ***"`PVR-03` cannot be answered until the entity is chosen"*** | **Classification principles are a question of law applied to facts. The facts — who works, how, under whose direction, for what — exist now and are the same whatever form is chosen** | **The CEA's own finding: **`PVR-03`, `PVR-05` and `PVR-22` are answerable before an entity exists** — **[CEA §XXIX.4]**; and mandate §7 requires the entity/framework dependency to be *stated*, not waited for |
+| **2** | ***"`PVR-05` cannot be answered until an accounting framework is adopted"*** | **The four meanings of revenue — **`REV-1 … REV-4`** — are conceptually distinct whether or not a framework is chosen. What cannot be done is *recognise* revenue; what can be done is state what would have to be recognised** | **Part VII separates **ACCOUNTING REVENUE**, **CASH RECEIVED**, **AVAILABLE DISTRIBUTABLE-OPERATING CASH** and **INTERNAL ECONOMIC WATERFALL REVENUE** without adopting a framework. **`ACR-1`: no standard is prescribed**** |
+| **3** | ***"`PVR-22` cannot be answered until people are employed"*** | **Personal exposure of an individual acting as a promoter, trustee, de facto director or occupier of premises does not wait for an employment contract. Some of it attaches before any entity exists** | **Part VIII's 27 dimensions include exposures that are personal and pre-incorporation. **Mandate §8: never say the four *"are personally liable"* or *"are protected"* — the dimension is stated, not concluded**** |
+| **4** | ***"Nothing can be done until the blueprint is found"*** | **The blueprint's absence is itself a settled finding, and **`FD-1`** classifies it `HISTORICAL / REFERENCE ONLY`. Its recovery would not change any of the 35 questions** | **`EV-B-01` `E0`/`E1`/`P0`; **`RS-9`**; absence corroborated at **`E2`** on five grounds; round five **`PV-1 … PV-6`** — still absent. **No percentage, budget or ratio here is inherited from it**** |
+| **5** | ***"The waterfall cannot be discussed until percentages are set"*** | **The source says the opposite: ***"THE PRIORITY ORDER IS THE CONTROL; PERCENTAGES ARE A PLANNING TOOL."*** The order is fixed and is reproduced in Part XI; the percentages are the thing that is missing** | **[appendix.txt:6296–6300]** for the principle; **6301–6321** for the eight priorities; **`SR-22`** *`EXPLICITLY UNRESOLVED — illustrative only`*, ***"never publish as policy"*** **[S-F:1899]**** |
+| **6** | ***"The four unpaid control roles cannot be analysed until they are appointed"*** | **They are named in the source and they are acting. What is missing is authority, not identity. Unpaid is not the same as unexposed** | **Part XVII's 14 dimensions; mandate §19: *"unpaid ≠ no liability"*. **The CEA's finding that the Internal Auditor row is `NONE IN PRACTICE` makes the absence of appointment the subject of the analysis, not a bar to it**** |
+| **7** | ***"No question can be asked of counsel until the founder decides the entity"*** | **This is the most dangerous of the seven, and it is exactly backwards. Mandate §10 forbids this brief from selecting the entity; **`U-PD-15`** requires that counsel be asked a question that is not *"which option is correct"*; and **`DA-31`** forbids a successor instrument** | **[S-K(E): §XXVI]**: counsel must be given **7 items** and asked **`U-PD-15`'s question**, and the organisation may not pay because **`A-N16 REMAINS BLOCKED`** and **`PP-04`**. **Part XXIII is written to that instruction and to nothing else** |
+
+## XXI.7 Dependency counts, computed
+
+**[P]** Computed from the register by extraction of fields 5, 9 and 15 across all 35 rows. **No figure below is estimated.**
+
+| Measure | **Count** | **How computed** |
+|---|---|---|
+| **Questions registered** | **35** | **Rows in Part XIX** |
+| **Primary class ① answerable now** | **1** | **Field 5 — `CQ-21`** |
+| **Primary class ② requires entity selection** | **7** | **Field 5** |
+| **Primary class ③ requires constitutive documents** | **5** | **Field 5** |
+| **Primary class ④ tax and accounting** | **8** | **Field 5** |
+| **Primary class ⑤ labour** | **2** | **Field 5** |
+| **Primary class ⑥ insurance and liability** | **6** | **Field 5** |
+| **Primary class ⑦ factual evidence** | **1** | **Field 5 — `CQ-06`** |
+| **Primary class ⑧ founder decision** | **0** | **Field 5 — no question in the register has a founder decision as its *primary* class; **11 rows carry it as a secondary class, which is why §V.3's secondary total is 79**** |
+| **Primary class ⑨ governance decision** | **4** | **Field 5** |
+| **Primary class ⑩ cannot yet be answered** | **1** | **Field 5 — `CQ-31`, **`H-Q17`**** |
+| **Sum of primary classes** | ### **`35`** | **1 + 7 + 5 + 8 + 2 + 6 + 1 + 0 + 4 + 1** |
+| **Entity dependency `YES`** | **21** | **Field 9** |
+| **Entity dependency `PARTLY`** | **7** | **Field 9** |
+| **Entity dependency qualified `NO`** | **6** | **Field 9 — `CQ-21`, `CQ-25`, `CQ-26`, `CQ-27`, `CQ-28`, `CQ-33`** |
+| **Entity dependency unqualified `NO`** | **1** | **Field 9 — `CQ-06`** |
+| **Sum of entity dependencies** | ### **`35`** | **21 + 7 + 6 + 1** |
+| **Rows with a stated `NEXT DEPENDENCY` in field 15** | **35** | **No row is empty; **1 row states `None` and names what it feeds instead — `CQ-21`**** |
+| **Questions whose answer feeds `SR-01` itself** | **8** | **`CQ-01 … CQ-04`, `CQ-28`, `CQ-29`, `CQ-34`, `CQ-35`** |
+| **Questions on the `CP-2` critical path** | **35** | **Every question is on it, because **`ID-18` — the eleven pre-pilot validations — depends on all of them**** |
+| **Circular dependencies** | **3** | **§XXI.5** |
+| **False dependencies recorded** | **7** | **§XXI.6** |
+| **Dependency steps available today** | ### **`2 OF 18`** | **§XXI.2 — `ID-1` as a framework only, `ID-13` in full** |
+
+## XXI.8 The one dependency, and the one act that removes it
+
+**[P]** `[SOURCE]` — **[S-F:1878]**; **[S-K(E): §XXVI]**; **U-PD-16**.
+
+| Item | **Content** |
+|---|---|
+| **The dependency on which everything else waits** | **`SR-01` / `ID-1` / `LDR-U08`. **Sixteen of eighteen dependency steps sit behind it. Nineteen of twenty-two `PVR` items depend on it. It gates **`P0-A`** and **`P0-B`**. It is **`BLOCKER A / Tier 0`**, ranked first in the corpus's own dependency tree **[S-F:604]**** |
+| **What its evidence field says** | ***"A written decision plus counsel opinion"*** — **[S-F:1878]** |
+| **What its next-action field says** | ***"Commission counsel"*** — **[S-F:1878]** |
+| **How many times that next action has been performed** | **Six times by six instruments, and a seventh time by this brief. **The register never advanced** — **U-PD-16** **[S-K(E): §XXVI]** |
+| **Why six performances produced no advance** | **Because an instrument cannot commission. A document can describe a commission, specify its scope, list its deliverables and identify its performer — and it can do all of that correctly — and still not be the commission. **Only a person can send it. Only a person can sign it. Only a person can pay for it, and **`C-15`** and **`PP-04`** mean that person will have to pay personally, on a recorded founder decision, with qualified tax advice** |
+| **The act that removes it** | **One natural person — **`U-PD-9`** — sends the instruction at **Part XXIII** to a qualified Indian professional, with the disclosure pack at **Part XXIV** attached, requiring the output format at **Part XXV**, and pays for it personally on a recorded founder decision** |
+| **What this brief can do about it** | **Make the instruction copy-and-sendable, make the disclosure pack complete as a checklist without filling in a single field, and state the format in which the answer must come back. **That is Parts XXIII, XXIV and XXV, and it is all of it. **This brief is not the act**** |
+
+> ### **`EVERY DEPENDENCY IN THIS PART RESOLVES, IN THE END, TO ONE FACT THAT IS NOT ARCHITECTURAL: WHETHER A HUMAN BEING HAS SENT A LETTER. THE ARCHITECTURE CANNOT SEND IT. NO PART OF THIS DOCUMENT CAN SEND IT. PART XXIII EXISTS SO THAT THE SENDING IS THE ONLY THING LEFT TO DO.`**
+
+---
+
+# PART XXII — BLOCKERS AND STOP CONDITIONS
+
+## XXII.1 Four things that are routinely confused, and are not the same
+
+**[P]** `[SOURCE]`. **Conflating these four is how an architecture acquires a false sense of progress: a prohibition is read as a task, a gate is read as a blocker, and a stop condition is read as a delay.**
+
+| Term | **What it is** | **What it does** | **How it ends** | **Corpus anchor** |
+|---|---|---|---|---|
+| **`BLOCKER`** | **A capability that may not activate until something is resolved** | **It withholds activation. **The corpus's own taxonomy classifies nine of the absent mechanisms as blockers — ***"the capability may not activate until resolved"*** **[S-F:158]**** | **By the thing being resolved — a decision, a validation, a build or a funding** | **[S-F] Part V, `BLK-A … BLK-F`** |
+| **`PROHIBITION`** | **An act that may not be performed at all, in force now, irrespective of progress** | **It forbids conduct. **It is not a queue; it is a boundary** | **Only when its own stated condition is met — and for several, never by this organisation's own decision** | **`C-10 … C-29` **[S-K(E):1594–1613]**; `PP-01 … PP-09` **[S-J:1672–1684]**** |
+| **`GATE`** | **A formal, conjunctive authorisation test with an evidence requirement** | **It decides whether something may be declared ready. ***"A PASS requires evidence, not assertion"*** — Rule F-14 **[S-F:968]**** | **By evidence being produced and recorded, sub-gate by sub-gate** | **`P0-A … P0-J` **[S-F:972–981]**** |
+| **`STOP CONDITION`** | **A rule that requires work to cease and escalate when a specified situation arises** | **It halts activity already under way. **A blocker prevents starting; a stop condition ends what has started** | **It does not end. It is obeyed, then the matter is escalated** | ***"Stop-work and escalate, never enforce"*** — **`VG-1`**; **[S-D: §36.4 `VG-2`]** — any instruction to detain, search, confiscate, interrogate or expel is outside every role's authority; **§9.2 rules 1 and 2 **[S-A:719–726]**** |
+
+> ### **`THIS BRIEF CONTAINS NO BLOCKER IT CAN REMOVE, NO PROHIBITION IT CAN LIFT, NO GATE IT CAN PASS AND NO STOP CONDITION IT CAN WAIVE. WHAT IT CONTAINS IS A PRECISE STATEMENT OF EACH, SO THAT NOTHING IS DONE IN IGNORANCE OF THEM.`**
+
+## XXII.2 The corpus's blocker taxonomy — six categories, 83 items, counted
+
+**[P]** `[SOURCE]` — **[S-F] Part V, §§V.1–V.7.** Counts were produced by extracting every `BLK-` identifier in the instrument and de-duplicating. **No figure is estimated.**
+
+| Category | **Section** | **Title, verbatim** | **Items** | **What the category means for this brief** |
+|---|---|---|---|---|
+| **`BLK-A`** | **V.2, 631–647** | ### **`MUST DECIDE BEFORE PILOT`** | **13** | **These are decisions, not tasks. **`BLK-A-01` is `SR-01`; **`BLK-A-03` is `A-N16` **[S-F:637]**; **`BLK-A-12` is the founder-compensation record; **`BLK-A-13` is the privacy officer. **Every one of the 35 questions in this brief sits inside this category or is blocked by it**** |
+| **`BLK-B`** | **V.3, 649–663** | ### **`MUST VALIDATE BEFORE PILOT`** | **11** | **These are professional validations. **`BLK-B-01` entity form and objects clauses permitting all four pillars; **`BLK-B-02` tax position; **`BLK-B-03` worker classification; **`BLK-B-04` written answers to `L1 … L15`; **`BLK-B-05` the intervention boundary. **This category is what Part XXIII is commissioned to discharge**** |
+| **`BLK-C`** | **V.4, 665–681** | ### **`MUST BUILD BEFORE PILOT`** | **11** | ***"Eleven items. **All are paper or human; none is software"*** **[S-F:667]**. **`BLK-C-01` the entity and its governing documents; **`BLK-C-08` the public local record on paper; **`BLK-C-11` the decision register in operation. **This brief builds none of them and designs none of them**** |
+| **`BLK-D`** | **V.5, 683–704** | ### **`MUST FUND / RESOURCE BEFORE PILOT`** | **14** | ***"No rupee value is asserted. **Every entry is a funding *requirement*, and every amount is unknown"*** **[S-F:685]**. **`BLK-D-07` is *"professional fees for `BLK-B-01 … BLK-B-11`"*, whose variable is *"not stated anywhere"* **[S-F:695]**. **That is the cost of this brief's own instruction, and it is unfunded — CEA `F-10`, and §XXI.5 circle 2**** |
+| **`BLK-E`** | **V.6, 706–729** | ### **`MAY BE TESTED DURING PILOT`** | **18** | **`BLK-E-01` is *"numeric values for every interval, ratio, threshold and period"*, whose note records that ***"the source deliberately does not invent numbers"*** **[S-F:712]**. **Mandate §24 of this brief does the same** |
+| **`BLK-F`** | **V.7, 731–750** | ### **`MAY SAFELY WAIT UNTIL AFTER PILOT`** | **16** | **`BLK-F-01` is *"the software platform — all 14 modules"*, recorded as *"explicitly not a blocker"* from **[S-A: §23.1]** and **[S-B: §40]** no technology **[S-F:735]**. **No software is designed, authorised or implied anywhere in this brief** |
+| **Total** | **V.1–V.7** | — | ### **`83`** | **13 + 11 + 11 + 14 + 18 + 16. **Separately, the source's own nine blockers are carried as `A-B1 … A-B9` **[S-F:2286]**** |
+
+## XXII.3 The nine pilot blockers, in the corpus's own dependency order
+
+**[P]** `[SOURCE]` — **[S-F:161]**, item 5 of the instrument's own headline register, answering *"What are the top pilot blockers?"* with ***"Nine, in dependency order."*** **Reproduced in order. Nothing is added, reordered or re-characterised. The instrument adds, after the nine: *"plus two v1.2 launch blockers of its own: a comms policy and an approved non-police ID card design [S: Ch.31]"*.**
+
+| # | **The blocker, as the corpus states it** | **What it blocks, as the corpus states it** | **The questions in this brief** |
+|---|---|---|---|
+| **1** | **Legal entity structure, tax position and worker classification — `UNRESOLVED`** | ***"Blocks everything involving money, contracts and employment, and therefore blocks priority-1 worker compensation, which is the whole economic premise"*** | **`CQ-01 … CQ-09`, `CQ-16 … CQ-18`, `CQ-28 … CQ-35`** |
+| **2** | **Written answers to the insurance and liability questions `A-10 §9.1 L1 … L15`** | ***"Blocks all protection and first-response activity"*** | **`CQ-22 … CQ-24`; Parts VIII and XVI** |
+| **3** | **Counsel review of the intervention boundary and mandatory reporting duties** | **The criminal and civil boundary of every protection act** | **`CQ-25`; Part XVI §XVI.5** |
+| **4** | **Political Neutrality Code adopted, plus counsel review** | **Any public act carrying political-perception exposure** | **`CQ-13`; **`BLK-A-04`, `C-29`**** |
+| **5** | **Public Protection Statement and DO-NOT list approved and published in operating languages** | **Any public description of the protection function** | **`CQ-24`, `CQ-25`; **`BLK-A-05`, `A-07`, `A-08`**** |
+| **6** | **Certified safeguarding — two-adult rule, image and consent absolutes, reporting protocol** | **Any activity involving minors** | **`CQ-26`; **`SR-31`, `BLK-A-06 … BLK-A-08`, `C-22`**** |
+| **7** | **Privacy minimum — classification, retention schedule, notice, breach runbook, named privacy officer** | **Any collection of personal data** | **`CQ-27`; **`SR-05`, `SR-06`, `BLK-A-13`, `C-23`**** |
+| **8** | **Protection Activation Gate adopted** | **Activation of the protection pillar at all** | **`CQ-24`, `CQ-25`; **`A-11`, `BLK-A-08`, `P0-F`, §9.2 rules 1–4**** |
+| **9** | **Bank mandate continuity and minimum signatories** | **Any payment, of any kind, to anyone** | **`CQ-10`, `CQ-19`, `CQ-33`; the whole of Parts X and XVIII** |
+
+> ### **`BLOCKER 1 IS THE ONLY ONE THIS BRIEF ADDRESSES DIRECTLY, AND IT ADDRESSES IT BY MAKING IT COMMISSIONABLE. THE OTHER EIGHT ARE REPRODUCED SO THAT NO ANSWER TO BLOCKER 1 IS OBTAINED IN IGNORANCE OF WHAT IT DOES AND DOES NOT UNBLOCK.`**
+
+## XXII.4 `GATE P0` — the pilot-authorisation gate, its conjunctive rule, and the error it exists to prevent
+
+**[P]** `[SOURCE]` — **[S-F] §VIII.1, 964–981; Rule F-14 at 968; §VIII.2 at 983; §VIII.3 at 1001–1017; Rule F-15 at 1019.**
+
+| Item | **Content** |
+|---|---|
+| **The gate** | **`P0-A` governance readiness · `P0-B` legal and compliance readiness · `P0-C` economic readiness · `P0-D` human-system readiness · `P0-E` leadership readiness · `P0-F` safety readiness · `P0-G` communication readiness · `P0-H` data and technology readiness · `P0-I` measurement readiness · `P0-J` funding and resource readiness **[S-F:972–981]**** |
+| **The rule** | **Rule F-14, *"`P0` is conjunctive and recorded"*: *"All ten sub-gates must PASS. **A PASS requires evidence, not assertion.** The authorisation record names: the sub-gate, the evidence produced, the responsible authority, the date, and — where a sub-gate FAILs — whether the pilot is blocked or whether the blocked capability is withdrawn from scope"*** **[S-F:968]**** |
+| **The escape the rule provides** | ***"The last option is the one that makes the gate usable: a FAIL on `P0-F` need not block a pilot that does no protection activity at all, provided the withdrawal is recorded and the capability is genuinely absent rather than nominally absent"*** **[S-F:968]**. **This brief records no withdrawal, because it authorises nothing** |
+| **Current position** | ### **`GATE P0 = 0 OF 10 PASS`** — **[S-K(E):1609]**, in the `C-25` row; **CEA `GATE P0 = 0 of 10`**. **22 of 22 Tier-0 items outstanding** |
+| **`P0-C` specifically** | ***"A bank account exists with ≥2 signatories and a continuity rule"*** **[S-F:974]** — this is `A-N16` expressed as a gate condition, and it is the reason **Part X** exists |
+| **What P0 does not require** | ***"Any software, platform, app, dashboard or AI feature"* — **[S-A: §23.1]**, **[S-B: §40]** no technology; and *"a mark, palette, logo or visual identity"* — `N-E-02` blocked by `A-N12`, with **[S-E: Rule E-65]** permitting word-only identification **[S-F:985, 989–990]** |
+| **What the gate exists to prevent** | ***"The organisation must not be declared pilot-ready merely because documents are complete — that is Rule F-1 and Part XVIII in operational form"*** **[S-F:966]**. **The error chain itself is reproduced below, verbatim** |
+
+**The error `P0` exists to prevent, reproduced verbatim from **[S-F:1005–1016]** — because this brief is a document, and the error is a document-shaped error:**
+
+```
+DOCUMENTS COMPLETE
+   -> "the architecture is comprehensive"
+   -> "therefore we are ready"
+   -> PILOT AUTHORISED
+   -> first payment cannot lawfully be made       (LDR-U08)
+   -> first public statement has no approved policy ([S: Ch.31])
+   -> first incident has no insurance answer      (A-N10)
+   -> first child activity has no certified safeguarding (A-B6)
+   -> first data collection has no retention rule  (A-N26)
+   -> PILOT HALTS, and the halt is attributed to "implementation problems"
+      rather than to nine decisions that were never made
+```
+
+> ### **`RULE F-15: "A HALTED PILOT IS A GOVERNANCE FAILURE, NOT AN OPERATIONAL ONE." WHERE A PILOT HALTS BECAUSE A `P0` SUB-GATE WAS NOT SATISFIED, THE FINDING IS RECORDED AGAINST THE AUTHORISATION, NOT AGAINST THE OPERATION. **[S-F:1019]**`**
+
+> ### **`THIS BRIEF IS THE SEVENTH DOCUMENT IN THIS SERIES. IT MUST NOT BE READ AS THE NEXT ARROW IN THAT CHAIN. IT DOES NOT MAKE THE ARCHITECTURE MORE COMPLETE; IT MAKES ONE MISSING ANSWER COMMISSIONABLE. A DOCUMENT THAT IS READ AS PROGRESS IS THE EXACT ERROR `GATE P0` WAS BUILT TO PREVENT.`**
+
+## XXII.5 The prohibition register — `C-10 … C-29`, twenty acts that may not be performed
+
+**[P]** `[SOURCE]` — **[S-K(E):1594–1613]**. **These are prohibitions in force now. They are not blockers awaiting resolution and they are not tasks awaiting scheduling. Each is reproduced with its own stated ground. Nothing here lifts any of them.**
+
+| ID | **The act that may not be performed** | **Its stated ground, in the register's own terms** | **Line** |
+|---|---|---|---|
+| **`C-10`** | **Badges** | **`GATE E0 … E7`; `CL-0 … CL-8`; `P0-G` fails** | **1594** |
+| **`C-11`** | **A State layer** | **[S-A: `A-L7`]; **[S-ST: §2.3]**; P0 does not require *"a second team, a City layer or a State layer"*** | **1595** |
+| **`C-12`** | **A City layer** | **As `C-11`; `K_min` and the City divisor shape are `NOT ESTABLISHED` — `LDR-U14`, `LDR-U15`** | **1596** |
+| **`C-13`** | **Contribution portability** | **Not authorised by any gate; requires records, a fiduciary and an entity** | **1597** |
+| **`C-14`** | **Automated leadership selection** | **`LDR-U01`, `LDR-U19` `AUTHORITY UNRESOLVED`; Gate R requires an out-of-team assessor** | **1598** |
+| **`C-15`** | ### **`Any external payment`** | **`A-N16 REMAINS BLOCKED`; **[S-A:1589]** *"before the first external payment"*; and, quoted at **[S-I: §XIII.3]** and preserved verbatim at **[S-K(E):1139]**: ***"no external payment can lawfully or operationally be made"*** | **1599** |
+| **`C-16`** | **Paying worker compensation at priority 1** | **As `C-15`; **`PP-04`**: *"a payment made informally is not a mandate"*** | **1600** |
+| **`C-17`** | **Paying the organisation service fee at priority 5** | **As `C-15`; *"its recipient is not identified"* — `H-Q17`** | **1601** |
+| **`C-18`** | **Distributing residual surplus or founder upside at priority 8** | **As `C-15`; **`GC-01`** unresolvable while the form is undecided** | **1602** |
+| **`C-19`** | **Collecting funds** | **No legal person; no account** | **1603** |
+| **`C-20`** | **Employing or engaging anyone as a worker** | **`LDR-U09` / `SR-02` `UNRESOLVED`** | **1604** |
+| **`C-21`** | **Operating the protection function** | **`P0-F` fails; **`PP-06`**** | **1605** |
+| **`C-22`** | **Any activity involving minors** | **`SR-31` certified safeguarding outstanding** | **1606** |
+| **`C-23`** | **Collecting personal data** | **`A-N14` `UNRESOLVED`; **[S-A:1587]** regulatory duties unassignable; **`PP-05`** | **1607** |
+| **`C-24`** | **Publishing any claim above `CL-1`** | **`P0-G` FAIL condition** | **1608** |
+| **`C-25`** | ### **`Running the pilot`** | **`GATE P0 = 0 of 10`; **22 of 22 Tier-0 items outstanding**; `PP-01 … PP-09`; **`U17-R9 CIRCULAR DEPENDENCY AND STOP`**** | **1609** |
+| **`C-26`** | **Inferring any foundational fact from any activity** | **`PP-01 … PP-09`, preserved; Rule K-4** | **1610** |
+| **`C-27`** | **Procuring technology** | **`SR-77` — Tier 0 refusal; **[S-A: §23.1]**; **[S-B: §40]**** | **1611** |
+| **`C-28`** | **A national day, an eponymous artefact or a ceremony** | **Founder-cultivation control; the anti-personality provisions** | **1612** |
+| **`C-29`** | **Colour reservation** | **`SR-90` — Tier 0 refusal** | **1613** |
+
+> ### **`TWENTY PROHIBITIONS. SIX OF THEM — `C-15`, `C-16`, `C-17`, `C-18`, `C-19` AND `C-20` — ARE ECONOMIC, AND ALL SIX REST ON THE SAME TWO FACTS: THERE IS NO LEGAL PERSON, AND THERE IS NO BANK MANDATE. THIS BRIEF'S ENTIRE SUBJECT IS THOSE TWO FACTS.`**
+
+## XXII.6 The pilot-protection prohibitions — `PP-01 … PP-09`
+
+**[P]** `[SOURCE]` — **[S-J] §XX.1, heading at 1672, rows at 1676–1684; carried at **[S-J:147]**, **1321**, and **1354** as `DG-24`; preserved verbatim by Rule K-66 and **DA-20**.** **These nine prohibit the inference of a foundational fact from the performance of an activity. They are the reason nothing in this brief converts an assertion into a status.**
+
+| ID | **The fact that may not be inferred** | **The register's stated ground** | **Line** |
+|---|---|---|---|
+| **`PP-01`** | **Krytos's legal existence** | ***"Running an activity says nothing about whether a body exists"*** | **1676** |
+| **`PP-02`** | **Krytos's ownership** | ***"0 of 56 concept cells established"; `CF-01 … CF-02` …*** | **1677** |
+| **`PP-03`** | **Entity status** | **[S-G:2323]: ***"there is no legal person to incur cost, hold property or be sued"*** | **1678** |
+| **`PP-04`** | **Bank authority** | **`A-N16 REMAINS BLOCKED` — five tests, five failures** | **1679** |
+| **`PP-05`** | **Fiduciary identity** | **`FIDUCIARY IDENTITY REMAINS OPEN`** | **1680** |
+| **`PP-06`** | **Insurance coverage** | **`QUESTION FOR BROKER / COUNSEL` — activity performed is not cover** | **1681** |
+| **`PP-07`** | **Employment status** | **`LDR-U09` / `SR-02` `UNRESOLVED`** | **1682** |
+| **`PP-08`** | **Legal permission** | ***"No permission to operate exists, is granted or is implied"*** | **1683** |
+| **`PP-09`** | **The ninth, as stated in the register** | **See **[S-J:1684]** — reproduced there, not paraphrased here** | **1684** |
+
+**[P]** `ER-2` records that the CEA characterises **`PP-04`** loosely at §XXIX.1 rule 5 and at `PVR-21`, as though it *restricted instruction to the founder as a natural person*. **It does not. `PP-04` is a prohibition on inferring bank authority from activity. The restriction on who may instruct counsel comes from **`U-PD-9`** and from **`C-15`**, and Part XXIII is written on that basis.**
+
+## XXII.7 The stop conditions, and what each requires when it fires
+
+**[P]** `[SOURCE]`. **A stop condition is obeyed first and argued afterwards. Each row states what must happen the moment the condition arises.**
+
+| # | **Stop condition** | **What it requires** | **Anchor** |
+|---|---|---|---|
+| **1** | **An instruction to detain, search, confiscate, interrogate or expel any person** | ### **`STOP. The instruction is outside every role's authority and may not be obeyed by anyone.`** | **[S-D: §36.4 `VG-2`]** |
+| **2** | **Any instruction that would require enforcement rather than escalation** | **`VG-1`: ***"stop-work and escalate, never enforce"*** | **[S-C]; [S-D: §36.4]** |
+| **3** | **A protection activity undertaken without written confirmation of the relevant insurance rows** | **§9.2 rule 1: **no written confirmation, no activation** | **[S-A:719–722]** |
+| **4** | **Any attempt to publish the Public Protection Statement before `L2`, `L3`, `L4`, `L8` and `L12` exist** | **§9.2 rule 2: ***"`A-07` may not be published"*** before those five rows are answered | **[S-A:719–726]** |
+| **5** | **Any representation that a person is covered** | **§9.2 rule 4: ***"nothing may be represented as cover unless the insurer confirms it in writing"***. **Rule 3 requires a written cover statement for every safety-role member** | **[S-A:719–726]** |
+| **6** | **A protection member abandoned by the organisation** | **§9.3 stage 7 and **`F-10`**: ***"abandoning such a member is the single most damaging possible internal event"***. **The eight-stage sequence at **[S-A:727–740]** governs; **only stage 4 is partially executable today** | **[S-A:727–740]** |
+| **7** | **A circular dependency encountered during work** | **`U17-R9 CIRCULAR DEPENDENCY AND STOP` — recorded in the `C-25` row itself** | **[S-K(E):1609]** |
+| **8** | **Any claim published above `CL-1`** | **`C-24`; the `P0-G` FAIL condition; **`CL-0 … CL-8`**** | **[S-K(E):1608]** |
+| **9** | **Any foundational fact inferred from an activity that has occurred** | **`C-26` and **`PP-01 … PP-09`**; Rule K-4** | **[S-K(E):1610]**; **[S-J:1676–1684]** |
+| **10** | **A pilot halted because a `P0` sub-gate was unsatisfied** | **Rule F-15: **the finding is recorded against the authorisation, not against the operation** | **[S-F:1019]** |
+
+## XXII.8 This brief's own stop conditions — twelve, self-imposed and in force
+
+**[P]** `[PROPOSED]` as to their formulation; `[SOURCE]` as to each of their origins. **These bind this document and every document derived from it. Any one of them firing makes the offending passage a defect, not a judgement call.**
+
+| # | **This brief must stop if it is about to** | **Origin** | **The condition as observed here** |
+|---|---|---|---|
+| **1** | **Select, recommend, rank or prefer any legal form** | **Mandate §10; Rule G-18** | **Parts V and IX present **`OPT-A … OPT-J`** and score them only from corpus statements. **No form is selected, ranked or preferred anywhere in this brief**** |
+| **2** | **Answer any question in fields 11 or 12 of the register** | **Mandate §21, §30** | **All 35 rows read `[TO BE COMPLETED BY COUNSEL]` — verified by extraction, not by inspection** |
+| **3** | **State a legal, tax or accounting conclusion** | **Mandate §25, §32** | **Every determination in this brief is either `[SOURCE]`, `[PROFESSIONAL QUESTION]` or `[PROFESSIONAL ANSWER REQUIRED]`. **None is a conclusion**** |
+| **4** | **Write a number that is not a count of something in this brief or a location in a source** | **Mandate §24** | **No rupee figure, no percentage, no ratio, no threshold, no salary, no reserve target and no pilot figure appears anywhere. **Statutory digits are cited by location only, marked `CURRENT-LAW PROFESSIONAL VERIFICATION REQUIRED`**** |
+| **5** | **Restate a figure that exists in a source** | **Mandate §3, §24** | **The waterfall's eight priorities are reproduced as an order; **`SR-16`'s eight weights and **`SR-22`'s three percentages are named and **not restated**** |
+| **6** | **Convert an assertion into a fact, a proposal into a decision, or a question into an answer** | **Mandate §22; Rule K-4** | **The seven tags are applied and never upgraded. **`FA-1 … FA-7` remain assertions in every Part that cites them**** |
+| **7** | **Convert any of the five Krytos statements into legal-person status, ownership, control, fiduciary identity, parent or subsidiary status, tax status, jurisdiction or authority** | **Mandate §2; the five forbidden assumptions of v1.3-H; `PP-01 … PP-09`** | **Part XII preserves 7 assertions · 8 separations · 10 pairings · 0 permissible transfers · 2 impossible arrangements, and invents no salary, dividend, profit share, fee, licence, royalty, transfer or agreement** |
+| **8** | **Treat the blueprint as a source of anything** | **Mandate §3; **`FD-1`; **EV-B-01**** | **No percentage, budget, ratio, funding figure, reserve percentage, venture assumption or legal structure is inherited from it. ***"Zero-Capital"* is not stated as an established fact anywhere in this brief** |
+| **9** | **Produce a CEA v2, a v1.3-L, a replacement or successor architecture, a new blueprint, or a pilot or implementation design** | **Mandate §4; **`DA-31`**** | **This brief is a work package. **It designs nothing, pilots nothing and implements nothing. **`ID-13` — the prohibition set — is the only CEA dependency step it discharges, and it discharges it by reproduction**** |
+| **10** | **Design, specify, authorise or imply any software** | **`C-27`; **`SR-77`; **BLK-F-01**; **[S-A: §23.1]**; **[S-B: §40]**; **[S-F:989]**** | **No system, platform, module, dashboard, ledger, provider or integration appears in this brief. **Where the CEA permits a paper record, this brief says *"paper"*** |
+| **11** | **Fill in any field of the founder disclosure pack** | **Mandate §29** | **Part XXIV is a checklist in **KNOWN / UNKNOWN / DOCUMENT REQUIRED / FOUNDER CONFIRMATION REQUIRED**. **Every field is left empty by design**** |
+| **12** | **Tell counsel what to answer** | **Mandate §28** | **Part XXIII states scope, deliverables, constraints and format. **It contains no view on any option, no ranking, no recommendation and no preferred outcome. **`U-PD-15` is obeyed: the question is not *"which option is correct"*'**** |
+
+## XXII.9 What lifts what
+
+**[P]** `[SOURCE]`. **Each row states the condition on which a blocker or prohibition ends. Where the corpus states the condition, its words are used. Where it does not, the row says so — and does not invent one.**
+
+| Item | **Its lift condition** | **Who can satisfy it** | **Position** |
+|---|---|---|---|
+| **`BLK-A-01` / `SR-01` / `ID-1`** | ***"A written decision plus counsel opinion"*** **[S-F:1878]** | **The founder, on counsel's written opinion** | **`NOT DONE` — next action performed seven times, register never advanced — **U-PD-16**** |
+| **`BLK-A-03` / `SR-03` / `A-N16`** | **A mandate document with two or more signatories and a continuity rule, and a bank account to attach it to** | **The entity's officers, once the entity exists** | **`NOT REACHED` — `T-1 … T-5` = 0 of 5; **`P0-C` fails**** |
+| **`BLK-A-12` / `SR-20` / `LDR-U16`** | ***"A recorded position, even if nil"*** **[S-F:1897]**, given by a disinterested approver because the beneficiary must recuse | **Governance counsel must first say who can approve it** | **`AUTHORITY UNRESOLVED (beneficiary recusal)` — **CF-16** *"cannot be managed"*** |
+| **`BLK-B-04` / `SR-04` / `L1 … L15`** | ***"A question that must be answered in writing by a qualified professional, with the answer retained as a governance record under [S: Ch.27]"*** **[S-A:699]** | **An insurance broker and liability counsel** | **`NOT DONE` — §9.2 rule 1 bars activation until it is** |
+| **`BLK-D-07`** | **Funding for the professional fees of `BLK-B-01 … BLK-B-11`, whose variable is *"not stated anywhere"*** **[S-F:695]** | **The founder personally — **`REQUIRES FOUNDER DECISION` and `REQUIRES QUALIFIED TAX ADVICE`, because the organisation may not pay while **`A-N16 REMAINS BLOCKED`** and **`PP-04`** stands **[S-K(E): §XXVI]**** | **`UNFUNDED` — CEA `F-10`, an unfunded mandate; **§XXI.5 circle 2**** |
+| **`C-15` and its five economic siblings** | **`BLK-A-01`, then `BLK-A-03`, then `BLK-B-03`** — in that order, because a payment needs an obligor, then an account, then a classification | **Not this brief, and not any instrument** | **`IN FORCE`. ***"No external payment can lawfully or operationally be made"*** **[S-I: §XIII.3]**, preserved at **[S-K(E):1139]**** |
+| **`C-25`** | **`GATE P0` — all ten sub-gates PASS on evidence** | **The authorising authority, once one exists** | **`IN FORCE` — 0 of 10; **`U17-R9 CIRCULAR DEPENDENCY AND STOP`**** |
+| **`C-26`, `C-27`, `C-29`, `PP-01 … PP-09`** | ### **`No lift condition exists. These do not expire, and no decision of this organisation ends them.`** | **No one** | **`IN FORCE, PERMANENTLY`** |
+| **`GC-01`** | **A legal form whose objects permit both the eight-priority waterfall and the not-for-profit restriction — or a professional opinion that no such form exists** | **Corporate counsel and tax counsel jointly** | **`SUBSTANTIVE CONFLICT, UNRECONCILED` **[S-G:491]** — both texts reproduced at §IX.6, neither preferred** |
+| **`LDR-U19` / `SR-10`** | **The corpus states none. ***"Not named anywhere in the source hierarchy"***; the body that would decide is the subject of the decision **[S-F:159]** | **The founder personally, or a court, or a professional appointed for the purpose** | **`AUTHORITY UNRESOLVED` — **§XXI.5 circle 1. **This brief invents no mechanism**** |
+
+## XXII.10 The single point at which this brief touches a blocker
+
+| Item | **Content** |
+|---|---|
+| **The blocker** | **`BLK-A-01`, which is `SR-01`, which is `ID-1`, which is `LDR-U08`, which is blocker 1 of the nine at **[S-F:161]**, which is `BLOCKER A / Tier 0`, which gates `P0-A` and `P0-B`, which is ranked first in the dependency tree at **[S-F:604]**, and behind which sixteen of eighteen dependency steps sit** |
+| **Its evidence field** | ***"A written decision plus counsel opinion"*** |
+| **Its next-action field** | ***"Commission counsel"*** |
+| **What this brief changes about it** | ### **`Nothing in the register. Everything about the feasibility of the next action.`** |
+| **Why that is not nothing** | **`U-PD-16` records that six instruments performed the next action and the register never advanced. **The reason is not analytical: no instrument can send a letter. **This brief is the seventh instrument, and it will not advance the register either, unless Part XXIII is sent by a person. **§XXX.2 makes that the verdict's operative qualification, and the last sentence of this document names the single act**** |
+| **What this brief does not change** | **No blocker is removed. **No prohibition is lifted. **No gate is passed. **No stop condition is waived. **No decision is made. **No entity is selected. **No number is written. **No certainty is created** |
 
 ---
