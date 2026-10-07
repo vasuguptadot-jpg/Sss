@@ -1787,7 +1787,7 @@ NEXT DEPENDENCY
 | **L1** | **What insurance products are available and appropriate for a mass-membership voluntary organisation performing community service and emergency first response in India? What are their standard exclusions?** | **Insurance broker / adviser **`[V]`**** | ***"The organisation cannot design its protocol around cover it cannot obtain"*** | **`UNKNOWN`** |
 | **L2** | **What personal accident or medical-expense cover can be provided for members acting in organisational capacity, at what cost per member, and what activities are excluded?** | **Broker **`[V]`**** | ***"A member injured while helping is the most morally urgent liability the organisation has"*** | **`UNKNOWN`** |
 | **L3** | **What public/third-party liability cover is available for service activities, events, distributions, and emergency assistance — including injury to a person being helped and damage to property?** | **Broker **`[V]`**** | ***"Third-party claims arise from ordinary service, not only from protection activity"*** | **`UNKNOWN`** |
-| **L4** | **Is any cover available at all for acts of "protection" or "first response"? If not, what is the consequence for the pillar's design?** | **Broker + counsel **`[V]`**** | ***"If this class of activity is uninsurable, the activity must be redesigned or not activated (A-11)"*** | **`UNKNOWN` — AND THIS IS THE ONLY ROW WHOSE ANSWER COULD DELETE AN ARCHITECTURAL PILLAR`** |
+| **L4** | **Is any cover available at all for acts of "protection" or "first response"? If not, what is the consequence for the pillar's design?** | **Broker + counsel **`[V]`**** | ***"If this class of activity is uninsurable, the activity must be redesigned or not activated (A-11)"*** | **`UNKNOWN` — AND THIS IS THE ONLY ROW WHOSE ANSWER COULD DELETE AN ARCHITECTURAL PILLAR** |
 | **L5** | **What professional indemnity is required where members give advice (legal, tax, medical-adjacent, technical, engineering, safeguarding)?** | **Broker + counsel **`[V]`**** | ***"The Specialist tier (stress-test §9) will include professionals; their advice creates exposure"*** | **`UNKNOWN`** |
 | **L6** | **What cover is required for officers, governors and the founder personally, given that the Council structure is not yet constituted **[S: Ch.33]**?** | **Broker + counsel **`[V]`**** | ***"Personal exposure deters capable people from governance roles"*** | **`UNKNOWN`** |
 | **L7** | **What is the organisation's potential liability for a member's acts — vicarious, principal, or otherwise — and how does that change with member classification (volunteer / stipend / contract / employee)?** | **Counsel **`[V]`**** | ***"Classification is UNRESOLVED **[S: Ch.33]**, so liability is currently indeterminate"*** | **`UNKNOWN — AND INDETERMINATE UNTIL `SR-02` AND `CD-01` RETURN`** |
@@ -1820,7 +1820,7 @@ NEXT DEPENDENCY
 | **RSK-1** | **Personal injury or medical expense of a member acting in organisational capacity** | **L2** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION`** — the corpus calls it *"the most morally urgent liability the organisation has"* |
 | **RSK-2** | **Injury to a person being helped, including during emergency assistance** | **L3** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION`** |
 | **RSK-3** | **Damage to third-party property during service, events or distributions** | **L3** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION`** |
-| **RSK-4** | **The uninsurability of protection and first-response activity as a class** | **L4** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION` — AND THE ONLY CLASS THAT COULD REQUIRE A PILLAR TO BE REDESIGNED OR NOT ACTIVATED (`A-11`)`** |
+| **RSK-4** | **The uninsurability of protection and first-response activity as a class** | **L4** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION` — AND THE ONLY CLASS THAT COULD REQUIRE A PILLAR TO BE REDESIGNED OR NOT ACTIVATED (`A-11`)** |
 | **RSK-5** | **Professional advice exposure — legal, tax, medical-adjacent, technical, engineering, safeguarding** | **L5**, **[S-C:4126 HV-5]** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION`** — and **[S-C: §47.3]** already holds that *"internal training is not legally sufficient"* |
 | **RSK-6** | **Personal exposure of officers, governors and the founder** | **L6**, **[S-A:2340 V4]**, **[S-B:3999 EV-5]** — *"trustee liability"* | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION`** — *"personal exposure deters capable people from governance roles"*, which is also the answer to why **`GD-01`** may never be filled by an invented body |
 | **RSK-7** | **Vicarious, principal or other liability for a member's acts, varying with classification** | **L7**, **`SR-02`**, **`CD-01`**, **`CD-18`** | **`SOURCE REQUIREMENT`** | **`UNKNOWN`** | **`PROFESSIONAL QUESTION`** — and **indeterminate until classification is determined**, which is why **`PP-07`** is `UNKNOWN` |
@@ -2017,7 +2017,7 @@ NEXT DEPENDENCY
 | **No statement that any of the four *"is personally liable"*** | **Mandate §8, §18. **`UD-06` is a `PROFESSIONAL QUESTION` in every one of the four columns, and **L6**, **L7**, **RSK-6**, **RSK-7** are all `UNKNOWN`** |
 | **No statement that any of the four *"is protected"*** | **Same. **L9** asks what protections apply *"if any"*; **§9.2 rule 4** bars any representation of cover; **`PP-06`** |
 | **No statement that unpaid status removes, reduces or increases liability** | **Whether liability attaches to a **function** or to **remuneration** is exactly the question **`UD-06`** and **`UD-07`** put to counsel. **Answering it here would be answering it**** |
-| **No statement that any role-holder is a volunteer, an employee, a worker, a contractor, an officer, a trustee or a fiduciary** | **`UD-05`, **`UD-07**; **`SR-02`, **`PP-05`, **`PP-07`, **CD-01**, **CD-18** are all `UNKNOWN`** |
+| **No statement that any role-holder is a volunteer, an employee, a worker, a contractor, an officer, a trustee or a fiduciary** | **`UD-05`, `UD-07`; `SR-02`, `PP-05`, `PP-07`, `CD-01`, `CD-18` are all `UNKNOWN`** |
 | **No proposal to pay any of the four from any source** | **`UD-02` is `PROHIBITED` for all four; **`J-15`** is permanent; **`GD-02`** is a governance decision and not this brief's to make. **The delta audit records the honest statement of the problem: *"the organisation may not pay"* — `A-N16` remains blocked and **`PP-04`** applies**** |
 | **No proposal that the founder pay any of the four personally** | **`REQUIRES FOUNDER DECISION` + `REQUIRES QUALIFIED TAX ADVICE`** **[S-K(E): §XXVI]**; and it would engage **`SEP-5`**, **`AG-10`**, **`AH-15`**, **`TX-16`** |
 | **No number — no stipend, honorarium, allowance, reimbursement, premium or cost per member** | **Mandate §24; **`L2`** asks *"at what cost per member"* and the answer is `UNKNOWN`; **V-01 … V-22** remain empty** |
@@ -2268,7 +2268,7 @@ NEXT DEPENDENCY
 | **7** | **`FACTS REQUIRED`** | **What only the founder and the role-holders can supply** |
 | **8** | **`DOCUMENTS REQUIRED`** | **What must be in counsel's hands** |
 | **9** | **`ENTITY DEPENDENCY`** | **`YES` · `NO` · `PARTLY` — stated, never assumed** |
-| **10** | **`TAGS`** | **From the seven tags at §IV. **Never upgraded: an `ASSERTION` does not become a `FACT`, a `PROPOSAL` does not become a `DECISION`, a `QUESTION` does not become an `ANSWER**** |
+| **10** | **`TAGS`** | **From the seven tags at §IV. **Never upgraded: an `ASSERTION` does not become a `FACT`, a `PROPOSAL` does not become a `DECISION`, a `QUESTION` does not become an `ANSWER`** |
 | **11** | **`PROFESSIONAL DETERMINATION`** | **`[TO BE COMPLETED BY COUNSEL]` — in every row, without exception** |
 | **12** | **`CONDITIONS / ASSUMPTIONS`** | **`[TO BE COMPLETED BY COUNSEL]` — in every row, without exception** |
 | **13** | **`CONSEQUENCE IF ANSWERED`** | **What unblocks** |
@@ -2560,7 +2560,9 @@ NEXT DEPENDENCY
 | **`ER-1 … ER-6`** | **§III.2** | **The errata and reconciliations against the CEA** | **6** |
 | **`CQ-01 … CQ-35`** | **Part XIX** | **The professional question register** | **35** |
 | **`CQ-GAP-1 … CQ-GAP-5`** | **§XIX.10** | **The five corpus register entries this brief does not fully carry** | **5** |
-| **Total coined** | **23 distinct prefixes** | — | ### **`250`** |
+| **`DIS-01 … DIS-50`** | **Part XXIV** | **The founder disclosure pack — 22 `KNOWN` items cited rather than coined, and 50 blank fields** | **50** |
+| **`AT-01 … AT-15`** | **Part XXIX** | **The acceptance tests** | **15** |
+| **Total coined** | **25 distinct prefixes** | — | ### **`315`** |
 
 ## XX.5 `SOURCE LOCATION NOT VERIFIED` — the register, and the finding that it is empty
 
@@ -2568,11 +2570,11 @@ NEXT DEPENDENCY
 
 | Step | **What was done** | **Result** |
 |---|---|---|
-| **1** | **Every identifier in this brief was extracted by pattern and de-duplicated** | ### **`636 DISTINCT IDENTIFIERS`** |
-| **2** | **Those beginning with one of the 23 prefixes registered at §XX.4 were classified as coined by this brief, and each was checked against §XX.4 for a definition site** | **243 coined. **All defined — no coined identifier appears in this brief without a Part that defines it. **243 is not 249 because six of the §XX.4 entries name ranges or single identifiers counted by definition site, not by occurrence**** |
-| **3** | **The remaining 393 were each searched, as literal strings, across the entire corpus — `appendix.txt`, `extracted_text.txt`, `main_body.txt`, the source PDF's text, the architecture brief, `v1.3-A … v1.3-F`, the stress test — and across every instrument in this repository: `v1.3-G … v1.3-K`, the delta audit, the EV-B-01 record and the CEA** | **392 located** |
+| **1** | **Every identifier in this brief was extracted by pattern and de-duplicated** | ### **`745 DISTINCT IDENTIFIERS`** |
+| **2** | **Those beginning with one of the 25 prefixes registered at §XX.4 were classified as coined by this brief, and each was checked against §XX.4 for a definition site** | **308 matched the extraction pattern. **The definition register at §XX.4 names **315**, and all 315 were searched for individually: **every one is present in this file, and none appears without a Part that defines it**. **The seven the pattern did not match are single-digit forms — `TX-1 … TX-3` and `ER-1 … ER-6` — which a two-digit pattern cannot capture**** |
+| **3** | **The remaining 437 were each searched, as literal strings, across the entire corpus — `appendix.txt`, `extracted_text.txt`, `main_body.txt`, the source PDF's text, the architecture brief, `v1.3-A … v1.3-F`, the stress test — and across every instrument in this repository: `v1.3-G … v1.3-K`, the delta audit, the EV-B-01 record and the CEA** | **436 located** |
 | **4** | **The single unmatched identifier was examined** | **`LV-01`. **It appears once, at §IV.5, inside the collision register, where it names the prefix this brief **retired**. It is not a citation. **`RESOLVED — NOT A DEFECT`**** |
-| **5** | **The register of unverifiable locations** | ### **`SOURCE LOCATION NOT VERIFIED: NONE. 0 OF 636. 392 OF 393 EXTERNAL IDENTIFIERS LOCATED; THE ONE REMAINDER IS A RETIRED PREFIX NAMED IN THE COLLISION REGISTER, NOT A CITATION.`** |
+| **5** | **The register of unverifiable locations** | ### **`SOURCE LOCATION NOT VERIFIED: NONE. 0 OF 745. 436 OF 437 EXTERNAL IDENTIFIERS LOCATED; THE ONE REMAINDER IS A RETIRED PREFIX NAMED IN THE COLLISION REGISTER, NOT A CITATION.`** |
 | **6** | **Citations taken from memory** | **`0`. **Every location above was produced by search of a file in this session. **Rule K-5: a declaration is not a receipt, and a recollection is not a citation**** |
 | **7** | **Web sources used to establish any legal, tax or accounting position** | **`0`. **Mandate §25. **Where the corpus itself cites an external source, that citation is reproduced with its `[X]` tag and its own disclaimer — *"no economic, legal or tax conclusion is drawn from any of them"* **[S-B:4010]** — and no position is taken on it** |
 
@@ -3498,7 +3500,7 @@ DOCUMENTS COMPLETE
 | Test | **The condition** | **How it was checked** | **Result** |
 |---|---|---|---|
 | **1** | **Every field in categories 2, 3 and 4 reads `[TO BE COMPLETED BY THE FOUNDER]`** | **By extraction of the entry column across all 50 rows** | ### **`50 OF 50 — PASS`** |
-| **2** | **No field in categories 2, 3 or 4 contains a name, an amount, a date, a place, a state, a jurisdiction, a professional's name, a document title believed to exist, or a yes/no answer** | **By extraction and inspection of the same 50 rows** | ### **`PASS — the only proper nouns are the blueprint's title at `DIS-31`, which is a document sought and expressly recorded as `NOT PRESENT`** |
+| **2** | **No field in categories 2, 3 or 4 contains a name, an amount, a date, a place, a state, a jurisdiction, a professional's name, a document title believed to exist, or a yes/no answer** | **By extraction and inspection of the same 50 rows** | ### **PASS — the only proper nouns are the blueprint's title at `DIS-31`, which is a document sought and expressly recorded as `NOT PRESENT`** |
 | **3** | **No confirmation field at §XXIV.5 is marked confirmed** | **By extraction of the confirm/deny, date and signature columns across all 10 rows** | ### **`0 OF 10 CONFIRMED — PASS`** |
 | **4** | **Nothing in category `KNOWN` is stated as a fact where its source is an assertion** | **By tag: 7 items carry `[FOUNDER ASSERTION]` at `E1`, and 2 of those 7 are marked `EXPRESS NEGATIVE`** | ### **`PASS — FA-R1, FA-R2, Rule K-4`** |
 | **5** | **No field is answered by inference from another field** | **By construction: 3 pairs ask the same question in two forms — words and documents — and each pair is cross-referenced rather than answered** | ### **`PASS`** |
@@ -4079,7 +4081,7 @@ DOCUMENTS COMPLETE
 
 | Test | **What it tests** | **The method** | **The evidence obtained** | **Result** |
 |---|---|---|---|---|
-| **`AT-01`** | **Mandate §1 — the corpus is Tier 1, and source identifiers are preserved exactly** | **Every identifier in this file extracted by pattern and de-duplicated, then each external identifier searched as a literal string across the whole corpus and every instrument in this repository** | **722 distinct identifiers. **293 coined by this brief, each with a definition site at §XX.4. **429 external, of which **428 located**. **The one remainder is `LV-01`, which appears once at §IV.5 naming a prefix this brief retired. **The nine identifiers mandate §1 names — `SR-01`, `LDR-U08`, `A-N16`, `PVR-03`, `PVR-05`, `PVR-22`, `GC-01`, `H-Q17`, `PP-04` — are all present, all traced at §XX.2, and none renamed** | ### **`PASS`** |
+| **`AT-01`** | **Mandate §1 — the corpus is Tier 1, and source identifiers are preserved exactly** | **Every identifier in this file extracted by pattern and de-duplicated, then each external identifier searched as a literal string across the whole corpus and every instrument in this repository** | **745 distinct identifiers. **315 coined by this brief across 25 prefixes, every one present at a definition site in §XX.4 and 308 matched by the extraction pattern. **437 external, of which **436 located**. **The one remainder is `LV-01`, which appears once at §IV.5 naming a prefix this brief retired. **The nine identifiers mandate §1 names — `SR-01`, `LDR-U08`, `A-N16`, `PVR-03`, `PVR-05`, `PVR-22`, `GC-01`, `H-Q17`, `PP-04` — are all present, all traced at §XX.2, and none renamed** | ### **`PASS`** |
 | **`AT-02`** | **Mandate §2 — the five Krytos statements remain assertions and are never converted** | **Search for each of the five forbidden conversions and for the phrase *"should be registered as"*, with every occurrence read in context** | ***"Should be registered as"* occurs 3 times, and all three are negations — §XII, §XXII.8 item 7 and §XXIII.1 Section 13. **The five conversions are listed at §XXVII.3 and forbidden. **`FA-1 … FA-7` carry `[FOUNDER ASSERTION]` at `E1` in every Part that cites them, and **`FA-R1 … FA-R4`** govern their use. **No legal-person status, ownership proof, corporate control, fiduciary identity, parent or subsidiary status, tax status, jurisdiction or authority is derived from any of them anywhere** | ### **`PASS`** |
 | **`AT-03`** | **Mandate §3 — the blueprint is historical and reference only, and none of its content is revived** | **Search for every rupee symbol, every percentage token, and every occurrence of *"Zero-Capital"*, with each read in context** | **Rupee symbols: **`0`**. **Percentage tokens: **`1`, inside a quoted corpus sentence at **[S-B:2535 `NL-1`]** about the scaling of verification — not an economic figure, and not the blueprint's. ***"Zero-Capital"* occurs 3 times and each states that it is **not** an established fact — §XII, §XXII.8 item 8, §XXIV.7 item 3. **`FD-1` is preserved. **No percentage, budget, ratio, funding figure, reserve percentage, venture assumption or legal structure is inherited. **`SR-16`'s eight weights and **`SR-22`'s three percentages are named and **not restated**. **Nothing is stated as read from the absent document** | ### **`PASS`** |
 | **`AT-04`** | **Mandate §4 — no CEA v2, no v1.3-L, no successor architecture, no new blueprint, no pilot or implementation design** | **Search for *"v1.3-L"* and *"CEA v2"*; search for any pilot design, scoping, threshold, measurement plan or implementation sequence** | ***"v1.3-L"* occurs 3 times, all as prohibitions — §I, §XXII.8 item 9, §XXVII.4 item 11. ***"CEA v2"* occurs 3 times, all as prohibitions. **`DA-31` is preserved and cited. **No pilot is designed, scoped, sequenced, thresholded or authorised; **`C-25`** and **`GATE P0` = 0 of 10** are reproduced instead. **No implementation design appears. **The CEA is cited by hash **`76a30b3`** and is **not modified** | ### **`PASS`** |
@@ -4102,7 +4104,7 @@ DOCUMENTS COMPLETE
 | **`AT-11`** | **Mandate §13 and §14 — 7 assertions, 8 separations, 10 pairings, 0 permissible, 2 impossible; no transfer instrument invented; and 15 capital kinds classified as to what can and cannot yet be claimed** | **`FA-`, `SEP-`, `HC-` identifiers extracted; the pairing matrix counted; the file searched for any salary, dividend, profit share, fee, licence, royalty, transfer or agreement** | **Assertions **`7`** · separations **`8`** — `SEP-1 … SEP-8` · pairings **`10`** · permissible **`0`** · impossible **`2`**, with **`ER-4`** recording that the CEA's headline says two while three of its rows are marked `IMPOSSIBLE`. **Capital kinds **`15`** — `HC-1 … HC-14` from the CEA plus **`HC-15`**, labelled **`PROFESSIONAL INPUT — NOT CURRENT ARCHITECTURE DECISION`** because mandate §14 requires fifteen and the CEA names fourteen. **What can and cannot yet be claimed is classified per kind. **Transfer instruments invented: **`0`** — §XII states that no salary, dividend, profit share, fee, licence, royalty, transfer or agreement may be invented** | ### **`PASS`** |
 | **`AT-12`** | **Mandate §15 to §19 — 21 compensation dimensions, 19 tax heads with 4 statuses, 18 accounting heads with no standard prescribed, 15 liability classes with 3 labels and no coverage claimed, and 4 unpaid roles across 14 dimensions** | **`CD-`, `TX-`, `AH-`, `RSK-`, `UD-` identifiers extracted; the file searched for any prescribed standard and any coverage claim** | **Compensation dimensions **`21`** — `CD-01 … CD-21`. **Tax heads **`19`** — `TX-01 … TX-19` — with **`4`** statuses and three governing rules **`TX-1 … TX-3`**. **Accounting heads **`18`** — `AH-01 … AH-18` — with **`5`** governing rules **`ACR-1 … ACR-5`**; **standards prescribed: **`0`**. **Risk classes **`15`** — `RSK-1 … RSK-15` — with **`3`** permitted labels; **coverage claimed: **`0`**. **Unpaid roles **`4`** across **`14`** dimensions — `UD-01 … UD-14` — with the Internal Auditor named as an unnamed fifth role and labelled as professional input. ***"Unpaid ≠ no liability"* preserved** | ### **`PASS`** |
 | **`AT-13`** | **Mandate §20 — 16 acts × 8 functions preserved, `APPROVES` unassigned in 13 of 16, `SIGNS` blocked in every money act, 0 of 16 executable, a 12-field authority gap register built, and no vacancy filled with an invented person or body** | **The register's field list extracted; the act count taken from §XVIII.2; the file searched for any person, body, committee or office named to a vacancy** | **Acts **`16`** × fields **`12`**, the twelve being ACT · PROPOSES · APPROVES · SIGNS · RECEIVES · AUTHORISES · VERIFIES · CALCULATES · AUDITS · EXECUTABLE TODAY · THE BLOCKING ABSENCE · THE DECISION THAT WOULD FILL IT — the CEA's eight functions preserved intact as fields 2 to 9. **`APPROVES` unassigned in **13 of 16** — **`GF-1`**. **`SIGNS` blocked in every money act — **`GF-2`**. **Executable today: **`0 of 16`**. **Vacancies filled with an invented person or body: **`0`** — field 12 names the *decision* that would fill each vacancy, never a person** | ### **`PASS`** |
-| **`AT-14`** | **Mandate §21 to §25 — a 15-field register with no manufactured answers, seven tags never upgraded, full traceability, zero invented economic numbers, no web-based legal certainty, and `NOT LEGAL ADVICE` maintained** | **All 35 rows extracted and their cell counts checked; the seven tags searched for; the numeric audit re-run; every occurrence of *"LEGAL ADVICE"* read in context** | **Register: **`35`** rows × **`15`** fields, every row exactly 16 cells including the identifier. **Tags: all seven used — `[SOURCE]`, `[FOUNDER ASSERTION]`, `[PROFESSIONAL QUESTION]`, `[PROFESSIONAL ANSWER REQUIRED]`, `[UNKNOWN]`, `[PROPOSED]`, `[PROHIBITED ASSUMPTION]` — and no **ASSERTION → FACT**, **PROPOSAL → DECISION** or **QUESTION → ANSWER** upgrade anywhere. **Traceability: **722 identifiers, 0 marked `SOURCE LOCATION NOT VERIFIED`. **Rupee symbols **`0`**; **percentage tokens **`1`, quoted corpus text. **Web sources used to establish any position: **`0`**; **the corpus's own external citations are reproduced with their disclaimer — *"no economic, legal or tax conclusion is drawn from any of them"*. ***"LEGAL ADVICE"* occurs 6 times and all six read **`NOT LEGAL ADVICE`** | ### **`PASS`** |
+| **`AT-14`** | **Mandate §21 to §25 — a 15-field register with no manufactured answers, seven tags never upgraded, full traceability, zero invented economic numbers, no web-based legal certainty, and `NOT LEGAL ADVICE` maintained** | **All 35 rows extracted and their cell counts checked; the seven tags searched for; the numeric audit re-run; every occurrence of *"LEGAL ADVICE"* read in context** | **Register: **`35`** rows × **`15`** fields, every row exactly 16 cells including the identifier. **Tags: all seven used — `[SOURCE]`, `[FOUNDER ASSERTION]`, `[PROFESSIONAL QUESTION]`, `[PROFESSIONAL ANSWER REQUIRED]`, `[UNKNOWN]`, `[PROPOSED]`, `[PROHIBITED ASSUMPTION]` — and no **ASSERTION → FACT**, **PROPOSAL → DECISION** or **QUESTION → ANSWER** upgrade anywhere. **Traceability: **745 identifiers, 0 marked `SOURCE LOCATION NOT VERIFIED`. **Rupee symbols **`0`**; **percentage tokens **`1`, quoted corpus text. **Web sources used to establish any position: **`0`**; **the corpus's own external citations are reproduced with their disclaimer — *"no economic, legal or tax conclusion is drawn from any of them"*. ***"LEGAL ADVICE"* occurs 6 times and all six read **`NOT LEGAL ADVICE`** | ### **`PASS`** |
 | **`AT-15`** | **Mandate §27 to §30 and §33 — the deliverable is Parts I to XXX exactly; the counsel pack is standalone and non-leading; the disclosure pack is in four categories with no field filled; and the 11-field controlled format exists for every major question** | **Every `# PART` heading extracted and counted; the counsel pack tested for self-containment and for any preference, ranking or recommendation; all 50 disclosure fields extracted and compared; the format's field count taken from §XXV.2** | **Parts: **`30`** — I to XXX, in order, with none missing and none added. **The counsel pack at §XXIII.1 is self-contained between its two marker lines, refers to no other Part, and was tested at §XXIII.3 against **20** points at which an answer could have been implied — **0** found. **Disclosure pack: **72** items in **4** categories — 22 `KNOWN`, 28 `UNKNOWN`, 12 `DOCUMENT REQUIRED`, 10 `FOUNDER CONFIRMATION REQUIRED`; **blank fields **50 of 50**, completed **`0`**, confirmations **`0 of 10`**. **Controlled format: **`11`** fields, of which **2** are counsel's and **1** is completed on receipt; **rendered in full once, at §IX.9, with fields 7 and 8 empty** | ### **`PASS`** |
 
 ## XXIX.3 Residues, qualifications and known defects — recorded, not closed
@@ -4150,3 +4152,127 @@ DOCUMENTS COMPLETE
 > ### **`FIFTEEN TESTS RUN. FIFTEEN PASSED. FIFTEEN RESIDUES RECORDED AND NONE CLOSED. THE TESTS PROVE THAT THIS BRIEF IS WHAT IT WAS ASKED TO BE. THEY DO NOT PROVE THAT ANYTHING HAS ADVANCED, AND §XXIX.3 ITEM 15 SAYS SO.`**
 
 ---
+
+# PART XXX — THE COMPLETENESS AUDIT AND THE VERDICT
+
+## XXX.1 The completeness audit — mandate requirement by mandate requirement
+
+**[P]** Every requirement of the mandate is listed, with the Part that discharges it and its status. **No requirement is marked discharged by intention. Each is marked against something present in this file.**
+
+| § | **The requirement** | **Where discharged** | **Status** |
+|---|---|---|---|
+| **1** | **The corpus is Tier 1 and source identifiers are preserved exactly** | **§IV.1 evidence hierarchy; **§IV.5 collision register; **§XX.2 the trace; **AT-01** | ### **`DISCHARGED`** |
+| **2** | **The five Krytos statements are assertions only, never converted** | **§IV.4 `FA-1 … FA-7`; **§IV.4 `FA-R1 … FA-R4`; **Part XII; **§XXVII.3; **AT-02** | ### **`DISCHARGED`** |
+| **3** | **The blueprint is historical and reference only; nothing is revived** | **§I; **§XII; **§XX.2 `SR-21`; **§XXI.6 item 4; **§XXII.8 item 8; **AT-03** | ### **`DISCHARGED`** |
+| **4** | **No CEA v2, no v1.3-L, no successor, no new blueprint, no pilot or implementation design** | **§I; **§XXII.8 item 9; **§XXVII.4 item 11; **AT-04** | ### **`DISCHARGED`** |
+| **5** | **Every question classified into ten classes; no answer forced** | **§V.3 computed distribution; **Part XIX fields 5 and 6; **AT-05** | ### **`DISCHARGED`** |
+| **6** | **`PVR-03` with at least fifteen named legal variables and no generic *"it depends"*** | **Part VI — `PLV-01 … PLV-16`, `PVC-01 … PVC-10`; **AT-06** | ### **`DISCHARGED — 16 of 15`** |
+| **7** | **`PVR-05` with at least sixteen sub-questions and the four revenue meanings separated** | **Part VII — `REV-1 … REV-4`, `PRS-1 … PRS-4`, `PRV-01 … PRV-17`; **AT-07** | ### **`DISCHARGED — 17 of 16`** |
+| **8** | **`PVR-22` with at least twenty-five dimensions and no statement of personal liability or protection** | **Part VIII — `LD-01 … LD-27`; **AT-08** | ### **`DISCHARGED — 27 of 25`** |
+| **9** | **The `SR-01` decision framework with about twenty-eight attributes per structure; candidates from the corpus; additions labelled** | **Part IX — `OPT-A … OPT-J`, `FC-01 … FC-33`, `FC-E1 … FC-E8`, Rules `G-15 … G-20`; **AT-09** | ### **`DISCHARGED — 41 attributes`** |
+| **10** | **The brief must not select the entity** | **§IX.8; **§XXII.8 item 1; **§XXIII.3; **§XXVII.4 item 1; **AT-09** | ### **`DISCHARGED — 0 selections`** |
+| **11** | **`A-N16` preserved as not executable; nothing invented about signatories, banks, providers or systems** | **Part X — status verbatim, `T-1 … T-5`, the chain mapped, the discipline named per link; **AT-10** | ### **`DISCHARGED`** |
+| **12** | **The waterfall not reordered or quantified; eight distinctions drawn** | **Part XI; **AT-10** | ### **`DISCHARGED`** |
+| **13** | **7 assertions · 8 separations · 10 pairings · 0 permissible · 2 impossible; no transfer instrument invented** | **Part XII; **AT-11**; with **`ER-4`** recording the CEA's two-versus-three discrepancy** | ### **`DISCHARGED`** |
+| **14** | **Zero cash investment is not zero economic cost; fifteen capital kinds classified** | **Part XII §XII.6 — `HC-1 … HC-15`, with `HC-15` labelled professional input; **AT-11** | ### **`DISCHARGED — 15 of 15`** |
+| **15** | **Compensation validated across twenty-one dimensions** | **Part XIII — `CD-01 … CD-21`; **AT-12** | ### **`DISCHARGED — 21 of 21`** |
+| **16** | **Tax validated across nineteen heads and four statuses** | **Part XIV — `TX-1 … TX-3`, `TX-01 … TX-19`; **AT-12** | ### **`DISCHARGED — 19 of 19`** |
+| **17** | **Accounting validated across eighteen heads, prescribing no standard** | **Part XV — `ACR-1 … ACR-5`, `AH-01 … AH-18`; **AT-12** | ### **`DISCHARGED — 18 of 18, 0 standards`** |
+| **18** | **Liability and insurance against `L1 … L15` and fifteen risk classes and three labels, claiming no coverage** | **Part XVI; **AT-12** | ### **`DISCHARGED — 15 classes, 3 labels, 0 coverage claims`** |
+| **19** | **The four unpaid control roles across fourteen dimensions; unpaid is not no liability** | **Part XVII — `UD-01 … UD-14`, with the Internal Auditor named as an unnamed fifth role; **AT-12** | ### **`DISCHARGED`** |
+| **20** | **16 acts × 8 functions preserved; `APPROVES` unassigned in 13 of 16; `SIGNS` blocked; 0 of 16 executable; a 12-field gap register; no vacancy filled** | **Part XVIII; **AT-13** | ### **`DISCHARGED — 16 × 12, 0 vacancies filled`** |
+| **21** | **A professional question register of fifteen fields with no manufactured answers** | **Part XIX — 35 rows × 15 fields, fields 11 and 12 empty in all 35; **AT-05, AT-14** | ### **`DISCHARGED`** |
+| **22** | **Seven tags, never upgraded** | **§IV.1; **AT-14** | ### **`DISCHARGED — 0 upgrades`** |
+| **23** | **Traceability, and `SOURCE LOCATION NOT VERIFIED` where an ID cannot be located** | **Part XX — §XX.2 the six-link trace, §XX.5 the register; **AT-01, AT-14** | ### **`DISCHARGED — 0 of 745 unverifiable`** |
+| **24** | **Zero invented economic numbers; a statutory number marked for professional verification** | **§XXII.8 item 4; **AT-03, AT-14**; **the numeric audit at §XXX.6** | ### **`DISCHARGED — 0 rupee figures`** |
+| **25** | **No web-based legal certainty; `NOT LEGAL ADVICE` maintained** | **§IV.1; **§XX.5 step 7; **§XXX.4**; **AT-14** | ### **`DISCHARGED — 0 web sources, 6 `NOT LEGAL ADVICE``** |
+| **26** | **No entity by default; comparisons labelled `COUNSEL-VALIDATION OPTION`** | **§IX.2; **§IX.8; **Part V; **AT-09** | ### **`DISCHARGED`** |
+| **27** | **The deliverable is Parts I to XXX, exactly** | **This file; **AT-15** | ### **`DISCHARGED — 30 Parts, none missing, none added`** |
+| **28** | **A standalone, copy-sendable counsel pack that does not tell counsel what to answer** | **Part XXIII — §XXIII.1 between its markers, §XXIII.3 the twenty-point anti-leading audit; **AT-15** | ### **`DISCHARGED — 0 of 20 leading points`** |
+| **29** | **A founder disclosure pack in four categories, with the missing fields not filled** | **Part XXIV — 72 items, 50 blank, 0 completed, 0 of 10 confirmed; **AT-15** | ### **`DISCHARGED`** |
+| **30** | **The eleven-field controlled format for every major question** | **Part XXV — §XXV.2 the fields, §XXV.3 the template, §XXV.8 the mapping from fifteen; **§IX.9 the single rendered instance**; **AT-15** | ### **`DISCHARGED — 11 fields, 2 counsel's`** |
+| **31** | **Run `AT-01 … AT-15` before declaring complete** | **Part XXIX** | ### **`DISCHARGED — 15 of 15 pass`** |
+| **32** | **The terminal rule — mark missing and blocked, convert to a question, mark entity dependency, surface conflicts rather than rewrite them** | **§XXIX.3 the fifteen residues; **§IX.6 `GC-01` both texts; **§XXVIII.3 shape F; **§XXVIII.6 invariant 10** | ### **`DISCHARGED — 0 conflicts rewritten`** |
+| **33** | **Exactly one verdict, ten numbered items, and a final sentence naming one and only one highest-value next human action** | **§XXX.3, §XXX.5 and the last sentence of this file** | ### **`DISCHARGED — 1 verdict, 10 items, 1 action`** |
+
+## XXX.2 The qualification, which counsel should read before the verdict
+
+**[P]** `[SOURCE]` — **`U-PD-16`** **[S-K(E): §XXVI]**: *"Six instruments have now been produced for `SR-01`, and the seventh document about it would be the seventh that does not advance it."*
+
+> ### **`THE VERDICT BELOW DESCRIBES THIS DOCUMENT. IT DOES NOT DESCRIBE THE REGISTER.`**
+>
+> **`SR-01` is `DECISION REQUIRED`. It was `DECISION REQUIRED` before this brief and it is `DECISION REQUIRED` after it. Its evidence field still reads *"a written decision plus counsel opinion"*. Its next-action field still reads *"Commission counsel"`. `GATE P0` still fails on all ten sub-gates. Twenty-two of twenty-two Tier-0 items are still outstanding. Twenty acts are still prohibited. No entity exists, no account exists, no mandate exists, no document exists, no payment can be made, and no person is covered by anything.**
+>
+> **This brief is the seventh instrument to perform `SR-01`'s stated next action. Six performances advanced nothing, and the reason recorded for that is not analytical: *"producing a paper is not instructing a professional."* A seventh paper does not become an instruction by being longer, more precise, better sourced or more complete — and this one is all four.**
+>
+> **What distinguishes the seventh from the six is one thing only, and it is not a property of the document. It is that this one contains, at §XXIII.1, a block that can be copied into an email and sent. The six before it described a commission. This one is a commission, waiting for a person.**
+>
+> ### **`IF §XXIII.1 IS NOT SENT TO A QUALIFIED INDIAN PROFESSIONAL, THIS BRIEF IS THE SEVENTH PAPER THAT DID NOT ADVANCE `SR-01`, AND THIS QUALIFICATION — NOT THE VERDICT — IS THE OPERATIVE CLAUSE OF THIS DOCUMENT.`**
+
+## XXX.3 The verdict
+
+**[P]** The four grades, defined here so that the verdict is falsifiable rather than decorative.
+
+| Grade | **Definition** |
+|---|---|
+| **`A`** | **Complete and decidable without further professional work — every question answered or routed, and the next act is not a professional's** |
+| **`B`** | **Decision-ready with professional actions outstanding — every question routed to a named discipline, the instruction sendable, and the only remaining acts professional and human** |
+| **`C`** | **Partial — some questions could not be routed, or the instruction is not sendable, or the register is incomplete** |
+| **`D`** | **Not decision-ready — the brief could not be constructed from the corpus, or constructing it required invention** |
+
+> # **`VERDICT: B — DECISION-READY WITH PROFESSIONAL ACTIONS OUTSTANDING`**
+
+**The ten numbered items that constitute the verdict:**
+
+| # | **Item** |
+|---|---|
+| **1** | **The brief is complete against its mandate. **All thirty-three requirements are discharged at §XXX.1, and **15 of 15** acceptance tests pass at Part XXIX on evidence extracted from this file. **Grade `A` is unavailable for one reason only: the next act is a professional's, not this document's** |
+| **2** | **Thirty-five questions are registered, and not one is answered. **Fields 11 and 12 read `[TO BE COMPLETED BY COUNSEL]` in **35 of 35** rows. **Every question carries a discipline, an origin, a status, a class, a secondary class, the facts it needs, the documents it needs, its entity dependency, its tags, both consequences and its next dependency** |
+| **3** | **Three questions can be worked before an entity exists, and seven carry an entity-independent element. **`PVR-03`, `PVR-05` and `PVR-22` are answerable now; **21 of 35** questions depend wholly on an entity, **7** partly, **6** with a qualified `NO`, and **1** — `CQ-06`, the historical facts — with no dependency at all** |
+| **4** | **The instruction pack is standalone, copy-sendable and non-leading. **§XXIII.1 is self-contained between its two markers, gives counsel the seven items the corpus specifies, asks **`U-PD-15`'s** question verbatim, and was tested against **20** points at which a preference could have leaked — **0** found. **No candidate is selected, ranked, preferred or recommended anywhere in this brief** |
+| **5** | **Nothing was invented. **Zero rupee figures. **Zero percentages, ratios, thresholds, salaries, margins, reserve targets or pilot figures of this brief's own. **Zero signatory counts, banks, providers, systems, account holders, signatories, officers, appointees or bodies. **Zero transfer instruments, licences, royalties, fees, dividends or agreements. **Zero software. **Zero legal, tax, accounting or insurance conclusions. **Zero citations taken from memory. **Zero web sources used to establish any position** |
+| **6** | **Everything is traceable. **745 distinct identifiers, of which **436 of 437** external identifiers were located by literal search across the corpus and this repository, and the single remainder is a retired prefix named in the collision register. **`SOURCE LOCATION NOT VERIFIED`: `0`** |
+| **7** | **The conflicts are surfaced, not resolved. **`GC-01` is given with both texts at §IX.6 and again at §XXIII.1 Section 9. **Ten conflicts are given to counsel with both texts and neither preferred. **Six errata against the CEA are recorded here and applied nowhere. **Five register gaps are recorded and closed nowhere** |
+| **8** | **The prohibitions stand. **Twenty acts remain prohibited, nine inferences remain prohibited, five conversions remain forbidden, **`GATE P0`** fails on all ten sub-gates, and **0 of 16** economic acts are executable. **This brief lifts nothing, passes nothing, authorises nothing and grants nothing** |
+| **9** | **Two acts remain, and both belong to one natural person. **Sending the instruction at §XXIII.1 — **`A-4`** — and re-delivering the blueprint file at §XXVI.2 track 1 — **`A-5`**, in parallel and at no cost to the first. **Neither can be performed by an instrument, by a committee, by a body or by this document** |
+| **10** | **The qualification at §XXX.2 governs. **Grade `B` describes this document and not the register. **If the instruction is not sent, this is the seventh paper that did not advance **`SR-01`**, and the verdict is not the operative clause of this brief — the qualification is** |
+
+## XXX.4 `NOT LEGAL ADVICE`
+
+**[P]** Mandate §25.
+
+> ### **`NOT LEGAL ADVICE.`**
+>
+> **This document is not legal advice, tax advice, accounting advice, insurance advice, labour advice, governance advice or professional advice of any kind. It was prepared by an instrument from a corpus of design documents, and it contains no legal, tax, accounting or insurance conclusion, no determination, no opinion and no recommendation.**
+>
+> **It is a work package. Its purpose is to convert unresolved questions into a precise professional instruction, and its whole value depends on that instruction being given to a qualified Indian professional and answered by them, in writing, in the format at Part XXV, with fields 7 and 8 completed by the professional and by no one else.**
+>
+> **Nothing in it may be relied on as advice by any person. Nothing in it establishes any legal status, ownership, control, authority, permission, coverage, entitlement or obligation. No web source was used to establish any position in it, and where the corpus itself cites an external source, that source's own disclaimer is preserved: *"no economic, legal or tax conclusion is drawn from any of them."***
+>
+> **Every statutory reference in it is cited by location and marked `CURRENT-LAW PROFESSIONAL VERIFICATION REQUIRED`. No current-law position is taken anywhere in it.**
+
+## XXX.5 The closing, and the one act
+
+**[P]** `[SOURCE]` — **[S-K(E): §XXVI.4]**, the principle that has governed all seven generations, restated unchanged because nothing in this brief displaces it:
+
+> ### **`"FIRST MAKE THE INSTITUTION LEGALLY AND OPERATIONALLY DECIDABLE. THEN DECIDE. THEN VALIDATE. THEN IMPLEMENT. THEN PILOT."`**
+
+**This brief is the first step and nothing else. It makes the institution more precisely *decidable* — by naming the thirty-five questions, routing each to a discipline, separating what can be worked now from what cannot, and reducing the commission to a block of text that can be copied and sent. It does not decide. It does not validate. It does not implement. It does not pilot.**
+
+| Step | **Position** |
+|---|---|
+| **1 Make it decidable** | ### **`This brief. Complete. And the only step of the five that any instrument can perform.`** |
+| **2 Decide** | **Not done. **A human act, on a professional's written opinion — **§XXVIII.4**. **This brief does not select the entity** |
+| **3 Validate** | **Not done. **`0 of 77` corpus validation items answered; **`0` commissioned; **`19` formulable — and now **`35`** formulated** |
+| **4 Implement** | **Not done, and prohibited. **`C-25`; **`GATE P0` = 0 of 10; **`22 of 22` Tier-0 items outstanding** |
+| **5 Pilot** | **Not done, and prohibited. **`C-25`; **`C-15`; **`A-N16 REMAINS BLOCKED`**; **Rule F-15: a halted pilot is a governance failure, not an operational one** |
+
+**Fifteen residues are recorded at §XXIX.3 and none is closed. Six errata against the CEA are recorded at §III.2 and none is applied. Five register gaps are recorded at §XIX.10 and none is filled. Fifty disclosure fields are blank. Two answer fields in thirty-five rows are empty. One instruction is unsent. One file is undelivered. One person can do both.**
+
+> ### **`THE HIGHEST-VALUE NEXT HUMAN ACTION IS ONE, AND IT IS NOT ANALYTICAL: COPY §XXIII.1, COMPLETE ITS SENDER FIELDS, SIGN IT, AND SEND IT TO A QUALIFIED INDIAN CORPORATE AND TAX COUNSEL — PAYING PERSONALLY IF NECESSARY ON A RECORDED FOUNDER DECISION AND QUALIFIED TAX ADVICE — BECAUSE UNTIL A PERSON DOES THAT, `SR-01` REMAINS WHERE SIX INSTRUMENTS AND NOW SEVEN HAVE LEFT IT, AND NOTHING IN THIS ARCHITECTURE CAN BE DECIDED, PAID, MEASURED OR PROTECTED.`**
+
+---
+
+**END OF THE `ID-1` COUNSEL DECISION AND VALIDATION BRIEF.**
+
+**`NOT LEGAL ADVICE` · `35 QUESTIONS REGISTERED, 0 ANSWERED` · `15 OF 15 ACCEPTANCE TESTS PASS` · `15 RESIDUES RECORDED, 0 CLOSED` · `VERDICT B — DECISION-READY WITH PROFESSIONAL ACTIONS OUTSTANDING` · QUALIFIED AT §XXX.2**
