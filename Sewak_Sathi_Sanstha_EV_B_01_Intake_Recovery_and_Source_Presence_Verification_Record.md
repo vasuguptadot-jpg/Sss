@@ -485,3 +485,78 @@
 **Corpus unaltered: v1.3-G (B) · v1.3-H (D) · v1.3-I (D) · v1.3-J (D) · v1.3-K (D) · v1.3-K(E) delta audit (C) · EV-B-01 verification record, rounds 1–3.**
 
 **No successor instrument. DA-31 stands.**
+
+---
+
+# ADDENDUM — ROUND 4: THE IR-31 ACCEPTANCE TEST, RUN AGAINST THE REPOSITORY
+
+| | |
+|---|---|
+| **Addendum type** | **Acceptance-test result — appended to this record. Not a new instrument, not a new architecture, not v1.3-L** |
+| **Trigger** | **An instruction stating that the PDF *"has now been committed and pushed to `arena/d871640c-sss`"*, with the acceptance criterion: *"The actual PDF bytes must be demonstrably present in `origin/arena/d871640c-sss` before EV-B-01 can be processed."*** |
+| **Test run** | **7 October 2026 · steps `AT-1 … AT-8`, being the IR-31 acceptance test executed verbatim against the remote** |
+| **Result** | **`REPOSITORY DELIVERY FAILED` — the criterion is not met. EV-B-01 processing was not reached and was not performed** |
+
+## B.1 The seven required confirmations, in the order required
+
+| # | **Required confirmation** | **Result** | **Evidence** |
+|---|---|---|---|
+| **1** | `git ls-tree -r origin/arena/d871640c-sss` contains the exact PDF path | **`FAIL`** | **The tree holds **8 paths**: seven `.md` instruments and `workspace-01a10a6a-…zip`. **No path ends in `.pdf`. No path contains `Zero`, `Capital` or `Blueprint` except this project's own v1.3-J register, whose *instrument name* contains the word `Blueprint`** |
+| **2** | The corresponding Git object is a real blob | **`NOT REACHABLE`** | **There is no corresponding object. No path → no tree entry → no blob. The object store holds **9 blobs**, enumerated one by one at `AT-5`: eight begin `# SEW` *(markdown)* and one begins `PK` *(the zip)*** |
+| **3** | `git cat-file` identifies a PDF whose first five bytes are `%PDF-` | **`FAIL`** | **Each of the 9 blobs was read and its first five bytes tested. **PDF blobs: 0 of 9.*** |
+| **4** | Record the exact blob / hash / size available from the repository | **`NOTHING TO RECORD`** | **No PDF blob exists. **The complete blob inventory is: `021b254f` 623,338 B · `277076b7` 4,962,994 B *(zip)* · `6050c18b` 369,059 B · `75478eb4` 432,970 B · `8204fb1c` 48,374 B · `82b29b16` 65,644 B · `8de56f04` 310,273 B · `92a3bbc5` 207,499 B · `f3486191` 244,680 B. No hash, size or identity is recorded for a file that is not present, and none is fabricated *(Rule K-20)*** |
+| **5** | Extract the actual PDF content | **`NOT PERFORMED — NOT PERFORMABLE`** | **There is no content to extract. **0 characters extracted, 0 reconstructed, 0 inferred*** |
+| **6** | Confirm it is genuinely the blueprint and not the Visual Master Architecture PDF | **`NOT PERFORMED — NOT PERFORMABLE`** | **The only PDF anywhere in this corpus remains the archive's `…VISUAL_MASTER_ARCHITECTURE_CONSTITUTION_LAUNCH_SPECIFICATION_v1_2.pdf`, identified at §3 by its own metadata. **The archive blob was re-hashed from the object store at `AT-6` and is byte-identical: `sha256 504608e6530d3c512d788c05aa48433df38f6ebaf089d25b8ae0aa1f623d3ea9`, 12 entries. Nothing was added to it*** |
+| **7** | Only then execute EV-B-01 processing — hash, verify, extract, `CLM-01…`, `EC-01 … EC-26`, `CF-22`, `LDR-U17`, GC-01's economic limb, `INPUT-05` | **`NOT REACHED — PRECONDITION FAILED`** | **The instruction is conditional: *"Only after successful verification."* Verification failed at step 1. **`CLM-01` remains unused; `EC-01 … EC-26` remain 26 of 26 `SOURCE NOT RECEIVED`; `CF-22` remains open and unresolvable; `LDR-U17`, GC-01 and `INPUT-05` were not re-run and are unchanged*** |
+
+## B.2 Why the criterion fails — the repository state, exactly
+
+| Field | **Value, read from the remote** |
+|---|---|
+| **Remote** | **`origin` → `https://github.com/vasuguptadot-jpg/Sss.git` — the only remote configured** |
+| **Refs advertised by `git ls-remote origin`** | **3: `HEAD` → `87b1883`, `refs/heads/arena/d871640c-sss` → **`d4e6ec342d45c9c4293f595a45dd043f1653a967`**, `refs/heads/main` → `87b1883`** |
+| **Tip of `origin/arena/d871640c-sss`** | **`d4e6ec3` — *"EV-B-01 round 3: second attachment declaration, second non-delivery"*, authored `arena-agent`, 2026-10-07 08:40:55 UTC. **This is this project's own round-3 commit. It is the newest object on the branch*** |
+| **Commits on the branch** | **9. **Commits after `d4e6ec3`: 0** — `git rev-list d4e6ec3..origin/arena/d871640c-sss` returns nothing. **No new commit has arrived from any author*** |
+| **The only commit authored outside this project** | **`87b1883` *"Add files via upload"*, `vasuguptadot-jpg`, 2026-10-06 01:24:43 +0530 — the commit that introduced the zip. **It is six commits behind the tip and contains no PDF other than the archive's v1.2 entry*** |
+| **Paths across every ref** | **8 distinct, identical on `origin/arena/d871640c-sss` and its duplicate remote-namespace copy; `main` and `HEAD` hold only the zip. **0 PDF paths on any ref*** |
+| **Blobs across the whole object store** | **9. **0 with `%PDF-`.** 0 dangling, 0 unreachable, no `lost-found`** |
+| **Filesystem, rechecked the same session** | **0 PDFs by name anywhere; `/home/user/uploads` still absent** |
+
+> ### **`THE ACCEPTANCE CRITERION IS NOT MET. THE ACTUAL PDF BYTES ARE NOT PRESENT IN `origin/arena/d871640c-sss`.`**
+>
+> **The branch tip is this project's own round-3 commit. No commit has been added to it by any other author. The object store contains nine blobs, none of which is a PDF. The criterion is a test about bytes in a specific ref, and it was run against that ref.**
+
+## B.3 State after round 4
+
+| Register | **State** |
+|---|---|
+| **`EV-B-01`** | **`E0 content / E1 assertion / P0` · `RS-9 ASSERTED SUPPLIED — NOT PRESENT IN INTAKE` — UNCHANGED. The asserted channel has changed *(attachment → repository)*; the state has not** |
+| **Corroboration of the absence** | **`E2` — grounds 3 → 4. The fourth ground is the strongest available short of the document itself: the remote ref was enumerated object by object, and the bytes are not in it** |
+| **`LDR-U17`** | **UNCHANGED — `PARTIALLY RESOLVED AS TO LOCUS; UNRESOLVED AS TO SOURCE`** |
+| **`GC-01`** | **UNCHANGED — economic limb not re-runnable; tree `UNRESOLVED`; 1 of 9 nodes closed negatively** |
+| **`EC-01 … EC-26`** | **UNCHANGED — 26 of 26 `SOURCE NOT RECEIVED`** |
+| **`CF-22`** | **UNCHANGED — open, and unresolvable without the file** |
+| **`INPUT-05`** | **UNCHANGED — `NOT RECOVERED`** |
+| **Claims** | **`CLM-01` UNUSED — 0 claims, 0 extractions** |
+| **Figures adopted as final policy** | **0** |
+| **Gates moved** | **0 — `GATE P0 = 0 of 10`; 22 of 22 Tier-0 items outstanding; pilot not authorised** |
+| **Registers changed** | **0. Unrelated registers untouched. All seven instruments unaltered; the delta audit remains `sha256 5f857141468b1a9ef0e94a1ec65e0f8e9a9392d102b6b7abe92d84b1e2a83828`** |
+| **Cumulative inspection** | **`IR-1 … IR-32` plus `AT-1 … AT-8` — 40 documented steps, 14 intake surfaces, 2 sandbox instances, 2 declared channels, 3 delivery declarations, 0 deliveries** |
+
+## B.4 Terminal output — round 4
+
+> # **EV-B-01 INTAKE FAILURE — REPOSITORY DELIVERY FAILED**
+>
+> **The acceptance test was run against the repository itself, not against a declaration. `origin/arena/d871640c-sss` has tip `d4e6ec342d45c9c4293f595a45dd043f1653a967`, which is this project's own round-3 commit; `git rev-list d4e6ec3..origin/arena/d871640c-sss` returns 0 commits. Its tree holds 8 paths — seven markdown instruments and the byte-identical zip — and no path ends in `.pdf`. Its object store holds 9 blobs; each was read and tested; 0 begin `%PDF-`. There is no blob to hash, no size to record, no content to extract, and nothing to distinguish from the Visual Master Architecture PDF, which remains the only PDF in this corpus and remains inside an archive whose hash has not changed since the first generation.**
+>
+> **EV-B-01 processing was not reached, because the instruction conditions it on successful verification and verification failed at step 1. Nothing was reconstructed, inferred or received on declaration. `CLM-01` is unused. `EC-01 … EC-26` remain 26 of 26 `SOURCE NOT RECEIVED`. `CF-22`, `LDR-U17`, GC-01's economic limb and `INPUT-05` were not re-run and are unchanged. 0 figures adopted. 0 gates moved. 0 registers changed.**
+>
+> **`EV-B-01` stands at `E0 content / E1 assertion / P0`, `RS-9`. The absence is corroborated at `E2` on four grounds.**
+>
+> ### **No new architecture version created. No v1.3-L.**
+
+---
+
+**END OF ADDENDUM — round 4. This record spans four rounds: `IR-1 … IR-32`, `AT-1 … AT-8`.**
+
+**Corpus unaltered. No successor instrument. DA-31 stands.**
