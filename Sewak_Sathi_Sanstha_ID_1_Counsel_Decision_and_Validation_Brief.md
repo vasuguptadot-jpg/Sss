@@ -2926,3 +2926,402 @@ DOCUMENTS COMPLETE
 | **What this brief does not change** | **No blocker is removed. **No prohibition is lifted. **No gate is passed. **No stop condition is waived. **No decision is made. **No entity is selected. **No number is written. **No certainty is created** |
 
 ---
+
+# PART XXIII — THE COUNSEL INSTRUCTION PACK
+
+## XXIII.0 How this Part is built, and how to use it
+
+**[P]** `[SOURCE]` — **[S-K(E): §XXVI.1]**, which specifies the seven items counsel must be given, the question counsel must be asked, and the person who must ask it; **[S-F:175]**; **U-PD-9**, **U-PD-15**, **DA-11**, **DA-29**, **DA-30**, **DA-31**. **Mandate §28: the pack is standalone and copy-sendable, and it must not tell counsel what to answer.**
+
+| Item | **Content** |
+|---|---|
+| **What §XXIII.1 is** | **A single continuous block, marked at its start and at its end, containing everything a qualified Indian professional needs in order to be instructed. **It refers to no other Part of this brief, and it can be read by a person who has never seen this brief**** |
+| **How to use it** | **Copy everything between the two marker lines. Paste it into an engagement letter or an email. Complete the sender fields in **Section 1** and the signature block in **Section 16**. Attach the enclosures listed in **Section 15**. Send it** |
+| **Who must send it** | **One natural person, instructing personally — **U-PD-9**. **Not a body, not a committee, not a company, not an instrument. **The corpus identifies the founder, and no other person is authorised to do it** |
+| **What §XXIII.1 does not contain** | **No recommendation. **No ranking. **No preferred option. **No view on any of the ten candidate forms. **No answer to any of the thirty-five questions. **No number. **No legal conclusion. **No assertion that anything has been decided** |
+| **Why the pack is written this way** | **`U-PD-16`: six instruments have performed `SR-01`'s stated next action and `SR-01` has never advanced, *"because producing a paper is not instructing a professional"*. **A seventh paper would be the seventh that does not advance it. **This Part exists so that the seventh is not another paper but a letter that can be sent**** |
+| **What the pack cannot do** | **It cannot send itself. **It cannot sign itself. **It cannot pay itself — and the organisation cannot pay it either: **`C-15`**, **`PP-04`**, **`A-N16 REMAINS BLOCKED`**. **Whether the founder pays personally is `REQUIRES FOUNDER DECISION` and `REQUIRES QUALIFIED TAX ADVICE`, and neither is given here** |
+
+## XXIII.1 The pack
+
+════════════════════ **BEGIN — COPY FROM THIS LINE TO THE END MARKER** ════════════════════
+
+### INSTRUCTION TO QUALIFIED INDIAN CORPORATE AND TAX COUNSEL
+
+**Subject: the legal entity structure of Sewak Sathi Sanstha — register item `SR-01`, source item `LDR-U08`**
+
+---
+
+### SECTION 1 — WHO IS INSTRUCTING YOU, AND IN WHAT CAPACITY
+
+| Field | **Entry** |
+|---|---|
+| **Instructing person — full legal name** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Address for service** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Telephone and email** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Capacity in which this person instructs** | ### **`Personally, as a natural person. Not as an officer, agent, director, trustee, partner, member, promoter or representative of any body, because no body exists.`** |
+| **Authority to bind any organisation** | ### **`None. No organisation capable of being bound exists. This instruction binds no one but the person who signs it.`** |
+| **Authority conferred on you by this instruction** | **To advise the instructing person. **Nothing else. **This instruction does not appoint you to any office, confer any authority on any body, authorise any filing, authorise any payment by any organisation, or constitute anything** |
+| **Whether the instructing person has taken legal advice before** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Whether any other professional is engaged on this subject** | **`[TO BE COMPLETED BY THE SENDER]`** |
+
+**The instructing person states, so that nothing below can be misread:** *no company, society, trust, limited liability partnership, partnership, proprietorship or other body of any kind has been incorporated, registered, constituted, executed, filed or recognised by me or by anyone else in relation to this matter. I am not writing on behalf of an entity. There is no entity.*
+
+---
+
+### SECTION 2 — THE SUBJECT OF THE INSTRUCTION
+
+| Item | **Content** |
+|---|---|
+| **The register item** | **`SR-01` — *"Legal entity structure under Krytos"*, owner **Founder/CEO**, blocker class **A**, tier **Tier 0**, status **`DECISION REQUIRED`**, gates **`P0-A`** and **`P0-B`**, evidence required ***"a written decision plus counsel opinion"***, next action ***"Commission counsel"*** |
+| **Its source item** | **`LDR-U08` — rank 1 of the source's own dependency register, above `LDR-U01`, `A-N16`, `A-N10` and `LDR-U06`** |
+| **What it is described as, in the register that lists it** | ***"An entity-structure decision paper, for the founder/CEO, putting the options to qualified Indian corporate and tax counsel."*** |
+| **What depends on it** | **Nineteen of twenty-two downstream professional-validation items. **Sixteen of eighteen dependency steps. **Every act involving money, contracts or employment. **Priority-1 worker compensation, which the register calls *"the whole economic premise"*** |
+| **What has happened to it so far** | **Six prior documents have each performed its stated next action. **The register has never advanced. **The reason recorded for that is: *"producing a paper is not instructing a professional."* This instruction is the attempt to instruct a professional** |
+| **What is not being asked of you in this section** | **You are not asked to confirm that the item is correctly described. **You are not asked to agree with any characterisation in this pack. **You are asked to answer the question at Section 3** |
+
+---
+
+### SECTION 3 — THE QUESTION
+
+> ### **`"NOTHING IS CONSTITUTED. HERE IS WHAT THE FOUNDER INTENDS AND HERE ARE THE TEN CANDIDATE STRUCTURES. WHAT SHOULD BE CREATED, IN INDIA, FOR THESE FOUR PILLARS, AND WHAT ARE THE CONSEQUENCES OF EACH?"`**
+
+**And, expressly, this instruction does not ask:**
+
+| Not asked | **Why it is not asked** |
+|---|---|
+| ***"Which option is correct?"*** | **The register records that the question counsel must be asked is not this one. **A question of correctness would presuppose that one of the ten is already right, and none is: the option set is described in the source material as *"a schedule of options for counsel to complete, not a menu to choose from"*** |
+| ***"Can we register as a Section 8 company?"*** | **No form is named in this instruction as preferred, proposed or assumed. **`OPT-A` appears only because the source material names it, in the same way that nine other candidates appear** |
+| ***"Is this structure compliant?"*** | **Compliance presupposes a structure. **Section 5 of this pack states, as a fact given to you, that no structure exists** |
+| ***"What is the tax treatment?"*** | **It is asked, but only inside the consequences of each candidate — Section 11, deliverable 4. **It is not asked as a free-standing question, because there is no taxpayer** |
+| ***"Confirm that we may proceed."*** | **Nothing in this pack authorises any act. **Section 13 lists twenty acts that the source material prohibits at present, and this instruction does not ask you to lift any of them** |
+
+---
+
+### SECTION 4 — ENCLOSURE ① THE SEVEN DECLARATIONS, VERBATIM
+
+**These are the declarations of the instructing person, recorded as declarations. Two of them — the fourth and the fifth — are express negatives, not silences: they state that something does not exist.**
+
+**Nothing below is offered to you as a legal fact, and nothing below may be treated as establishing any legal status. Each is an assertion of intention or an assertion of absence. The fifth column states the conversion that each declaration may not support.**
+
+| # | **The declaration, in the declarant's own terms** | **What it establishes** | **What it does not establish** | **The conversion it must not be taken to support** |
+|---|---|---|---|---|
+| **1** | **Krytos is intended to be the Virtual Brain / ecosystem head of the founder's projects** | **An intended functional and architectural role** | **A legal person, a corporate name, a registered entity, a governance layer** | **That *"Virtual Brain"* denotes a legal person, or that *"ecosystem head"* denotes a legally recognised parent** |
+| **2** | **Krytos is intended to be the ecosystem head** | **An intended position in an intended hierarchy** | **A parent/subsidiary relationship, a holding structure, a direction with legal authority** | **That Sewak Sathi is a subsidiary, or is legally subordinate** |
+| **3** | **India is intended as the governing jurisdiction** | **A stated intention as to future forum, and an asserted jurisdiction against which opinions may be scoped** | **A completed registration, a choice of law already made, an address, a regulator, a tax residency** | **That Indian law already applies to a body that does not exist, or that any filing has been made** |
+| **4** | ### **`EXPRESS NEGATIVE`** — **No formal Krytos constitutive or governing document has yet been established** | **An absence, stated. **It is the most consequential fact in this pack** | **Nothing. **Every capacity depends on the thing that is absent** | **That Krytos is already constituted** |
+| **5** | ### **`EXPRESS NEGATIVE`** — **No legal work establishing Krytos's legal form has yet been completed** | **An absence, stated** | **That legal work is unnecessary, or that any structure is compliant** | **That the current entity structure is compliant, or that a structure exists to be compliant** |
+| **6** | **Krytos is intended to be controlled and owned by the founder** | **A forward-looking intention, stated in the future tense** | **Present ownership, a shareholding, a membership, a trust deed, a directorship, signatory authority, fiduciary identity** | **That the founder is legally the shareholder, or that any upside is distributable to him** |
+| **7** | **The current architecture is being designed now** | **A statement about the design activity** | **Authority to make legal determinations, or approval of anything designed** | **That designing a structure constitutes deciding it, or that a design is an approval** |
+
+**The instructing person asks you to treat the fourth, fifth and sixth declarations with particular care: the fourth and fifth are the reason this instruction exists, and the sixth is the declaration most likely to be mistaken for a statement of present ownership. It is not one.**
+
+---
+
+### SECTION 5 — ENCLOSURE ② THE OPTION SET, UNFILTERED
+
+**Ten candidate structures are put to you. They are put to you unfiltered: three of them — the fifth, sixth and seventh — are not named anywhere in the source material and are included because their absence from it is not a legal finding. You may add forms, exclude forms as legally unavailable, or find that two candidates are one form under two names.**
+
+| # | **Candidate form** | **Named in the source material?** | **Note given to you, and no more** |
+|---|---|---|---|
+| **A** | **Section 8 company** | **`YES` — by this exact name, in four instruments** | **The source material records, of this and of the two following candidates, *"restrictions on profit distribution and founder upside"* and that they *"may not fit commercial waterfall without separate structure"*. **That is a statement in the source material. **It is not a conclusion offered to you** |
+| **B** | **Registered society** | **`YES` — in four instruments** | **The source material records that *"state-specific trust/society regimes differ by state"* and that one national entity operating across many states carries consequences it does not state. **The intended operating states are asked for at Section 12** |
+| **C** | **Public charitable trust** | **`YES` — in four instruments** | **The source material records trustee liability as an express open insurance question, in the form *"whether any cover exists for … trustee liability"*. **It is unanswered** |
+| **D** | **Ordinary private company / business entity** | **`PARTLY`** — the source material says *"company"*, *"subsidiary"* and *"for-profit venture entity"*; **it never says *"private limited company"*** | **You are told this so that you do not read a specificity into the source material that it does not contain** |
+| **E** | **Limited liability partnership** | **`NO — NOT PRESENT IN THE SOURCE MATERIAL`** | **Included because absence from a design document is not a statement of legal availability. **No source statement supports or opposes it, and none may be inferred** |
+| **F** | **Partnership** | **`NO — NOT PRESENT IN THE SOURCE MATERIAL`** | **As above. **The word appears in the source material only to mean commercial, non-governmental and public-body partners** |
+| **G** | **Proprietorship** | **`NO — NOT PRESENT IN THE SOURCE MATERIAL`** | **As above** |
+| **H** | **Hybrid — a charitable or social-purpose entity plus a commercial entity** | **`YES` — the most frequently named multi-entity candidate, in seven instruments** | **The source material records, of this candidate, *"brand licence, related-party agreements and strict transfer-pricing discipline"*, marked as requiring validation. **No such agreement exists and none is proposed by this pack** |
+| **I** | **Parent or holding entity plus a separate operating entity** | **`YES` — the only candidate the source material describes as the present conceptual state** | **You are told this because it is what the source material says, and because the fourth declaration says that no constitutive document exists. **Both statements are given to you. **This pack does not reconcile them, and asks you not to assume that they have been reconciled** |
+| **J** | **Any other structure you identify** | **`YES` — the category is expressly open** | **The source material's own option lists end with *"other"*. **You are expressly invited to use this candidate** |
+
+**Four rules govern how this option set has been assembled. They are given to you as constraints on the material, not as conclusions:**
+
+| Rule | **Content** |
+|---|---|
+| **1** | **Every candidate named in any source instrument survives into this list. **Where two instruments use different words for what may or may not be the same thing, both are carried and neither is merged by the instructing person** |
+| **2** | **Candidates absent from the source material are surfaced, not endorsed. **They carry no source statement in their favour or against them** |
+| **3** | **The list is open. **It is a schedule for you to complete, not a menu to choose from** |
+| **4** | **Nothing in this pack records a legal capability. **A statement that a source instrument describes a form as capable of something is not a statement that the form can lawfully do it, and a statement that a source instrument describes a form as restricted is not a statement that the form cannot** |
+
+---
+
+### SECTION 6 — ENCLOSURE ③ THE FOUR PILLARS
+
+**Whatever is created must be capable of carrying these four activities. They are stated as the source material states them, with the source material's own references.**
+
+| # | **Pillar** | **What the source material says it comprises** |
+|---|---|---|
+| **1** | **Social service** | **Education, food, health-support, cleaning, plantation, clothing, donations, community infrastructure, emergency response, animal and environment support** |
+| **2** | **Community network** | **Residents, local relationships, need identification, volunteer coordination, trustworthy local information flow** |
+| **3** | **Protection / first response** | **The protection and first-response function, with its own amendments governing visibility, incident handling and activation** |
+| **4** | **AI business** | **The commercial artificial-intelligence activity described in the source material's venture chapter** |
+
+**Two facts about these four pillars are given to you and are not for you to assume away:**
+
+| Fact | **Content** |
+|---|---|
+| **The first fact** | **The source material contains an unresolved conflict — recorded as `GC-01`, and reproduced at Section 9 — between an eight-priority economic waterfall on the one hand and *"restrictions on profit distribution and founder upside"* attaching to the not-for-profit forms on the other. **Both texts are given to you. **Neither is preferred. **This pack does not resolve the conflict and does not ask you to resolve it in favour of either text** |
+| **The second fact** | **No form has been found in the source material capable of carrying all four pillars without qualification. **That is a statement about the source material, not a legal finding, and you are not asked to accept it** |
+
+---
+
+### SECTION 7 — ENCLOSURE ④ THE ASSERTED JURISDICTION
+
+| Item | **Content** |
+|---|---|
+| **The jurisdiction asserted** | ### **`INDIA`** |
+| **The basis of the assertion** | **The third declaration: *"India is intended as the governing jurisdiction."*** |
+| **What the assertion is** | **An asserted jurisdiction against which your opinion may be scoped** |
+| **What the assertion is not** | **A completed registration, a choice of law already made, a registered address, an identified regulator, or a tax residency. **There is no address, no registered office, no state of domicile and no filing** |
+| **The intended operating state or states** | **`[TO BE COMPLETED BY THE SENDER]`** — **and you are asked, at Section 12, to state whether your answer varies by state** |
+| **Whether any foreign element is contemplated** | **`[TO BE COMPLETED BY THE SENDER]`** — **specifically: whether any source of funds outside India is contemplated, and whether any activity outside India is contemplated** |
+
+---
+
+### SECTION 8 — ENCLOSURE ⑤ THE STATED ABSENCE
+
+**You are instructed on the following absences. They are stated so that nothing in your advice rests on an assumption that something exists.**
+
+| # | **What does not exist** |
+|---|---|
+| **1** | **No legal or constitutive document of any kind — no memorandum, articles, trust deed, society registration, partnership deed, LLP agreement, by-laws, charter, resolution, minute, appointment, delegation or licence** |
+| **2** | **No legal structuring work of any kind completed, by any professional, at any time** |
+| **3** | **No legal person — on either side. **Neither Sewak Sathi Sanstha nor Krytos is a legal person, and the source material's own finding is that *"there is no legal person to incur cost, hold property or be sued"*** |
+| **4** | **No bank account, and no bank mandate. **The source material requires *"two or more signatories with a continuity rule"*; no such mandate exists, and five separate tests of whether one could presently operate all fail** |
+| **5** | **No registered name, no reserved name and no name search performed** |
+| **6** | **No ownership document of any kind, in respect of any asset. **Seventeen classes of asset are identified in the source material and **none has a stated owner** |
+| **7** | **No insurance policy, no insurance quotation, no broker engagement and no written answer to any of the fifteen insurance and liability questions the source material poses** |
+| **8** | **No accounting framework adopted, no basis of preparation chosen, no accounts prepared, no auditor appointed and no statutory registration of any kind made — including tax registration** |
+| **9** | **No privacy notice, no retention schedule, no named privacy officer, no data-fiduciary identity and no breach procedure** |
+| **10** | **No certified safeguarding capability** |
+| **11** | **No employee, no worker engagement document, no classification opinion and no payroll** |
+| **12** | **No governance body in operation — no board, no council, no committee, no quorum, no reserved-matters list adopted, no delegation instrument executed** |
+| **13** | **No successor to the instructing person named anywhere. **The source material records this as *"not named anywhere in the source hierarchy"*, and records that the body which would decide the matter is itself the subject of the decision** |
+| **14** | **No funding. **No fee, budget, funding source or amount exists anywhere in the source material, and none is stated in this pack. **See Section 14** |
+| **15** | **No economic blueprint document. **A document of that description is referenced in the source material and has never been received. **Nothing in this pack is derived from it, and you are asked to treat any figure said to originate in it as unverified and absent** |
+
+---
+
+### SECTION 9 — ENCLOSURE ⑥ THE NINE NODES OF THE UNRESOLVED CONFLICT
+
+**The source material records a substantive, unreconciled conflict between the eight-priority economic waterfall and the restrictions attaching to the not-for-profit forms. It is analysed as a tree of nine nodes. You are given all nine, with the status of each as the source material records it.**
+
+| Node | **The question the node asks** | **Its recorded status** |
+|---|---|---|
+| **1** | **Is Krytos a legal person?** | ### **`CLOSED — NEGATIVELY`. **The first node to close in six generations of analysis, and it closes on the declaration that no constitutive document exists. **A negative root is the one outcome the tree was not built to receive** |
+| **2** | **Is Sewak Sathi Sanstha a legal person?** | **`OPEN — UNCHANGED`. **This is your question, and it is the reason for this instruction** |
+| **3** | **If Krytos is not a legal person, to whom does the waterfall's eighth priority — *"residual surplus / founder upside"* — run?** | **`AUTHORITY UNRESOLVED` and **live**. **The holder of the reserved matter is undetermined. **This node is live precisely because node 1 closed negatively** |
+| **4** | **If Sewak Sathi is not a legal person, who pays the fourth priority and who receives the eighth?** | **`UNKNOWN — UNCHANGED`. **Its antecedent is unanswered** |
+| **5** | **Are Krytos and Sewak Sathi related persons?** | **`REACHABLE — AND RE-FRAMED`. **Corporate relatedness cannot arise where one side is not a legal person. **The question is re-framed, not answered** |
+| **6** | **If related, what transfer-pricing and related-party regime applies to the fourth, fifth and eighth priorities?** | **`OPEN — UNCHANGED`** |
+| **7** | **If not related corporately, is the founder a related party in his personal capacity?** | **`FACTS SUPPLIED — OPINION STILL REQUIRED`. **The sixth declaration supplies the facts. **The opinion is yours, and it is not offered here** |
+| **8** | **If the founder is a related party, who holds the conflict-of-interest discipline over the fourth and eighth priorities?** | **`AUTHORITY UNRESOLVED` — no determined holder** |
+| **9** | **Does closing the Krytos limb close the conflict?** | **`NO — DEMONSTRATED, NOT PREDICTED`. **Node 1 has closed, and seven of the eight remaining nodes are unaffected** |
+
+**The recorded result, given to you verbatim: the Krytos limb is assessed, negatively; the entity-form limb cannot be assessed; and the tree as a whole remains unresolved. This pack does not resolve it and does not ask you to resolve it in Section 3. It asks you to tell the instructing person what the consequences of each candidate form are for this conflict.**
+
+---
+
+### SECTION 10 — ENCLOSURE ⑦ THE CONFLICTS, WITH BOTH TEXTS
+
+**Six conflicts are given to you in full, each with both of its texts. Neither text is preferred in any case, and this pack does not reconcile any of them. A seventh, opened later in the source material, is added for completeness.**
+
+| ID | **The conflict, with both texts** | **Status** |
+|---|---|---|
+| **①** | **Personal brand ownership, against two source items recorded as `UNRESOLVED`** | **`OPEN` — untouched by the seven declarations** |
+| **②** | **The source material's *"restrictions on profit distribution and founder upside"*, attaching to the not-for-profit forms, against the `APPROVED` waterfall priorities four, five and eight** | **`OPEN`, rated `CANNOT BE ASSESSED`** |
+| **③** | **The owner of the operating system — one source text assigns it to a national technology function; another says *"whoever owns Krytos owns the operating system"*** | **`OPEN`. **The second limb's antecedent is now known to be absent, which sharpens the conflict rather than resolving it** |
+| **④** | **A source verification that records *"no invented ownership — VERIFIED"*, against an asserted ownership** | **`OPEN` — unchanged, because the sixth declaration is an assertion and not an instrument, so the verification still holds** |
+| **⑤** | **Leader equity prohibited in one source instrument, against founder upside approved in another** | **`OPEN`, and sharpened: the eighth priority names a *founder*, and the founder is now a declared owner of the ecosystem head. **The tension is between two source texts, not between a text and a person** |
+| **⑥** | **The sixth declaration, against a source clause recording that *"Krytos remains the parent/company context and ownership context already established in v1.0"* — an establishment said to be documented** | **`OPEN` and **new**. **The fourth declaration states that no constitutive document exists. **Both statements are from the same person. **This pack gives you both and prefers neither** |
+| **⑦** *(added)* | **A further conflict opened in the same part of the source material, recorded alongside ⑥** | **`OPEN`. **Given for completeness because it arises from the same declarations** |
+
+---
+
+### SECTION 11 — WHAT IS REQUIRED FROM YOU
+
+**Eleven deliverables. Each is a question to be answered in writing by you. None of them has an answer in this pack, and none of them may be answered by reference to this pack.**
+
+| # | **The deliverable** | **Its form** |
+|---|---|---|
+| **1** | **For each of the ten candidates at Section 5 — and for any candidate you add under rule 3 — whether that form is available at all in India for an organisation intending to carry all four pillars at Section 6, and if it is not, why not** | **A written finding per candidate. **Availability, not preference** |
+| **2** | **For each available candidate, the minimum constitutive document set: what must be created, in what order, by whom, filed with whom, and adopted how** | **A list per candidate. **No document is drafted for you in this pack** |
+| **3** | **For each available candidate, the consequences of each of the four pillars being carried by it — including any pillar that the form cannot carry, or can carry only through a separate structure** | **A written analysis per candidate per pillar** |
+| **4** | **For each available candidate, the tax consequences: the character of the entity, its registration requirements and sequence, the treatment of each of the eight waterfall priorities, the treatment of any payment to or from Krytos, and the treatment of the instructing person in his personal capacity** | **A written tax analysis per candidate. **No tax position is stated in this pack, and no statutory figure is quoted in it** |
+| **5** | **For each available candidate, whether the eight-priority waterfall is capable of existing within it, and if not, what the conflict at Section 9 requires** | **A written finding per candidate. **This is the conflict at node 3 and node 4. **You are not asked to resolve the conflict; you are asked what each candidate does to it** |
+| **6** | **For each available candidate, the classification of the persons who would perform work — and the consequences of each classification for payment, statutory dues, and personal exposure** | **A written classification analysis. **No classification is asserted in this pack** |
+| **7** | **For each available candidate, the personal exposure of an individual acting as promoter, first director, trustee, officer or occupier **before** the entity is constituted, and **after** — distinguishing what is personal from what is the entity's** | **A written liability analysis. **This pack nowhere states that any individual is or is not personally liable, and nowhere states that any individual is or is not protected** |
+| **8** | **For each available candidate, the governance authority required to perform a financial act: who may approve, who may sign, who may receive, who may verify and who may audit — and which of those functions cannot be held by the same person** | **A written authority analysis. **This pack does not name any person to any function and does not propose any body** |
+| **9** | **Whether a bank mandate with two or more signatories and a continuity rule is capable of being established for each available candidate, what it requires, and what happens on the death, incapacity, resignation or removal of a signatory** | **A written banking analysis per candidate** |
+| **10** | **Whether the instructing person may pay your fees personally, what the consequences of doing so are for him, and whether any such payment creates any relationship between him and any body that may later be constituted** | **A written answer. **The organisation cannot pay you; see Section 14. **This pack does not advise on that question and does not recommend any course** |
+| **11** | **A written answer to each of the questions in the enclosed register of thirty-five professional questions, in the format at Section 12, with the two fields marked `[TO BE COMPLETED BY COUNSEL]` completed by you and by no one else** | **The register itself. **It is enclosed. **Fields 11 and 12 of every row are empty and are yours** |
+
+---
+
+### SECTION 12 — FACTS YOU MAY NEED THAT THIS PACK DOES NOT CONTAIN
+
+**Each of the following is a fact only the instructing person holds. Each is left blank here. Each will be supplied on request, in writing.**
+
+| # | **The fact** | **Entry** |
+|---|---|---|
+| **1** | **The intended operating state or states** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **2** | **Whether any activity has already taken place, and if so what, when, where, with whom, and with whose money** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **3** | **Whether any person has already acted as a promoter, subscriber, director, trustee, member, partner or occupier, and if so who and when** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **4** | **Whether any money has changed hands in connection with this matter, in either direction, and if so how it was recorded** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **5** | **Whether any name has been used publicly, and if so which, where, and since when** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **6** | **Whether any person other than the instructing person is intended to hold any interest of any kind** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **7** | **Whether Krytos is intended to hold anything, and what** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **8** | **Whether any commercial activity is intended at all, and in which of the categories the source material lists** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **9** | **Whether any donation, grant, or foreign source of funds is contemplated** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **10** | **Whether any data of any person is or will be held, and in what form** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **11** | **Whether any minor is or will be within the scope of any activity** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **12** | **The roles the source material describes, and what each is intended to do** | **Enclosed with the register** |
+
+---
+
+### SECTION 13 — WHAT THIS INSTRUCTION DOES NOT AUTHORISE, ASK FOR, OR IMPLY
+
+**Twenty acts are presently prohibited by the source material's own control register. This instruction does not ask you to lift any of them, does not authorise any of them, and does not imply that any of them has ceased to apply. They are listed so that your advice is given against them and not in ignorance of them.**
+
+| # | **The act that is presently prohibited** |
+|---|---|
+| **1** | **Any external payment of any kind** |
+| **2** | **Paying worker compensation** |
+| **3** | **Paying any organisation service fee** |
+| **4** | **Distributing any residual surplus or founder upside** |
+| **5** | **Collecting funds** |
+| **6** | **Employing or engaging anyone as a worker** |
+| **7** | **Operating the protection function** |
+| **8** | **Any activity involving minors** |
+| **9** | **Collecting personal data** |
+| **10** | **Publishing any claim above the lowest permitted level** |
+| **11** | **Running a pilot** |
+| **12** | **Inferring any foundational fact from any activity that has occurred** |
+| **13** | **Procuring technology** |
+| **14** | **Establishing a state or city layer of the structure** |
+| **15** | **Issuing badges, or any mark, insignia or identifier** |
+| **16** | **Automated selection of any leader** |
+| **17** | **Any transfer of contribution between persons** |
+| **18** | **A national day, an eponymous artefact or a ceremony** |
+| **19** | **Reservation of any colour** |
+| **20** | **Any inference that a body exists, owns anything, controls anything, is insured, employs anyone, or has permission to operate** |
+
+**And this instruction does not:**
+
+| Not done | **Content** |
+|---|---|
+| **Select an entity** | **No candidate at Section 5 is preferred, recommended, ranked, or described as suitable. **The order A to J is the source material's order, not a ranking** |
+| **Constitute anything** | **Nothing here incorporates, registers, executes, adopts or files anything** |
+| **Confer authority** | **No office is created, no person is appointed, no body is empowered, no delegation is made** |
+| **Resolve a conflict** | **The ten conflicts at Sections 9 and 10 are given with both texts and neither preferred** |
+| **Close a gate** | **No authorisation gate is passed. **The source material's pilot gate presently fails on all ten of its sub-gates, on evidence and not on assertion** |
+| **State a number** | **No fee, budget, percentage, ratio, threshold, salary, reserve or amount appears anywhere in this pack. **Where a figure exists in a source document it is referred to by location and not restated** |
+| **Draw a legal conclusion from any external source** | **Where the source material cites external references, they are cited as references only, with its own disclaimer preserved: *"no economic, legal or tax conclusion is drawn from any of them"*** |
+| **Say what should be registered** | **This instruction does not say that Sewak Sathi Sanstha should be registered as anything, because the source material has not decided it. **The chain it requires is: **option set, then consequence analysis, then professional validation, then human decision. **This instruction is the third step** |
+
+---
+
+### SECTION 14 — PAYMENT, AND THE ORGANISATION'S INABILITY TO PAY
+
+| Item | **Content** |
+|---|---|
+| **Whether any organisation can pay your fees** | ### **`NO.`** **No legal person exists; no bank account exists; no mandate exists. **The source material's recorded consequence is that ***"no external payment can lawfully or operationally be made"*** by or to this architecture, and its control register prohibits any external payment** |
+| **Whether an informal payment would work** | **No. **The source material records that *"a payment made informally is not a mandate; it is an unauthorised payment"*** |
+| **Whether the source material budgets for your fees** | **It identifies the requirement — professional fees for eleven validations — and records its amount as *"not stated anywhere"*. **There is no budget, no funding source and no amount** |
+| **Whether the instructing person may pay personally** | **`REQUIRES A FOUNDER DECISION` and `REQUIRES QUALIFIED TAX ADVICE`. **This pack does not make that decision, does not advise on it, and does not recommend any course. **Deliverable 10 asks you for a written answer on it** |
+| **The consequences of a personal payment that this pack does not assess** | **Related-party consequences, contribution consequences and deductibility consequences are expressly not assessed here, and are put to you at deliverable 10** |
+| **Amount, fee arrangement and terms** | **`[TO BE COMPLETED BY THE SENDER AND BY YOU]`** |
+
+---
+
+### SECTION 15 — ENCLOSURES
+
+| # | **Enclosure** | **What it contains** |
+|---|---|---|
+| **1** | **The register of thirty-five professional questions** | **Each question in a controlled fifteen-field format, with fields 11 and 12 marked `[TO BE COMPLETED BY COUNSEL]` and empty in every row** |
+| **2** | **The economic architecture document** | **The complete current-state economic architecture of the matter, prepared from the source material, containing no invented figure and no legal conclusion** |
+| **3** | **The founder disclosure pack** | **The facts at Section 12 in structured form, in four categories — known, unknown, document required, founder confirmation required — **with every field left empty** |
+| **4** | **The source material** | **The design documents from which every statement in this pack is drawn, with the citation for each** |
+| **5** | **The output format** | **The eleven-field controlled block in which each answer is required** |
+
+---
+
+### SECTION 16 — SIGNATURE
+
+| Field | **Entry** |
+|---|---|
+| **Signed by** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Name in full** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Capacity** | ### **`Personally, as a natural person. Not for or on behalf of any entity.`** |
+| **Date** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Place** | **`[TO BE COMPLETED BY THE SENDER]`** |
+| **Addressed to** | **`[TO BE COMPLETED BY THE SENDER — name and firm of the qualified Indian professional instructed]`** |
+
+**The instructing person confirms by signing: that the seven declarations at Section 4 are his; that the fifteen absences at Section 8 are true to the best of his knowledge; that he understands that no organisation exists that could be bound by your advice or that could pay for it; and that he is not asking you to confirm any of it.**
+
+════════════════════ **END — COPY TO THIS LINE** ════════════════════
+
+## XXIII.2 What only the sender can do
+
+**[P]** `[SOURCE]` — **U-PD-9**, **U-PD-16**, **DA-31**, **[S-K(E): §XXVI.3]**: *"The next act in this sequence is not a document. It is an instruction to a professional (`A-4`) and a delivery of a file (`A-5`). Both are acts of a person, and neither can be performed by an instrument."*
+
+| # | **The act** | **Why this brief cannot perform it** | **What the sender must do** |
+|---|---|---|---|
+| **1** | **Choose the professional** | **Naming a firm would be a selection this brief is not authorised to make, and would imply a judgement about competence that no corpus statement supports** | **Identify a qualified Indian corporate and tax counsel, and confirm that the professional is qualified for the jurisdictions and the subject matter at Section 5** |
+| **2** | **Complete Section 1 and Section 16** | **Every field is left `[TO BE COMPLETED BY THE SENDER]`** | **Enter name, address, contact details, the intended operating states, the foreign element, and the eleven facts at Section 12 — or state that each is unknown** |
+| **3** | **Sign** | **A document cannot sign itself, and an unsigned instruction binds no one and commissions nothing** | **Sign in person, in the capacity stated, and date it** |
+| **4** | **Decide how it will be paid for** | **`REQUIRES FOUNDER DECISION` and `REQUIRES QUALIFIED TAX ADVICE`. **The organisation may not pay — **`C-15`, `PP-04`, `A-N16 REMAINS BLOCKED`** — and this brief neither decides nor recommends** | **Make and record the decision, and take tax advice on it before paying. **Deliverable 10 asks counsel for a written answer on the consequences**** |
+| **5** | **Send it** | ### **`This is the act. Everything else in this Part is preparation for it.`** | **Send the pack and the five enclosures to the professional, and keep proof of sending** |
+| **6** | **Receive the answer** | **Rule K-5: a declaration is not a receipt** | **Receive the written answer, and record its receipt, its date, its author and its format** |
+| **7** | **Verify it against the format at Part XXV** | **Verification of a professional's answer is a human act performed on a document** | **Check that all eleven fields are present in every answer, that fields 7 and 8 are completed by counsel and not by anyone else, and that any condition or assumption is stated** |
+| **8** | **Then decide** | **Mandate §10, **DA-11**: no instrument selects the entity. **The chain is `OPTION SET → CONSEQUENCE ANALYSIS → PROFESSIONAL VALIDATION → HUMAN DECISION`, and this brief supplies only the first two and the routing to the third** | **Make the human decision, record it in the eleven-field format, and only then update the architecture — **REQUEST → RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE ARCHITECTURE** |
+| **9** | **Deliver the blueprint file, in parallel** | **`A-5`. **The file has never been received: **`EV-B-01` `E0`/`E1`/`P0`; **`RS-9`**; round five **`PV-1 … PV-6`** — still absent** | **Re-deliver the foundational economic blueprint so that it can be received, hashed and extracted — at no cost to act 5, and in parallel with it** |
+
+## XXIII.3 The anti-leading audit — every point at which an answer could have been implied, and how it was avoided
+
+**[P]** Mandate §28. **A pack that told counsel what to answer would be worse than no pack at all: it would convert the fourth step of the chain into a formality. Each row below records a point at which a preference could have leaked in, and the device that prevents it.**
+
+| # | **The point at which an answer could have been implied** | **The device used instead** |
+|---|---|---|
+| **1** | **Ordering the ten candidates by suitability** | **They appear in the source material's own order, A to J, and Section 5 states expressly that the order is not a ranking** |
+| **2** | **Describing one candidate as *"the obvious choice"* or *"the natural fit"*** | **No candidate carries any evaluative adjective anywhere in the pack. **The three candidates absent from the source material carry the note *"no source statement supports or opposes it, and none may be inferred"*** |
+| **3** | **Presenting the four pillars as though one form already carries them** | **Section 6 gives the two facts about the pillars — the unresolved conflict, and the absence of any unqualified form — and states that neither is a legal finding** |
+| **4** | **Summarising the conflict at Section 9 in a way that favours one side** | **Both texts are given. **The recorded result is quoted: the Krytos limb is assessed negatively, the entity-form limb cannot be assessed, the tree remains unresolved. **Section 9 states that the pack does not resolve it** |
+| **5** | **Answering node 3 — to whom the eighth priority runs** | **The node is given as `AUTHORITY UNRESOLVED` and live. **Deliverable 5 asks counsel what each candidate does to the conflict, not which candidate resolves it** |
+| **6** | **Stating the founder's related-party position** | **Node 7 records *"facts supplied — opinion still required"*, and the sixth declaration is given as a forward-looking intention with its prohibited conversion attached** |
+| **7** | **Reconciling the sixth declaration with the *"already established in v1.0"* clause** | **Conflict ⑥ gives both statements, notes that both come from the same person, and prefers neither** |
+| **8** | **Quoting a statutory figure, rate, threshold or percentage** | **None appears. **Section 13 records that no number appears anywhere in the pack, and that where a figure exists in a source it is referred to by location and not restated** |
+| **9** | **Suggesting that the answer to the classification question is known** | **Deliverable 6 asks for a written classification analysis and states that no classification is asserted** |
+| **10** | **Suggesting that anyone is or is not personally liable, or is or is not protected** | **Deliverable 7 asks for the analysis and states expressly that the pack nowhere makes either statement** |
+| **11** | **Proposing a governance body, a signatory, a bank or a provider** | **Deliverable 8 and 9 ask for the analysis. **Section 13 records that no office is created, no person is appointed and no body is empowered** |
+| **12** | **Advising the founder to pay personally** | **Section 14 states that the question requires a founder decision and qualified tax advice, that the pack does not decide or recommend, and that deliverable 10 puts it to counsel** |
+| **13** | **Filling in any field of the disclosure pack** | **Every field at Section 12 reads `[TO BE COMPLETED BY THE SENDER]`, and enclosure 3 is described as *"with every field left empty"*** |
+| **14** | **Completing fields 11 and 12 of the register** | **They are described, in enclosure 1, as marked `[TO BE COMPLETED BY COUNSEL]` and empty in every row** |
+| **15** | **Framing the question so that the desired answer is implied** | **The question at Section 3 is the source material's own question, reproduced verbatim, and Section 3 then lists five questions that are expressly **not** asked** |
+| **16** | **Treating the source material's descriptions of a form as statements of legal capability** | **Rule 4 at Section 5: a statement that a source instrument describes a form as capable of something is not a statement that it can lawfully do it** |
+| **17** | **Implying that the seven declarations are facts** | **Section 4 states that each is an assertion of intention or of absence, and gives the conversion each must not support** |
+| **18** | **Implying that this instruction confers authority on the declarant** | **Section 1 states that the instruction confers no authority on any body and that the sender binds no one but himself** |
+| **19** | **Implying that the pilot may proceed once advice is received** | **Section 13 records that no gate is closed, that the pilot gate presently fails on all ten sub-gates, and that twenty acts remain prohibited** |
+| **20** | **Implying that a seventh document is progress** | **Section 2 tells counsel that six documents have already performed this next action without advancing the register, and that the recorded reason is that *"producing a paper is not instructing a professional"*** |
+
+## XXIII.4 The seven items, reconciled to their sources
+
+**[P]** `[SOURCE]` — **[S-K(E): §XXVI.1]**, field *"What counsel must be given"*. **The field specifies seven items. All seven are in the pack, in order, and each is traced here so that the pack can be audited against the specification rather than trusted.**
+
+| # | **The item the specification requires** | **Where it is in the pack** | **Its source** | **Status** |
+|---|---|---|---|---|
+| **①** | **The seven declarations verbatim, at evidence level `E1`, with the two express negatives marked as such** | **Section 4** | **[S-K(E): §II.3, 172]**; **[S-K(E):1839]** — the eight findings resting on `E1` assertions include **U-PD-1 … U-PD-5**, **U-PD-7**, **U-PD-8**, **U-PD-15** | ### **`GIVEN IN FULL, IN ORDER, WITH NEGATIVES 4 AND 5 MARKED`** |
+| **②** | **The option set unfiltered** | **Section 5** | **[S-G] §III.2, 585–760**; Rules **G-15 … G-20**; **G-Δ1** | ### **`GIVEN IN FULL — ALL TEN, INCLUDING THE THREE NOT PRESENT IN THE SOURCE MATERIAL`** |
+| **③** | **The four pillars** | **Section 6** | **[S-G:752–755]** — `FC-01` social service · `FC-02` community network · `FC-03` protection / first response · `FC-04` AI business | ### **`GIVEN IN FULL, WITH THE SOURCE'S OWN CHAPTER REFERENCES`** |
+| **④** | **The asserted jurisdiction: India** | **Section 7** | **Declaration 3; **[S-K(E):1723]** — `U-PD-15`: *"Annexure C acquired a jurisdiction and did not acquire an entity, and [S-A:2354] requires all three"*** | ### **`GIVEN, WITH THE DISTINCTION BETWEEN AN ASSERTED JURISDICTION AND A COMPLETED REGISTRATION STATED`** |
+| **⑤** | **The stated absence: no legal or constitutive document, and no legal structuring work completed** | **Section 8** | **Declarations 4 and 5; **[S-G:2323]**; **`OC-10`**; **`T-1 … T-5`**; **EV-B-01**** | ### **`GIVEN, AND EXTENDED TO FIFTEEN ABSENCES SO THAT NO ADVICE RESTS ON AN UNSTATED ASSUMPTION`** |
+| **⑥** | **The nine `GC-01` nodes, with node 1 closed negatively and node 3 live** | **Section 9** | **[S-K(E): Part X, §X.1, 936–944]**; the result at **958–964**; **[S-G:491]** | ### **`GIVEN IN FULL — ALL NINE, WITH EACH RECORDED STATUS`** |
+| **⑦** | **The conflicts `CF-02`, `CF-06`, `CF-10`, `CF-13`, `CF-16`, `CF-21`, with both texts** | **Section 10** | **[S-K(E): §VII.2, 730–751]** — `CF-02` at **732**, `CF-06` at **736**, `CF-10` at **740**, `CF-13` at **743**, `CF-16` at **746**, `CF-21` at **751**; **`CF-22`** opened at **259** and **725** | ### **`GIVEN IN FULL, PLUS `CF-22` FOR COMPLETENESS — SEVEN CONFLICTS, NONE RECONCILED`** |
+| — | **The question counsel must be asked** | **Section 3** | **[S-K(E): §XXVI.1]** — `U-PD-15`'s question, verbatim | ### **`GIVEN VERBATIM, WITH FIVE QUESTIONS EXPRESSLY NOT ASKED`** |
+| — | **Who must ask it** | **Section 1, Section 16, §XXIII.2** | **`U-PD-9`** — one natural person, needing *"no entity, a bank account, a budget, a constituted body, a vote or a document"* **[S-K(E):1825]**; **[S-K(E):2240]** | ### **`STATED, WITH EVERY SENDER FIELD LEFT EMPTY`** |
+| — | **What it costs, and who may pay** | **Section 14** | **[S-K(E): §XXVI.1]** field *"What it costs"*; **`BLK-D-07`** **[S-F:695]**; **`C-15`**; **`PP-04`** | ### **`STATED, WITH THE FOUNDER DECISION AND THE TAX ADVICE BOTH RESERVED AND NEITHER GIVEN`** |
+
+> ### **`THE PACK IS COMPLETE AGAINST ITS SPECIFICATION: SEVEN ITEMS, ONE QUESTION, ONE SENDER, ONE PAYMENT POSITION, FIFTEEN ABSENCES, TWENTY PROHIBITIONS, ELEVEN DELIVERABLES AND TWELVE FACTS LEFT BLANK. IT CONTAINS NO ANSWER. IT CANNOT SEND ITSELF.`**
+
+---
