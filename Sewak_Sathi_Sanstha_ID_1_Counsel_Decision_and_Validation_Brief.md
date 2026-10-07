@@ -3692,3 +3692,367 @@ DOCUMENTS COMPLETE
 > ### **`ELEVEN FIELDS. TWO OF THEM ARE NOT THIS BRIEF'S TO WRITE, NOT THE FOUNDER'S TO WRITE, AND NOT ANY INSTRUMENT'S TO WRITE. THE FORMAT EXISTS SO THAT THE TWO EMPTY FIELDS STAY EMPTY UNTIL A PROFESSIONAL FILLS THEM.`**
 
 ---
+
+# PART XXVI — WHAT MAY PROCEED IN PARALLEL
+
+## XXVI.1 The test for parallel work
+
+**[P]** `[SOURCE]` — **[S-K(E): §XXVI.1]**: *"And, in parallel and at no cost to the first: re-deliver the blueprint so that it can actually be received, hashed and extracted."* **The corpus itself authorises parallel work on exactly one condition, and this Part applies that condition to everything else.**
+
+| # | **The test** | **Why it is the test** |
+|---|---|---|
+| **1** | **It requires no entity** | **There is none — **`FA-4`, `PP-03`, **[S-G:2323]**** |
+| **2** | **It requires no constitutive document** | **There is none** |
+| **3** | **It requires no professional determination** | **None exists, and none may be pre-empted — mandate §21** |
+| **4** | **It requires no payment of any kind, by anyone** | **`C-15`: any external payment is prohibited; **`A-N16 REMAINS BLOCKED`; **`PP-04`** |
+| **5** | **It requires no authority, no appointment and no delegation** | **`APPROVES` is unassigned in 13 of 16 acts; **`SIGNS` is blocked in every money act; **0 of 16 acts are executable — CEA Part XX** |
+| **6** | **It does not pre-empt, prejudice or narrow the answer to any question in the register** | **Mandate §28. **Parallel work that shapes the answer is not parallel work; **it is a seventh instrument doing what six instruments did** |
+| **7** | **It produces a record, or a fact, or a document — not a conclusion** | **Rule K-4; **`PP-01 … PP-09`. **A record can be handed to a professional. **A conclusion cannot be un-made** |
+| **8** | **It can be stopped at any moment without loss, and it must be stopped if a stop condition fires** | **`VG-1`: stop-work and escalate, never enforce. **Any track that cannot be stopped is not a track; **it is a commitment** |
+
+> ### **`A TRACK THAT SATISFIES ALL EIGHT TESTS MAY PROCEED. A TRACK THAT FAILS ANY ONE OF THEM MUST NOT — AND PART XXVII LISTS THE THINGS THAT FAIL.`**
+
+## XXVI.2 The nine tracks that pass all eight tests
+
+**[P]** `[PROPOSED]` as to their identification; `[SOURCE]` as to each item's authority. **Every track costs nothing, requires nobody's authority, and can be stopped without loss. None of them produces an answer to any question in the register.**
+
+| # | **The track** | **What it produces** | **Its authority** | **What it does not produce** |
+|---|---|---|---|---|
+| **1** | ### **`A-5` — re-deliver the foundational economic blueprint** | **A file that can be received, hashed and extracted** | **[S-K(E): §XXVI.1]**, expressly *"in parallel and at no cost to the first"*; **`A-5`** | **Nothing economic. **`FD-1` classifies it `HISTORICAL / REFERENCE ONLY`; **no percentage, budget, ratio or assumption is inherited from it, and its arrival would not change any of the thirty-five questions — §XXI.6 item 4** |
+| **2** | **Complete the disclosure pack at Part XXIV** | **Fifty completed fields, in the founder's own hand** | **Mandate §29; **`DIS-01 … DIS-50`; **§XXIII.1 Section 12** | **No determination. **The pack is facts, and facts are what a professional needs before advising** |
+| **3** | **Identify qualified Indian corporate and tax counsel** | **A name, a firm, a confirmation of qualification for the subject matter, and a fee proposal** | **§XXIII.2 item 1. **Choosing whom to instruct is not selecting an entity** | **No engagement, and no instruction. **Instructing is act 5 at §XXIII.2, and it is a separate act** |
+| **4** | **Gather the historical facts — `CQ-06`** | **A written account of what has happened, when, where, with whom and with whose money** | **`CQ-06` is the only question in the register with no entity dependency at all — §XXI.4** | **No classification. **The facts feed **`CQ-05`** and **`SR-02`**; **they do not answer either** |
+| **5** | **Design the paper record — `CQ-21`** | **A record design: what is captured, in what fields, on what medium, by whom** | **`CQ-21` is class ① *answerable now*; **CEA §XXI.1 permits paper and requires no software** | **No retention period, which is a legal question; **and no system, no software and no platform — **`C-27`, `SR-77`, `BLK-F-01`** |
+| **6** | **Search name availability — `CQ-28`** | **A search result** | **`CQ-28`'s entity dependency is *"no for the search, yes for the registration"*** | **No reservation and no registration. **Reserving a name requires an applicant** |
+| **7** | **State the criminal boundary and the safeguarding duties that already bind individuals — `CQ-25`, `CQ-26`** | **A written statement of what individuals may not do, and must do, irrespective of the organisation's status** | **Both carry a qualified `NO` entity dependency — §XXI.4; **`VG-2` **[S-D: §36.4]** is already in force** | **No organisational exposure, no registration obligation and no certified capability — **`SR-31`** is `DECISION REQUIRED`** |
+| **8** | **Preserve and hash the evidence base** | **A provenance record: what was received, when, from whom, in what form, with what hash** | **Rule K-1 to K-10; **`EV-B-01`. **Fabricating a hash or a timestamp is forbidden; **recording a real one is not** | **No fact. **Provenance establishes that a document was received, not what it says** |
+| **9** | **Record the prohibition set in a form a person can obey — `ID-13`** | **A one-page statement of the twenty acts that may not be performed and the twenty stop conditions** | **`ID-13` is one of only two CEA dependency steps available today — §XXI.2; **`C-10 … C-29` **[S-K(E):1594–1613]**; **Part XXII** | **No permission. **Recording a prohibition does not relax it, and does not create an exception for anyone** |
+
+## XXVI.3 What the nine tracks cost, and what they are worth
+
+**[P]** `[SOURCE]` as to the absence of any figure. **Mandate §24: zero invented economic numbers. **No amount, fee, hour estimate, budget or cost appears in this section, because none exists in the corpus — **`BLK-D-07`'s variable is *"not stated anywhere"* **[S-F:695]**, and CEA **`V-01 … V-22`** are empty.**
+
+| Track | **Its cost** | **Its value if the instruction is sent** | **Its value if the instruction is never sent** |
+|---|---|---|---|
+| **1 — the blueprint** | **Nothing but the founder's time** | **Completes **`PV-1 … PV-6`**, and allows **Part XV of the delta audit** to execute as written** | **None. **`FD-1` stands either way** |
+| **2 — the disclosure pack** | **Nothing but the founder's time** | **Answers Section 12 of the instruction without a second exchange, and is the difference between one round of advice and several** | **None, but it is also the only track that reduces the number of professional hours eventually required** |
+| **3 — identifying counsel** | **Nothing until an instruction is sent** | **Removes the only practical obstacle to act 5: not knowing whom to ask** | **None** |
+| **4 — the historical facts** | **Nothing** | **Supplies the one input that cannot be reconstructed later, because memory ages and people leave** | **`CQ-06` is the one question in the register that would then be answered, and it is the escape hatch at §XXI.5 circle 3** |
+| **5 — the record design** | **Nothing. **Paper** | **Allows records to begin on the day an entity exists rather than the day someone thinks of it** | **A design that is not used. **No loss** |
+| **6 — the name search** | **Nothing, or a nominal search fee paid personally — **`REQUIRES FOUNDER DECISION`** | **Removes a step from the constitutive sequence once a form is chosen** | **A search result that ages** |
+| **7 — the boundary statement** | **Nothing** | **Protects individuals now, before any entity protects them — and **`F-10`** records that abandoning a member is *"the single most damaging possible internal event"*** | ### **`The highest value of any track if nothing else happens, because it is the only one whose benefit does not depend on an entity.`** |
+| **8 — the provenance record** | **Nothing** | **Makes every later answer auditable, including counsel's — field 11a of the format at Part XXV** | **A record of what was never received, which is itself evidence — **`EV-B-01`, `RS-9`** |
+| **9 — the prohibition record** | **Nothing** | **Ensures that no act is performed in ignorance of a prohibition while the instruction is in progress** | ### **`Complete value. `ID-13` is available today and needs no professional, no entity and no money to obey.`** |
+
+## XXVI.4 Sequencing — what must not start before what
+
+**[P]** `[PROPOSED]`. **Parallel does not mean unordered. Each constraint below exists because starting in the wrong order produces a record that has to be thrown away, or an act that has to be undone.**
+
+| # | **The constraint** | **Why** |
+|---|---|---|
+| **1** | **Track 2 may not be completed before track 4** | **The disclosure pack asks at **`DIS-08`, `DIS-17`, `DIS-18`, `DIS-24`** what has happened. **Those answers are the content of **`CQ-06`**. **Answering them twice, differently, creates two records of the same facts** |
+| **2** | **Track 3 may not become an engagement before track 2 is at least drafted** | **A professional asked to advise without the facts will ask for them, and the engagement will have begun with a request rather than a question. **`U-PD-15`'s question is answerable only with **`FA-1 … FA-7`** and the ten candidates in hand** |
+| **3** | **Track 5's design may not be populated before the retention period is known** | **`CQ-21`'s qualified `NO`: the design needs no entity, the retention period does. **A record kept for the wrong period is a record that must be destroyed or defended** |
+| **4** | **Track 6's result may not be acted on before `SR-01` is decided** | **A search tells you whether a name is available, not whether you may reserve it. **Reserving requires an applicant, and there is none** |
+| **5** | **Track 9 may not be published before track 7** | **A list of prohibitions without the statement of what individuals must do is a list of refusals. **`VG-1` requires escalation, and escalation requires the boundary to be stated first** |
+| **6** | **No track may produce a document that describes itself as a decision, an approval, an authorisation or a policy** | **`DA-29`, `DA-30`, **Rule F-14: a pass requires evidence, not assertion. **A parallel track that produces an approval has produced the eighth instrument** |
+| **7** | **No track may be funded from any source connected with the organisation** | **`C-15`, `C-19`. **Every track above costs nothing for exactly this reason; **the moment one costs something, it is no longer parallel work but an external payment** |
+| **8** | **Any track must stop the moment a stop condition at §XXII.7 fires** | **`VG-1`: stop-work and escalate, never enforce. **A track that continues past a stop condition is not a track** |
+
+## XXVI.5 The nine tracks counted
+
+**[P]** Computed. **No figure is estimated.**
+
+| Measure | **Count** |
+|---|---|
+| **Tracks that pass all eight tests** | **9** |
+| **Tracks that cost nothing** | ### **`9 OF 9`** |
+| **Tracks that require an entity** | **0** |
+| **Tracks that require a professional determination** | **0** |
+| **Tracks that require an authority, an appointment or a delegation** | **0** |
+| **Tracks that may produce a conclusion** | **0** |
+| **Tracks that produce a record, a fact or a document** | **9** |
+| **Tracks whose value survives if the instruction is never sent** | ### **`2 — tracks 7 and 9`** |
+| **Tracks expressly authorised by the corpus as parallel** | **1 — track 1, **`A-5`**, *"in parallel and at no cost to the first"*** |
+| **Register questions fed by a parallel track** | **5 — `CQ-06`, `CQ-21`, `CQ-25`, `CQ-26`, `CQ-28`, being the five of the seven entity-independent elements at §XXI.4 that are tracks rather than inputs** |
+| **Sequencing constraints** | **8** |
+| **Tracks that may begin today, by one natural person, with no money and no authority** | ### **`9`** |
+
+> ### **`NINE TRACKS MAY PROCEED TODAY. NONE OF THEM ANSWERS A QUESTION. NONE OF THEM COSTS ANYTHING. NONE OF THEM REQUIRES ANYONE'S PERMISSION. AND NOT ONE OF THEM IS THE INSTRUCTION.`**
+
+---
+
+# PART XXVII — WHAT MUST NOT PROCEED
+
+## XXVII.1 The rule
+
+**[P]** `[SOURCE]` — **`C-10 … C-29` **[S-K(E):1594–1613]**; **`PP-01 … PP-09` **[S-J:1672–1684]**; **`GATE P0` = 0 of 10 **[S-F:972–981]**; **Rule F-14 **[S-F:968]**; **Rule F-15 **[S-F:1019]**; **DA-29**, **DA-30**, **DA-31**.**
+
+> ### **`NOTHING IN THIS BRIEF AUTHORISES ANYTHING. EVERY ACT LISTED IN THIS PART IS PROHIBITED NOW, REMAINS PROHIBITED AFTER THIS BRIEF IS READ, AND REMAINS PROHIBITED AFTER ANY ANSWER IS RECEIVED UNTIL ITS OWN LIFT CONDITION IS MET. THIS PART EXISTS BECAUSE A DOCUMENT THAT ASKS FOR ADVICE CAN BE MISTAKEN FOR A DOCUMENT THAT GRANTS PERMISSION.`**
+
+## XXVII.2 The twenty prohibited acts, and the economic consequence of each
+
+**[P]** `[SOURCE]` — **[S-K(E):1594–1613]**, with the economic consequence stated from the CEA and from this brief. **The list at §XXIII.1 Section 13 is given to counsel; **this list is given to the founder, and adds what each prohibition costs the architecture.**
+
+| ID | **The act that must not proceed** | **Its economic consequence, if it were performed** | **Line** |
+|---|---|---|---|
+| **`C-10`** | **Badges** | **An identifier issued without an owner creates a reputational exposure with no insurable subject** | **1594** |
+| **`C-11`** | **A State layer** | **A layer with no budget, no authority and no entity multiplies the governance gap by the number of states** | **1595** |
+| **`C-12`** | **A City layer** | **As above, and `K_min` and the City divisor are `NOT ESTABLISHED`** | **1596** |
+| **`C-13`** | **Contribution portability** | **A transfer between persons with no records, no fiduciary and no entity is an unrecorded movement of value** | **1597** |
+| **`C-14`** | **Automated leadership selection** | **Authority conferred by a mechanism nobody controls, with **`LDR-U01`** and **`LDR-U19`** both `AUTHORITY UNRESOLVED`** | **1598** |
+| **`C-15`** | ### **`Any external payment`** | ### **`The whole economic premise. Priority 1 is worker compensation, and priority 1 cannot be paid.`** | **1599** |
+| **`C-16`** | **Paying worker compensation at priority 1** | **An unrecorded statutory liability from the first payment — **`BLK-A-02`**** | **1600** |
+| **`C-17`** | **Paying the organisation service fee at priority 5** | **A payment whose recipient is not identified — **`H-Q17`, **`CQ-31`**** | **1601** |
+| **`C-18`** | **Distributing residual surplus or founder upside at priority 8** | **A distribution with no distributable cash, no obligor and no disinterested approver — **`CF-16`**, node 3 of **`GC-01`**** | **1602** |
+| **`C-19`** | **Collecting funds** | **Funds collected with no legal person to hold them are funds held personally by whoever collects them — **`T-5`, **`OC-10`**** | **1603** |
+| **`C-20`** | **Employing or engaging anyone as a worker** | **An engagement made before an entity exists binds whoever makes it — **`PLV-07`, **`LD-01 … LD-09`**** | **1604** |
+| **`C-21`** | **Operating the protection function** | **Exposure incurred with no written cover answer — **§9.2 rule 1; **`P0-F`; **`F-10`** | **1605** |
+| **`C-22`** | **Any activity involving minors** | **The single highest-consequence exposure in the architecture, uncertified — **`SR-31`**** | **1606** |
+| **`C-23`** | **Collecting personal data** | **Duties that attach at thresholds, with no fiduciary and no officer to discharge them — **`NL-5`, **`PP-05`**** | **1607** |
+| **`C-24`** | **Publishing any claim above `CL-1`** | **A published claim with no evidence base and no correction log** | **1608** |
+| **`C-25`** | ### **`Running the pilot`** | ### **`Everything the pilot was supposed to measure, unmeasured, and a halt attributed to implementation rather than to nine decisions never made`** | **1609** |
+| **`C-26`** | **Inferring any foundational fact from any activity** | **A status acquired by accident, which is the failure mode **`PP-01 … PP-09`** exist to prevent** | **1610** |
+| **`C-27`** | **Procuring technology** | **A capital commitment with no entity to hold the asset — **`OC-10`: 0 of 17 classes owned** | **1611** |
+| **`C-28`** | **A national day, an eponymous artefact or a ceremony** | **Personal dependence created around a person, which the architecture's own controls are built to prevent** | **1612** |
+| **`C-29`** | **Colour reservation** | **A Tier-0 refusal recorded in the register, with a political-perception exposure and no adopted code to point to** | **1613** |
+
+## XXVII.3 The nine inferences that must not be drawn
+
+**[P]** `[SOURCE]` — **[S-J:1672–1684]**; **Rule K-66**; **DA-20**. **These are not prohibitions on acts. They are prohibitions on reasoning, and they bind every reader of this brief including its author.**
+
+| ID | **The inference that must not be drawn** | **From what it is most likely to be drawn** | **Line** |
+|---|---|---|---|
+| **`PP-01`** | **That Krytos exists as a legal person** | **From the fact that activity has occurred, or that a name has been used** | **1676** |
+| **`PP-02`** | **That Krytos owns anything** | **From the phrase *"owns and controls"*, which is an assertion of intention** | **1677** |
+| **`PP-03`** | **That any entity has status** | **From the existence of an architecture document** | **1678** |
+| **`PP-04`** | **That any bank authority exists** | **From an informal payment, or from a person having acted as though authorised** | **1679** |
+| **`PP-05`** | **That any fiduciary identity exists** | **From the collection of data, which is itself prohibited** | **1680** |
+| **`PP-06`** | **That anything is insured** | **From activity having been performed, which is not cover** | **1681** |
+| **`PP-07`** | **That anyone is employed, or is not employed** | **From work having been done, with or without payment** | **1682** |
+| **`PP-08`** | **That permission to operate exists** | **From the absence of an objection, which is not a permission** | **1683** |
+| **`PP-09`** | **The ninth, as the register states it** | **See **[S-J:1684]**** | **1684** |
+
+**And the five conversions that this brief forbids in its own text, restated here because they are the inferences a reader of a long document is most likely to make:**
+
+| # | **The conversion** | **The standing instruction** |
+|---|---|---|
+| **1** | ***"Owns and controls"* → incorporated ownership** | **`FA-6` is a forward-looking intention. **Never converted** |
+| **2** | ***"India jurisdiction"* → completed registration** | **`FA-3` is an asserted jurisdiction. **Never converted** |
+| **3** | ***"Ecosystem head"* → legally recognised parent** | **`FA-1`, `FA-2`. **Never converted; **`UE-24` blocks **`OPT-I`**** |
+| **4** | ***"Virtual Brain"* → legal person** | **`FA-1`. **Never converted** |
+| **5** | ***"Founder"* → legally recognised shareholder** | **`FA-6`, **`CF-13`. **Never converted** |
+
+## XXVII.4 What must not proceed because of this brief
+
+**[P]** `[PROPOSED]`. **The specific risk this Part exists to close: that a document of this length, containing this much analysis, is read as having advanced the matter. Each row names a thing that must not be done on the strength of this brief.**
+
+| # | **Must not proceed** | **Why this brief does not authorise it** |
+|---|---|---|
+| **1** | **Registering, incorporating or constituting anything** | **Mandate §10. **No form is selected, ranked or preferred anywhere. **The chain's fourth step is a human decision, and it has not been made** |
+| **2** | **Filing any document with any authority** | **No filing is authorised, and no applicant exists. **`SR-14` is a search, not a registration** |
+| **3** | **Opening any bank account, or adding any signatory** | **`A-N16 REMAINS BLOCKED`; **`T-1 … T-5` = 0 of 5; **`P0-C` fails. **Part X maps the chain; **it does not authorise a link in it** |
+| **4** | **Making any payment of any kind, to anyone, from any source connected with this matter** | **`C-15`; **`C-19`. ***"No external payment can lawfully or operationally be made"*** |
+| **5** | **Paying a professional from any source other than the founder's personal funds, on a recorded founder decision, with qualified tax advice** | **§XXIII.1 Section 14. **This brief neither makes that decision nor recommends it** |
+| **6** | **Engaging anyone as a worker, volunteer, contractor or office-holder** | **`C-20`; **`SR-02` `DECISION REQUIRED`; **`PP-07`. **Part XIII states twenty-one dimensions; **it classifies no one** |
+| **7** | **Running any pilot, in any locality, at any scale** | **`C-25`; **`GATE P0` = 0 of 10; **22 of 22 Tier-0 items outstanding; **`U17-R9 CIRCULAR DEPENDENCY AND STOP`. **Mandate §4 forbids this brief from containing a pilot design, and it contains none** |
+| **8** | **Procuring, building, commissioning or specifying any software, platform, module, dashboard or system** | **`C-27`; **`SR-77`; **`BLK-F-01`; **[S-A: §23.1]**; **[S-B: §40]**; **[S-F:989]**. **CEA §XXI.1: paper records suffice** |
+| **9** | **Operating any protection or first-response activity** | **`C-21`; **`P0-F`; **§9.2 rule 1; **`PP-06`. **Part XVI names fifteen risk classes; **it claims no coverage for any of them** |
+| **10** | **Publishing any statement, claim, page, notice or identity mark** | **`C-24`; **`C-10`; **`P0-G`; **`A-07` may not be published before **`L2`, `L3`, `L4`, `L8`, `L12`** exist — §9.2 rule 2** |
+| **11** | **Producing a v1.3-L, a CEA v2, a successor architecture, a new blueprint or a replacement document of any kind** | **Mandate §4; **`DA-31`: no successor instrument. **This brief amends nothing, supersedes nothing and renumbers nothing** |
+| **12** | **Adopting any figure — a percentage, a ratio, a threshold, a salary, a reserve, a budget or a fee** | **Mandate §24: zero invented economic numbers. **`SR-16` and **`SR-22`** are named and not restated; **CEA **`V-01 … V-22`** are empty** |
+| **13** | **Filling any vacancy with a person, a body, a committee or a role that does not exist** | **Mandate §20: never fill a vacancy with an invented person or body. **Part XVIII's register records 16 acts × 12 fields and leaves every vacancy a vacancy** |
+| **14** | **Treating any of the seven declarations as a fact, or any of the thirty-five questions as answered** | **Rule K-4; **`FA-R1`, `FA-R2`; mandate §22: never upgrade **ASSERTION → FACT**, **PROPOSAL → DECISION**, **QUESTION → ANSWER** |
+| **15** | **Amending the CEA on the strength of `ER-1 … ER-5`** | **§III.2 records the five errata here and does not apply them there. **The CEA is committed at `76a30b3` and is not modified by this brief** |
+| **16** | **Declaring anything ready, complete, resolved, closed or validated** | **Rule F-14: a pass requires evidence, not assertion. **Rule F-1: the organisation must not be declared pilot-ready merely because documents are complete. **§XXII.4 reproduces the error chain this brief must not become** |
+| **17** | **Representing to any person that they are covered, protected, employed, authorised or entitled to anything** | **§9.2 rules 3 and 4; **`PP-06`; **`PP-07`. **Part VIII states twenty-seven dimensions of exposure; **it concludes none of them** |
+| **18** | **Treating this brief as legal advice** | **§XXX.4. **It is **`NOT LEGAL ADVICE`**. **It is a work package prepared from a document corpus, by an instrument, and it contains no legal, tax, accounting or insurance conclusion** |
+
+## XXVII.5 What each Part of this brief must not be read as doing
+
+**[P]** `[PROPOSED]`. **A long document is read in pieces. Each row states the misreading that its Part is most exposed to.**
+
+| Part | **What it is** | **What it must not be read as** |
+|---|---|---|
+| **I–III** | **A decision summary, a mandate and a statement of the CEA's condition, with five errata** | **A correction of the CEA. **The errata are recorded, not applied** |
+| **IV–V** | **The evidence hierarchy, the identifier-collision register, and the ten classes with computed counts** | **A classification of any question as answered. **A class is a routing device** |
+| **VI** | **`PVR-03`'s sixteen legal variables and ten constraints** | **A classification opinion. **Every variable reads `UNKNOWN — PROFESSIONAL DETERMINATION REQUIRED` or states the corpus's own constraint** |
+| **VII** | **`PVR-05`'s four meanings of revenue and seventeen variables** | **A recognition policy, or the adoption of any framework. **`ACR-1`: no standard is prescribed** |
+| **VIII** | **`PVR-22`'s twenty-seven liability dimensions** | **A liability conclusion. **Neither *"personally liable"* nor *"protected"* appears as a finding** |
+| **IX** | **The option set, the criterion matrix, `GC-01` both texts, and the eleven-field block for `SR-01`** | **A selection. **No candidate is ranked, preferred or recommended** |
+| **X** | **The `A-N16` chain, its five failing tests, and the discipline that answers each link** | **A mandate, a signatory count, an account holder, a bank, a provider or a system. **None is invented** |
+| **XI** | **The eight-priority waterfall's dependencies, priority by priority** | **A reordering, a percentage, a salary, a margin or a reserve target. **None appears** |
+| **XII** | **The founder and Krytos separations, 7 assertions · 8 separations · 10 pairings · 0 permissible · 2 impossible** | **A transfer, a licence, a royalty, a fee, a dividend, a profit share, a salary or an agreement. **None is invented** |
+| **XIII** | **The twenty-one compensation dimensions** | **A compensation policy, an amount, a cap or a formula. ***"The formula does not exist"*** |
+| **XIV** | **The nineteen tax heads and four statuses** | **A tax position, a registration, a rate or a statutory figure. **Every statutory digit is cited by location and marked `CURRENT-LAW PROFESSIONAL VERIFICATION REQUIRED`** |
+| **XV** | **The eighteen accounting heads** | **A standard, a basis, a policy or a figure** |
+| **XVI** | **`L1 … L15`, §9.2, §9.3 and the fifteen risk classes** | **A claim of coverage, or a statement that anyone is or is not protected** |
+| **XVII** | **The four unpaid control roles across fourteen dimensions** | **An appointment, a duty accepted, or a statement that unpaid means unexposed** |
+| **XVIII** | **The economic authority gap register, 16 acts × 12 fields** | **An assignment. **Every vacancy is left a vacancy** |
+| **XIX** | **The thirty-five-question register** | **An answer. **Fields 11 and 12 read `[TO BE COMPLETED BY COUNSEL]` in all 35 rows** |
+| **XX** | **Provenance and traceability** | **Verification of anything other than location. **A located question is not an answered question** |
+| **XXI** | **The dependency structure** | **A schedule, a plan, a timeline or a commitment** |
+| **XXII** | **Blockers, prohibitions, gates and stop conditions** | **A relaxation of any of them** |
+| **XXIII** | **The counsel instruction pack** | **An instruction that has been sent, or a professional that has been engaged** |
+| **XXIV** | **The founder disclosure pack** | **A disclosure that has been made. **Fifty fields are blank** |
+| **XXV** | **The output format** | **A determination. **Fields 7 and 8 are empty in the only instance this brief contains** |
+| **XXVI** | **The nine parallel tracks** | **Authorisation of anything beyond the nine, or of any conclusion drawn from them** |
+| **XXVII** | **This Part** | **A list of things that will become permissible. **Nothing here expires** |
+| **XXVIII–XXX** | **The post-counsel procedure, the acceptance tests and the verdict** | **A declaration of readiness. **The verdict is **`B`**, and §XXX.2 states its operative qualification** |
+
+## XXVII.6 Counted
+
+**[P]** Computed.
+
+| Measure | **Count** |
+|---|---|
+| **Acts prohibited by the corpus's own control register** | **20 — `C-10 … C-29`** |
+| **Of those, economic acts** | **6 — `C-15` to `C-20`** |
+| **Of those, permanently prohibited, with no lift condition** | **4 — `C-26`, `C-27`, `C-29`, and `C-14` while both authority items remain unresolved** |
+| **Inferences prohibited** | **9 — `PP-01 … PP-09`** |
+| **Conversions forbidden in this brief's own text** | **5 — §XXVII.3** |
+| **Things that must not proceed on the strength of this brief** | **18 — §XXVII.4** |
+| **Parts carrying a stated misreading** | **25 — §XXVII.5, covering Parts I to XXX** |
+| **Prohibitions lifted by this brief** | ### **`0`** |
+| **Gates passed by this brief** | ### **`0 OF 10`** |
+| **Acts authorised by this brief** | ### **`0`** |
+| **Permissions granted by this brief** | ### **`0`** |
+
+> ### **`TWENTY ACTS PROHIBITED. NINE INFERENCES PROHIBITED. EIGHTEEN THINGS THAT MUST NOT PROCEED BECAUSE OF THIS BRIEF. NOTHING LIFTED, NOTHING PASSED, NOTHING AUTHORISED, NOTHING GRANTED. THIS PART DOES NOT EXPIRE.`**
+
+---
+
+# PART XXVIII — THE PROCEDURE AFTER COUNSEL ANSWERS
+
+## XXVIII.1 The rule, and why a procedure is needed at all
+
+**[P]** `[SOURCE]` — Rule K-10: **REQUEST → RECEIVE → VERIFY → VALIDATE → DECIDE → UPDATE ARCHITECTURE**; **Rule K-5**: a declaration is not a receipt; **Rule K-6**: a receipt is not a verification; **DA-29**, **DA-30**; mandate §32.
+
+| Item | **Content** |
+|---|---|
+| **Why a procedure is needed** | **Because six instruments have already received what they treated as progress and produced no advance. **`U-PD-16` records the pattern: an input arrives, an instrument is written about it, and the register does not move. **A professional answer is the most consequential input this architecture will ever receive, and it is the input most likely to be consumed by a document rather than by a decision** |
+| **What the procedure protects against** | **Four failures, in order of likelihood: **an answer received and never recorded; **an answer recorded and never verified; **an answer verified and then treated as the decision, skipping the human act; **and a decision made and then applied silently, without an attributed amendment** |
+| **What the procedure does not do** | **It does not tell anyone what to decide. **It does not rank the shapes an answer may take. **It does not pre-commit the architecture to any outcome. **It does not authorise any act** |
+| **Who performs it** | **One natural person receives and verifies — **§XXIII.2 items 6 and 7. **A person or body with authority decides — and where the decision carries a conflict, a disinterested person decides, which is **`CF-16`**'s unresolved problem. **No instrument performs any step** |
+| **When it begins** | **The moment a written answer is received. **Not the moment one is expected, promised, invoiced or discussed** |
+
+## XXVIII.2 The six steps, applied to a professional answer
+
+**[P]** `[SOURCE]` as to the six steps. **Each row states the actor, the record produced, the test applied, and the failure the step exists to prevent.**
+
+| Step | **Actor** | **What is done** | **The record produced** | **The failure it prevents** |
+|---|---|---|---|---|
+| **1 `REQUEST`** | **The instructing person** | **The instruction at Part XXIII was sent, with the seven items and the five enclosures, and proof of sending was kept** | **A sending record: date, addressee, method, enclosures** | **An answer that arrives without a request, which is an opinion and not a determination — and from which **`PP-01 … PP-09`** forbid inferring anything** |
+| **2 `RECEIVE`** | **The instructing person** | **The answer is received and its receipt is recorded — field 11b of the format at Part XXV** | **A receipt record: who received it, when, from whom, in what form** | **A receipt asserted rather than recorded. **Rule K-5: a declaration is not a receipt** |
+| **3 `VERIFY`** | **The instructing person, or anyone they appoint for the purpose** | **All eleven fields present, in order. **Fields 7 and 8 completed by the professional and by no one else. **Every condition in field 8 stated in words. **Signed and dated. **Checked against the ten grounds at §XXV.7** | **A verification record, listing each of the ten grounds and its result** | **A non-compliant answer being relied on — and, more often, a compliant answer being returned for a defect nobody identified** |
+| **4 `VALIDATE`** | **The instructing person, with the professional if needed** | **The determination is checked against the question as asked, the jurisdiction stated, the date, and the recorded conflicts. **Where it touches **`GC-01`**, **`CF-06`** or **`CF-16`**, both texts are addressed** | **A validation record, naming every conflict touched and how it was addressed** | **A determination relied on outside its conditions. **Mandate §32: a law-versus-architecture conflict is surfaced, not silently rewritten** |
+| **5 `DECIDE`** | ### **`A human being with authority — and, where the decision carries a conflict, a disinterested one`** | **The decision is made and recorded in the same eleven-field format, with fields 7 and 8 replaced by the decision and its conditions, and field 11c stating the single update that follows** | **A decision record** | **Treating professional validation as the human decision. **The chain is **`OPTION SET → CONSEQUENCE ANALYSIS → PROFESSIONAL VALIDATION → HUMAN DECISION`**, and validation is step three** |
+| **6 `UPDATE ARCHITECTURE`** | **Whoever holds the architecture, on the decision** | **The architecture is amended expressly, at a stated location, with the amendment attributed to the determination and to the decision, and with the amendment's own date** | **An amendment record: what changed, where, on whose determination, on whose decision, when** | **A silent update. **`ER-1 … ER-5` are five instances of exactly this failure, discovered after the fact** |
+
+## XXVIII.3 The six shapes an answer may take, and what each requires
+
+**[P]** `[PROPOSED]` as to the enumeration; `[SOURCE]` as to each consequence. **No shape is preferred, expected, assumed or planned for. Each is listed so that the answer that arrives is handled rather than interpreted.**
+
+| Shape | **What it is** | **What step 5 requires** | **What step 6 requires** | **What it does not authorise** |
+|---|---|---|---|---|
+| **A** | **A determination that one or more candidates at §XXIII.1 Section 5 is available, with the consequences of each** | **A human decision between the candidates the professional says are available — which is not the same as the candidate the professional says is best, and which may be deferred and recorded as deferred** | **An amendment recording the chosen form, the determination it rests on, and the conditions in field 8. **Then, and only then, **`ID-2`** becomes reachable** | **Registration, filing, incorporation, an account, a signatory, a payment or an engagement. **`ID-2` is the constitutive documents, and it is a further step** |
+| **B** | **A determination that no candidate can carry all four pillars without structural separation** | **A decision on whether to separate, and if so how — which is the conflict at **`GC-01`** arriving as a professional finding rather than as an unresolved node** | **An amendment to the waterfall's dependency map, and to **`FC-E2`, `FC-E3`, `FC-E8`** — every cell carrying **`STRUCTURAL SEPARATION MAY BE REQUIRED — COUNSEL TO DETERMINE`** | **A hybrid structure, a parent, a subsidiary, a licence or a transfer-pricing arrangement. **`OPT-H` and **`OPT-I`** are candidates, not conclusions, and **`UE-24`** blocks **`OPT-I`** until two legal persons exist** |
+| **C** | **A determination that the question cannot be answered without further facts** | **No decision. **The disclosure pack at Part XXIV is completed, the facts are supplied, and the question is re-sent** | **No amendment. **Field 11c records expressly that none follows, and names the fields awaited** | **Anything. **A request for facts is not an answer, and treating it as one is the failure **`U-PD-16`** records** |
+| **D** | **A partial answer — some candidates determined, some not; some questions answered, some expressly reserved** | **A decision on the part that is determined, and a recorded deferral of the part that is not. **Mandate §6: an unanswerable question reads `UNKNOWN — PROFESSIONAL DETERMINATION REQUIRED`, and that is a compliant field 7** | **An amendment for the determined part only, with the undetermined part recorded as outstanding and attributed to the professional's own reservation** | **An inference from the answered part to the unanswered part. **`C-26`; **`PP-01 … PP-09`** |
+| **E** | **A decline — for want of qualification, for conflict of interest, or because the professional will not advise on the question as framed** | **No decision. **A second professional is identified under §XXVI.2 track 3, and the question is re-sent, amended only if the framing itself was the obstacle** | **No amendment. **The decline is recorded, with its stated reason, at field 11b** | **A conclusion that the question was unanswerable. **A decline is a fact about the professional, not about the question** |
+| **F** | **An answer that resolves a recorded conflict by preferring one text** | **A decision that adopts the preference, or that does not. **Mandate §32 requires the conflict to be surfaced; **it does not require the architecture to agree with the professional** | **An amendment that records the conflict, the preference, the reason, and the source text that is **not** followed — so that the rejected text remains visible** | **Deletion of the rejected text. **A conflict resolved by erasure is a conflict hidden, and the corpus's own rule is that both texts are preserved** |
+
+## XXVIII.4 The decision record, and who may make it
+
+**[P]** `[SOURCE]` — **`SR-01`**'s evidence field: *"a written decision plus counsel opinion"* **[S-F:1878]**; **`GD-01 … GD-15`**; **CF-04**, **CF-16**; **[S-F:159]** — three decisions are `AUTHORITY UNRESOLVED` because *"the body that would decide is itself the subject of the decision"*.
+
+| Item | **Content** |
+|---|---|
+| **The form** | **The same eleven-field format at Part XXV, with field 7 replaced by the decision and field 8 by the decision's conditions, and field 11c naming the single update that follows** |
+| **Who may make it — for `SR-01`** | **The register names the owner as **Founder/CEO**. **`U-PD-9` confirms that one natural person can act without an entity, an account, a budget, a constituted body or a vote. **No body exists that could make it instead** |
+| **Who may make it — where the decision carries a conflict** | ### **`UNRESOLVED.`** **`CF-16` records a conflict *"that cannot be managed"*: founder compensation sits at priority 4, the founder is the beneficiary, and the beneficiary must recuse. **`SR-20` is `AUTHORITY UNRESOLVED (beneficiary recusal)`. **`GD-01` and **`GD-08`** are open. **This brief names no disinterested approver, because naming one would be filling a vacancy with an invented person** |
+| **What the decision must state** | **The form chosen, or the deferral; **the determination it rests on, cited; **the conditions adopted from field 8; **the conflicts addressed and how; **the date; **the signature; **and expressly what it does **not** decide** |
+| **What the decision may not state** | **That anything is ready, complete, resolved, closed or validated beyond the determination itself. **Rule F-14: a pass requires evidence, not assertion. **Rule F-1: the organisation must not be declared ready merely because documents are complete** |
+| **Whether the decision closes `SR-01`** | **No, on its own. **The evidence field requires a written decision **plus** a counsel opinion. **Both are needed, and §IX.9 field 10 states that the opinion alone closes nothing** |
+| **Whether this brief makes the decision** | ### **`NO. MANDATE §10. THIS BRIEF DOES NOT SELECT THE ENTITY.`** |
+
+## XXVIII.5 The update map — what a future amendment would touch
+
+**[P]** `[PROPOSED]`. **This is a map, not an amendment. The CEA is committed at `76a30b3` and is not modified by this brief — §III.2 records five errata here and applies none of them there. Every location below is a location a future amendment, made on a recorded decision, would touch.**
+
+| If the answer takes shape | **The locations an amendment would touch** | **The identifiers that would move** | **What would still not move** |
+|---|---|---|---|
+| **A — a form is available and chosen** | **CEA §XXIX.1 `PVR-01`; **CEA Part XX acts 1, 2, 3, 6, 7 and 16; **CEA §XX.2; **this brief's Parts V, IX, XXII.9** | **`SR-01` → `DECIDED`; **`ID-1` → `AVAILABLE`; **`PVR-01` resolved, and with it the nineteen `PVR` items that depend on it; **`T-1` re-runnable; **`P0-A` and **`P0-B` reachable** | **`A-N16` — which needs a mandate, not a form. **`C-15 … C-20` — which need an account and a classification. **`GATE P0` — which needs all ten sub-gates** |
+| **B — separation is required** | **CEA §XV.3 `SEP-1 … SEP-8`; **CEA §XVI.3 `CF-16`; **CEA §XII.2 the funding map; **this brief's §IX.5 `FC-E1 … FC-E8` and §IX.6** | **`GC-01` → `RESOLVED BY PROFESSIONAL FINDING`, with the preference recorded; **`UE-24` reachable only once two legal persons exist; **`OPT-H` or **`OPT-I`** become live candidates** | **`GC-01`'s rejected text, which stays visible. **`SR-22`, which stays `EXPLICITLY UNRESOLVED` and is never published as policy** |
+| **C — more facts are needed** | **Nothing** | **Nothing. **Field 11c records that no update follows** | **Everything** |
+| **D — a partial answer** | **The determined part only** | **The identifiers named in the determined part** | **Every identifier in the reserved part, recorded as outstanding** |
+| **E — a decline** | **Nothing but the receipt record** | **Nothing** | **Everything** |
+| **F — a conflict resolved by preference** | **CEA §XVI.3; **CEA Part XI the waterfall's legal-enforceability column; **this brief's §IX.6 and Part XI** | **The conflict's status, and the position of the priority it touches** | **The rejected text. **The eight-priority order, which is not reordered by any answer — mandate §12** |
+
+## XXVIII.6 What does not change on any outcome
+
+**[P]** `[SOURCE]`. **Ten things are invariant. Each is stated so that no answer, however welcome, is read as having moved it.**
+
+| # | **Invariant** | **Its authority** |
+|---|---|---|
+| **1** | **The eight-priority order of the waterfall** | **Mandate §12: no reordering. ***"THE PRIORITY ORDER IS THE CONTROL; PERCENTAGES ARE A PLANNING TOOL"*** **[appendix.txt:6296]**. **Retained by the CEA after five tests** |
+| **2** | **The absence of every figure** | **Mandate §24. **`SR-16` and **`SR-22`** are not restated; **`SR-22`** is *"never publish as policy"*; **CEA **`V-01 … V-22`** are empty** |
+| **3** | **The blueprint's status** | **`FD-1`: `HISTORICAL / REFERENCE ONLY`. **Its arrival would be received, hashed and extracted — it would not be inherited** |
+| **4** | **The seven declarations' status as assertions** | **Rule K-4; **`FA-R1`, `FA-R2`. **A professional's reliance on a declaration does not convert it into a fact** |
+| **5** | **The nine prohibited inferences** | **`PP-01 … PP-09`; **Rule K-66; **DA-20**. **Permanent** |
+| **6** | **The prohibition on inferring foundational facts from activity** | **`C-26`. **Permanent** |
+| **7** | **The prohibition on procuring technology** | **`C-27`; **`SR-77`; **`BLK-F-01`; **[S-F:989]**. **A counsel answer does not create a software requirement** |
+| **8** | **The requirement that a payment have an obligor, an account, a mandate and a classification** | **`C-15`, `C-16`, `C-19`, `C-20`; **`A-N16`; **`P0-C`. **No answer short of all four makes a payment possible** |
+| **9** | **The requirement that nothing be represented as cover unless the insurer confirms it in writing** | **§9.2 rule 4 **[S-A:719–726]**; **`PP-06`**. **A counsel answer is not an insurer's confirmation** |
+| **10** | **That this brief is `NOT LEGAL ADVICE`, and that no instrument selects the entity** | **Mandate §10, §25; **`DA-11`, **`DA-31`; **§XXX.4** |
+
+## XXVIII.7 When a second instruction is required
+
+**[P]** `[PROPOSED]`. **A single instruction will not answer everything. Each row states the condition on which a further instruction becomes necessary — and none of them is a reason to delay the first.**
+
+| # | **Condition** | **The further instruction** | **Its precondition** |
+|---|---|---|---|
+| **1** | **The first answer takes shape C — more facts are needed** | **The same question, re-sent with the completed disclosure pack** | **Part XXIV completed by the founder** |
+| **2** | **The first answer takes shape D, and the reserved part is material to the decision** | **A second instruction on the reserved part only** | **The first answer's field 8, which will state why it was reserved** |
+| **3** | **The first answer takes shape E — a decline** | **The same question, sent to a second professional** | **§XXVI.2 track 3, repeated** |
+| **4** | **The answer determines the form, and the form requires a tax registration sequence** | **A tax instruction, on the chosen form** | **The decision at step 5, recorded** |
+| **5** | **The answer determines the form, and workers would be engaged** | **A labour instruction, on the classification** | **`SR-02`, **`PLV-01 … PLV-16`, **`CQ-05 … CQ-09`** |
+| **6** | **The answer touches the protection pillar at all** | **A broker instruction, on `L1 … L15`** | **§9.2 rule 1: no written confirmation, no activation. **`SR-04`, **`BLK-B-04`** |
+| **7** | **The answer requires structural separation** | **A second corporate instruction, on the two or more entities and the agreements between them** | **`UE-24` lifted, which needs two legal persons** |
+| **8** | **The answer identifies a form whose state law varies** | **A state-specific instruction, for each intended state** | **`DIS-06` completed; **`CQ-34`; **`FC-E6`** |
+| **9** | **The founder proposes to pay personally** | **A personal tax instruction, on the payment** | **`REQUIRES FOUNDER DECISION` and **`REQUIRES QUALIFIED TAX ADVICE`**; **§XXIII.1 deliverable 10** |
+| **10** | **Any answer is more than one professional's, and the parts conflict** | **A joint instruction, or a third opinion** | **The conflict recorded at step 4, with both texts** |
+
+## XXVIII.8 The ordering constraints
+
+**[P]** `[SOURCE]`. **Four constraints, each of which has been violated somewhere in this corpus's history and is recorded here so that it is not violated again.**
+
+| # | **Constraint** | **The precedent for stating it** |
+|---|---|---|
+| **1** | **The decision may not precede the validation** | **The chain is **`OPTION SET → CONSEQUENCE ANALYSIS → PROFESSIONAL VALIDATION → HUMAN DECISION`**. **`SR-01`'s evidence field puts the opinion before the decision: *"a written decision plus counsel opinion"*** |
+| **2** | **The update may not precede the decision** | **`ER-1 … ER-5`: five errata in a committed document, each an instance of an architecture moving before an authority moved it** |
+| **3** | **The validation may not be performed by the person who will benefit from the decision** | **`CF-16`; **`SR-20` `AUTHORITY UNRESOLVED (beneficiary recusal)`; **CEA §XX.1: two `APPROVES` combinations are `NO — ABSOLUTE`, four `RECEIVES` are `NO — COI-1`, five `AUTHORISES` are `NO — ABSOLUTE`, six `VERIFIES` are `NO — COI-2, EL-2`, eight `AUDITS` are `NO — COI-2`** |
+| **4** | **No step may be performed by an instrument** | **`U-PD-16`; **`DA-31`; **[S-K(E): §XXVI.3]**: *"The next act in this sequence is not a document."* Six instruments have performed step 1 and none has performed step 5** |
+
+## XXVIII.9 Counted
+
+**[P]** Computed.
+
+| Measure | **Count** |
+|---|---|
+| **Steps in the procedure** | **6** |
+| **Shapes an answer may take** | **6** |
+| **Shapes that produce no amendment at all** | **3 — C, D in its reserved part, and E** |
+| **Shapes that produce an amendment** | **3 — A, B, F** |
+| **Locations a future amendment would touch, across all shapes** | **14** |
+| **Invariants** | **10** |
+| **Conditions requiring a further instruction** | **10** |
+| **Ordering constraints** | **4** |
+| **Steps performable by an instrument** | ### **`0 OF 6`** |
+| **Decisions made by this Part** | ### **`0`** |
+| **Amendments applied by this Part** | ### **`0`** |
+| **Shapes preferred, expected or planned for by this Part** | ### **`0 OF 6`** |
+
+> ### **`SIX STEPS, SIX SHAPES, TEN INVARIANTS, TEN RE-COMMISSION CONDITIONS, FOUR ORDERING CONSTRAINTS. NO STEP IS PERFORMED HERE. NO SHAPE IS PREFERRED HERE. NOTHING IS AMENDED HERE. THE PROCEDURE EXISTS SO THAT WHEN AN ANSWER ARRIVES IT IS HANDLED BY A PERSON, IN ORDER, WITH A RECORD AT EVERY STEP — AND SO THAT THE SEVENTH INSTRUMENT IS NOT FOLLOWED BY AN EIGHTH.`**
+
+---
