@@ -203,3 +203,284 @@
 > ### **`THE MOST CONSEQUENTIAL FINDING OF THIS RESEARCH IS NOT ABOUT ANY SINGLE QUESTION. IT IS THAT THE STATUTORY GROUND UNDER EVERY TAX, LABOUR, DATA AND CRIMINAL QUESTION IN THE ARCHITECTURE CHANGED BETWEEN 2024 AND 2026, AND THAT ANY ANSWER GIVEN FROM RECOLLECTION WOULD HAVE BEEN AN ANSWER TO REPEALED LAW.`**
 
 ---
+
+# PART IV — THE EVIDENCE FORMAT
+
+## IV.1 The fifteen fields, used for every finding
+
+**[P]** Mandate §7. **Every finding in Parts V to XVI is rendered in this exact structure. No field is omitted. Where a field has no content, it says so and says why — it is never left blank, because a blank field is indistinguishable from a field nobody considered.**
+
+| # | **Field** | **The rule governing it** |
+|---|---|---|
+| **1** | **`RESEARCH ID`** | **`RF-nn`, assigned in order of appearance and never reused** |
+| **2** | **`ARCHITECTURAL ID`** | **The `ID-1`, CEA or corpus identifier the finding bears on. **A finding with no architectural identifier is not a finding about this architecture and is not recorded** |
+| **3** | **`QUESTION`** | **The exact question, narrowed. **Not broadened — mandate §6 step 1** |
+| **4** | **`LEGAL / TAX DOMAIN`** | **From the mandate's list: company law · partnership and LLP law · labour law · contract law · tax · GST · accounting · banking · data and privacy · insurance · liability · safeguarding** |
+| **5** | **`RESEARCH FINDING`** | **What the source indicates, in conditional form. **Never in the prohibited formulations at §II.4** |
+| **6** | **`PRIMARY SOURCE`** | **The source located, with its `SRC-nn` identifier and its tier. **Where no Tier 1 source was located, the finding says so and is classified accordingly** |
+| **7** | **`SOURCE DATE / EFFECTIVE DATE`** | **Publication date, effective date, amendment date where located, and whether the source appears current. **Where applicability cannot be established: **`CURRENT APPLICABILITY NOT ESTABLISHED`**** |
+| **8** | **`RELEVANT CONDITION`** | **Mandatory and never *"none"*. **The conditions under which the rule applies — thresholds, classifications, entity forms, registration, time limits, jurisdictions** |
+| **9** | **`ENTITY DEPENDENCY`** | **`YES` · `NO` · `UNKNOWN`** |
+| **10** | **`FACT DEPENDENCY`** | **`YES` · `NO` · `UNKNOWN`** |
+| **11** | **`INTERPRETATION RISK`** | **`LOW` · `MEDIUM` · `HIGH` — the risk that a reasonable professional reads the source differently, or that the source's application turns on facts not in evidence** |
+| **12** | **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **Stated narrowly. **This field is where over-reading is prevented** |
+| **13** | **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **Never empty. **A source that establishes everything establishes nothing, because it has not been read** |
+| **14** | **`SEWAK SATHI CONSEQUENCE`** | **Which architectural question moves, and how — using one of the four permitted effects at Part XVIII** |
+| **15** | **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES` · `NO` · `LATER` · `UNKNOWN`. **`NO` is used only where the proposition is one of pure source content that a professional could not improve on — and it is rare** |
+| **16** | **`CLASSIFICATION`** | **One of the nine at §II.3** |
+
+## IV.2 What this format is for
+
+| Purpose | **Content** |
+|---|---|
+| **It makes a finding falsifiable** | **Field 6 and field 7 let a reader go to the source and check. **Field 12 and field 13 let a reader check whether the finding was over-read** |
+| **It separates the source from the organisation** | **Fields 5, 12 and 13 are about the source. **Field 14 is about Sewak Sathi. **Keeping them apart is what prevents *"the source says X, therefore we may do Y"*'**** |
+| **It forces the conditions into the open** | **Field 8 is mandatory. **Most legal propositions in this research turned out to be threshold propositions — 20 employees, 10 employees, ₹250 crore, 20 per cent of receipts, 50 per cent of wages, three years of existence — and a proposition quoted without its threshold is a different proposition** |
+| **It records the date** | **Field 7 exists because Part III found that three of the relevant regimes changed after the corpus was written. **A finding without a date is a finding that cannot be aged** |
+| **It prevents the research from becoming permission** | **Field 15 and field 16. **Mandate §24: even where a source appears favourable, the conclusion is *"this specific research question is provisionally clarified; overall deployment remains subject to the unresolved gates identified by the architecture"*** |
+
+---
+
+# PART V — `PVR-03`: COMPENSATION, AND WHETHER PARTIAL PAYMENT OF EARNED COMPENSATION IS LAWFUL
+
+## V.1 The question, narrowed, and why it cannot be narrowed further
+
+**[P]** `[SOURCE]` — `ID-1` Part VI, **`PLV-01 … PLV-16`**, **`PVC-01 … PVC-10`**; **CEA `PVR-03`**; **`CD-01 … CD-21`**. **`ID-1` recorded sixteen named legal variables for this question and refused to answer it generically. This Part researches those variables against public sources.**
+
+> ### **`THE QUESTION AS ASKED: IS PARTIAL PAYMENT OF EARNED COMPENSATION LAWFUL?`**
+>
+> **It cannot be narrowed further without first answering a question that research cannot answer: **is the person owed the compensation an *employee* within the meaning of the Code on Wages, 2019?** Everything below is conditional on that classification, and the classification is `FACT-DEPENDENT` and `ENTITY-DEPENDENT`. **`ID-1`'s `PLV-02` named this variable; **`SR-02`** registered it as `DECISION REQUIRED`; **`BLK-B-03`** and **`C-20`** prohibit engaging anyone as a worker until it is resolved.**
+
+## V.2 The findings
+
+### `RF-01` — the statutory time limits for payment of wages
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-01`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-03`, `PLV-04`, `PLV-14`; **`CD-14`, `CD-21`; **`SR-02`; **`CQ-07`, `CQ-08`** |
+| **`QUESTION`** | **When must wages be paid, and is the time limit mandatory?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available source indicates that s.17 of the Code on Wages, 2019 fixes mandatory time limits by engagement type: **daily basis — at the end of the shift; **weekly basis — on the last working day of the week, that is to say before the weekly holiday; **fortnightly basis — before the end of the second day after the end of the fortnight; **monthly basis — before the expiry of the seventh day of the succeeding month. **Where an employee has been removed or dismissed, retrenched, has resigned, or has become unemployed due to closure of the establishment, the wages payable shall be paid **within two working days**. **Sub-section (3) permits the appropriate Government to provide another time limit where it considers it reasonable; **sub-section (4) preserves any time limit in any other law** |
+| **`PRIMARY SOURCE`** | ### **`SRC-26 — India Code, The Code on Wages, 2019 (Act No. 29 of 2019), text stated "as on the 21st November, 2025". **`TIER 1`**. **Corroborated by **SRC-02 (PIB, Tier 1)**, **SRC-28**, **SRC-29**, **SRC-30**, **SRC-31**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **Act No. 29 of 2019; **in force from **21 November 2025** per **DTC-03** and confirmed by the India Code text's own "as on" date. **`CURRENT`** |
+| **`RELEVANT CONDITION`** | **The obligation is on an **employer**, and attaches to an **employee**. **It applies to all employees **irrespective of any wage ceiling** — the earlier ₹24,000 per month limit under the Payment of Wages Act no longer applies. **The time limit is set by the **engagement type**, so the answer depends on how the person is engaged** |
+| **`ENTITY DEPENDENCY`** | **`NO` — the duty attaches to an *employer*, which any legal form and any natural person employing another can be** |
+| **`FACT DEPENDENCY`** | ### **`YES — entirely. It depends on whether any person is an employee, and on the engagement type`** |
+| **`INTERPRETATION RISK`** | **`LOW` as to the text of s.17. **`HIGH` as to its application here** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That where an employer-employee relationship exists, the Code fixes specific, short, statutory deadlines for payment, including a two-working-day deadline on separation** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That any person in this architecture is an employee. **That any wage is due. **What the consequence of missing the deadline is — that is **`RF-04`**. **Whether a volunteer or a member is within the definition** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`CLARIFICATION REQUIRED`. **The architecture's *"earned compensation"* concept at **`CD-03`** has, if the recipient is an employee, a statutory payment deadline attached to it that the corpus never states. **Priority 1 of the waterfall is not merely an architectural preference; **if the recipients are employees, it is a statutory deadline** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES` — on the classification question, which is the whole of `SR-02`** |
+| **`CLASSIFICATION`** | ### **`SUPPORTED BY PRIMARY SOURCE`** |
+
+### `RF-02` — the minimum wage floor, and whether it can be waived by agreement
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-02`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-01`, `PLV-05`, `PLV-13`; **`CD-12`, `CD-13`; **`CQ-07`, `CQ-08`; **`SS-1`** |
+| **`QUESTION`** | **May an employer pay less than the notified minimum rate, and may the employee agree to that?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available source indicates that **s.5 of the Code on Wages, 2019** provides, in terms: *"No employer shall pay to any employee wages less than the minimum rate of wages notified by the appropriate Government."* The obligation is unqualified by any reference to consent. **Secondary sources consistently record the position carried over from the Minimum Wages Act, 1948 that an employee cannot give up by contract or agreement a right so far as it purports to reduce the minimum rate, and that a contract to work for less than the notified minimum is void to that extent** |
+| **`PRIMARY SOURCE`** | ### **`SRC-26 — India Code, Code on Wages, 2019, s.5. **`TIER 1`**. **The no-waiver proposition is **`SRC-31a`** and **SRC-29a**, **Tier 3**, and is not verified against a primary text in this research** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **In force from **21 November 2025**. **The Minimum Wages Act, 1948 position it carries forward dates from 1948. **`CURRENT`** |
+| **`RELEVANT CONDITION`** | **A minimum rate must have been **notified by the appropriate Government** for the employment and the zone or class concerned. **Rates are notified state by state and vary; **no rate is quoted in this instrument, because none was verified for any state and mandate §14 forbids quoting an unverified threshold** |
+| **`ENTITY DEPENDENCY`** | **`NO`** |
+| **`FACT DEPENDENCY`** | **`YES` — on employee status, on the employment category, and on the state** |
+| **`INTERPRETATION RISK`** | **`LOW` as to s.5's text. **`MEDIUM` as to the no-waiver proposition, which rests on secondary sources in this research** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That where a minimum rate is notified and an employee exists, the employer's obligation to pay at least that rate is stated without reference to the employee's consent** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **Any rate. **Whether any person here is an employee. **Whether the architecture's proposed compensation would fall below any notified rate — which cannot be known, because no amount exists anywhere in the corpus and none is invented here** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`CLARIFICATION REQUIRED`, and material. **The architecture's mechanism for paying less than the earned amount — recorded in the CEA as **`SS-1`** — cannot, on the available source, be cured by the worker's agreement where the shortfall takes the payment below a notified minimum rate. **This does not establish that **`SS-1`** is unlawful: it establishes that consent is not the answer to it** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`PARTIALLY SUPPORTED` — s.5 by primary source; the no-waiver proposition by secondary source only** |
+
+### `RF-03` — deductions from wages, the deemed-deduction rule, and the fifty per cent cap
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-03`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-06`, `PLV-09`, `PLV-10`, `PLV-11`; **`CD-15`, `CD-16`, `CD-17`; **`CQ-08`, `CQ-09`, `CQ-33`** |
+| **`QUESTION`** | **What may lawfully be withheld from wages, and what is the ceiling?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available source indicates that **s.18(1) of the Code on Wages** provides that, notwithstanding anything in any other law, **there shall be no deduction from the wages of an employee except those authorised under the Code**, and that — by the Explanation to that sub-section — **any payment made by an employee to the employer or the employer's agent shall be deemed to be a deduction from wages**. **Sub-section (2) lists the authorised purposes, which include fines; **absence from duty; **damage to or loss of goods expressly entrusted for custody, or loss of money for which the employee must account, where directly attributable to neglect or default; **advances of whatever nature and interest thereon, and adjustment of overpayment; **loans from a labour welfare fund; **house-building or other approved loans; **income tax and other statutory levy, and deductions required by court order; **subscriptions and advances for a social security fund or scheme constituted by law; **payments to a co-operative society; **trade union fees and contributions with written authorisation; **and contributions to the Prime Minister's National Relief Fund or another notified fund, with written authorisation. **Sub-section (3) caps **the total deductions in any wage period at fifty per cent of the wages for that period**. **Sub-section (4) provides that where authorised deductions exceed the cap, the excess may be recovered as prescribed. **Sub-section (5) provides that where an employer deducts but fails to deposit as required by law, **the employee shall not be held responsible for the employer's default**. **Separately, **s.20** permits deduction for absence from duty only on account of absence from the place where the employee is required to work, and requires that the deduction bear no larger proportion to the wages for the wage period than the absence bears to the period for which wages were payable** |
+| **`PRIMARY SOURCE`** | ### **`SRC-26 — India Code, Code on Wages, 2019, ss.18 and 20, text reproduced in full. **`TIER 1`**. **Corroborated by **SRC-27 (PRS India, the Act text and Bill notes)**, **SRC-29**, **SRC-30**, **SRC-31**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **In force from **21 November 2025**. **The fifty per cent cap replaced the earlier position under s.7(3) of the Payment of Wages Act, 1948, which permitted up to seventy-five per cent where deductions included payments to co-operative societies. **`CURRENT`** |
+| **`RELEVANT CONDITION`** | **Applies to an **employee** of an **employer**. **The cap is per **wage period**, not per payment. **The deemed-deduction rule in the Explanation applies to a payment **made by the employee to the employer**, which is the mechanism by which a purported return or waiver of wages is characterised** |
+| **`ENTITY DEPENDENCY`** | **`NO`** |
+| **`FACT DEPENDENCY`** | **`YES` — employee status, and whether any of the authorised purposes arises** |
+| **`INTERPRETATION RISK`** | **`LOW` as to the text. **`MEDIUM` as to whether a consensual deferral is a *deduction* within the Explanation or a variation of the contract of employment — **this is a genuine interpretive question and is not resolved here** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That deductions from wages are a closed list; **that a payment from employee to employer is deemed a deduction; **that total deductions in a wage period are capped at fifty per cent; **and that an employer's failure to deposit a lawful deduction does not make the employee responsible** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That a deferred or partially paid wage is a *deduction*. **That consent is irrelevant. **Whether a deferral agreed in advance, before the wage is earned, is a deduction at all — the Explanation addresses a payment **made by** the employee, and a wage never paid is not obviously such a payment** |
+| **`SEWAK SATHI CONSEQUENCE`** | ### **`ARCHITECTURAL AMENDMENT MAY BE REQUIRED`. **`ID-1` **PLV-09** asked how unpaid accrued amounts are treated; **PLV-06** asked whether deferral is permitted at all. **This finding supplies the primary-source frame for both: **deferral of an earned wage risks being characterised as an unauthorised deduction, and any deduction is capped at fifty per cent of the wage period. **The CEA's **`SS-1`** and its deferral-with-consent alternative are both affected** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES` — the characterisation of a consensual deferral is precisely the interpretive question a professional must answer** |
+| **`CLASSIFICATION`** | ### **`SUPPORTED BY PRIMARY SOURCE`** |
+
+### `RF-04` — the consequence of paying less than the amount due
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-04`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-05`, `PLV-09`; **`CD-13`; **`CQ-07`, `CQ-08`, `CQ-09`; **`RSK-1 … RSK-4`; **`LD-04`, `LD-05`** |
+| **`QUESTION`** | **What is the consequence, under the Code, of an employer paying less than the amount due to an employee?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available source indicates that **s.54(1)(a) of the Code on Wages, 2019** provides that any employer who *"pays to any employee less than the amount due to such employee under the provisions of this Code"* **shall be punishable with fine which may extend to fifty thousand rupees**, and that **s.54(1)(b)** provides for a higher consequence where a person convicted under clause (a) is again found guilty of a similar offence. **The consequence is therefore not merely civil** |
+| **`PRIMARY SOURCE`** | ### **`SRC-26 — India Code, Code on Wages, 2019, s.54(1)(a), text quoted. **`TIER 1`**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **In force from **21 November 2025**. **`CURRENT`. **The figure of fifty thousand rupees is quoted because it is verified against the Tier 1 text, and is tagged **`VERIFIED — PRIMARY`**** |
+| **`RELEVANT CONDITION`** | **The employer must be an **employer**; **the recipient an **employee**; **and the shortfall must be against an amount **due under the provisions of the Code**. **The section does not create the entitlement; **it penalises paying less than an amount already due** |
+| **`ENTITY DEPENDENCY`** | **`NO`** |
+| **`FACT DEPENDENCY`** | **`YES` — on employee status and on an amount being due** |
+| **`INTERPRETATION RISK`** | **`MEDIUM` — the phrase *"less than the amount due"* is not defined in the material located, and whether a deferred amount is *due* during the deferral is the unresolved question at **`RF-03`**** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That underpaying an employee an amount due under the Code is a punishable offence, with a fine ceiling stated in the section and an enhanced consequence on repeat conviction** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That any offence has been committed here. **That any amount is due. **Whether a deferral with consent makes an amount not due. **Whether the four unpaid control roles would be *employers* for this purpose — which turns on the entity question** |
+| **`SEWAK SATHI CONSEQUENCE`** | ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`, and the single most consequential finding in this Part. **`ID-1` **`PLV-05`** asked *"whether partial payment constitutes lawful discharge"*. **This finding indicates that, if the recipients are employees, the question is not only civil but penal — and that the answer turns on a definitional question (**is a deferred amount *due?*`) that only a professional can settle. **Nothing here concludes that partial payment is unlawful; **it concludes that the exposure is not limited to a debt** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`SUPPORTED BY PRIMARY SOURCE`** |
+
+### `RF-05` — the claims machinery, the limitation period, the burden of proof, and the bar on civil suits
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-05`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-10`, `PLV-11`, `PLV-14`; **`CD-19`, `CD-20`; **`CQ-09`; **`LD-04`, `LD-05`; **`RSK-2`** |
+| **`QUESTION`** | **If wages are unpaid or underpaid, through what machinery is the claim made, within what period, on whom does the burden lie, and what may the authority award?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available source indicates that **s.45(1)** empowers the appropriate Government to appoint one or more authorities, **not below the rank of a Gazetted Officer**, to hear and determine claims arising under the Code — including claims for unpaid wages, minimum wages, bonus and other dues; **that **s.45(6)** allows such claims to be filed **within three years** of the date on which the claim arises; **that a single application may cover multiple employees; **that the authority may award the claim amount **together with compensation which may extend up to ten times the claim amount**; **and that where an employer fails to pay the amount awarded, the authority may issue a **recovery certificate to the Collector or District Magistrate**, who shall recover the amount. **The Bill's own notes record that where a claim is filed for non-payment or **less payment** of wages or bonus, or for an unauthorised deduction, **the burden is on the employer to prove that the dues have been paid**. **Separately, **s.57** bars any court from entertaining a suit for the recovery of minimum wages, any deduction from wages, discrimination in wages or payment of bonus, in so far as the sum forms the subject of a s.45 claim, has formed the subject of a direction under the Code, or has been adjudged in a proceeding under the Code** |
+| **`PRIMARY SOURCE`** | ### **`SRC-27 — PRS India, the Code on Wages, 2019 Act text and the Bill's clause notes, quoting ss.45 and 57 and the burden provision. **`TIER 1 CONTENT, TIER 2 HOST`**. **Corroborated by **SRC-26**, **SRC-30**, **SRC-31**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **In force from **21 November 2025**. **The three-year limitation replaced shorter periods under the consolidated Acts. **`CURRENT`** |
+| **`RELEVANT CONDITION`** | **The machinery applies to claims **arising under the Code** — that is, to employees. **The ten-times compensation is a **ceiling on the authority's power**, not an entitlement. **The burden provision, as located, appears in the **Bill's clause notes** rather than in a section read in this research, and is marked accordingly** |
+| **`ENTITY DEPENDENCY`** | **`NO`** |
+| **`FACT DEPENDENCY`** | **`YES`** |
+| **`INTERPRETATION RISK`** | **`MEDIUM` — the burden-of-proof provision is located in Bill notes and not verified against the enacted section; **the ten-times ceiling is corroborated by one source only in this research** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That a specialised, fast, non-civil-court machinery exists; **that its limitation period is three years; **that it can award compensation far exceeding the claim; **that its awards are recoverable as land revenue through the Collector; **and that civil suits on the same sums are barred** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That any claim exists. **That the compensation multiplier would be applied in any particular case. **The precise enacted wording of the burden provision** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`CLARIFICATION REQUIRED`, and it answers `ID-1`'s **`PLV-10`** and **`PLV-11`** in part. **A dispute does not merely suspend an obligation; **it opens a three-year window into a machinery that can award up to ten times the claim and enforce through the Collector. **For an architecture whose priority 1 is worker compensation and whose cash availability is unknown, **this is the most severe quantified exposure identified in this research — and it is contingent entirely on employee status** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`PARTIALLY SUPPORTED` — the machinery and the three-year period by Tier 1 content; **the ten-times ceiling and the burden provision need verification** |
+
+### `RF-06` — partial payment and the appropriation of payments under the law of contract
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-06`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-05`, `PLV-09`; **`CD-08`, `CD-13`; **`CQ-08`; **`ACR-1 … ACR-5`** |
+| **`QUESTION`** | **Where a payment is made that is less than the whole of what is owed, what does it discharge?** |
+| **`LEGAL / TAX DOMAIN`** | **Contract law** |
+| **`RESEARCH FINDING`** | **The available source indicates that the Indian Contract Act, 1872 governs the appropriation of payments at **ss.59 to 61**, on a descending order of priority: **s.59 — where a debtor owing several distinct debts makes a payment with express intimation, or in circumstances implying, that it is to be applied to the discharge of some particular debt, the payment, if accepted, must be applied accordingly; **s.60 — where the debtor has omitted to intimate and no circumstances indicate the intended application, the creditor may apply it at his discretion to any lawful debt actually due and payable, **whether or not its recovery is barred by limitation**; **s.61 — where **neither party appropriates**, the payment is applied in discharge of the debts **in order of time**, whether or not barred by limitation, and **if the debts are of equal standing, in discharge of each proportionally**. **The sections apply to several **distinct** debts and not to a single debt payable in instalments** |
+| **`PRIMARY SOURCE`** | **`SRC-53`**, **`SRC-102`**, **`SRC-102a`**, **`SRC-102b`** — reproductions of the statutory text of ss.59 to 61. **`TIER 3 HOSTS, TIER 1 CONTENT`. **The primary text was not obtained from India Code in this research** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **Act No. 9 of 1872; **in force continuously, and not among the 29 labour laws consolidated by the Codes. **`CURRENT`** |
+| **`RELEVANT CONDITION`** | **Several **distinct** debts owed by one debtor to one creditor. **A single debt payable in instalments is outside s.59. **A debt merged into a decree is outside s.59** |
+| **`ENTITY DEPENDENCY`** | **`NO` — the Contract Act applies to any person competent to contract** |
+| **`FACT DEPENDENCY`** | **`YES` — on what was agreed, what was intimated, and how many distinct debts exist** |
+| **`INTERPRETATION RISK`** | **`LOW` as to the text** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That a part-payment does not simply reduce the debt by the amount paid; **it is applied to particular debts in a statutory order, and where nobody appropriates, **to the oldest debt first, or proportionally across debts of equal standing**. **It also establishes that a creditor may appropriate to a **time-barred** debt** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That a part-payment discharges the whole. **Nothing in the material located suggests that it does absent accord and satisfaction, and accord and satisfaction was not researched. **It does not establish the position where the debtor is an employer and the debt is wages — where **`RF-03`** and **`RF-04`** operate in addition, not instead** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`CLARIFICATION REQUIRED`. **The architecture contemplates several distinct compensation streams — worker compensation at priority 1, the organisation service fee at priority 5, and possibly a leader differential. **If several distinct amounts are owed to one person and a partial payment is made without appropriation, **s.61** determines which is discharged, **oldest first**. **That is a design constraint the waterfall does not currently address, and it is a reason for **`PLV-14`**'s recordkeeping question to include **an appropriation field on every payment record** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`LATER` — the mechanism is clear; **its interaction with the Code on Wages is not** |
+| **`CLASSIFICATION`** | ### **`SUPPORTED BY SECONDARY SOURCE ONLY` — the text is statutory and consistent across four sources, but no Tier 1 copy was obtained** |
+
+### `RF-07` — the five compensation categories the mandate requires to be kept apart
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-07`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`CD-01 … CD-21`; **`ACR-1 … ACR-5`; **`AH-05`, `AH-06`; **`CQ-05 … CQ-09`; **`REV-1 … REV-4`** |
+| **`QUESTION`** | **What distinguishes promised, earned, statutorily required, voluntary and unpaid compensation, and does the distinction have legal content?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law; **contract law; **accounting** |
+| **`RESEARCH FINDING`** | **The available sources indicate that the distinction has real legal content, and that the five categories attach to different regimes** |
+| **`PRIMARY SOURCE`** | **Composite of **SRC-26**, **SRC-27**, **SRC-53`, and the accounting material at **SRC-22 … SRC-25**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **As per the underlying sources; **all `CURRENT`** |
+| **`RELEVANT CONDITION`** | **Stated per category below** |
+| **`ENTITY DEPENDENCY`** | **`PARTLY — the statutory categories attach to an *employer*; **the contractual and accounting categories do not** |
+| **`FACT DEPENDENCY`** | **`YES`** |
+| **`INTERPRETATION RISK`** | **`MEDIUM`** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **The five-way mapping set out below** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **Which category any amount in this architecture falls into, because no amount exists** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`CLARIFICATION REQUIRED`. **Mandate §8 forbids merging these categories, and the mapping below is the instrument's compliance with that prohibition** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES` — on the classification of any actual amount** |
+| **`CLASSIFICATION`** | ### **`PARTIALLY SUPPORTED`** |
+
+| Category | **What it is** | **The regime that attaches to it, on the available sources** | **What research could not establish** |
+|---|---|---|---|
+| ### **`PROMISED COMPENSATION`** | **An amount offered or agreed but not yet earned** | **Contract law. **An offer or a promise is not a debt until the consideration is performed. **The Code on Wages attaches to wages, which its own definition ties to remuneration *"which would, if the terms of employment, express or implied, were fulfilled, be payable … in respect of his employment or of work done in such employment"* — **SRC-30**, **SRC-31**** | **Whether an architectural statement of a compensation model is a promise. **`ID-1` **`PLV-13`** asked this; **research cannot answer it, because it depends on what was said to whom** |
+| ### **`EARNED COMPENSATION`** | **An amount due because the work has been done** | **The Code on Wages. **`RF-01`** time limits, **`RF-02`** the minimum floor, **`RF-03`** the deduction regime, **`RF-04`** the penal consequence of underpayment, **`RF-05`** the claims machinery with a three-year window and compensation up to ten times the claim** | **Whether any amount has been earned. **`DIS-16`, `DIS-17`, `DIS-20` are blank** |
+| ### **`STATUTORILY REQUIRED PAYMENT`** | **An amount the law requires irrespective of any promise — minimum wages, statutory dues at waterfall priority 2, provident fund, employees' state insurance, gratuity, bonus** | **`RF-30`** — the thresholds and ceilings; **`RF-02`** — the floor; **PIB SRC-02** — bonus payable at a minimum of eight and one-third per cent and a maximum of twenty per cent of wages earned, to every employee drawing wages not exceeding such amount as the appropriate Government fixes, who has worked at least thirty days in an accounting year** | **Which statutes apply, which is `ENTITY-DEPENDENT` and `FACT-DEPENDENT` on headcount, wage levels and state. **No rate or ceiling is adopted for this architecture** |
+| ### **`VOLUNTARY / DISCRETIONARY PAYMENT`** | **An amount paid without obligation — an ex-gratia payment, a gift, a discretionary bonus** | **Outside the Code's wage definition, which excludes *"any ex-gratia payment made to him on the termination of employment"* — **SRC-30**. **But a payment described as voluntary does not cease to be wages if in substance it is remuneration for work; **and **`RF-03`'s** deemed-deduction rule applies to money moving the other way** | **Whether any payment here would be genuinely discretionary. **No payment can be made at all — **`C-15`**** |
+| ### **`UNPAID AMOUNT`** | **An amount owed and not paid** | **`RF-05`** — a claim under s.45 within three years, with the burden on the employer to prove payment, compensation up to ten times, and recovery through the Collector. **`RF-06`** — appropriation on any later part-payment. **Accounting: a liability, a provision or a contingent liability, depending on the framework — **Part XII**** | **Whether any amount is unpaid. **`DIS-18`, `DIS-20` are blank** |
+
+### `RF-08` — volunteers, and whether unpaid work creates an employment relationship
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-08`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`, `PVR-22`; **`PLV-02`; **`CD-18`; **`UD-01 … UD-14`; **`CQ-05`, `CQ-06`; **`HC-1 … HC-15`; **the four unpaid control roles** |
+| **`QUESTION`** | **Does unpaid or voluntary work make a person an employee, a worker or a gig worker, and what statutory category does a volunteer occupy?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **No source located in this research establishes that a genuine volunteer is an employee. **The available sources indicate three statutory categories that are **not** employees and are **not** volunteers either, and that the Code on Social Security, 2020 creates a distinct framework for them: **a *gig worker* is defined at s.2(35) as *"a person who performs work or participates in a work arrangement and earns from such activities outside of traditional employer-employee relationship"*; **a *platform worker* is a worker engaged through a digital platform; **and an *unorganised worker* is defined at s.2(86) inclusively of a home-based worker, a self-employed worker or a wage worker in the unorganised sector, and includes a worker in the organised sector not covered by the Industrial Disputes Act, 1947 or by Chapters III to VII of the Code. **Registration is required for such a worker to access scheme benefits, subject to being at least sixteen years of age and to a self-declaration in the prescribed form; **one source adds a condition of having worked not less than ninety days in the preceding twelve months. **A **Social Security Fund** is established at s.141(1) for these workers, and National and State Social Security Boards are constituted to recommend and monitor schemes. **Secondary analysis records that these workers are recognised **without being reclassified as employees**, and that employer obligations arise from the aggregator's model rather than from an employment contract** |
+| **`PRIMARY SOURCE`** | **`SRC-100 — V.V. Giri National Labour Institute, a Government of India institution, summary of the Code on Social Security, 2020 quoting ss.2(35), 2(86), 141(1) and the registration conditions. **`TIER 1/2`**. **Corroborated by **SRC-101**, **SRC-101a`, and **SRC-03**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **Code on Social Security, 2020; **provisions relating to ESI, maternity, gratuity and the governance bodies brought into effect from **21 November 2025** per **SRC-11**, with the mechanical provisions relating to the provident fund active while the existing EPF Scheme continues. **`CURRENT, PARTIALLY COMMENCED — verify which chapters are in force`** |
+| **`RELEVANT CONDITION`** | **The categories turn on **earning** from the activity. **A person who earns nothing is not obviously within the gig, platform or unorganised-worker definitions as located — **and that gap is exactly where a volunteer sits**. **No source located defines *volunteer*** |
+| **`ENTITY DEPENDENCY`** | **`NO`** |
+| **`FACT DEPENDENCY`** | **`YES` — entirely. **It turns on what each person actually does, whether anything of value passes to them, and under whose direction they act** |
+| **`INTERPRETATION RISK`** | ### **`HIGH` — the statutory scheme is built around paid relationships, and the position of a genuinely unpaid person is not addressed by any source located** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That Indian labour law now recognises categories of worker outside the employer-employee relationship; **that recognition is not reclassification; **that a registration and scheme architecture exists for them; **and that the definitions are framed around **earning**** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That a volunteer is outside every statutory duty. **That unpaid work creates no obligation. **The absence of any definition of *volunteer* means the question is not answered by the Codes, and it is **not** answered by their silence** |
+| **`SEWAK SATHI CONSEQUENCE`** | ### **`CLARIFICATION REQUIRED`, and it confirms `ID-1`'s position. **`ID-1` **`CD-18`** asked whether a volunteer may ever be paid, and **Part XVII** of `ID-1` recorded that unpaid is not the same as unexposed. **This research finds no source that makes a volunteer an employee, and **no source that exempts a volunteer from every duty**. **Mandate §8 of `ID-1` — never say the four unpaid control roles *"are personally liable"* or *"are protected"* — survives this research unchanged, on both sides** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`NOT ESTABLISHED` — as to the volunteer category specifically; **`SUPPORTED BY SECONDARY SOURCE ONLY`** as to the gig, platform and unorganised-worker categories** |
+
+### `RF-09` — deduction for absence, and the *"no work, no pay"* mechanism
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-09`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`PLV-06`; **`CD-06`, `CD-07`; **`CQ-08`; **`ACR-2`** |
+| **`QUESTION`** | **May wages be reduced for time not worked, and within what limit?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available source indicates that **s.20(1) of the Code on Wages, 2019** permits a deduction under s.18(2)(b) **only on account of the absence of an employee from the place or places where, by the terms of his employment, he is required to work**, such absence being for the whole or any part of the period during which he is so required to work; **and that **s.20(2)** requires that the amount of such deduction **shall in no case bear to the wages payable for the wage period a larger proportion than the period of absence bears to the total period within which the wages were payable**. **Absence-based reduction is therefore proportional and authorised, and stands apart from the unauthorised-deduction regime at **`RF-03`**** |
+| **`PRIMARY SOURCE`** | ### **`SRC-27 — PRS India, Code on Wages, 2019, s.20 text quoted. **`TIER 1 CONTENT, TIER 2 HOST`**. **Corroborated by **SRC-26**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **In force from **21 November 2025**. **`CURRENT`** |
+| **`RELEVANT CONDITION`** | **The absence must be from the place where the employee is **required to work by the terms of his employment** — which presupposes terms of employment, and therefore a contract, and therefore a classification** |
+| **`ENTITY DEPENDENCY`** | **`NO`** |
+| **`FACT DEPENDENCY`** | **`YES`** |
+| **`INTERPRETATION RISK`** | **`LOW` as to the text** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That a proportional reduction for absence is an **authorised** deduction, and that its ceiling is arithmetic rather than discretionary** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That the architecture's *"compensation attaches to verified work, not to people"* — **`CD-06`**, from **[S: App. A §14.3]** — is the same proposition as s.20. **It is not. **`CD-06`** is a **design principle about when compensation arises**; **s.20 is a **rule about reducing wages already earned**. **Conflating them would be an error** |
+| **`SEWAK SATHI CONSEQUENCE`** | ### **`CLARIFICATION REQUIRED`, with a caution. **The architecture's principle that compensation attaches to verified work is **not** the statutory no-work-no-pay rule, and must not be cited as though it were. **Where work is done and verification is delayed, **the wage is earned and the delay is a **`RF-01`** time-limit problem, not an **`RF-09`** absence problem. **This distinction bears directly on the CEA's **`AC-1 … AC-5`** accrual rules** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`SUPPORTED BY PRIMARY SOURCE`** |
+
+### `RF-10` — separation, fixed-term employment, and the settlement deadline
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-10`** |
+| **`ARCHITECTURAL ID`** | **`PVR-03`; **`CD-14`, `CD-20`; **`PLV-08`; **`CQ-08`; **the thirteen-step vacancy lifecycle at **[S: App. A]** |
+| **`QUESTION`** | **What must happen, and how quickly, when an engagement ends?** |
+| **`LEGAL / TAX DOMAIN`** | **Labour law** |
+| **`RESEARCH FINDING`** | **The available sources indicate that on removal, dismissal, retrenchment, resignation or unemployment due to closure, **wages must be paid within two working days** — Code on Wages s.17(2), **SRC-26**, **SRC-02**. **The Industrial Relations Code, 2020 was reported as **fully notified** from 21 November 2025, with all provisions relating to trade unions, standing orders, dispute resolution and retrenchment in effect; **fixed-term employment is formally recognised, entitling such employees to **gratuity after one year** of continuous service rather than five; **contract labour engagement is restricted in core activities subject to exceptions; **and the threshold for prior government approval of retrenchment, closure and lay-off is reported to have risen **from 100 to 300 employees**, with a **Reskilling Fund** contribution on retrenchment equal to **fifteen days' last drawn wages per worker**. **The Occupational Safety, Health and Working Conditions Code requires **mandatory appointment letters for all workers**, caps working hours at eight per day, requires work schedules to be displayed, and provides for **free annual health check-ups for workers above forty**. **Contract labour provisions are reported to apply to establishments engaging at least **fifty** contract labourers in the preceding twelve months, raised from twenty** |
+| **`PRIMARY SOURCE`** | **`SRC-02`** and **SRC-01** — **PIB, `TIER 1`**, for the two-working-day rule and the appointment-letter and health-check-up requirements. **`SRC-10`**, **`SRC-11`** — **Tier 2**, for the fixed-term, gratuity, retrenchment-threshold, Reskilling Fund and contract-labour details. **The Codes' own text was not obtained in this research** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **`21 NOVEMBER 2025`. **`CURRENT`, but **the Codes' text is `NOT OBTAINED` and every figure in this finding other than the two-working-day rule is **`VERIFIED — SECONDARY`**** |
+| **`RELEVANT CONDITION`** | **The retrenchment-approval threshold is an **establishment headcount** test. **The contract-labour threshold is a **twelve-month look-back** test. **Gratuity after one year applies to **fixed-term** employees specifically. **The OSH Code applies to establishments with **ten or more workers** |
+| **`ENTITY DEPENDENCY`** | **`NO` — these attach to employers and establishments, whatever their form** |
+| **`FACT DEPENDENCY`** | **`YES` — headcount, engagement type, state** |
+| **`INTERPRETATION RISK`** | **`MEDIUM` — one source reports the IR Code as fully notified, another reports that detailed Central and State Rules remained pending in December 2025. **Recorded as **SCF-02**** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That separation triggers a two-working-day settlement deadline; **that fixed-term employment now carries gratuity after one year; **that appointment letters are mandatory for all workers; **and that several thresholds have moved** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **The enacted text of any of these provisions. **Whether the Reskilling Fund contribution is in force. **The state position in any particular state** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`ARCHITECTURAL AMENDMENT MAY BE REQUIRED`. **The architecture's thirteen-step vacancy lifecycle and its treatment of role cessation were written against a regime in which gratuity required five years and appointment letters were not mandatory. **`ID-1` **`CD-20`** asked about termination; **this finding supplies a deadline the corpus does not contain. **Mandate §25's requirement that the priority order and the absence of invented figures remain intact is unaffected — **no figure is adopted here** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`PARTIALLY SUPPORTED`** |
+
+## V.3 What `PVR-03` now looks like
+
+**[P]** `[PROPOSED]`. **This is a synthesis of `RF-01 … RF-10`, not an answer. It states how far research moved the question and what remains.**
+
+| Item | **Position before this research** | **Position after** | **What moved it** |
+|---|---|---|---|
+| **Is partial payment of earned compensation lawful?** | **`UNKNOWN — PROFESSIONAL DETERMINATION REQUIRED`** | ### **`NARROWED, NOT ANSWERED.` **Where the recipient is an employee and the amount is due under the Code, paying less than the amount due is exposed to a penal provision with a stated fine ceiling; **the minimum floor cannot be cured by consent; **a payment moving from employee to employer is deemed a deduction and deductions are a closed list capped at fifty per cent; **and a three-year claims window with compensation up to ten times the claim, enforceable through the Collector, applies. **Where the recipient is not an employee, none of that attaches, and the Contract Act's appropriation rules govern instead** | **`RF-01 … RF-06`** |
+| **Which question decides everything else?** | **`SR-02`, worker classification** | **Unchanged, and now demonstrably so: **every one of the ten findings above is conditional on it, and **`RF-08`** shows that the statutory scheme does not even define a volunteer** | **All ten** |
+| **Is the architecture's deferral mechanism affected?** | **`SS-1` and its alternatives were recorded as options** | **Yes. **A deferral of an earned wage risks characterisation as an unauthorised deduction under **`RF-03`**, and the architecture's own *"compensation attaches to verified work"* principle is **not** the statutory absence rule and must not be cited as though it were — **`RF-09`** | **`RF-03`, `RF-09`** |
+| **Has any conclusion been reached about Sewak Sathi?** | **No** | ### **`NO. No person is classified, no amount is due, no offence is alleged, and no permission is given.`** | **—** |
+| **What is the residual professional question?** | **All of it** | **Two things, precisely: **whether a consensual deferral of an earned wage is a *deduction* within s.18's Explanation; **and whether an amount deferred is *due* for the purposes of s.54(1)(a). **Neither is answerable from public sources** | **`RF-03`, `RF-04`** |
+
+---
