@@ -1417,3 +1417,154 @@
 | **Section numbers of the Income-tax Act, 2025 cited anywhere in this instrument** | ### **`0` — by decision, because **`SCF-02`** is unresolved** |
 
 ---
+
+# PART XII — ACCOUNTING: THE REQUIREMENT, AND THE MANAGEMENT CONTROL THAT IS NOT ONE
+
+## XII.1 The distinction the mandate requires
+
+**[P]** Mandate §15 of this task: *"clearly distinguish an accounting requirement from an internal management-control requirement."* **`ID-1` **`ACR-1 … ACR-5`** and **`AH-01 … AH-18`** exist because the architecture conflated them. **This Part keeps them apart.**
+
+| | **An accounting requirement** | **An internal management-control requirement** |
+|---|---|---|
+| **What it is** | **A rule imposed from outside, by a statute, a standard or a regulator, whose breach has an external consequence** | **A rule the architecture imposes on itself so that it can see what it is doing** |
+| **Where it comes from** | **The Companies Act; **the Companies (Indian Accounting Standards) Rules, 2015 or the Companies (Accounting Standards) Rules, 2021; **the Income-tax Act; **the CGST Act; **state society and trust legislation** | **The corpus itself — the eight-record requirement at **`REC-01 … REC-17`**, the accrual rules at CEA **`AC-1 … AC-5`**, the sixteen acts and eight functions at CEA Part XX** |
+| **Whether it applies before an entity exists** | **No. **Every accounting requirement located in this research is addressed to a company, a registered person or a taxpayer** | ### **`YES. A record of what happened can be kept by a person, on paper, today. **CEA §XXI.1 establishes that paper records suffice and that no software is required`** |
+| **Who must satisfy it** | **The entity, and its officers** | **Whoever holds the record** |
+| **What happens if it is not satisfied** | **A penalty, a denial of exemption, a loss of registration, or a qualification in an audit report** | **The architecture cannot see itself — which is the failure **`AG-01 … AG-15`** and **`F-17`** describe** |
+| **What this research located** | **`RF-15`, `RF-16`, `RF-35`, `RF-39`, `RF-40`** | ### **`Nothing, because there is nothing to locate. It is not a legal subject`** |
+
+## XII.2 The eighteen accounting heads, and what research did for each
+
+**[P]** `[SOURCE]` — `ID-1` Part XV, **`AH-01 … AH-18`**. **No standard is prescribed here — **`ACR-1`** stands, and mandate §17 of this task repeats it.**
+
+| Head | **The subject** | **What research established** | **Requirement or control?** |
+|---|---|---|---|
+| **`AH-01`** | **The framework itself** | **`RF-15` — Ind AS for a listed company or an unlisted company at ₹250 crore net worth; **the 2021 Accounting Standards Rules otherwise; **nothing located for a society, trust, LLP or partnership** | **Requirement — **company form only** |
+| **`AH-02`** | **The basis of preparation** | **`RF-16` — accrual basis, statutory for a company under s.128** | **Requirement — **company form only** |
+| **`AH-03`** | **Revenue recognition** | **`RF-17` row 1 — Ind AS 115's five-step model, recognition on satisfaction of a performance obligation, at a point in time or over time** | **Requirement — **company form only** |
+| **`AH-04`** | **Receivables** | **`RF-13` — a late-payment charge has its own tax point on receipt. **No accounting source located on impairment or expected credit loss** | **Control, with a tax consequence** |
+| **`AH-05`** | **Payables and accrued compensation** | **`RF-03`, `RF-04`, `RF-05` — a liability with a statutory deadline, a penal consequence for shortfall, and a three-year claim window. **No accounting source located on recognition of an unpaid wage** | **Control, with a labour consequence** |
+| **`AH-06`** | **Advances received** | **`RF-14` — GST differs between goods and services; **no accounting source located** | **Control, with a tax consequence** |
+| **`AH-07`** | **Provisions** | **No source located** | ### **`Control only`** |
+| **`AH-08`** | **Reserves** | **`RF-35` — corpus donations are excluded from the application computation; **the treatment of a reserve as against a corpus was **not located**. **`SR-19`** remains `EXPLICITLY UNRESOLVED`** | ### **`NOT ESTABLISHED`** |
+| **`AH-09`** | **Restricted funds** | **`RF-38` — a restricted social-impact fund is not addressed by any source located; **the GST notification's *general public* definition is the nearest concept and does not correspond** | ### **`NOT ESTABLISHED`** |
+| **`AH-10`** | **Assets and ownership** | **`RF-34` — asset ownership is a structural consequence of the choice of form; **`OC-10`** records that **0 of 17 asset classes have a stated owner** | **Requirement, **`ENTITY-DEPENDENT`** |
+| **`AH-11`** | **Liabilities** | **`RF-18`, `RF-21`, `RF-22` — the regimes that can convert an organisational liability into a personal one** | **Requirement, **`ENTITY-DEPENDENT`** |
+| **`AH-12`** | **Related parties** | ### **`NOT ESTABLISHED — **`RF-34`** located nothing** | — |
+| **`AH-13`** | **Personal data held** | **`RF-40` — erasure on completion of purpose unless retention is mandated by law; **security safeguards specified; **breach reporting within 72 hours; **grievance response within 90 days — **all commencing on or about 13 May 2027** | **Requirement — **future-dated** |
+| **`AH-14`** | **Withholding and deductions** | **`RF-37`** | **Requirement** |
+| **`AH-15`** | **Volunteer labour** | ### **`NOT ESTABLISHED — no source located addresses the accounting treatment of unpaid labour, and **`HC-1 … HC-15`** remain architectural constructs with no external recognition rule** | — |
+| **`AH-16`** | **Donated goods and services** | ### **`NOT ESTABLISHED — **`RF-35`** records that corpus donations are excluded from the application computation, which is a tax rule and not an accounting rule** | — |
+| **`AH-17`** | **Record retention** | **`RF-16` — eight years, statutory for a company. **Nothing located for any other form, which is why **`SR-06`** remains open for three candidates** | **Requirement — **company form only** |
+| **`AH-18`** | **Internal transfers between pillars or ventures** | ### **`NOT ESTABLISHED — and **`GC-01`** nodes 4 and 6 show why: **there is no second entity to transfer between, and no regime located that would govern it if there were** | — |
+
+| Measure | **Count** |
+|---|---|
+| **Accounting heads** | **18** |
+| **Heads with a located external requirement** | **9** |
+| **Heads that are internal controls only** | **2 — `AH-04` and `AH-07` in part** |
+| **Heads `NOT ESTABLISHED`** | ### **`7 — `AH-08`, `AH-09`, `AH-12`, `AH-15`, `AH-16`, `AH-18`, and **`AH-07`** in full** |
+| **Standards prescribed by this Part** | ### **`0`** |
+| **Heads whose requirement applies before an entity exists** | ### **`0 of 18`** |
+| **Heads whose management control can be performed today, on paper, by a person** | ### **`18 of 18`** |
+
+> ### **`THE ACCOUNTING ANSWER TO THIS ARCHITECTURE IS NOT THAT IT NEEDS A FRAMEWORK. IT IS THAT EVERY EXTERNAL ACCOUNTING REQUIREMENT LOCATED IN THIS RESEARCH IS ADDRESSED TO AN ENTITY, AND THAT EVERY INTERNAL CONTROL THE ARCHITECTURE NEEDS CAN BE PERFORMED TODAY, ON PAPER, BY A PERSON, WITHOUT ONE. `ID-1` **`CQ-21`** IS THE ONLY QUESTION IN THE WHOLE REGISTER CLASSIFIED ① ANSWERABLE NOW, AND THIS PART EXPLAINS WHY: IT IS THE ONE ACCOUNTING QUESTION THAT IS REALLY A CONTROL QUESTION.`**
+
+---
+
+# PART XIII — LABOUR: THE CLASSIFICATION TESTS, WITHOUT DECIDING THE CLASSIFICATION
+
+## XIII.1 The rule this Part obeys
+
+**[P]** Mandate §16 of this task. **The architecture contains paid work, unpaid work, volunteers, coordinators, managers, business roles, social-service roles and compensation. This Part identifies the tests, the indicators, the consequences, the obligations, the records, the payment rules, the termination implications, the social-security implications and the tax implications. It does not decide the classification for the organisation.**
+
+## XIII.2 The statutory categories located, and what each turns on
+
+**[P]** `[SOURCE]` — `RF-01 … RF-10`, **`RF-28`**. **Every category below is a statutory definition located in this research. None is applied to any person in this architecture.**
+
+| Category | **The statutory home** | **What the definition turns on** | **What it excludes** | **Consequence of falling inside it** |
+|---|---|---|---|---|
+| **`Employee`** | **Code on Wages, 2019; **Code on Social Security, 2020; **Industrial Relations Code, 2020** | **An employment relationship, express or implied, and remuneration that *"would, if the terms of employment were fulfilled, be payable … in respect of his employment or of work done in such employment"*** | — | **Minimum wage floor (**`RF-02`**); **statutory payment deadlines (**`RF-01`**); **closed-list deductions capped at fifty per cent (**`RF-03`**); **penal consequence for underpayment (**`RF-04`**); **three-year claim window with compensation up to ten times (**`RF-05`**); **social security thresholds (**`RF-28`**); **withholding (**`RF-37`**)** |
+| **`Worker`** | **Occupational Safety, Health and Working Conditions Code, 2020** | **Manual, skilled, technical, operational, clerical or supervisory work, including journalists and sales promotion employees, in an establishment with **ten or more** workers** | ### **`Armed forces, police, **managerial roles**, and **supervisory staff earning above ₹18,000 per month**`** | **Eight-hour day; **mandatory appointment letters; **displayed work schedules; **overtime at twice the ordinary rate with consent; **free annual health check-ups above forty; **night-shift work permitted for women with consent and prescribed safeguards; **contract-labour restrictions** |
+| **`Gig worker`** | **Code on Social Security, 2020, s.2(35)** | **A person who *"performs work or participates in a work arrangement and **earns** from such activities **outside of a traditional employer-employee relationship**"* | **Persons who do not earn** | **Registration for scheme benefits; **access to a Social Security Fund; **life, disability and accident cover, maternity benefits and old-age protection through schemes — **but not automatic provident fund, employees' state insurance or gratuity** |
+| **`Platform worker`** | **Code on Social Security, 2020** | **Work secured or performed through a digital platform or interface** | **Non-platform work** | **As for a gig worker, with aggregator contributions based on turnover rather than per-worker contract** |
+| **`Unorganised worker`** | **Code on Social Security, 2020, s.2(86)** | **A home-based worker, a self-employed worker or a wage worker in the unorganised sector; **and a worker in the organised sector **not covered** by the Industrial Disputes Act, 1947 or by Chapters III to VII of the Code** | — | **Registration, on conditions including being at least sixteen years of age and filing a self-declaration, with one source adding ninety days of work in the preceding twelve months; **scheme benefits only once registered** |
+| **`Fixed-term employee`** | **Industrial Relations Code, 2020** | **Engagement for a fixed period** | — | **Formally recognised; **gratuity after **one year** of continuous service rather than five; **equal wages with permanent staff** |
+| **`Contract labour`** | **Occupational Safety, Health and Working Conditions Code, 2020** | **Workers engaged through a contractor, including part-time and migrant workers, where an establishment engages at least **fifty** contract labourers in the preceding twelve months** | **The contractor's own regular employees receiving increments, social security and welfare benefits** | **Barred in a **core activity**, except where the work is ordinarily outsourced, does not require full-time roles, or there is a temporary spike in workload; **counted toward the provident-fund headcount (**`RF-28`**)** |
+| **`Volunteer`** | ### **`NO STATUTORY HOME LOCATED`** | — | — | ### **`NOT ESTABLISHED — **`RF-08`. **Every category above is defined by reference to **earning**, **employment**, or **work in an establishment**. **A person who earns nothing and is employed by nobody is outside all of them, and no source located says what follows from that`** |
+
+## XIII.3 The indicators, and why this Part will not weigh them
+
+**[P]** `[PROFESSIONAL QUESTION]`. **Mandate §16 requires the indicators to be identified. It does not permit them to be applied.**
+
+| Indicator | **Where it comes from** | **Why it cannot be applied here** |
+|---|---|---|
+| **Whether remuneration would be payable if the terms of employment were fulfilled** | **The wage definition, **`RF-07`** | **No terms of employment exist. **`DIS-34` is blank and **`C-20`** prohibits engaging anyone as a worker** |
+| **Whether the person earns from the activity** | **Code on Social Security s.2(35) and s.2(86), **`RF-08`** | **No person has earned anything. **`DIS-18` and **`DIS-19`** are blank and **`C-15`** prohibits any external payment** |
+| **Whether the work is manual, skilled, technical, operational, clerical or supervisory** | **Occupational Safety Code, **`RF-10`** | **The eleven role families are specified in the corpus but no person is recorded as performing any of them. **`UD-01 … UD-14` are unassigned** |
+| **Whether the person is managerial or supervisory, and if supervisory, what they earn** | **Occupational Safety Code exclusions, **`RF-10`** | **The exclusion is wage-linked and no wage exists** |
+| **Whether the establishment has ten or more workers, or twenty or more employees** | **`RF-10`, `RF-28`** | **No establishment exists** |
+| **Whether the work is a core activity, and whether it is ordinarily outsourced** | **Occupational Safety Code contract-labour provisions, **`RF-10`** | **No activity has been performed. **`DIS-08` is blank** |
+| **Whether the engagement is for a fixed term** | **Industrial Relations Code, **`RF-10`** | **No engagement exists** |
+| **Who directs the work, and who supplies the tools** | **Not located in any source in this research** | ### **`NOT RESEARCHED — the classical control and integration tests were not located, and mandate §11 forbids filling the gap from general knowledge`** |
+
+## XIII.4 The consequences, mapped
+
+**[P]** `[SOURCE]`. **Each row states what follows **if** a classification is made. **No classification is made.**
+
+| Consequence | **Employee** | **Worker under the OSH Code** | **Gig or platform worker** | **Unorganised worker** | **Fixed-term employee** | **Contract labour** | **Volunteer** |
+|---|---|---|---|---|---|---|---|
+| **Minimum wage floor** | **`RF-02`** | **Applies through the Code on Wages** | **Not located** | **Not located** | **Applies** | **Applies to the principal in the located sources' terms — **`VERIFIED — SECONDARY`** | ### **`NOT ESTABLISHED`** |
+| **Statutory payment deadline** | **`RF-01`** | — | — | — | **`RF-10`** | — | ### **`NOT APPLICABLE — no wage`** |
+| **Deduction regime and cap** | **`RF-03`** | — | — | — | **Applies** | — | ### **`NOT ESTABLISHED`** |
+| **Appointment letter** | **`RF-10`** | **`RF-10`, mandatory for all workers** | — | — | **`RF-10`** | **Through the contractor** | ### **`NOT ESTABLISHED`** |
+| **Working hours and overtime** | — | **`RF-10`** | — | — | — | — | ### **`NOT ESTABLISHED`** |
+| **Provident fund and employees' state insurance** | **`RF-28`, threshold-based** | — | **Not automatic** | **Through schemes once registered** | **Applies** | **Counted toward headcount** | ### **`NOT ESTABLISHED`** |
+| **Gratuity** | **Applies through the Code on Social Security** | — | **Not automatic** | **Through schemes** | **After one year** | — | ### **`NOT ESTABLISHED`** |
+| **Withholding on payment** | **Salary deduction, **`RF-37`** | — | **`RF-37`** if a contractor or professional | **`RF-37`** | **Salary deduction** | **`RF-37`**, contractor rate, expressly including manpower supply | ### **`NOT ESTABLISHED — a reimbursement is not obviously a payment for services, and **`CD-17`** asks exactly this** |
+| **Termination settlement** | **Two working days — **`RF-01`, `RF-10`** | — | — | — | **Two working days** | — | ### **`NOT ESTABLISHED`** |
+| **Harassment complaints route** | **Internal Committee at ten or more, Local Committee below — **`RF-27`** | **As employee** | **Local Committee — unorganised sector** | **Local Committee** | **As employee** | **Through the workplace** | ### **`CONDITION` — the Act protects an *aggrieved woman* at a *workplace*, and a volunteer is within the protected classes listed for a workplace, but this was **not verified** and is **`PROFESSIONAL VALIDATION REQUIRED`**** |
+| **Personal liability of the individual** | **`RF-18 … RF-24`, entity-dependent** | **As above** | **As above** | **As above** | **As above** | **As above** | ### **`NOT ESTABLISHED — **`RF-08`. **Unpaid is not unexposed, and it is not exposed either; **the question has no located answer** |
+
+> ### **`SEVEN CATEGORIES, ELEVEN CONSEQUENCES, SEVENTY-SEVEN CELLS IN THIS MAP. TWELVE OF THEM READ `NOT ESTABLISHED` AND EVERY ONE OF THOSE TWELVE IS IN THE VOLUNTEER COLUMN. THAT IS THE FINDING: **INDIAN LABOUR LAW, AS LOCATED IN THIS RESEARCH, IS BUILT AROUND EARNING, AND THE ARCHITECTURE'S MOST POPULOUS CATEGORY IS THE ONE THAT DOES NOT EARN.`**
+
+---
+
+# PART XIV — SOCIAL-SERVICE AND COMMERCIAL ACTIVITY: THE SEPARATION QUESTION
+
+## XIV.1 The rule this Part obeys
+
+**[P]** Mandate §17 of this task: *"do not assume that a single entity can automatically perform every contemplated activity. Identify where separate structures may be necessary or advantageous, but do not choose them."*
+
+## XIV.2 What the located sources actually restrict
+
+**[P]** `[SOURCE]` — `RF-29`, **`RF-35`, `RF-38`, `RF-39`, `RF-30`. **Four separate restrictions were located, in four different regimes. **They do not coincide, and the architecture has never distinguished them.**
+
+| # | **The restriction** | **Its regime** | **Its trigger** | **Its consequence** | **Source** |
+|---|---|---|---|---|---|
+| **1** | **A prohibition on paying any dividend to members** | **Company law — the licence condition at s.8(1)(c)** | **Formation. **It is a condition of the licence, not a test applied later** | **Revocation of the licence for conduct violative of the objects or prejudicial to the public interest; **alteration of the memorandum requires prior Central Government approval** | **`RF-29`** |
+| **2** | **A quantitative ceiling on commercial receipts** | **Income tax — the proviso to s.2(15)** | **Receipts from an activity in the nature of trade, commerce or business, or a service rendered in relation to one for a fee, cess or other consideration, exceeding **twenty per cent of total receipts** for the year** | **The purpose ceases to be charitable, and exemption under the exemption provisions is denied; **separate books of account are required** | **`RF-35`** |
+| **3** | **A cost-recovery discipline** | **Income tax — judicial gloss on the same proviso** | **Whether receipts **significantly exceed** the recovery of cost, including administrative cost and a small provision** | **Above-cost receipts are treated as trade receipts and counted toward the twenty-per-cent ceiling; **cost-recovery receipts are not** | **`RF-35`** |
+| **4** | **A closed list of exempt activities** | **GST — Notification No. 12/2017-Central Tax (Rate), entry 1** | **Whether the service falls within the notification's own definition of *charitable activities*, which is **narrower** than the income-tax definition** | **Outside the list, the supply is **taxable**; **and the **sale of goods** is taxable in any event; **and inter-state supply of goods requires registration **irrespective of turnover**** | **`RF-38`, `RF-39`** |
+
+## XIV.3 The four pillars against the four restrictions
+
+**[P]** `[PROFESSIONAL QUESTION]`. **This is a map of where the questions are, not an answer to any of them. No pillar is scored, no form is preferred, and no separation is recommended.**
+
+| Pillar | **Restriction 1 — dividend prohibition** | **Restriction 2 — the twenty-per-cent ceiling** | **Restriction 3 — cost recovery** | **Restriction 4 — the GST closed list** |
+|---|---|---|---|---|
+| **1 Social service** — education, food, health-support, cleaning, plantation, clothing, donations, community infrastructure, emergency, animal and environment support | **`CONDITION` — the objects list at s.8(1)(a) expressly includes education, social welfare, charity and protection of environment, so this pillar is within the permitted objects** | **`CONDITION` — *relief of the poor*, *education*, *medical relief* and *preservation of the environment* are named heads in their own right at s.2(15, and do **not** depend on the general-public-utility limb, so the twenty-per-cent test does not obviously reach them. **`VERIFIED — PRIMARY`** | **`CONDITION` — applies only where a fee, cess or consideration is charged. **Food, clothing and donations involve no consideration from the beneficiary** | **`CONDITION` — *public health*, *preservation of the environment including watershed, forests and wildlife*, and *advancement of educational programmes or skill development* for specified categories are within the notification's list. **Food, clothing, cleaning, plantation and community infrastructure are **not obviously within it** |
+| **2 Community network** — residents, local relationships, need identification, volunteer coordination, trustworthy local information flow | **`UNKNOWN` — not an obvious object under any listed head** | **`UNKNOWN` — *advancement of any other object of general public utility* is the only candidate head, and it is **exactly** the head that carries the twenty-per-cent limit** | **`UNKNOWN` — turns on whether anything is charged for** | **`UNKNOWN` — not obviously within the closed list** |
+| **3 Protection and first response** | **`CONDITION` — *"social welfare"* is a listed object at s.8(1)(a); **whether a first-response activity is social welfare is **not addressed by any source located** | **`UNKNOWN` — as for pillar 2** | **`UNKNOWN`** | ### **`NOT ESTABLISHED — and this is the sharpest gap in the matrix. **No head of the GST notification's definition of charitable activities located in this research addresses emergency response, first aid, de-escalation or public safety. **`RF-25`** shows that the only statutory protection located for intervention is confined to motor-vehicle accidents** |
+| **4 AI business** | **`CONDITION` — *"commerce"*, *"science"* and *"research"* are listed objects at s.8(1)(a), so a commercial object is not excluded from a Section 8 company by the objects clause alone** | ### **`CONDITION, AND IT IS THE BINDING ONE — a commercial venture's receipts are precisely *receipts from an activity in the nature of trade, commerce or business*, and they count toward the twenty-per-cent ceiling. **`VERIFIED — PRIMARY`** | ### **`CONDITION, AND IT IS THE DECISIVE ONE — a venture priced **at cost** is outside the ceiling, and a venture priced **significantly above cost** is inside it. **The architecture has no price, because `V-01 … V-22` are empty`** | **`CONDITION` — a commercial service is outside the closed list and is therefore taxable; **and if it supplies goods across states, registration is compulsory irrespective of turnover** |
+
+## XIV.4 What this Part concludes, and what it refuses to conclude
+
+| Item | **Position** |
+|---|---|
+| **What is concluded** | **That **four separate restrictions** operate on commercial activity, in **four different regimes**, with **four different triggers**; **that they do not coincide; **that pillar 4 is the pillar on which all four bite hardest; **that pillars 2 and 3 sit almost entirely within `UNKNOWN`; **and that the **cost-recovery discipline** is the single most architecturally significant finding in this Part, because it makes the **relationship between price and cost** the determinative variable — and that relationship does not exist anywhere in the corpus** |
+| **What is refused** | ### **`That separate structures are necessary. That separate structures are advantageous. That any pillar requires its own entity. That **`OPT-H`** or **`OPT-I`** is the answer. **Mandate §17: identify where separate structures **may** be necessary or advantageous, **but do not choose them`. **This Part identifies the restrictions and stops`** |
+| **What is referred** | **`PQ-02` — whether the four pillars can be carried by one entity under all four restrictions simultaneously, and if not, which pillar requires separation. **This is **`GC-01`** in its current form, and **`RF-35`** has narrowed it from *"is the waterfall compatible?"* to *"which contested priority is a distribution, which is a cost, and does the aggregate exceed twenty per cent?"*** |
+| **The architectural consequence** | **`ACN-04` — `ARCHITECTURAL AMENDMENT MAY BE REQUIRED`. **The CEA's treatment of **`GC-01`** records a conflict between the waterfall and *"restrictions on profit distribution and founder upside"*. **This research establishes that the operative tax restriction is **not** a restriction on distribution but a **ceiling on commercial receipts** and a **cost-recovery discipline**. **The conflict is therefore not what the architecture thinks it is — and correcting that description would be an amendment, which this instrument does not make** |
+
+---
