@@ -1676,3 +1676,212 @@
 > ### **`FIFTEEN RISKS. ZERO CONTRACTS OF INSURANCE LOCATED. TWO STATUTORY SCHEMES, WHICH ARE CONTRIBUTION-BASED AND THRESHOLD-DEPENDENT, AND ONE STATUTORY IMMUNITY, WHICH IS NARROW. NINE RISKS WERE NOT RESEARCHED FOR COVER AT ALL, AND THAT IS RECORDED RATHER THAN FILLED. THE DISTINCTION THAT MATTERS MOST IS THE ONE THIS PART DRAWS IN ITS FIRST RULE: A STATUTORY SCHEME IS NOT A CONTRACT OF INSURANCE, AND A STATUTORY IMMUNITY IS NOT EITHER. AN ARCHITECTURE THAT COUNTS ALL THREE AS "COVER" WILL BELIEVE IT IS PROTECTED WHEN IT IS NOT — WHICH IS EXACTLY WHAT §9.2 RULE 4 EXISTS TO PREVENT.`**
 
 ---
+
+# PART XVII — SOURCE CONFLICTS, RECORDED AND NOT RESOLVED
+
+## XVII.1 The protocol
+
+**[P]** Mandate §20 of this task. **Where two authoritative sources appear to conflict, neither is chosen silently. Each row records source A, source B, their dates, the legal hierarchy where one is established, the apparent conflict, whether it can be reconciled, and whether professional interpretation is required.**
+
+> ### **`EVERY CONFLICT BELOW CARRIES THE STATUS:` `SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`**
+
+## XVII.2 The register
+
+### `SCF-01` — is a registered society a legal person?
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **A **Constitution Bench of the Supreme Court of India**, described in the source located as the *Unani Tibia College* case, reported at **`SRC-72`**. **Holding, as quoted: **a registered society **is not a corporation**; **the Societies Registration Act, 1860 confers privileges, *"some of considerable importance"* and *"some … analogous to the privileges enjoyed by a corporation"*, but *"there is really no incorporation in the sense in which that word is legally understood"*; **the society, being unincorporated, **cannot sue or be sued in its own name**; **the phrase *"property belonging to a society"* in s.5 **does not confer corporate status**; **and a society **may not be prosecuted in criminal court** nor is it capable of ownership of property** |
+| **Source B** | **Three secondary sources — **`SRC-74`, `SRC-75`, `SRC-76`** — asserting that societies *"acquire perpetual succession and the capacity to acquire, hold and dispose of property, to contract, and to sue or be sued"*, that *"a registered society gains the status of a legal entity"*, and that societies *"gain juridical personality upon registration"* |
+| **Dates** | **Source A: **the judgment is **undated in the source located**, and its citation was not obtained. **Source B: **2025 and 2026** |
+| **Legal hierarchy** | ### **`ESTABLISHED, AND IT IS DECISIVE AS TO AUTHORITY: a Constitution Bench of the Supreme Court outranks secondary commentary. **But the hierarchy does not resolve the conflict, because **the judgment itself was not obtained**, its citation is unknown, its date is unknown, and **whether it remains good law is unknown**** |
+| **The apparent conflict** | **Whether registration under the 1860 Act creates a legal person. **Source A says no, and says the statutory privileges are not incorporation. **Source B says yes** |
+| **Can it be reconciled?** | ### **`POSSIBLY, AND THIS INSTRUMENT DOES NOT ATTEMPT IT. **A reconciliation is available in principle — that the Act confers **procedural** juristic personality, sufficient to sue and be sued through named officers and to hold property through a governing body, without conferring **substantive** corporate personality. **That reading would make both sources correct in different senses. **Whether it is the law is **a question of interpretation for a professional**, and adopting it here would be resolving the conflict by construction, which mandate §20 forbids** |
+| **Professional interpretation required?** | ### **`YES — URGENTLY. This conflict determines whether `OPT-B` is a legal person at all, and legal personality is **`FC-01`**, the first criterion in **`ID-1`'s matrix** |
+| **Consequence for this research** | **`RF-20` is classified **`SOURCE CONFLICT`**. **The entity matrix at §VIII.4 records **`CONDITION`** in the society's legal-personality cell rather than **`SOURCE`**, and **`ACN-11`** records the architectural consequence as **`BLOCKED PENDING PROFESSIONAL VALIDATION`**** |
+| **Status** | ### **`SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`** |
+
+### `SCF-02` — the section numbering of the Income-tax Act, 2025
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **`SRC-99`, `SRC-99a`** — all provisions for charitable and religious entities consolidated into **Chapter XVII-B, sections 332 to 355**, with entities termed **Registered Non-Profit Organisations**; **registration at **s.332**; **exemption at **ss.334 to 338**; **denial at **ss.350 to 353**; **anonymous donations at **s.336**; **accreted income at **s.338** and **s.352**; **the **donor's deduction at **s.354**; **the definition of charitable purpose within **s.355**; **books, audit and return at **ss.347 to 349**. **Dated April and March 2026** |
+| **Source B** | **`SRC-98`, `SRC-98a`** — the former Chapter VI-A deductions now sit in **Chapter VIII**, and **the donor's deduction under former s.80G is at **s.108**. **Dated June and August 2026** |
+| **Source C** | **`SRC-09`** — an **ICAI concordance document**, *"Income-tax Act, 2025 (as amended by the Finance Act, 2026)"*, organised by **page number** and by **parallel 1961 provision**, listing *"registration"* and *"income of registered non-profit organisation"* with the parallel provisions ss.11, 12A, 12AB, 80G and 139. **In the portion located it does **not** give the 2025 Act section number. **Dated April 2026** |
+| **Source D** | **`SRC-45`** — **s.179 of the 2025 Act is a general anti-avoidance provision**, and directors' liability for a private company's unrecoverable tax is at **s.323**, *"in substantially the same terms"*. **Single-sourced. **Dated October 2026** |
+| **Dates** | **The Act came into force on **1 April 2026**. **All four sources post-date it, by between one and six months** |
+| **Legal hierarchy** | ### **`ESTABLISHED AS TO PRINCIPLE AND UNAVAILABLE IN PRACTICE: the Act itself governs, and the Central Board of Direct Taxes has published an **official concordance table** together with the bare Act. **Neither was obtained in this research, so **no secondary mapping can be preferred**** |
+| **The apparent conflict** | **Direct and material: **the donor's deduction is at **s.354** according to source A and at **s.108** according to source B. **These cannot both be right. **A third mapping — s.179 to s.323 — rests on a single source** |
+| **Can it be reconciled?** | ### **`NOT WITHOUT THE PRIMARY TEXT. **It is possible that the two sources are describing different things — a donor's deduction and an organisation's exemption are different provisions — but source A expressly maps **former s.80G** to **s.354**, and source B expressly maps **s.80G** to **s.108**. **That is a conflict about the same provision, and it is not reconcilable by construction** |
+| **Professional interpretation required?** | ### **`NO — INTERPRETATION IS NOT THE PROBLEM. **What is required is the **primary text or the official concordance table**. **A professional with access to either would resolve it immediately, which is precisely why this conflict is recorded rather than argued** |
+| **Consequence for this research** | ### **`THIS INSTRUMENT CITES **NO SECTION NUMBER OF THE INCOME-TAX ACT, 2025 ANYWHERE`. **The 1961 Act's sections are cited, marked as superseded from 1 April 2026, and the 2025 Act is referred to by subject matter only. **`RF-41` is classified **`SOURCE CONFLICT`** on numbering and **`SUPPORTED BY SECONDARY SOURCE ONLY`** on substantive continuity, where three sources agree** |
+| **Status** | ### **`SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`** |
+
+### `SCF-03` — the minimum expenditure for foreign-contribution registration
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **`SRC-55`** (Tier 2, October 2023), **`SRC-56`** (Tier 3, April 2026), **`SRC-57`** (Tier 3, November 2024) — the applicant must have spent a minimum of **₹15 lakh**, excluding administrative expenditure, on its core activities over the last three financial years, evidenced by audited accounts |
+| **Source B** | **`SRC-56a`** (Tier 3, July 2026), **`SRC-58`** (undated) — the threshold is **₹10 lakh** over the last three financial years, excluding administrative expenses |
+| **Dates** | **Source A spans 2023 to 2026; **source B spans an undated page to July 2026. **The later dates are on both sides, so recency does not resolve it** |
+| **Legal hierarchy** | **Not established. **The threshold is set by the Foreign Contribution (Regulation) Rules, 2011 as amended, and neither the Rules nor the amending notification was obtained** |
+| **The apparent conflict** | **A fifty per cent difference in a monetary eligibility threshold** |
+| **Can it be reconciled?** | ### **`YES, PROBABLY, BUT NOT HERE. **The likelier explanation is that the threshold was **raised by amendment**, so that ₹10 lakh is the older figure and ₹15 lakh the current one — which is consistent with source A including a 2026 page and source B's ₹10 lakh page being undated. **That is an inference about legislative history, not a finding, and mandate §3 forbids relying silently on outdated law** |
+| **Professional interpretation required?** | **`NO — what is required is the current Rules or the amending notification** |
+| **Consequence for this research** | **`RF-30` records the conflict and quotes **neither figure as applicable**. **It relies only on the proposition both sides agree on: **that a **three-year existence requirement** applies to normal registration and **not** to prior permission — which is the architecturally decisive element** |
+| **Status** | ### **`SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`** |
+
+### `SCF-04` — the threshold for deduction of tax on professional fees
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **`SRC-93`** (August 2026), **`SRC-91`** (undated tool, describing FY 2025-26) — the threshold for deduction on professional fees is **₹30,000** |
+| **Source B** | **`SRC-89`** (June 2026), **`SRC-90`** (September 2026) — the threshold is **₹50,000 per year with effect from 1 April 2025** |
+| **Dates** | **Both sides post-date 1 April 2025. **Source B states the change expressly and dates it; **source A does not address the change** |
+| **Legal hierarchy** | **Not established. **The threshold is set by the Finance Act and the statute, neither of which was obtained** |
+| **The apparent conflict** | **A forty per cent difference in a threshold, and a rate difference beside it: **source A states ten per cent for both professional and technical services, while source B states ten per cent for professional services and **two per cent** for technical services** |
+| **Can it be reconciled?** | ### **`YES, PROBABLY. **The pattern is consistent with source B being current and source A being unrevised. **But *"probably"* is not a verification, and mandate §14 forbids quoting a threshold that has not been verified against current authoritative material** |
+| **Professional interpretation required?** | **`NO — the current statute is required** |
+| **Consequence for this research** | **`RF-37` records both figures, quotes neither as applicable, and marks the threshold **`CURRENT-LAW PROFESSIONAL VERIFICATION REQUIRED`**. **The rate distinction between *work* and *professional services* is recorded as the material point, since it is agreed on both sides and it is the tax-form expression of the **`SR-02`** classification question** |
+| **Status** | ### **`SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`** |
+
+### `SCF-05` — the status of the Rules under the four Labour Codes
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **`SRC-12`** (September 2026) — the **Central Rules for all four Codes are notified**, and state rules are notified for a list of states and union territories including Gujarat, Rajasthan, West Bengal and Chandigarh. **`SRC-108`** (June 2026) — final rules notified for six states, others in draft or pending |
+| **Source B** | **`SRC-03`** (December 2025) — the Ministry confirmed that **the detailed Central and State Rules required for implementation were still pending**, and that until they are issued organisations cannot fully implement or modify systems. **`SRC-11`** (December 2025) — *"the final rules under the Labour Codes by the Central and State Governments are still to be notified, but are expected to follow shortly"* |
+| **Dates** | **Source B is December 2025; **source A is June and September 2026. **Source A is later** |
+| **Legal hierarchy** | **Established in principle: **the Ministry of Labour and Employment's own notifications and the gazette govern, and **`SRC-01`** and **`SRC-02`** are Tier 1 for the **commencement of the Codes** but say nothing about the **Rules** |
+| **The apparent conflict** | **Whether the Rules were in force at the relevant date. **The conflict is **temporal rather than substantive** — the later sources are consistent with the Rules having been notified between December 2025 and June 2026** |
+| **Can it be reconciled?** | ### **`YES — AND IT IS RECONCILED HERE, BECAUSE THE RECONCILIATION IS A DATE AND NOT AN INTERPRETATION. **The Codes commenced on **21 November 2025** (Tier 1, **`SRC-01`**); **the Rules were pending in December 2025; **and by mid-2026 the Central Rules were notified for all four Codes with state rules notified unevenly. **What remains unresolved is **the position in any particular state on the research date**, and that is not a conflict but a gap** |
+| **Professional interpretation required?** | **`NO — the gazette and the state notifications are required** |
+| **Consequence for this research** | **`DTC-04` records the reconciliation and the residual gap. **`RF-10` and **`RF-28`** are classified **`PARTIALLY SUPPORTED`** and every figure in them is marked **`VERIFIED — SECONDARY`**, because the Rules that would confirm the figures were not obtained** |
+| **Status** | ### **`SOURCE CONFLICT — RECONCILED AS TO TIMELINE; PROFESSIONAL VALIDATION REQUIRED AS TO THE STATE POSITION`** |
+
+### `SCF-06` — which income-tax registration the GST charitable exemption refers to
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **`SRC-82`** (the Central Board of Excise and Customs guide, reproduced), **`SRC-81`**, **`SRC-80`** — entry 1 of Notification No. 12/2017-Central Tax (Rate) exempts services by *"an entity registered under **section 12AA** of the Income-tax Act, 1961"* |
+| **Source B** | **`SRC-83`** (October 2023) — the exemption covers organisations registered under *"**sections 12AA / 12AB**"* |
+| **Dates** | **The notification is dated **28 June 2017**. **Section 12AB was introduced with effect from **1 April 2021**, per **`SRC-32`**, which records that entities granted perpetual registration before that date were required to re-register under s.12AB** |
+| **Legal hierarchy** | **Established in principle: **the notification as amended governs, and it was not obtained** |
+| **The apparent conflict** | **Whether the exemption's condition refers to a registration provision that ceased to be the operative one from 1 April 2021** |
+| **Can it be reconciled?** | ### **`ALMOST CERTAINLY YES — BY AN AMENDING NOTIFICATION THAT WAS NOT LOCATED. **The likelier position is that entry 1 was amended to refer to s.12AB, which is what source B reflects. **That is an inference, and mandate §3 forbids relying silently on outdated law, so neither version is adopted** |
+| **Professional interpretation required?** | **`NO — the amended notification is required** |
+| **Consequence for this research** | **`RF-38` records both formulations and states the condition as *"registration under the income-tax provision, now s.12AB"*, marking the notification's current text **`NOT ESTABLISHED`**. **The architecturally decisive element — that the exemption is conditional on a registration that requires an entity — is unaffected by the conflict** |
+| **Status** | ### **`SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`** |
+
+### `SCF-07` — the rate of deduction on technical services
+
+| Field | **Content** |
+|---|---|
+| **Source A** | **`SRC-89`**, **`SRC-90`**, **`SRC-92`** — the rate for professional fees is **ten per cent** and for specified technical services **two per cent** |
+| **Source B** | **`SRC-93`** — the rate is **ten per cent** for professional fees, and *"if the payment is made for technical services, the rate remains the same"*, that is, ten per cent |
+| **Dates** | **Both 2026** |
+| **Legal hierarchy** | **Not established** |
+| **The apparent conflict** | **An eight-percentage-point difference in the rate applicable to technical services** |
+| **Can it be reconciled?** | **Probably, in favour of source A, which is corroborated three times against source B's once. **But corroboration is not verification, and the rate was not obtained from the statute** |
+| **Professional interpretation required?** | **`NO — the statute is required** |
+| **Consequence for this research** | **`RF-37` records both rates, states the two-per-cent figure as the corroborated position, and marks it **`VERIFIED — SECONDARY`** rather than **`VERIFIED — PRIMARY`**. **No rate in this instrument is applied to any amount, because no amount exists** |
+| **Status** | ### **`SOURCE CONFLICT — PROFESSIONAL VALIDATION REQUIRED`** |
+
+## XVII.3 The conflicts counted
+
+| Measure | **Count** |
+|---|---|
+| **Conflicts recorded** | **7 — `SCF-01 … SCF-07`** |
+| **Conflicts resolved by this instrument** | ### **`0`** |
+| **Conflicts reconciled as to timeline, with a residual gap** | **1 — `SCF-05`** |
+| **Conflicts turning on legal personality** | **1 — `SCF-01`, the most consequential** |
+| **Conflicts turning on the current statute's numbering** | **1 — `SCF-02`** |
+| **Conflicts turning on a monetary threshold or rate** | **4 — `SCF-03`, `SCF-04`, `SCF-06`, `SCF-07`** |
+| **Conflicts where the resolution requires interpretation** | **1 — `SCF-01`** |
+| **Conflicts where the resolution requires only the primary text** | **6** |
+| **Conflicts where a later source plainly supersedes an earlier one** | **2 — `SCF-04` and probably `SCF-06`, neither adopted on that basis** |
+| **Figures quoted in this instrument from a conflicted source** | ### **`0 — where a conflict exists, no figure is used`** |
+
+> ### **`SEVEN CONFLICTS. SIX OF THEM WOULD BE RESOLVED IN MINUTES BY ANYONE HOLDING THE PRIMARY TEXT. THAT IS THE STRONGEST AVAILABLE ARGUMENT FOR THE PROFESSIONAL ENGAGEMENT THIS INSTRUMENT CANNOT PERFORM: THE CONFLICTS ARE NOT HARD, THEY ARE INACCESSIBLE.`**
+
+---
+
+# PART XVIII — THE ARCHITECTURAL CONSEQUENCE REGISTER
+
+## XVIII.1 The four permitted effects, and the twelve areas
+
+**[P]** Mandate §22 of this task. **Every finding is mapped to the areas it affects, and every effect is one of four. **The CEA is not rewritten, and nothing below is an amendment.**
+
+| Effect | **Meaning** | **What follows from it** |
+|---|---|---|
+| ### **`NO ARCHITECTURAL CHANGE`** | **The finding confirms, or is consistent with, the architecture as it stands** | **Nothing. **The finding is recorded so that the confirmation is not lost** |
+| ### **`CLARIFICATION REQUIRED`** | **The finding supplies content the architecture lacked, or narrows a question, but does not contradict anything** | **A question for a professional, or a note against the affected item. **No amendment** |
+| ### **`ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **The finding indicates that an architectural premise, description or citation may be inaccurate or incomplete** | **A proposed amendment, **recorded here and not applied**. **The CEA is committed and is not modified by this instrument** |
+| ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`** | **The finding cannot be acted on at all until a professional determines it** | **The item stays where `ID-1` left it. **`ID-1`'s thirty-five questions all remain open** |
+
+## XVIII.2 The register
+
+| ID | **The finding** | **The areas affected** | **The effect** | **What follows** |
+|---|---|---|---|---|
+| **`ACN-01`** | **`RF-41`, `DTC-01`, `SCF-02` — the income-tax statute was replaced on 1 April 2026 and its new numbering is in conflict** | **Taxation; **entity decision; **current economic architecture** | ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`** | **Every tax proposition in the corpus is expressed against a repealed statute. **No section number of the 2025 Act is cited anywhere in this instrument** |
+| **`ACN-02`** | **`RF-01 … RF-05`, `RF-09`, `RF-10`, `DTC-03` — the four Labour Codes are in force from 21 November 2025 and consolidate 29 statutes** | **Compensation; **business operations; **current economic architecture** | ### **`ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **The corpus cites the Payment of Wages Act, the Minimum Wages Act, the Payment of Bonus Act, the Industrial Disputes Act, the EPF Act, the ESI Act and the Maternity Benefit Act as separate statutes. **All are consolidated. **The amendment is recorded here and not applied** |
+| **`ACN-03`** | **`RF-04`, `RF-05` — underpayment is a penal offence, and the claims machinery carries a three-year window with compensation up to ten times the claim, recoverable through the Collector** | **Compensation; **liability; **pilot readiness** | ### **`CLARIFICATION REQUIRED`** | **`RSK-1 … RSK-4` acquire researched content. **The exposure is not limited to a debt. **No amount exists to which any of it applies** |
+| **`ACN-04`** | **`RF-35`, Part XIV — the operative tax restriction on a general-public-utility organisation is a **twenty-per-cent ceiling on commercial receipts** and a **cost-recovery discipline**, not a prohibition on distributions** | **Current economic architecture; **entity decision; **taxation; **business operations** | ### **`ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **`GC-01` is described in the corpus and in the CEA as a conflict between the waterfall and *"restrictions on profit distribution and founder upside"*. **This research indicates the operative restriction is different in kind. **Correcting that description would be an amendment, and it is recorded here rather than made** |
+| **`ACN-05`** | **`RF-38` — the GST charitable exemption requires an income-tax registration, which requires an entity; **the exempt activities are a **closed list** that does not obviously include a protection activity, an AI service or a community-network activity** | **Taxation; **business operations; **social-service operations; **entity decision** | ### **`CLARIFICATION REQUIRED`** | **The sequence is entity → income-tax registration → GST exemption, and not the reverse. **Whether any pillar's activity is exempt is a professional question** |
+| **`ACN-06`** | **`RF-39` — inter-state supply of goods requires GST registration **irrespective of turnover**, and aggregate turnover is counted nationally, per Permanent Account Number, **including exempt supplies**** | **Taxation; **business operations; **pilot readiness** | ### **`CLARIFICATION REQUIRED`** | **A national operation cannot stay outside the GST system by staying small or by being exempt. **This is a scale constraint the architecture has not recorded** |
+| **`ACN-07`** | **`RF-37` — every payment for work or services above a threshold carries a withholding obligation, at a **higher rate where the payee has no Permanent Account Number**, and manpower supply is expressly within the contractor provision** | **Taxation; **compensation; **banking** | ### **`CLARIFICATION REQUIRED`** | **Waterfall priority 2 cannot be costed without a withholding assumption, and none exists. **`CD-17` and **`PLV-15`** acquire researched content** |
+| **`ACN-08`** | **`RF-40`, `DTC-05` — the data-protection definitions and the regulator are in force; **the core duties commence on or about 13 May 2027; **a Consent Manager layer commences on or about 13 November 2026** | **Governance; **social-service operations; **current economic architecture** | ### **`CLARIFICATION REQUIRED`** | **`SR-06` acquires something it has never had: **a date**. **The record design at **`CQ-27`** can be done now, before the duties commence, which is the cheapest time to do it** |
+| **`ACN-09`** | **`RF-33` — the RBI Directions require documentary evidence of legal existence, a governing resolution, an identified authorised signatory with a Permanent Account Number or Form No. 60, and beneficial-owner verification; **and prescribe **no minimum number of signatories**** | **Banking; **governance; **current economic architecture** | ### **`CLARIFICATION REQUIRED`, and one limb is `ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **`A-N16 REMAINS BLOCKED` is now supported by a Tier 1 regulatory source and not only by internal analysis. **And the architecture's *"two or more signatories with a continuity rule"* is an **architectural control that exceeds the located regulatory requirement** — it may be defended on its own merits, but it must not be defended as a legal necessity** |
+| **`ACN-10`** | **`RF-33`, link 3 — a Permanent Account Number **in the organisation's own name** is required to open an account** | **Banking; **taxation; **current economic architecture** | ### **`ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **`ID-1` **`ER-6`** already records that the whole-word string `PAN` returns **zero** occurrences across the entire corpus, and that the CEA's **`HC-2`** names it without a source. **This research establishes that the requirement is real and is a **precondition of the bank mandate**, which means the architecture's own `CP-2` critical path is missing a link** |
+| **`ACN-11`** | **`RF-20`, `SCF-01` — whether a registered society is a legal person is contested at Constitution Bench level** | **Entity decision; **liability; **banking; **governance** | ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`** | **`OPT-B` cannot be scored. **`FC-01`, the first criterion in the matrix, cannot be filled for that candidate by any instrument** |
+| **`ACN-12`** | **`RF-18`, `RF-19` — a trustee is personally liable to make good a loss from breach; **passive trusteeship is itself a route to liability; **no set-off is allowed; **indemnity is defeated by fraud** | **Liability; **governance; **entity decision** | ### **`CLARIFICATION REQUIRED`** | **`RSK-6`, `UD-07` and **`L6`** acquire a primary-source frame. **And the architecture's four-hand rule and segregation of duties are, on this source, **potentially protective** rather than merely prudent** |
+| **`ACN-13`** | **`RF-21`, `RF-22` — directors' personal liability for corporate debts requires winding up **and** fraud; **directors' liability for unrecoverable company tax requires a private company, tax due, non-recovery and directorship, with a reverse onus** | **Liability; **entity decision; **taxation** | ### **`CLARIFICATION REQUIRED`** | **Two exposures the architecture had left open are now **narrow and conditional**. **That is a material narrowing, and it is **not** a finding that anyone is protected** |
+| **`ACN-14`** | **`RF-23` — an LLP with no designated partner, or only one, makes **every** partner a designated partner, liable to all penalties imposed on the LLP** | **Governance; **liability; **entity decision** | ### **`CLARIFICATION REQUIRED`** | **A **vacancy-triggered** liability rule, in an architecture whose **`APPROVES`** function is unassigned in thirteen of sixteen acts. **This is the sharpest interaction found anywhere in this research between a corporate rule and the architecture's own authority gap** |
+| **`ACN-15`** | **`RF-25` — the only located statutory protection for emergency assistance is confined to accidents **involving a motor vehicle**** | **Protection; **liability; **pilot readiness** | ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`** | **The architecture's protection doctrine authorises physical intervention to protect someone from immediate harm. **No located protection covers that act outside a road accident. **`L4` remains the row whose adverse answer could require the pillar to be redesigned or not activated** |
+| **`ACN-16`** | **`RF-26` — POCSO s.19 imposes a criminal duty to report on **any person**, with an enhanced penalty for an institutional head in respect of a subordinate** | **Protection; **social-service operations; **liability** | ### **`CLARIFICATION REQUIRED`** | **`CQ-26`'s duties limb now has researched content, and the duty binds the people involved **today**, without any entity. **`C-22` is thereby shown to protect individuals from an exposure that already attaches to them personally** |
+| **`ACN-17`** | **`RF-27` — below ten employees no Internal Committee is required and complaints go to a **district Local Committee** constituted by the District Officer, which also handles complaints against the employer itself** | **Governance; **compensation; **social-service operations** | ### **`CLARIFICATION REQUIRED`** | **A statutory complaints route **already exists** and requires no internal body, no entity and no funding. **`BLK-A-05 … BLK-A-08`** assumed an internal mechanism would have to be built. **This is the one finding in the research that identifies an **existing** mechanism the architecture did not know about** |
+| **`ACN-18`** | **`RF-28` — provident-fund coverage is **irreversible** once an establishment reaches twenty employees, and contractors' workers count toward the total** | **Compensation; **pilot readiness; **business operations** | ### **`CLARIFICATION REQUIRED`** | **Headcount is a **one-way gate**. **CEA **`F-11`** — eleven people cannot supply four independent hands — sits near a threshold that does not reverse** |
+| **`ACN-19`** | **`RF-30` — normal foreign-contribution registration requires **three years of existence** and three years of audited core-activity expenditure; **prior permission requires a named donor and a named project** | **Taxation; **social-service operations; **pilot readiness** | ### **`CLARIFICATION REQUIRED`** | **A newly constituted entity cannot receive unrestricted foreign contribution for three years. **Any funding assumption to the contrary is structurally unavailable on the located source. **Bears directly on CEA **`F-10`**** |
+| **`ACN-20`** | **`RF-15`, `RF-16` — for a company, the accrual basis and an eight-year retention period are statutory; **no framework was located for a society, trust, LLP or partnership** | **Accounting; **entity decision** | ### **`CLARIFICATION REQUIRED`** | **`CQ-20` is largely answered for one candidate form and wholly open for three. **`SR-06` acquires a retention period for one form only** |
+| **`ACN-21`** | **`RF-08`, Part XIII — no statutory definition of *volunteer* was located, and every category in the Codes is defined by reference to **earning**** | **Compensation; **liability; **social-service operations** | ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`** | **The architecture's most populous category sits outside every located statutory category. **Twelve cells in the §XIII.4 map read `NOT ESTABLISHED` and all twelve are in the volunteer column** |
+| **`ACN-22`** | **`RF-34` — nothing was located on the transfer-pricing regime, related-party transactions, service agreements, management fees, royalties, licensing, or the ownership of work created by a volunteer or a founder for a non-existent entity** | **Founder and Krytos relationship; **taxation; **current economic architecture** | ### **`BLOCKED PENDING PROFESSIONAL VALIDATION`** | **`ID-1`'s block F — **`CQ-28 … CQ-35`** — is almost entirely unaffected by this research, and **`GC-01`** nodes 5 to 8 remain exactly where the delta audit left them** |
+| **`ACN-23`** | **`RF-11 … RF-14` — the GST tax point is the **earlier** of invoice and receipt for services, the invoice for goods on forward charge, and **receipt** for interest and late fees; **and supply is deemed made **to the extent covered by the invoice or the payment**** | **Accounting; **taxation; **current economic architecture** | ### **`CLARIFICATION REQUIRED`** | **`ID-1`'s **`RR-1`** — the rule resolving recognition toward cash — **cannot be applied to GST**. **An architecture that recognises only on collection can fall behind its own tax point** |
+| **`ACN-24`** | **`RF-06` — where neither party appropriates a payment, it is applied to the **oldest debt first**, or proportionally across debts of equal standing** | **Banking; **accounting; **compensation** | ### **`CLARIFICATION REQUIRED`** | **Where several distinct amounts are owed to one person and a partial payment is made, **the law decides which is discharged**. **This is a design constraint on the payment record, which should carry an **appropriation field**** |
+| **`ACN-25`** | **`DTC-06` — the criminal and procedural statutes were replaced on 1 July 2024** | **Protection; **liability; **current economic architecture** | ### **`CLARIFICATION REQUIRED`** | **Every criminal reference in the corpus framed against the Indian Penal Code, the Code of Criminal Procedure or the Evidence Act now refers to a renumbered statute. **The Bharatiya Nyaya Sanhita was **not obtained**, so no offence-level analysis was possible** |
+
+## XVIII.3 The CEA findings that mandate §25 requires to remain intact, and their position after this research
+
+**[P]** Mandate §25 of this task. **Each finding is listed with its position. **None is altered. **Research may clarify the legal constraints around them; **it may not silently change them.**
+
+| The CEA finding that must remain intact | **Its position after this research** | **Why** |
+|---|---|---|
+| **The priority order is retained** | ### **`INTACT`** | **No source located bears on the order of an internal allocation policy. **The eight priorities are an architectural control, and **`RF-11 … RF-14`** show only that GST has its own separate timing rules** |
+| **Priorities 1 and 2 are one indivisible joint tier** | ### **`INTACT — AND STRENGTHENED`** | **`RF-37` establishes that paying at priority 1 **crystallises a withholding obligation** that falls within priority 2. **The two priorities are therefore not merely jointly ordered but **mechanically linked**: **the act of paying the first creates a duty under the second. **That is a legal constraint **around** the finding, and it confirms rather than alters it** |
+| **Reinvestment ordering is unresolved** | ### **`INTACT`** | **No source located addresses the ordering of reinvestment. **`GD-07` and **`RI-1 … RI-3`** remain open** |
+| **The founder priority issue is unresolved** | ### **`INTACT`** | **`RF-35` locates the restrictions on **private benefit** but does not resolve who may approve a founder's own compensation. **`CF-16` and **`SR-20`** remain `AUTHORITY UNRESOLVED`** |
+| **No invented percentages** | ### **`INTACT`** | **Every percentage in this instrument is a **statutory threshold quoted from a source with its date and tag**, and none is adopted as an architectural figure. **`SR-16` and **`SR-22`** are not restated** |
+| **No invented salaries** | ### **`INTACT`** | **No salary, wage or amount appears anywhere in this instrument other than a statutory threshold so tagged** |
+| **No invented reserves** | ### **`INTACT`** | **`AH-08` is recorded as **`NOT ESTABLISHED`**; **`SR-19`** remains `EXPLICITLY UNRESOLVED`** |
+| **No invented targets** | ### **`INTACT`** | **No target of any kind appears** |
+| **Zero cash investment is not zero economic cost** | ### **`INTACT — AND STRENGTHENED`** | **`RF-33` establishes that even opening an account requires a Permanent Account Number, a resolution and an identified signatory; **`RF-30`** establishes that foreign-contribution registration requires three years of **audited expenditure**. **Both are costs that arise before any activity, and neither is a cash investment in the architecture's sense** |
+| **The fourteen hidden capitals remain relevant** | ### **`INTACT`** | **`HC-1 … HC-15` are architectural constructs. **`AH-15` and **`AH-16`** record that **no external recognition rule** was located for volunteer labour or donated services, which means the hidden capitals remain hidden from every regime researched** |
+| **The current model remains CM-C funded and CM-E staffed as an architectural determination** | ### **`INTACT`** | **No source located bears on the architecture's own model designation** |
+| **`IST-3` remains a known incentive problem** | ### **`INTACT`** | **No source located addresses incentive design. **`MLM-1 … MLM-5` and the zero-correlation rule remain architectural controls** |
+| **The six open economic failures remain open** | ### **`INTACT — FIVE OF SIX. **`F-10`, the unfunded mandate, acquires researched content at **`RF-30`** and **`RF-37`** but is **not resolved**: **it is now known that professional fees are unavoidable and that foreign contribution is unavailable for three years, which makes the funding gap **worse**, not better** | **`F-11`** is clarified by **`RF-28`** — the headcount thresholds — but remains open** |
+| **The governance authority gaps remain open** | ### **`INTACT`** | **No source can supply an authority. **`RF-23`'s vacancy-triggered deeming rule makes the gap **more** consequential, not less** |
+| **`A-N16` remains blocked until authority is established** | ### **`INTACT — AND NOW SUPPORTED BY A TIER 1 REGULATORY SOURCE`** | **`RF-33`. **The block was an internal finding; **it is now a finding about what the Reserve Bank of India requires** |
+
+| Measure | **Count** |
+|---|---|
+| **Architectural consequences recorded** | **25 — `ACN-01 … ACN-25`** |
+| **Effects `NO ARCHITECTURAL CHANGE`** | **0** |
+| **Effects `CLARIFICATION REQUIRED`** | **16** |
+| **Effects `ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **4 — `ACN-02`, `ACN-04`, `ACN-09` in part, `ACN-10`** |
+| **Effects `BLOCKED PENDING PROFESSIONAL VALIDATION`** | **5 — `ACN-01`, `ACN-11`, `ACN-15`, `ACN-21`, `ACN-22`** |
+| **CEA findings required to remain intact** | **15** |
+| **Of those, intact and unchanged** | **12** |
+| **Of those, intact and strengthened** | **3 — the joint tier at priorities 1 and 2, zero cash investment against zero economic cost, and `A-N16`** |
+| **Of those, altered** | ### **`0`** |
+| **Amendments applied to the CEA by this instrument** | ### **`0`** |
+
+---
