@@ -1568,3 +1568,111 @@
 | **The architectural consequence** | **`ACN-04` — `ARCHITECTURAL AMENDMENT MAY BE REQUIRED`. **The CEA's treatment of **`GC-01`** records a conflict between the waterfall and *"restrictions on profit distribution and founder upside"*. **This research establishes that the operative tax restriction is **not** a restriction on distribution but a **ceiling on commercial receipts** and a **cost-recovery discipline**. **The conflict is therefore not what the architecture thinks it is — and correcting that description would be an amendment, which this instrument does not make** |
 
 ---
+
+# PART XV — LIABILITY, SAFETY, AND THE PROTECTION DOCTRINE
+
+## XV.1 The rule this Part obeys
+
+**[P]** Mandate §18 of this task. **The corpus's protection doctrine is: *protect · de-escalate · call the authorities · first aid if trained · physical intervention only when reasonably necessary to protect someone from immediate harm · document and review*. This Part does not convert it into legal permission. It identifies the legal questions surrounding it.**
+
+> ### **`THE DOCTRINE IS A SET OF INSTRUCTIONS TO PEOPLE. IT IS NOT A STATUTE, NOT A DEFENCE, NOT A PERMISSION AND NOT A SCOPE OF AUTHORITY. EVERY ROW BELOW IS A QUESTION, AND NO ROW IS AN ANSWER.`**
+
+## XV.2 The doctrine, element by element, and the legal question each element raises
+
+**[P]** `[SOURCE]` for the doctrine — the corpus. **`[PROFESSIONAL QUESTION]` for every question below.**
+
+| Element of the doctrine | **The legal question it raises** | **What research located** | **Position** |
+|---|---|---|---|
+| **Protect** | **Does a person who undertakes to protect another acquire a duty of care toward that person, and toward bystanders, that they would not otherwise have?** | **No source located addresses the assumption of a duty by a volunteer organisation or by an individual volunteer. **`RF-25`** locates a protection **from** liability in one narrow circumstance; **it does not address the creation of a duty** | ### **`NOT ESTABLISHED`** |
+| **De-escalate** | **Is de-escalation a defence to anything, or merely good practice? **What is the position where de-escalation fails and injury follows?** | **No source located** | ### **`NOT ESTABLISHED`** |
+| **Call the authorities** | **Does calling the police discharge a duty, create one, or neither? **What must be said, and to whom, for the call to be effective? **Is there a mandatory-reporting duty that the call would discharge?** | **`RF-26` — POCSO s.19 imposes a duty on **any person** to report to the Special Juvenile Police Unit or the local police, with a criminal penalty for failure and an enhanced penalty for an institutional head in respect of a subordinate. **This is the **only** located case in which calling the authorities is a statutory duty rather than a choice** | ### **`PARTIALLY SUPPORTED` — for child-protection matters only`** |
+| **First aid if trained** | **Does the qualifier *"if trained"* create a standard of care, so that an untrained person who intervenes is in a worse position than a trained one, or a better one? **Does training create an expectation that must be met?** | **`RF-25` — Motor Vehicles Act s.134A protects a good-faith responder from civil and criminal action for injury or death resulting from **negligence** in rendering emergency **medical or non-medical** care, **but only in a motor-vehicle accident**. **The training qualifier is not addressed** | ### **`PARTIALLY SUPPORTED` — and only within motor-vehicle accidents`** |
+| **Physical intervention only when reasonably necessary to protect someone from immediate harm** | **What is *reasonably necessary*? **Who decides, and in what time? **Is there a statutory defence of private defence, and does it apply to the protection of **another** person? **What is the position where the intervener is mistaken about the immediacy of the harm?** | **No source located in this research. **The Bharatiya Nyaya Sanhita, 2023 replaced the Indian Penal Code from 1 July 2024 (**`DTC-06`**), and its provisions on acts done in good faith and on private defence were **not obtained**. **`RF-25`** does not reach physical intervention outside a road accident** | ### **`NOT ESTABLISHED — AND THIS IS THE LARGEST SINGLE GAP IN THIS RESEARCH`** |
+| **Document and review** | **Is a contemporaneous record evidence, a duty, or neither? **What must it contain to be useful, and what must it avoid to avoid creating liability? **Who holds it, and for how long?** | **`RF-16` — for a company, books of account on an accrual basis with eight-year retention, which is an accounting duty and not an incident-record duty. **`RF-40`** — erasure on completion of purpose unless retention is mandated by law, commencing on or about 13 May 2027. **No source located on incident records as such** | ### **`PARTIALLY SUPPORTED`** |
+
+## XV.3 The eighteen subjects the mandate names, and the position of each
+
+**[P]** Mandate §18 lists the legal questions surrounding the protection doctrine. **Every one is addressed. None is answered where no source was located.**
+
+| # | **The subject** | **What research located** | **Classification** | **Professional validation** |
+|---|---|---|---|---|
+| **1** | **Volunteers** | **`RF-08` — no statutory definition of *volunteer* exists in any source located; **every category in the Codes is defined by reference to **earning**** | ### **`NOT ESTABLISHED`** | **`YES`** |
+| **2** | **Intervention** | **`RF-25` — protected in a motor-vehicle accident; **no located protection elsewhere; **the private-defence question was not researched** | ### **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **3** | **Negligence** | **`RF-25` — s.134A expressly covers *"the Good Samaritan's negligence in acting or failing to act"*, which is the only located statutory treatment of negligence in this research. **No general standard of care was located** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **4** | **Injury** | **`RF-25` — injury to the victim of a motor-vehicle accident; **`RF-28`** — employees' state insurance for injury in covered establishments at the stated thresholds. **No located regime for injury to a volunteer, or caused by a volunteer to a third party** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **5** | **First aid** | **`RF-25` — *"emergency medical or non-medical care or assistance"* is protected within the section's scope. **No source located on who may administer first aid, or on the effect of a certification** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **6** | **Safeguarding** | **`RF-26` — POCSO ss.19 to 21, a universal criminal duty to report with an enhanced penalty for an institutional head. **`RF-27`** — the harassment regime and the Local Committee route. **No source located on safeguarding **certification**, which is what **`SR-31`** requires** | ### **`SUPPORTED BY SECONDARY SOURCE ONLY`** | **`YES`** |
+| **7** | **Emergency response** | **`RF-25` — motor-vehicle accidents only. **No source located on an organised emergency-response function** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **8** | **Public liability** | **No source located. **The Public Liability Insurance Act, 1991 was **not researched** and its applicability is therefore unknown** | ### **`NOT ESTABLISHED`** | **`YES`** |
+| **9** | **Organisational responsibility** | **`RF-20` — for a society, property vests in the governing body and suits run in the name of a named officer; **`RF-21`** — for a company, liability is the company's save on winding up and fraud; **`RF-23`, `RF-24`** — for an LLP and a partnership, the structural positions differ sharply** | **`ENTITY-DEPENDENT`** | **`YES`** |
+| **10** | **Personal responsibility** | **`RF-18` to **`RF-24`** — eleven regimes, six of them wholly entity-dependent, two binding individuals today** | **`ENTITY-DEPENDENT`** | **`YES`** |
+| **11** | **Police interaction** | **`RF-25` — police may not compel a helper to stay or to reveal his identity, and a helper who chooses to be a witness may give his statement at a time and place of his convenience. **`RF-26`** — the report is made to the Special Juvenile Police Unit or the local police** | **`PARTIALLY SUPPORTED`** | **`LATER`** |
+| **12** | **Vicarious liability** | **`RF-24` — Partnership Act s.18, a partner is the agent of the firm, and s.25 makes every partner jointly and severally liable for all acts of the firm. **`RF-23`** — LLP Act s.27, the LLP is liable for a partner's act within authority, and a partner is **not** the agent of other partners. **No source located on an organisation's vicarious liability for a **volunteer**** | **`ENTITY-DEPENDENT`, and **`NOT ESTABLISHED`** for volunteers** | **`YES`** |
+| **13** | **Agency and authority** | **`RF-24` — implied authority under s.19 binds the firm for acts done in the usual way; **`RF-23`** — an LLP is not bound where the third party knew of the want of authority; **`RF-33`** — an authorised signatory and a power of attorney holder are identified persons with their own documentation requirements** | **`ENTITY-DEPENDENT`** | **`YES`** |
+| **14** | **Indemnification** | **`RF-19` — a trustee may recover from the beneficiary on whose behalf he acted, but **fraud defeats indemnity**; **`RF-24`** — a firm must indemnify a partner for payments made and liabilities incurred in the ordinary and proper conduct of its business, and in a genuine emergency act of protection. **No source located on an organisation indemnifying a volunteer, or on whether such an indemnity would be effective or affordable** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **15** | **Criminal exposure** | **`RF-26` — POCSO s.21, six months for any person and one year for an institutional head. **`RF-21`** — Companies Act s.447, punishment for fraud, available alongside s.339. **`RF-24`** — s.54(1)(a) of the Code on Wages (**`RF-04`**), a fine for paying less than the amount due. **The Bharatiya Nyaya Sanhita, 2023 was **not obtained**, so no offence-level analysis was possible** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **16** | **Civil exposure** | **`RF-18`** to **`RF-24`** — located for trustees, directors, partners and designated partners; **`NOT ESTABLISHED`** for volunteers and for the protection function generally** | **`PARTIALLY SUPPORTED`** | **`YES`** |
+| **17** | **Insurance** | **Part XVI. **No coverage is asserted anywhere** | ### **`NOT ESTABLISHED`** | **`YES — BROKER`** |
+| **18** | **The organisation's own permission to act at all** | ### **`NO SOURCE CAN SUPPLY THIS. **`PP-08`: *"no permission to operate exists, is granted or is implied."* **`C-21`** prohibits operating the protection function; **`P0-F`** fails; **§9.2 rule 1** bars activation without written confirmation. **Research cannot create a permission** | ### **`NOT ESTABLISHED — AND NOT ESTABLISHABLE BY RESEARCH`** | **`YES`** |
+
+## XV.4 The one thing this Part establishes about the doctrine
+
+> ### **`THE DOCTRINE'S MOST PROTECTED ELEMENT IS ITS NARROWEST, AND ITS NARROWEST ELEMENT IS UNPROTECTED. A PERSON WHO RENDERS FIRST AID AT A MOTOR-VEHICLE ACCIDENT HAS A STATUTORY PROTECTION FROM CIVIL AND CRIMINAL ACTION FOR NEGLIGENCE. A PERSON WHO PHYSICALLY INTERVENES TO PROTECT SOMEONE FROM IMMEDIATE HARM IN ANY OTHER CIRCUMSTANCE HAS NO PROTECTION LOCATED IN THIS RESEARCH — AND THE DOCTRINE AUTHORISES PRECISELY THAT ACT. THIS IS NOT A REASON TO WITHDRAW THE DOCTRINE, AND IT IS NOT A REASON TO RELY ON IT. IT IS A REASON TO PUT THE QUESTION TO A PROFESSIONAL BEFORE ANY PROTECTION ACTIVITY OCCURS, WHICH IS WHAT `C-21`, `P0-F` AND §9.2 RULE 1 ALREADY REQUIRE.`**
+
+---
+
+# PART XVI — INSURANCE: RISK, POSSIBLE COVERAGE, AND WHAT NO SOURCE CAN SUPPLY
+
+## XVI.1 The rules this Part obeys
+
+**[P]** Mandate §19 of this task; **`ID-1`** mandate §18; **`PP-06`**; **§9.2 rules 1 to 4**; **`L1 … L15`**.
+
+| Rule | **Content** |
+|---|---|
+| **1** | **Do not say coverage exists. **No policy, quotation, proposal, broker engagement or written cover statement exists — **`ID-1` §XXIII.1 Section 8 item 7**, **`DIS-35`** blank** |
+| **2** | **Do not invent a premium. **No figure of any kind appears in this Part** |
+| **3** | **Do not recommend a policy as though it had been purchased. **Nothing here is a recommendation** |
+| **4** | **Produce the format the mandate requires: **`RISK → POSSIBLE COVERAGE → SOURCE → ENTITY DEPENDENCY → PROFESSIONAL / BROKER VALIDATION`** |
+| **5** | **Distinguish a **statutory scheme** from a **contract of insurance**, and a **statutory immunity** from both. **Confusing them is how an architecture comes to believe it is protected** |
+
+## XVI.2 The register
+
+**[P]** `PP-06`: insurance is a **`QUESTION FOR BROKER / COUNSEL`**. **Every row below is a question. **`NOT RESEARCHED` means that no authoritative source on the availability, terms or existence of that cover was sought or located in this research — and mandate §2 forbids filling the gap from general knowledge.**
+
+| # | **`RISK`** | **`POSSIBLE COVERAGE`** | **`SOURCE`** | **`ENTITY DEPENDENCY`** | **`PROFESSIONAL / BROKER VALIDATION`** |
+|---|---|---|---|---|---|
+| **1** | **Injury or death of a person receiving assistance at a motor-vehicle accident** | ### **`NOT INSURANCE — A STATUTORY IMMUNITY. Motor Vehicles Act s.134A removes civil and criminal liability for the Good Samaritan's negligence in that circumstance`** | **`RF-25`, **`SRC-106`** — Tier 1 content** | **`NO` — attaches to a person** | ### **`NOT REQUIRED FOR THE IMMUNITY ITSELF. REQUIRED for its scope, and for every circumstance outside a motor-vehicle accident`** |
+| **2** | **Injury or death of a person receiving assistance in any other emergency** | **No source located** | ### **`NOT RESEARCHED`** | **`UNKNOWN`** | **`YES — COUNSEL AND BROKER`** |
+| **3** | **Injury to a worker in a covered establishment** | **A **statutory scheme**, not a contract: **employees' state insurance, employer 3.25 per cent and employee 0.75 per cent, for employees within the stated wage ceiling in establishments at or above the stated headcount** | **`RF-28`, **`SRC-67 … SRC-71`** — Tier 2/3** | **`NO` — establishment-based** | **`YES` — the thresholds under the Code on Social Security were not located** |
+| **4** | **Death or disablement of a covered employee** | **A **statutory scheme**: **deposit-linked insurance under the provident-fund regime, at 0.5 per cent, and the employees' pension scheme** | **`RF-28`** — Tier 2/3 | **`NO` — establishment-based** | **`YES`** |
+| **5** | **Injury to a volunteer** | **No source located. **`RF-08`** establishes that a volunteer has no statutory home, which makes the absence of a located scheme unsurprising but not conclusive** | ### **`NOT RESEARCHED`** | **`UNKNOWN`** | **`YES — BROKER`** |
+| **6** | **Injury caused by a volunteer to a third party** | **No source located** | ### **`NOT RESEARCHED`** | **`UNKNOWN`** | **`YES — BROKER AND COUNSEL`** |
+| **7** | **Breach of trust by a trustee** | **The corpus itself records *"whether any cover exists for … trustee liability"* as an open insurance question, and this research located no source answering it. **`RF-18`** establishes the **liability**; **it says nothing about **cover**** | **`RF-18`, **`SRC-37`** for the liability; **the corpus's own **`A-V4`** for the question** | **`YES` — trust form only** | **`YES — BROKER`** |
+| **8** | **Personal liability of a director or officer** | **The sources located on directors' tax liability record that **directors and officers insurance** may be considered as a response. **That is a reference to a market product, not evidence that it is available, affordable or effective for a not-for-profit company** | **`RF-22`, **`SRC-44`** — Tier 2** | **`YES` — company form only** | **`YES — BROKER`** |
+| **9** | **Personal liability of a partner** | **`RF-24`** establishes unlimited joint and several liability for a partnership, and **`RF-23`** establishes a shield with two routes through it for an LLP. **No source located on insurance for either** | **Liability: **`RF-23`, `RF-24`**. **Cover: **`NOT RESEARCHED`**** | **`YES`** | **`YES — BROKER`** |
+| **10** | **Public liability arising from an activity or premises** | **No source located. **The Public Liability Insurance Act, 1991 was not researched** | ### **`NOT RESEARCHED`** | **`UNKNOWN`** | **`YES — BROKER AND COUNSEL`** |
+| **11** | **Professional negligence in advice given** | **No source located** | ### **`NOT RESEARCHED`** | **`UNKNOWN`** | **`YES — BROKER`** |
+| **12** | **Cyber and personal-data incident** | **`RF-40`** establishes the **obligations** — security safeguards including encryption, obfuscation, masking, access control and detection of unauthorised access; **breach reporting within 72 hours; **erasure on completion of purpose — **commencing on or about 13 May 2027**. **It establishes **no cover** and locates **no product**** | **Obligations: **`RF-40`, `SRC-13 … SRC-17`** — Tier 2. **Cover: **`NOT RESEARCHED`**** | **`YES` for fiduciary status** | **`YES — BROKER`** |
+| **13** | **A harassment complaint** | **`RF-27`** establishes the **process** — an Internal Committee at ten or more employees, a Local Committee below, and employer duties including a safe working environment. **It establishes no cover** | **Process: **`RF-27`, `SRC-64`** — Tier 1. **Cover: **`NOT RESEARCHED`**** | **`PARTLY`** | **`YES — BROKER`** |
+| **14** | **A safeguarding failure involving a child** | **`RF-26`** establishes a **criminal** duty and penalty. **Criminal liability is generally not insurable, but **no source located in this research addresses that question and none is asserted here**** | **Duty: **`RF-26`, `SRC-59 … SRC-62`**. **Insurability: **`NOT RESEARCHED`**** | **`NO` for the duty; **`UNKNOWN`** for any organisational exposure** | **`YES — COUNSEL AND BROKER`** |
+| **15** | **Loss or misuse of money held without a mandate** | **`RF-33`** establishes that no account can be opened; **`RF-18`** and **`RF-19`** establish a trustee's personal liability for loss and the absence of any set-off. **No source located on fidelity guarantee or similar cover** | **Liability: **`RF-18`, `RF-19`, `RF-33`**. **Cover: **`NOT RESEARCHED`**** | **`YES`** | **`YES — BROKER`** |
+
+## XVI.3 What this Part establishes about insurance
+
+| Measure | **Count** |
+|---|---|
+| **Risks in the register** | **15** |
+| **Risks for which a **statutory scheme** was located** | **2 — rows 3 and 4** |
+| **Risks for which a **statutory immunity** was located** | **1 — row 1** |
+| **Risks for which a **contract of insurance** was located** | ### **`0`** |
+| **Risks for which a market product was **named** in a source** | **1 — row 8, directors and officers insurance, named as a possible response and not as available cover** |
+| **Risks marked `NOT RESEARCHED` for cover** | ### **`9 of 15`** |
+| **Risks whose **liability** was located even though **cover** was not** | **8** |
+| **Premiums stated** | ### **`0`** |
+| **Policies recommended** | ### **`0`** |
+| **Coverage claimed** | ### **`0`** |
+| **Rows asserting that anyone is protected** | ### **`0`** |
+
+> ### **`FIFTEEN RISKS. ZERO CONTRACTS OF INSURANCE LOCATED. TWO STATUTORY SCHEMES, WHICH ARE CONTRIBUTION-BASED AND THRESHOLD-DEPENDENT, AND ONE STATUTORY IMMUNITY, WHICH IS NARROW. NINE RISKS WERE NOT RESEARCHED FOR COVER AT ALL, AND THAT IS RECORDED RATHER THAN FILLED. THE DISTINCTION THAT MATTERS MOST IS THE ONE THIS PART DRAWS IN ITS FIRST RULE: A STATUTORY SCHEME IS NOT A CONTRACT OF INSURANCE, AND A STATUTORY IMMUNITY IS NOT EITHER. AN ARCHITECTURE THAT COUNTS ALL THREE AS "COVER" WILL BELIEVE IT IS PROTECTED WHEN IT IS NOT — WHICH IS EXACTLY WHAT §9.2 RULE 4 EXISTS TO PREVENT.`**
+
+---
