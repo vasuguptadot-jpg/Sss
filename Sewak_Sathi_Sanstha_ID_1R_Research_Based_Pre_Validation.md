@@ -1885,3 +1885,180 @@
 | **Amendments applied to the CEA by this instrument** | ### **`0`** |
 
 ---
+
+# PART XIX — THE TWO REGISTERS: RESEARCH-RESOLVED AND PROFESSIONAL-RESOLVED
+
+## XIX.1 The distinction, and the rule that keeps it honest
+
+**[P]** Mandate §23 of this task. **Two separate registers. The second remains open, and nothing in the first may be read as closing an item in the second.**
+
+| | **`RESEARCH-RESOLVED`** | **`PROFESSIONAL-RESOLVED`** |
+|---|---|---|
+| **What it means** | **Authoritative public material is sufficient to establish **the relevant proposition** at the current architectural stage** | **The question still requires a lawyer, a chartered accountant, a tax professional, an accountant, an insurance broker or another qualified professional** |
+| **What it does **not** mean** | ### **`That an architectural question is answered. A proposition can be established and the question that depends on it can remain open — because the question also depends on facts, on an entity, or on judgement`** | **That research failed, or that the item is unimportant** |
+| **The test for entry** | **A source was located, its content is what the finding says, its date is recorded, and no conflict defeats it** | **The proposition requires facts nobody has supplied, an entity that does not exist, an interpretation no source settles, or a filing nobody has made** |
+| **Whether the register may close** | **It may. **Twenty-five propositions were established** | ### **`IT MAY NOT. Mandate §23: "the second register must remain open." It remains open, in full, and this instrument adds to it rather than reducing it`** |
+
+## XIX.2 Register 1 — `RESEARCH-RESOLVED`: twenty-five propositions established
+
+| ID | **The proposition established** | **By** | **Tier** | **Classification** | **The architectural question that nonetheless remains open** |
+|---|---|---|---|---|---|
+| **`RQ-01`** | **The Code on Wages fixes mandatory payment deadlines by engagement type, including two working days on separation** | **`RF-01`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether any person here is an employee — **`SR-02`**** |
+| **`RQ-02`** | **No employer shall pay less than the notified minimum rate, and the obligation is stated without reference to consent** | **`RF-02`** | **1** | **`PARTIALLY SUPPORTED`** | **Whether consent cures a shortfall below the floor** |
+| **`RQ-03`** | **Deductions from wages are a closed list, are capped at fifty per cent of the wage period, and a payment by an employee to an employer is deemed a deduction** | **`RF-03`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether a consensual deferral is a deduction** |
+| **`RQ-04`** | **Paying an employee less than the amount due under the Code is punishable, with a fine ceiling stated in the section** | **`RF-04`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether a deferred amount is *due*** |
+| **`RQ-05`** | **A specialised claims machinery exists, with a three-year limitation, compensation up to ten times the claim, recovery through the Collector, and a bar on civil suits** | **`RF-05`** | **1 content** | **`PARTIALLY SUPPORTED`** | **Whether any claim exists** |
+| **`RQ-06`** | **The GST tax point for services is the earlier of invoice and receipt, with a fallback to the date of provision where the invoice is late** | **`RF-11`** | **1 content** | **`SUPPORTED BY SECONDARY SOURCE ONLY`** | **Whether any supply exists, and whether it is exempt** |
+| **`RQ-07`** | **A trustee who commits a breach of trust is personally liable to make good the loss, subject to specified beneficiary-conduct exceptions** | **`RF-18`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether anyone here is a trustee** |
+| **`RQ-08`** | **Co-trustees are each liable for the whole loss where the breach is joint or where neglect enables it, and passive trusteeship is itself a ground of liability** | **`RF-19`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether the architecture's controls satisfy the *due enquiry* standard** |
+| **`RQ-09`** | **Directors, managers, officers and knowing third parties may be made personally liable without limit for a company's debts, but only in winding up and only on fraud** | **`RF-21`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether a company would be formed** |
+| **`RQ-10`** | **A statutory protection exists for a good-faith, unrewarded responder to a motor-vehicle accident, covering negligence in rendering emergency medical or non-medical care** | **`RF-25`** | **1 content** | **`PARTIALLY SUPPORTED`** | ### **`What protects intervention in every other circumstance — **`NOT ESTABLISHED`**** |
+| **`RQ-11`** | **A universal criminal duty to report a child sexual offence binds any person, with an enhanced penalty for an institutional head in respect of a subordinate** | **`RF-26`** | **3** | **`SUPPORTED BY SECONDARY SOURCE ONLY`** | **Who is *"in charge of an institution"* where none exists** |
+| **`RQ-12`** | **Below ten employees no Internal Committee is required, and complaints go to a district Local Committee that also handles complaints against the employer itself** | **`RF-27`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether the Act survives the Labour Codes unchanged** |
+| **`RQ-13`** | **Provident-fund and employees'-state-insurance obligations attach at stated headcount and wage thresholds, and provident-fund coverage is irreversible once crossed** | **`RF-28`** | **2/3** | **`SUPPORTED BY SECONDARY SOURCE ONLY`** | **The thresholds under the Code on Social Security, which were not located** |
+| **`RQ-14`** | **Opening an organisational account requires, for every form, documentary evidence of legal existence, a governing resolution, an identified authorised signatory with a Permanent Account Number or Form No. 60, and beneficial-owner verification** | **`RF-33`** | **1 content** | **`SUPPORTED BY PRIMARY SOURCE`** | **Whether any route is available to this architecture** |
+| **`RQ-15`** | **No provision was located in the Reserve Bank's KYC Directions prescribing a minimum number of signatories for any form of account** | **`RF-33`** | **1 content** | **`PARTIALLY SUPPORTED` — a negative finding on the located text** | **Whether the architecture's two-signatory rule should be defended as a governance choice, which it must now be** |
+| **`RQ-16`** | **A Section 8 company is created by a **licence** on conditions the Central Government deems fit, must prohibit dividend to members, cannot alter its memorandum without prior approval, and may have its licence revoked for conduct violative of its objects or prejudicial to the public interest** | **`RF-29`** | **1 content** | **`SUPPORTED BY SECONDARY SOURCE ONLY`** | **Whether the four pillars fall within the permitted objects** |
+| **`RQ-17`** | **Foreign contribution is prohibited by default, and normal registration requires three years of prior existence and audited core-activity expenditure, while prior permission requires a named donor and a named project** | **`RF-30`** | **2** | **`PARTIALLY SUPPORTED`** | **The expenditure threshold — **`SCF-03`**** |
+| **`RQ-18`** | **Charitable status for tax purposes is bounded by a **quantitative** test — twenty per cent of total receipts — and by a **cost-recovery** discipline, not by a prohibition on distributions** | **`RF-35`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **What *"significantly higher than recovery of costs"* means** |
+| **`RQ-19`** | **Exemption requires registration, which is time-limited at five or ten years, must be renewed, and for a new entity begins as a provisional registration convertible within six months of commencing activities** | **`RF-35`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **Which form would hold it** |
+| **`RQ-20`** | **The GST charitable exemption is conditional on an income-tax registration **and** on the activity falling within a **closed** definition narrower than the income-tax definition of charitable purpose** | **`RF-38`** | **3** | **`PARTIALLY SUPPORTED`** | **Whether any pillar's activity falls within the closed list** |
+| **`RQ-21`** | **Inter-state supply of goods requires GST registration **irrespective of turnover**, and aggregate turnover is computed nationally, per Permanent Account Number, and includes exempt supplies** | **`RF-39`** | **3** | **`SUPPORTED BY SECONDARY SOURCE ONLY`** | **Whether any venture supplies goods across states** |
+| **`RQ-22`** | **The data-protection definitions and the regulator are in force now; **the Consent Manager layer commences on or about 13 November 2026; **and the core processing duties commence on or about 13 May 2027** | **`RF-40`**, **`DTC-05`** | **2** | **`PARTIALLY SUPPORTED`** | **Whether this architecture is or would be a Data Fiduciary** |
+| **`RQ-23`** | **The four Labour Codes are in force from 21 November 2025 and consolidate twenty-nine central labour statutes** | **`DTC-03`** | **1** | **`SUPPORTED BY PRIMARY SOURCE`** | **The status of the Rules in any particular state — **`SCF-05`**** |
+| **`RQ-24`** | **The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from 1 April 2026, and income of the current tax year is governed by the new Act** | **`DTC-01`**, **`DTC-02`** | **2/3** | **`PARTIALLY SUPPORTED`** | ### **`Every section number of the new Act — **`SCF-02`**** |
+| **`RQ-25`** | **For a company, the accounting framework is determined by a listing test and a net-worth test, and books of account must be kept on an accrual basis with a stated retention period** | **`RF-15`**, **`RF-16`** | **2/3** | **`PARTIALLY SUPPORTED`** | **What governs a society, a trust, an LLP or a partnership — **`NOT ESTABLISHED`**** |
+
+## XIX.3 Register 2 — `PROFESSIONAL-RESOLVED`: twenty questions that remain open, and must
+
+**[P]** Mandate §23: *"the second register must remain open."* **It is open. Every item below requires a qualified professional, and none is closed by anything in this instrument.**
+
+| ID | **The question that remains open** | **Why research could not close it** | **The professional required** | **Its `ID-1` identifier** |
+|---|---|---|---|---|
+| **`PRQ-01`** | **Which legal form should be created, and what are the consequences of each?** | **Mandate §5 forbids selecting an entity, and suitability is a judgement on facts, not a proposition about a source — §VIII.3 attribute 14** | **Corporate and tax counsel** | **`SR-01`, `LDR-U08`, `CQ-01 … CQ-04`** |
+| **`PRQ-02`** | **Can one entity carry all four pillars under all four located restrictions simultaneously?** | **`RF-35` narrowed the question from *"is the waterfall compatible?"* to *"which contested priority is a distribution and which is a cost, and does the aggregate exceed twenty per cent?"* — and the arithmetic cannot be done because no figure exists** | **Tax counsel, with corporate counsel** | **`GC-01`, `CQ-17`, `CQ-18`, `CQ-34`** |
+| **`PRQ-03`** | **What is the classification of every role in the architecture?** | **Wholly fact-dependent. **`RF-08` establishes that no statutory category fits a person who earns nothing** | **Labour counsel** | **`SR-02`, `PLV-01 … PLV-16`, `CQ-05 … CQ-09`** |
+| **`PRQ-04`** | **Is a registered society a legal person?** | ### **`A Supreme Court Constitution Bench and several secondary sources are in direct opposition, and the judgment was not obtained — **`SCF-01`**** | **Corporate counsel** | **`OPT-B`, `FC-01`, `CQ-02`** |
+| **`PRQ-05`** | **Is a consensual deferral of an earned wage a *deduction*, and is a deferred amount *due*?** | **`RF-03`'s deemed-deduction rule addresses a payment **made by** the employee; **a wage never paid is not obviously such a payment. **`RF-04`'s offence turns on an amount being *due*. **Neither is settled by any source located** | **Labour counsel** | **`PLV-04`, `PLV-05`, `PLV-09`, `SS-1`, `CQ-07`, `CQ-08`** |
+| **`PRQ-06`** | **Could an unincorporated association or body of individuals hold an account for these purposes, and what would that mean for its members?** | **`RF-33` establishes that the Directions contemplate such an account and require collective evidence of legal existence, a resolution of the managing body and a power of attorney. **Whether that route is available, prudent or lawful here is a question of fact and judgement** | **Banking counsel** | **`A-N16`, `SR-03`, `T-1`, `CQ-10`** |
+| **`PRQ-07`** | **What protects a person who intervenes in an emergency that is not a motor-vehicle accident?** | ### **`NOT ESTABLISHED. The Bharatiya Nyaya Sanhita was not obtained, and no source located addresses non-road emergency intervention, organised response, or the difference between a bystander and a deployed volunteer`** | **Liability counsel** | **`L1 … L15`, `L4`, `RSK-4`, `RSK-5`, `RSK-8`, `CQ-24`, `CQ-25`** |
+| **`PRQ-08`** | **What is the legal position of a volunteer?** | **`NOT ESTABLISHED` — no definition located in any statute researched** | **Labour counsel, with liability counsel** | **`CD-18`, `UD-01 … UD-14`, `HC-1 … HC-15`, `CQ-05`** |
+| **`PRQ-09`** | **Who would own the founder's work, and on what terms could it be licensed, transferred or contributed?** | **`NOT ESTABLISHED` — **`RF-34`** located nothing on intellectual property, licensing, related-party transactions, service agreements, management fees or royalties** | **Intellectual-property and tax counsel** | **`SR-12`, `SR-13`, `RP-5`, `CQ-14`, `CQ-15`, `CQ-35`** |
+| **`PRQ-10`** | **What are the section numbers of the Income-tax Act, 2025 for the non-profit regime?** | ### **`SOURCE CONFLICT — two Tier 3 sources give different destinations for the same provision, and the official concordance table was not obtained — **`SCF-02`**** | **Tax counsel or a chartered accountant** | **`TX-01 … TX-19`, `CQ-16 … CQ-18`** |
+| **`PRQ-11`** | **What is the tax treatment of compensation paid by a registered non-profit organisation to its founder?** | **`NOT ESTABLISHED` — no source located. **The restrictions on private benefit were located in outline only** | **Tax counsel** | **`TX-11`, `SR-20`, `CF-16`, `CQ-11`** |
+| **`PRQ-12`** | **What does *"significantly higher than recovery of costs"* mean, and does the organisation service fee cross it?** | **The phrase is judicial and unquantified in the material located, and the architecture has no cost figure and no price** | **Tax counsel, with a chartered accountant** | **`GC-01`, waterfall priority 5, `TX-09`** |
+| **`PRQ-13`** | **Does any pillar's activity fall within the GST notification's closed definition of charitable activities?** | **The definition's heads are specific and none obviously reaches a protection activity, an AI service or a community-network activity. **Mapping them would be an interpretation** | **Tax counsel** | **`TX-07`, `TX-08`, `TX-10`, `CQ-17`** |
+| **`PRQ-14`** | **Is a Section 8 company a *"private company"* for the purposes of directors' liability for unrecoverable tax?** | **Turns on how the company is registered, which is a fact nobody has** | **Tax counsel** | **`LD-12`, `RSK-3`, `TX-01`, `CQ-12`** |
+| **`PRQ-15`** | **What insurance is available, on what terms, at what cost, for each of the fifteen risks?** | ### **`NOT RESEARCHED for nine of the fifteen risks, and no contract of insurance was located for any of them. **`PP-06`: insurance is a question for a broker or counsel** | **Insurance broker, with liability counsel** | **`SR-04`, `L1 … L15`, `RSK-1 … RSK-15`, `CQ-22 … CQ-24`** |
+| **`PRQ-16`** | **Is this architecture a Data Fiduciary, and would it ever be a Significant Data Fiduciary?** | **The definitions are in force but no source located applies them to an unincorporated activity of this kind** | **Data-protection counsel** | **`SR-05`, `A-N14`, `PP-05`, `CQ-27`** |
+| **`PRQ-17`** | **Who may approve the founder's own compensation, given that the beneficiary must recuse?** | **No source can supply an authority. **`CF-16` records a conflict *"that cannot be managed"* and **`GD-01`, `GD-08`** are open** | **Governance counsel** | **`SR-20`, `LDR-U16`, `CF-16`, `CQ-11`** |
+| **`PRQ-18`** | **Who succeeds the founder, and by what mechanism?** | **`NOT ESTABLISHED` — no source located addresses succession in any candidate form, and **`LDR-U19`** records that the body which would decide is the subject of the decision** | **Governance counsel, or a court** | **`SR-10`, `LDR-U19`, `CQ-30`** |
+| **`PRQ-19`** | **Would the LLP's deemed-designated-partner rule catch the four unpaid control roles?** | **`RF-23` establishes the rule; **its application depends on facts and on the LLP agreement** | **Corporate counsel** | **`OPT-E`, `UD-01 … UD-14`, `CQ-04`** |
+| **`PRQ-20`** | **Would the individuals holding office in a society be personally named in proceedings, and would enforcement reach them?** | **`RF-20` establishes that suits run in the name of named officers and that judgment is enforced against society property. **The interaction of the two, and the consequence of **`SCF-01`**, is an interpretation** | **Litigation counsel** | **`OPT-B`, `LD-02`, `LD-21`, `CQ-02`** |
+
+## XIX.4 The two registers counted
+
+| Measure | **Count** |
+|---|---|
+| **Propositions established by research** | **25 — `RQ-01 … RQ-25`** |
+| **Of those, established by a Tier 1 source** | **12** |
+| **Of those, established by Tier 1 content on a third-party host** | **4** |
+| **Of those, established by Tier 2 or Tier 3 sources only** | **9** |
+| **Of those that are **negative** findings — establishing that something does **not** exist or does **not** apply** | **3 — `RQ-10` in part, `RQ-15`, and `RQ-24` in part** |
+| **Questions remaining for a professional** | ### **`20 — `PRQ-01 … PRQ-20`, and this register remains open`** |
+| **Of those, `NOT ESTABLISHED` — no source located at all** | **5 — `PRQ-07`, `PRQ-08`, `PRQ-09`, `PRQ-11`, `PRQ-18`** |
+| **Of those, `SOURCE CONFLICT`** | **2 — `PRQ-04`, `PRQ-10`** |
+| **Of those, requiring an insurance broker** | **1 — `PRQ-15`, with `PRQ-07` in support** |
+| **`ID-1` questions registered** | **35** |
+| **`ID-1` questions closed by this research** | ### **`0`** |
+| **`ID-1` questions on which this research located material** | **29 of 35 — see Part XX** |
+| **`ID-1` questions on which this research located nothing** | **6 — see Part XX** |
+
+> ### **`TWENTY-FIVE PROPOSITIONS ESTABLISHED. TWENTY QUESTIONS LEFT OPEN. ZERO OF THE THIRTY-FIVE `ID-1` QUESTIONS CLOSED. THAT IS NOT A FAILURE OF THE RESEARCH — IT IS ITS SHAPE. A PROPOSITION ABOUT THE LAW AND AN ANSWER TO AN ARCHITECTURAL QUESTION ARE DIFFERENT THINGS, AND THE SECOND ALWAYS NEEDS SOMETHING THE FIRST CANNOT SUPPLY: A FACT, AN ENTITY, OR A JUDGEMENT.`**
+
+---
+
+# PART XX — THE RESEARCH COVERAGE MATRIX
+
+## XX.1 The rule
+
+**[P]** Mandate §26 of this task. **Every `ID-1` professional question is covered. **No cell is empty. **`NOT RESEARCHED` is used where a question could not responsibly be researched, and the reason is given.**
+
+| Column | **Content** |
+|---|---|
+| **1** | **`CQ-` identifier** |
+| **2** | **The question, abbreviated** |
+| **3** | **Research attempted — `YES` or `NOT RESEARCHED`, with the reason if not** |
+| **4** | **Primary source found — `SRC-nn` or `NONE`** |
+| **5** | **Secondary source — `SRC-nn` or `NONE`** |
+| **6** | **The current finding** |
+| **7** | **Entity dependency — `YES` · `NO` · `PARTLY` · `UNKNOWN`** |
+| **8** | **Fact dependency — `YES` · `NO` · `UNKNOWN`** |
+| **9** | **Professional validation — `YES` · `NO` · `LATER` · `UNKNOWN`** |
+| **10** | **Architectural effect — one of the four at §XVIII.1, with its `ACN-nn`** |
+
+## XX.2 The matrix — all thirty-five questions
+
+| ID | **The question** | **Res.** | **Primary** | **Secondary** | **The current finding** | **Entity** | **Fact** | **Prof.** | **Architectural effect** |
+|---|---|---|---|---|---|---|---|---|---|
+| **`CQ-01`** | **The minimum constitutive document set for a Section 8 company** | **`YES`** | **`NONE`** | **`SRC-46 … SRC-49`** | **A licence on conditions the Central Government deems fit, then registration; **memorandum and articles unalterable without prior approval; **two directors and two members — **`RF-29`, `RF-31`** | **`YES`** | **`NO`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-16` by analogy; **no dedicated `ACN`** |
+| **`CQ-02`** | **The minimum constitutive document set for a registered society, and state variation** | **`YES`** | **`NONE`** | **`SRC-72 … SRC-76`** | **Registration with the state Registrar on a memorandum and rules; **seven members; **but legal personality is contested — **`RF-20`, `SCF-01`** | **`YES`** | **`NO`** | **`YES`** | ### **`BLOCKED — `ACN-11`** |
+| **`CQ-03`** | **The minimum constitutive document set for a public charitable trust, and trustee obligations** | **`PARTLY`** | **`SRC-37`** | **`SRC-38`, `SRC-39`** | **The Indian Trusts Act governs **private** trusts and was located from India Code; **state public-trust legislation was **not researched**. **Trustee obligations are fully located — **`RF-18`, `RF-19`** | **`YES`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-12`** |
+| **`CQ-04`** | **The constitutive documents for each remaining candidate, and which have no corpus description** | **`YES`** | **`NONE`** | **`SRC-50 … SRC-54`, `SRC-47`** | **Located for a private company, an LLP and a partnership; **`UNKNOWN` for a proprietorship, a hybrid, a parent-plus-operating structure and counsel-identified forms — **`RF-31`** | **`YES`** | **`NO`** | **`YES`** | **`CLARIFICATION REQUIRED`** |
+| **`CQ-05`** | **The classification of each role** | **`YES`** | **`SRC-26`, `SRC-100`** | **`SRC-30`, `SRC-31`, `SRC-101`** | **Seven statutory categories located with their tests and exclusions; **no definition of *volunteer*; **the control and integration tests were **not located** — **`RF-08`, Part XIII** | **`NO`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-21`** |
+| **`CQ-06`** | **What has actually happened, when, to whom, with whose money** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — AND IT CANNOT BE. This is a question of historical fact that only the founder holds. **`DIS-08`, `DIS-17`, `DIS-18`, `DIS-24` are blank. **No source can supply it, and mandate §11 forbids filling it** | **`NO`** | **`YES`** | **`NO`** | **`NO ARCHITECTURAL CHANGE`** |
+| **`CQ-07`** | **Whether compensation may be deferred, and on what conditions** | **`YES`** | **`SRC-26`, `SRC-27`** | **`SRC-29`, `SRC-30`** | **Deferral risks characterisation as an unauthorised deduction; **the minimum floor cannot be cured by consent; **the question whether a deferred amount is *due* is unsettled — **`RF-02`, `RF-03`, `RF-04`** | **`NO`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-03`** |
+| **`CQ-08`** | **Whether partial payment discharges the obligation** | **`YES`** | **`SRC-26`** | **`SRC-53`, `SRC-102`** | **Underpayment of an amount due is penal; **part-payment is appropriated under ss.59 to 61, oldest debt first where nobody appropriates; **partial receipt creates a part tax point but not a part discharge — **`RF-04`, `RF-06`, `RF-12`** | **`NO`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-03`, `ACN-24`** |
+| **`CQ-09`** | **The treatment of unpaid accrued amounts** | **`YES`** | **`SRC-27`** | **`SRC-30`, `SRC-31`** | **A three-year claim window, compensation up to ten times, recovery through the Collector, a bar on civil suits, and on the located material a burden on the employer to prove payment — **`RF-05`** | **`NO`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-03`** |
+| **`CQ-10`** | **Who may sign, and what makes a mandate valid** | **`YES`** | **`SRC-58`** | **`SRC-58a … SRC-58d`** | **A governing resolution, an identified authorised signatory with a Permanent Account Number or Form No. 60, and beneficial-owner verification; **no minimum signatory count prescribed — **`RF-33`** | **`YES`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-09`** |
+| **`CQ-11`** | **Who may approve a payment in which the approver has an interest** | **`PARTLY`** | **`NONE`** | **`SRC-44`** | **No source located on disinterested approval. **The only related material is that a director may discharge a reverse-onus burden by evidence of limited control — **`RF-22`** | **`YES`** | **`YES`** | **`YES`** | **`NO ARCHITECTURAL CHANGE`** |
+| **`CQ-12`** | **The authority required for each financial act** | **`YES`** | **`SRC-40`, `SRC-58`** | **`SRC-43`, `SRC-50`** | **Board resolution for a company; **resolution of the managing body for an unincorporated association; **designated partners liable to all penalties for an LLP with a vacancy-triggered deeming rule; **director liability on winding up and fraud — **`RF-21 … RF-23`, `RF-33`** | **`YES`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-14`** |
+| **`CQ-13`** | **Governance approval and delegation** | **`PARTLY`** | **`NONE`** | **`SRC-47`, `SRC-52`** | **Board-meeting frequency and directors' duties located for a company; **partner agency located for a partnership and an LLP. **Nothing located on delegation to unpaid role-holders** | **`YES`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-14`** |
+| **`CQ-14`** | **Founder contributions, and whether they create a claim** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — **`RF-34`** located nothing on the tax or company-law treatment of a founder's contribution of assets to an entity he controls. **`DIS-19` is blank** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+| **`CQ-15`** | **Ownership of the architecture, the name, the curricula and the systems** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — **`RF-34`** located nothing on intellectual-property ownership, and §VIII.3 records IP ownership as **`UNKNOWN` for every candidate form**. **`OC-10`: 0 of 17 asset classes have a stated owner** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+| **`CQ-16`** | **The tax character of the entity, and its registration sequence** | **`YES`** | **`SRC-32`** | **`SRC-99`, `SRC-09`** | **An exemption regime exists, requires registration, is valid for five or ten years, must be renewed, and survives the 2025 Act substantively unchanged — **`RF-35`, `RF-41`** | **`YES`** | **`NO`** | **`YES`** | ### **`BLOCKED — `ACN-01`** |
+| **`CQ-17`** | **The tax treatment of each waterfall priority** | **`PARTLY`** | **`SRC-32`** | **`SRC-34`, `SRC-99`** | **The twenty-per-cent ceiling and the cost-recovery discipline bear on priority 5; **the restrictions on private benefit bear on priorities 4 and 8; **nothing located on founder compensation — **`RF-35`, `TX-11`** | **`YES`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-04`** |
+| **`CQ-18`** | **Payments to or from Krytos, and the founder's personal position** | **`PARTLY`** | **`NONE`** | **`SRC-43`, `SRC-44`** | **Directors' tax liability located for a private company; **nothing located on related-party payments, transfer pricing or the founder's personal position — **`RF-22`, `RF-34`** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+| **`CQ-19`** | **The blueprint, and what its absence means economically** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — AND NOT RESEARCHABLE. The document has never been received: **`EV-B-01`, `RS-9`, `FD-1`, **`PV-1 … PV-6` still absent**. **No public source can supply a private document** | **`NO`** | **`YES`** | **`LATER`** | **`NO ARCHITECTURAL CHANGE`** |
+| **`CQ-20`** | **The accounting framework and basis** | **`YES`** | **`NONE`** | **`SRC-22 … SRC-25`, `SRC-47`** | **A listing test and a net-worth test determine Ind AS for a company; **the 2021 Rules apply below them; **accrual basis and eight-year retention are statutory for a company; **nothing located for a society, trust, LLP or partnership — **`RF-15`, `RF-16`** | **`YES`** | **`NO`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-20`** |
+| **`CQ-21`** | **The record design, and the retention period** | **`YES`** | **`NONE`** | **`SRC-47`, `SRC-13`** | **Eight-year retention located for a company only; **erasure on completion of purpose under the data-protection regime from on or about 13 May 2027; **the record **design** remains answerable now, as `ID-1` classified it — **`RF-16`, `RF-40`** | **`PARTLY`** | **`NO`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-08`, `ACN-20`** |
+| **`CQ-22`** | **Personal exposure of the four unpaid control roles** | **`YES`** | **`SRC-37`, `SRC-40`** | **`SRC-43 … SRC-45`, `SRC-50 … SRC-54`** | **Eleven regimes located; **six wholly entity-dependent; **two binding individuals today; **one a source conflict; **one not established. **No conclusion that anyone is or is not liable — **`RF-18 … RF-28`** | **`PARTLY`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-12`, `ACN-13`** |
+| **`CQ-23`** | **Whether cover exists for protection and first-response activity** | **`PARTLY`** | **`SRC-106`** | **`SRC-67 … SRC-71`** | **A statutory **immunity** located for motor-vehicle accidents; **statutory **schemes** located for employees at thresholds; **`0` contracts of insurance located; **`9 of 15` risks not researched for cover — Part XVI** | **`PARTLY`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-15`** |
+| **`CQ-24`** | **The activation of the protection pillar** | **`YES`** | **`SRC-106`** | **`SRC-103 … SRC-105`** | **The Good Samaritan protection is narrow; **no located permission to operate a protection function, and none can exist — **`PP-08`, `C-21`, `P0-F`, §9.2 rule 1** | **`PARTLY`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-15`** |
+| **`CQ-25`** | **The criminal boundary of intervention** | **`PARTLY`** | **`SRC-106`** | **`SRC-18 … SRC-20`** | **Motor Vehicles Act s.134A located; **the Bharatiya Nyaya Sanhita, 2023 replaced the Indian Penal Code from 1 July 2024 but was **not obtained**, so no offence-level analysis was possible — **`RF-25`, `DTC-06`** | **`NO`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-15`, `ACN-25`** |
+| **`CQ-26`** | **Safeguarding duties and certification** | **`YES`** | **`SRC-64`** | **`SRC-59 … SRC-63`, `SRC-65`, `SRC-66`** | **A universal criminal duty to report, with an enhanced penalty for an institutional head; **a harassment regime with a district Local Committee route below ten employees; **no source located on safeguarding **certification**, which is what **`SR-31`** requires — **`RF-26`, `RF-27`** | **`PARTLY`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-16`, `ACN-17`** |
+| **`CQ-27`** | **Data fiduciary identity, and the retention schedule** | **`YES`** | **`NONE`** | **`SRC-13 … SRC-17`** | **Definitions and regulator in force; **core duties from on or about 13 May 2027; **notice, consent, security safeguards, processor contracts, erasure, 72-hour breach reporting and 90-day grievance response all located in outline. **Fiduciary status **not established** — **`RF-40`** | **`PARTLY`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-08`** |
+| **`CQ-28`** | **Name availability and registration** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — a name search is a factual enquiry against a registry, not legal research, and no registry was queried. **`ID-1` records the search itself as an entity-independent track** | **`PARTLY`** | **`YES`** | **`LATER`** | **`NO ARCHITECTURAL CHANGE`** |
+| **`CQ-29`** | **Whether Krytos is a legal person** | **`PARTLY`** | **`SRC-37`** | **`SRC-50`, `SRC-72`** | **Research establishes what each form requires to **become** a legal person; **it cannot establish whether an undocumented body is one. **`GC-01` node 1 remains closed **negatively** on **`FA-4`** — **`RF-31`, `RF-34`** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+| **`CQ-30`** | **Succession** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — §VIII.3 records succession as **`UNKNOWN` for every candidate form**, and **`LDR-U19`** records that the body which would decide is the subject of the decision. **No source can supply an authority** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+| **`CQ-31`** | **Can Sewak Sathi pay Krytos?** | **`PARTLY`** | **`NONE`** | **`SRC-58`** | **Research establishes that a payment requires an obligor, an account and a mandate, and that none exists — **`RF-33`**. **It cannot establish whether Krytos could ever be a payee, because that turns on legal personality. **`H-Q17` remains `UNKNOWN`** | **`YES`** | **`YES`** | **`YES`** | **`NO ARCHITECTURAL CHANGE`** |
+| **`CQ-32`** | **The Krytos relationship, and what would be required to constitute it** | **`PARTLY`** | **`SRC-37`** | **`SRC-50 … SRC-54`** | **The constitutive act required for each form is located; **the relationship between two bodies, one of which does not exist, is not a legal question that can be researched — **`RF-31`, `RF-34`** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+| **`CQ-33`** | **Withholding, and the design of a deduction rule** | **`YES`** | **`NONE`** | **`SRC-89 … SRC-93`** | **Rates, thresholds, the higher no-PAN rate, the express inclusion of manpower supply, and the 2025 Act consolidation located; **the professional-fees threshold is in conflict — **`RF-37`, `SCF-04`** | **`PARTLY`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-07`** |
+| **`CQ-34`** | **Which state's law governs, and how many instruments a multi-state operation requires** | **`PARTLY`** | **`SRC-01`** | **`SRC-88`, `SRC-108`** | **Society law is administered state by state; **GST registration follows the place of supply and not the place of the customer; **special-category-state thresholds are lower; **state Labour Code Rules were notified unevenly — **`RF-20`, `RF-39`, `SCF-05`** | **`YES`** | **`YES`** | **`YES`** | **`CLARIFICATION REQUIRED` — `ACN-06`** |
+| **`CQ-35`** | **Brand, name and mark ownership, and any licence** | ### **`NOT RESEARCHED`** | **`NONE`** | **`NONE`** | ### **`NOT RESEARCHED — as **`CQ-15`. **`RF-34` located nothing on licensing, and §VIII.3 records IP ownership as **`UNKNOWN` for every form** | **`YES`** | **`YES`** | **`YES`** | ### **`BLOCKED — `ACN-22`** |
+
+## XX.3 The matrix counted
+
+| Measure | **Count** |
+|---|---|
+| **`ID-1` questions in the matrix** | **35** |
+| **Cells in the matrix** | **350** |
+| **Empty cells** | ### **`0`** |
+| **Questions researched in full** | **17** |
+| **Questions researched in part** | **11** |
+| **Questions `NOT RESEARCHED`** | ### **`7 — `CQ-06`, `CQ-14`, `CQ-15`, `CQ-19`, `CQ-28`, `CQ-30`, `CQ-35`, each with its reason stated in column 3`** |
+| **Questions with a Tier 1 primary source located** | **17 of 35** |
+| **Questions with no primary source located** | **18 of 35** |
+| **Questions whose entity dependency is `YES`** | **20** |
+| **Questions whose entity dependency is `PARTLY`** | **8** |
+| **Questions whose entity dependency is `NO`** | **7** |
+| **Questions whose fact dependency is `YES`** | **29 of 35** |
+| **Questions requiring professional validation** | ### **`32 `YES` · 2 `LATER` · 1 `NO``** |
+| **Questions whose architectural effect is `BLOCKED PENDING PROFESSIONAL VALIDATION`** | **13** |
+| **Questions whose effect is `CLARIFICATION REQUIRED`** | **17** |
+| **Questions whose effect is `NO ARCHITECTURAL CHANGE`** | **5 — `CQ-06`, `CQ-11`, `CQ-19`, `CQ-28`, `CQ-31`** |
+| **Questions whose effect is `ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** | **0 directly; **4 arise through **`ACN-02`, `ACN-04`, `ACN-09` and `ACN-10`**** |
+| **Sum of the four effects** | ### **`13 + 17 + 5 + 0 = 35`** |
+| **Questions closed by this research** | ### **`0`** |
+
+---
