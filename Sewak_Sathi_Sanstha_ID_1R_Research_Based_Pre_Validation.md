@@ -921,3 +921,193 @@
 > ### **`ELEVEN EXPOSURES RESEARCHED. TWO REGIMES BIND THE PEOPLE INVOLVED TODAY, WITHOUT ANY ENTITY: THE POCSO REPORTING DUTY, WHICH IS CRIMINAL AND UNIVERSAL, AND THE GOOD SAMARITAN PROTECTION, WHICH IS NARROW AND CONFINED TO MOTOR-VEHICLE ACCIDENTS. SIX REGIMES ARE WHOLLY ENTITY-DEPENDENT AND CANNOT BE ASSESSED UNTIL A FORM IS CHOSEN. ONE IS A SOURCE CONFLICT AT THE HIGHEST JUDICIAL LEVEL. ONE IS NOT ESTABLISHED AT ALL. AND NOTHING IN THIS TABLE SAYS THAT ANY PERSON IS, OR IS NOT, PERSONALLY LIABLE.`**
 
 ---
+
+# PART VIII — `SR-01` / `LDR-U08`: ENTITY RESEARCH, WITHOUT SELECTING AN ENTITY
+
+## VIII.1 The rule this Part obeys
+
+**[P]** Mandate §5 and §11 of this task; **`ID-1`** mandate §10; **Rules `G-15 … G-20`**; **`OPT-A … OPT-J`**.
+
+> ### **`NO ENTITY IS SELECTED HERE. NO ENTITY IS RECOMMENDED, RANKED OR PREFERRED. WHERE THE LAW DIFFERS BY ENTITY TYPE, A COMPARISON IS BUILT AND THE WORD `ENTITY-DEPENDENT` IS USED UNTIL THE STRUCTURE IS ACTUALLY SELECTED. EVERY CELL OF THE MATRIX AT §VIII.4 CARRIES ONE OF THREE LABELS — `SOURCE`, `CONDITION` OR `UNKNOWN` — AND NO GAP IS FILLED FROM GENERAL KNOWLEDGE.`**
+
+| Label | **Meaning** | **The test** |
+|---|---|---|
+| ### **`SOURCE`** | **A source located in this research states the position for that form** | **A `SRC-nn` reference exists and the proposition is what the source says** |
+| ### **`CONDITION`** | **A source states the position, but subject to a condition that is not satisfied or not knowable** | **The condition is stated in the cell or cross-referenced** |
+| ### **`UNKNOWN`** | **No source located in this research states the position for that form** | **Not filled from general knowledge, and not inferred from a neighbouring form** |
+
+## VIII.2 The findings
+
+### `RF-29` — a Section 8 company: the licence, the prohibitions, and the obligations
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-29`** |
+| **`ARCHITECTURAL ID`** | **`SR-01`, `LDR-U08`; **`OPT-A`; **`FC-01 … FC-04`, `FC-E1 … FC-E8`; **`GC-01`; **`CQ-01`, `CQ-04`, `CQ-29`; **`ID-2`** |
+| **`QUESTION`** | **What does Indian company law require of a company formed with charitable objects, and what does it prohibit?** |
+| **`LEGAL / TAX DOMAIN`** | **Company law** |
+| **`RESEARCH FINDING`** | **The available sources reproduce **s.8 of the Companies Act, 2013**, headed *"Formulation of companies with charitable objects, etc."* **Sub-section (1)** provides that where it is proved to the satisfaction of the Central Government that a person or an association of persons proposes to form a company that **(a)** has in its objects the promotion of commerce, art, science, sports, education, research, social welfare, religion, charity, protection of environment or any such other object; **(b)** intends to apply its profits, if any, or other income in promoting its objects; **and (c)** intends to prohibit the payment of any dividend to its members — **the Central Government may, by licence issued in such manner as may be prescribed and on such conditions as it deems fit, allow that person or association to be registered as a limited company under the section, without the addition to its name of the word *"Limited"* or the words *"Private Limited"*, and thereupon the Registrar shall, on application in the prescribed form, register it. **Sub-section (2)** provides that a company registered under the section **shall enjoy all the privileges and be subject to all the obligations of limited companies**. **Sub-section (3)** provides that **a firm may be a member**. **Sub-section (4)(i)** provides that such a company **shall not alter the provisions of its memorandum or articles except with the previous approval of the Central Government**. **Sub-section (5)** allows an existing company formed with those objects and subject to those restrictions to be licensed under the section. **Sub-section (6)** provides that the Central Government **may by order revoke the licence** if the company contravenes any requirement of the section or any condition of the licence, **or if the affairs of the company are conducted fraudulently, or in a manner violative of the objects of the company or prejudicial to public interest**. **Sub-section (8)** provides that where a licence is revoked and the Central Government is satisfied it is essential in the public interest, it may order **amalgamation** with another company registered under the section and having similar objects. **Sub-section (10)** provides that such a company **shall amalgamate only with another company registered under the section and having similar objects**. **Secondary sources record, in addition: **no minimum paid-up capital is required; **a minimum of two directors and two members for a private Section 8 company and three directors for a public one, with the same person capable of being both director and member; **a one person company cannot be formed as a Section 8 company; **names typically use words such as Foundation, Forum, Association, Council or Federation; **on winding up, remaining assets are not distributed to members but pass to another Section 8 company with similar objects; **and the general company obligations listed at **`RF-16`** apply, including s.12, s.92, s.128, s.137, s.139, s.149, s.166 and s.173** |
+| **`PRIMARY SOURCE`** | ### **`SRC-46` — reproduces s.8(1) to (10) substantially in full. **`TIER 3 HOST, TIER 1 CONTENT`. **Corroborated by **`SRC-47`, `SRC-48`, `SRC-49`, `SRC-49a`**. **The Companies Act text was **not obtained from India Code or the Ministry of Corporate Affairs in this research**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **Companies Act, 2013, in force from 1 April 2014 in stages; **s.8 is current. **`CURRENT`. **The winding-up and asset-transfer limb at s.8(9) was **not located in text** and is marked **`VERIFIED — SECONDARY`**** |
+| **`RELEVANT CONDITION`** | ### **`THREE CUMULATIVE CONDITIONS AT s.8(1), ALL OF WHICH MUST BE PROVED TO THE SATISFACTION OF THE CENTRAL GOVERNMENT: the objects, the intention to apply profits in promoting them, and the intention to prohibit dividend. **The licence is granted **on such conditions as the Central Government deems fit** — so the conditions are not fixed by the statute alone. **Alteration of the memorandum or articles requires **previous** Central Government approval. **Revocation is available for fraud, for conduct violative of the objects, or for conduct prejudicial to the public interest** |
+| **`ENTITY DEPENDENCY`** | **`N/A — this finding **is** about one entity form. **It is recorded for comparison and selects nothing** |
+| **`FACT DEPENDENCY`** | **`NO` as to the law; **`YES` as to whether the architecture's four pillars fall within the listed objects — **`FC-01 … FC-04`** map the pillars, and whether *"protection of environment"* and *"social welfare"* reach a first-response activity is a question for a professional** |
+| **`INTERPRETATION RISK`** | **`MEDIUM` — the objects clause is broad, but whether the protection pillar and the AI-business pillar fall within it is not addressed by any source located** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That a company form exists in Indian law which is **licensed rather than merely registered**, whose licence is conditional, which **must prohibit dividend to members**, whose memorandum and articles cannot be altered without prior Central Government approval, which is nonetheless **subject to all the obligations of a limited company**, and which can have its licence **revoked** for conduct violative of its objects or prejudicial to the public interest** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | ### **`That this form is available for, suitable for, or capable of carrying the four pillars. That the prohibition on dividend resolves `GC-01` — it does not address waterfall priorities 4, 5 and 8, which are **compensation**, a **service fee** and **founder upside**, and not dividends. That a Section 8 company is a *"private company"* for **`RF-22`**. That any licence would be granted. **No candidate is preferred by this finding`** |
+| **`SEWAK SATHI CONSEQUENCE`** | ### **`CLARIFICATION REQUIRED`, AND IT SHARPENS `GC-01` RATHER THAN RESOLVING IT. **`ID-1` §IX.6 recorded the conflict as: **the eight-priority waterfall against *"restrictions on profit distribution and founder upside"***. **This research locates the statutory mechanism by which that restriction operates in a Section 8 company — **a licence condition, enforceable by revocation, with prior approval required for any alteration of the memorandum** — and it also shows that the restriction is expressed as a prohibition on **dividend**, which is a narrower concept than **founder compensation at priority 4** or **founder upside at priority 8**. **Whether those priorities survive in this form is therefore **not** answered by the prohibition on dividend, and remains a professional question. **This is a genuine narrowing of **`GC-01`** — from *"is the waterfall compatible?"* to *"which of the three contested priorities is a distribution, and which is a cost?"* — and it is recorded as such, not resolved** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`SUPPORTED BY SECONDARY SOURCE ONLY` — the statutory text is consistently reproduced but was not obtained from a Tier 1 host** |
+
+### `RF-30` — foreign contribution: registration, prior permission, and the three-year rule
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-30`** |
+| **`ARCHITECTURAL ID`** | **`SR-01`; **`TX-06`, `TX-15`; **`CQ-17`, `CQ-18`; **`DIS-07`, `DIS-14`; **`BLK-B-02`; **funding of the seven venture categories** |
+| **`QUESTION`** | **What must an organisation do before it may accept a foreign contribution?** |
+| **`LEGAL / TAX DOMAIN`** | **Tax; **regulatory; **entity law** |
+| **`RESEARCH FINDING`** | **The available sources indicate that **s.11 of the Foreign Contribution (Regulation) Act, 2010** provides that unless a person having a definite cultural, economic, educational, religious or social programme obtains a **certificate of registration** or **prior permission** from the Central Government, that person shall not accept any foreign contribution. **For **registration**, the sources record that the applicant must be registered under the Societies Registration Act, 1860, the Indian Trusts Act, 1882 or s.8 of the Companies Act, 2013; **must have undertaken reasonable activities in its chosen field for the benefit of society; **must **normally have been in existence for at least three years**; **must have spent a minimum amount on its core activities, excluding administrative expenditure, over the preceding three financial years, evidenced by audited statements of accounts and activity reports; **and must have a definite programme for the utilisation of the foreign contribution. **The minimum-expenditure figure is **reported differently across sources**: **three sources state ₹15 lakh, and two state ₹10 lakh — recorded as **`SCF-03`** and not resolved. **Registration is reported as valid for **five years**, renewable, with renewal applications required before expiry. **For **prior permission**, available to an association in its formative stage, the sources record that there is **no minimum age and no minimum expenditure requirement**, but that the applicant must submit a **specific commitment letter from the donor** indicating the amount of foreign contribution, the identity of the donor, and the specific activity or project for which it is given, together with a reasonable project for the benefit of society. **Prior permission may be granted for the receipt of a **specific amount from a specific donor for specific activities or projects**, and can convert to normal registration after three years of utilisation. **All sources record that a designated **FCRA account must be opened with the State Bank of India, New Delhi Main Branch**, and one source records its IFSC. **Other conditions recorded include registration on the NITI Aayog Darpan portal, a functional registered office, possession of a 12A registration certificate, a government fee, and a processing period of ninety to one hundred and twenty working days. **One source records additional eligibility constraints: **that the applicant must not have a parent non-governmental organisation already registered under the Act, that a majority of the board must not sit on the board of another registered organisation, that the parent organisation if any must not be based abroad, and that no foreigner may be on the board** |
+| **`PRIMARY SOURCE`** | **`SRC-55`** — **Tier 2**, on s.11 and the eligibility criteria. **`SRC-56`, `SRC-56a`, `SRC-57`, `SRC-58`** — **Tier 3**. **The Foreign Contribution (Regulation) Act, 2010 and its Rules were **not obtained from a Ministry of Home Affairs source in this research**** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **Act of 2010, amended in **2020**, with Rules of 2011 as amended. **`CURRENT`, but **the minimum-expenditure figure is in conflict and the amendment history was not traced to a notification** |
+| **`RELEVANT CONDITION`** | ### **`THE THREE-YEAR RULE IS THE ARCHITECTURALLY DECISIVE CONDITION: normal registration requires three years of prior existence and three years of audited core-activity expenditure. **A newly constituted organisation **cannot** meet it, and must use prior permission, which requires a named donor and a named project** |
+| **`ENTITY DEPENDENCY`** | **`YES` — the eligible forms are the society, the trust and the Section 8 company. **No source located extends eligibility to an LLP, a partnership or a proprietorship** |
+| **`FACT DEPENDENCY`** | **`YES` — whether any foreign source of funds is contemplated at all. **`DIS-07` and **`DIS-14`** are blank** |
+| **`INTERPRETATION RISK`** | **`MEDIUM` — the expenditure threshold conflicts, and the board-composition conditions are recorded by one source only** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **That foreign contribution is **prohibited by default** and permitted only under a certificate of registration or a prior permission; **that the registration route requires three years of existence and audited core-activity expenditure; **that the prior-permission route is available immediately but is **donor-specific and project-specific**; **that a designated bank account with a specified public-sector bank in a specified city is mandatory; **and that the eligible forms are three** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **The minimum-expenditure figure. **Whether the architecture's activities constitute a *"definite cultural, economic, educational, religious or social programme"*. **Whether the board-composition conditions are current. **And it does not establish that any foreign contribution is contemplated here** |
+| **`SEWAK SATHI CONSEQUENCE`** | ### **`CLARIFICATION REQUIRED`, AND IT IS A SEQUENCING CONSTRAINT THE ARCHITECTURE DID NOT HAVE. **`ID-1` **`DIS-07`** asks whether any foreign source of funds is contemplated and **`TX-06`** asks about donations. **This research establishes that if the answer is yes, **a newly constituted entity cannot obtain normal registration for three years**, and can receive only a specific amount from a specific donor for a specific project. **Any funding plan that assumes foreign contribution at launch is therefore **not merely unvalidated but structurally unavailable on the located source**. **This bears directly on CEA **`F-10`** — the unfunded mandate — and on the funding map at CEA §XII.2** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES` — the expenditure threshold, the board conditions and the current Rules** |
+| **`CLASSIFICATION`** | ### **`PARTIALLY SUPPORTED` — the three-year rule and the two routes by Tier 2; **the expenditure threshold `SOURCE CONFLICT`** |
+
+### `RF-31` — formation requirements by form, and the constitutive act each one needs
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-31`** |
+| **`ARCHITECTURAL ID`** | **`SR-01`, `ID-2`; **`OPT-A … OPT-J`; **`CQ-01 … CQ-04`, `CQ-28`; **`FA-4`; **`DIS-29`** |
+| **`QUESTION`** | **What constitutive act, and what minimum number of persons, does each candidate form require?** |
+| **`LEGAL / TAX DOMAIN`** | **Company law; **trust law; **entity law** |
+| **`RESEARCH FINDING`** | **The available sources locate the following, and locate nothing for the remaining candidates** |
+| **`PRIMARY SOURCE`** | **`SRC-46`, `SRC-47`** (Section 8); **`SRC-73`, `SRC-75`** (society); **`SRC-37`** (trust); **`SRC-52`** (LLP); **`SRC-54`** (partnership); **`SRC-55 … SRC-58`** (FCRA eligibility). **The Indian Trusts Act was obtained from India Code (**`SRC-37`**, Tier 1); **the rest were not** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **All `CURRENT`** |
+| **`RELEVANT CONDITION`** | **Per form, as below** |
+| **`ENTITY DEPENDENCY`** | **`N/A`** |
+| **`FACT DEPENDENCY`** | **`NO` as to the law; **`YES` as to whether the required number of persons exists — **CEA `F-11`** records that eleven people cannot supply four independent hands** |
+| **`INTERPRETATION RISK`** | **`LOW` for the forms researched; **`HIGH` for the forms not researched** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **The table below** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **Which form should be chosen. **Whether the required number of persons is available. **State-level variation for societies and trusts, which was **not researched**** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`CLARIFICATION REQUIRED`. **`ID-1`'s **`CQ-01 … CQ-04`** asked for the minimum constitutive document set per candidate. **This research supplies the **minimum number of persons** for five candidates and **nothing** for five others, and supplies the constitutive act for four. **It also establishes a constraint the architecture has not previously recorded: **a society requires **seven** members, which is a headcount requirement, not merely a document requirement, and **CEA `F-11`** records that the available people cannot supply four independent hands** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`PARTIALLY SUPPORTED`** |
+
+| Candidate | **The constitutive act located** | **The minimum number of persons located** | **Cell label** |
+|---|---|---|---|
+| **`OPT-A` — Section 8 company** | **A **licence** from the Central Government, issued in the prescribed manner and on such conditions as it deems fit, followed by registration by the Registrar on application in the prescribed form; **a memorandum and articles that cannot thereafter be altered without **previous** Central Government approval** | **Two directors and two members for a private Section 8 company; **three directors for a public one; **a firm may be a member; **a one person company is excluded** | ### **`SOURCE`** |
+| **`OPT-B` — registered society** | **Registration with the Registrar of Societies of the concerned state, on a memorandum of association and rules and regulations** | ### **`Seven members at least`** | ### **`SOURCE`** — **but legal personality is **`SCF-01`**** |
+| **`OPT-C` — public charitable trust** | **The Indian Trusts Act, 1882 was located from India Code and governs **private** trusts; **public charitable trusts in several states are governed by state public-trust legislation, which was **not researched**. **No constitutive act or minimum number was located** | **Not located** | ### **`UNKNOWN` — state legislation not researched** |
+| **`OPT-D` — ordinary private company** | **Incorporation under the Companies Act, 2013; **a registered office within thirty days verified in Form INC-22; **first auditors appointed by the board within thirty days** | **Two persons minimum for a private company, three for a public one; **two directors minimum for a private company** | ### **`SOURCE`** |
+| **`OPT-E` — limited liability partnership** | **Incorporation under the LLP Act, 2008; **an LLP agreement** | **At least two individuals as designated partners, at least one resident in India by reference to a stay of not less than 182 days in the preceding year; **no maximum number of partners; **a body corporate may be a partner and may nominate an individual** | ### **`SOURCE`** |
+| **`OPT-F` — partnership** | **An agreement between persons to share the profits of a business carried on by all or any of them acting for all; **registration is available and a registration certificate is required for a bank account under **`RF-33`**** | **Not located** | ### **`CONDITION`** |
+| **`OPT-G` — proprietorship** | **Not located in any source** | **Not located** | ### **`UNKNOWN`** |
+| **`OPT-H` — hybrid charitable plus commercial** | **Not located as a single regime. **It would be a combination of two or more of the above, and **`RF-30`** indicates that the charitable limb's eligibility for foreign contribution is limited to three forms** | **The sum of its parts** | ### **`CONDITION`** |
+| **`OPT-I` — parent or holding plus operating entity** | **Not located. **`ID-1` records **`UE-24`**: **removal of the block requires at least two legal persons, of which at most one can be constituted at a time** | **At least two legal persons** | ### **`UNKNOWN` — and blocked by **`UE-24`**** |
+| **`OPT-J` — other, counsel-identified** | **By definition not researched** | **Not applicable** | ### **`UNKNOWN`** |
+
+### `RF-32` — what no source located in this research addresses
+
+| Field | **Content** |
+|---|---|
+| **`RESEARCH ID`** | **`RF-32`** |
+| **`ARCHITECTURAL ID`** | **`SR-01`; **`OPT-A … OPT-J`; **`FC-01 … FC-33`, `FC-E1 … FC-E8`; **`GC-01`; **`CQ-01 … CQ-04`, `CQ-34`** |
+| **`QUESTION`** | **Which of the twenty-five attributes mandate §11 requires in the entity matrix have **no** source located in this research?** |
+| **`LEGAL / TAX DOMAIN`** | **All** |
+| **`RESEARCH FINDING`** | **Of the twenty-five attributes, eleven have material for at least one candidate form and **fourteen have none for any form**. **The absence is recorded rather than filled** |
+| **`PRIMARY SOURCE`** | **None — this finding records an absence** |
+| **`SOURCE DATE / EFFECTIVE DATE`** | **`N/A`** |
+| **`RELEVANT CONDITION`** | **`N/A`** |
+| **`ENTITY DEPENDENCY`** | **`N/A`** |
+| **`FACT DEPENDENCY`** | **`NO`** |
+| **`INTERPRETATION RISK`** | **`LOW` — an absence is not ambiguous** |
+| **`WHAT THE SOURCE ACTUALLY ESTABLISHES`** | **Nothing. **It records what was not found** |
+| **`WHAT THE SOURCE DOES NOT ESTABLISH`** | **That the fourteen attributes are unanswerable in law. **They are unanswerable **from this research**, which is a different proposition, and **`NOT ESTABLISHED`** means precisely that** |
+| **`SEWAK SATHI CONSEQUENCE`** | **`BLOCKED PENDING PROFESSIONAL VALIDATION` for all fourteen. **Mandate §11: *"do not fill gaps from general knowledge."* **These gaps are left open** |
+| **`PROFESSIONAL VALIDATION REQUIRED`** | **`YES`** |
+| **`CLASSIFICATION`** | ### **`NOT ESTABLISHED`** |
+
+## VIII.3 The fourteen attributes with no source located
+
+**[P]** `[SOURCE]` as to the list of attributes — mandate §11 of this task. **`NOT ESTABLISHED` as to each.**
+
+| # | **The attribute** | **Why nothing was located** |
+|---|---|---|
+| **1** | **Member rights** | **No source located sets out the rights of members of a society, of a Section 8 company, or of a trust as against each other** |
+| **2** | **Founder role** | **No Indian statute located creates or defines a *"founder"* as a legal role. **The concept is architectural, not statutory — which is itself a finding, and it is why **`CF-16`** and **`SR-20`** cannot be resolved by reference to a founder's legal position** |
+| **3** | **Commercial activity** | **Whether a charitable form may carry on commercial activity at all was addressed only through the tax exemption regime — **`RF-35`, `RF-36`** — and not through entity law** |
+| **4** | **Social-service activity** | **No source distinguishes it from charitable activity for entity-law purposes** |
+| **5** | **Employment** | **`RF-01 … RF-10` and **`RF-28`** address employment generally; **no source located addresses employment **by a not-for-profit form** as against a commercial form** |
+| **6** | **Contracts** | **Contractual capacity per form was not located, save indirectly through **`RF-20`** for a society and **`RF-23`** for an LLP** |
+| **7** | **Intellectual property ownership** | **No source located addresses who owns work created by volunteers, by unpaid role-holders, or by a founder for an entity that does not yet exist. **This is the gap **`SR-12`**, **`SR-13`** and **`CQ-14`, `CQ-15`** sit in** |
+| **8** | **Surplus** | **Addressed for a Section 8 company only, and only as a prohibition on **dividend** — **`RF-29`**. **Not addressed for a society, a trust or an LLP** |
+| **9** | **Distributions** | **As above. **The distinction between a distribution and a **cost** — which is what **`GC-01`** turns on — was not addressed by any source** |
+| **10** | **Related-party transactions** | **No source located. **`ID-1` **`RP-5`** and **`CF-16`** remain without research content** |
+| **11** | **Succession** | **No source located addresses succession to a founder in any of the forms. **`LDR-U19`** and **`SR-10`** remain entirely open** |
+| **12** | **Dissolution** | **Located for a Section 8 company by secondary source only, and for a society by secondary source only. **Not located for a trust, an LLP or a partnership** |
+| **13** | **Reporting** | **Company filing obligations were located at **`RF-16`**; **nothing was located for a society, a trust, an LLP or a partnership** |
+| **14** | **Suitability to the current economic architecture** | ### **`NOT RESEARCHED — AND IT CANNOT BE. Suitability is the professional's judgement on facts, and mandate §5 forbids this instrument from selecting an entity. **The attribute is recorded as researched-to-a-negative-result: **no source can establish suitability, because suitability is not a fact about the law`** |
+
+## VIII.4 The entity matrix — twenty-five attributes, every cell labelled
+
+**[P]** Mandate §11. **Every cell carries `SOURCE`, `CONDITION` or `UNKNOWN`. Gaps are not filled from general knowledge. Where a cell is `SOURCE`, the finding that supplies it is named.**
+
+| # | **Attribute** | **`OPT-A` Section 8** | **`OPT-B` Society** | **`OPT-C` Public charitable trust** | **`OPT-D` Private company** | **`OPT-E` LLP · `OPT-F` Partnership · `OPT-G` Proprietorship** | **`OPT-H` Hybrid · `OPT-I` Parent plus operating · `OPT-J` Other** |
+|---|---|---|---|---|---|---|---|
+| **1** | **Legal personality** | ### **`SOURCE`** — **`RF-29`**, s.8(2) all privileges and obligations of a limited company | ### **`CONDITION`** — **`RF-20`, `SCF-01`**: contested at Constitution Bench level | ### **`UNKNOWN`** | ### **`SOURCE`** — **`RF-21`** presupposes it | **LLP **`SOURCE`** (**`RF-23`**, body corporate) · partnership **`CONDITION`** (**`RF-24`**, no separate personality located) · proprietorship **`UNKNOWN`** | ### **`UNKNOWN`** |
+| **2** | **Formation** | **`SOURCE`** — **`RF-29`**, licence then registration | **`SOURCE`** — **`RF-31`**, state Registrar | **`UNKNOWN`** | **`SOURCE`** — **`RF-31`** | **LLP **`SOURCE`** · partnership **`CONDITION`** · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **3** | **Ownership** | **`SOURCE`** — members; **dividend prohibited; **a firm may be a member | **`CONDITION`** — property deemed vested in the governing body, **`RF-20`** | **`CONDITION`** — trust property and beneficiaries, **`RF-18`** | **`SOURCE`** — shareholders | **LLP **`SOURCE`** — contribution per agreement · partnership **`SOURCE`** — partners own the firm's assets · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **4** | **Control** | **`SOURCE`** — directors, board meetings, s.173 | **`SOURCE`** — governing body, s.16 | **`CONDITION`** — trustees | **`SOURCE`** — s.149, s.166 | **LLP **`SOURCE`** — designated partners · partnership **`SOURCE`** — mutual agency, s.18 · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **5** | **Governance** | **`SOURCE`** — **`RF-16`** | **`CONDITION`** — rules and regulations, annual list of office bearers | **`UNKNOWN`** | **`SOURCE`** — **`RF-16`** | **LLP **`SOURCE`** — LLP agreement · partnership **`CONDITION`** · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **6** | **Member rights** | **`UNKNOWN`** | **`CONDITION`** — s.10, a member in arrears or damaging property may be sued | **`CONDITION`** — beneficiary rights, **`RF-18`** | **`UNKNOWN`** | **`UNKNOWN`** | **`UNKNOWN`** |
+| **7** | **Founder role** | ### **`UNKNOWN` — no Indian statute located defines a founder** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** |
+| **8** | **Liability** | **`SOURCE`** — limited, with **`RF-21`** and **`RF-22`** as the routes through it | **`CONDITION`** — **`RF-20`, `SCF-01`**; **judgment enforced against society property; **named officers are the persons sued** | **`SOURCE`** — **`RF-18`, `RF-19`**, personal for breach | **`SOURCE`** — **`RF-21`, `RF-22`** | **LLP **`SOURCE`** — **`RF-23`** · partnership **`SOURCE`** — **`RF-24`**, unlimited joint and several · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **9** | **Taxation** | **`CONDITION`** — exemption requires registration, **`RF-35`** | **`CONDITION`** — as above | **`CONDITION`** — as above | **`SOURCE`** — the general regime, **`DTC-01`** | **LLP **`SOURCE`** — taxed on par with a firm · partnership **`SOURCE`** · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **10** | **Commercial activity** | **`CONDITION`** — the twenty-per-cent receipts test, **`RF-35`** | **`CONDITION`** — as above | **`CONDITION`** — as above | **`SOURCE`** — unrestricted in principle | **`SOURCE`** — unrestricted in principle | **`CONDITION`** — the whole point of the hybrid |
+| **11** | **Social-service activity** | **`SOURCE`** — within the listed objects, **`RF-29`** | **`SOURCE`** — charitable, educational, literary, scientific purposes | **`CONDITION`** | **`SOURCE`** — if in the objects | **`CONDITION`** | **`CONDITION`** |
+| **12** | **Employment** | **`CONDITION`** — **`RF-01 … RF-10`** apply to an *employer*, whatever the form | **`CONDITION`** — as above | **`CONDITION`** — as above | **`CONDITION`** — as above | **`CONDITION`** — as above, and in a partnership every partner is jointly and severally exposed, **`RF-24`** | **`CONDITION`** |
+| **13** | **Contracts** | **`SOURCE`** — a limited company contracts | **`CONDITION`** — **`RF-20`**: whether a society can contract in its own name is the subject of **`SCF-01`** | **`CONDITION`** — trustees contract | **`SOURCE`** | **LLP **`SOURCE`** · partnership **`SOURCE`** — s.18 agency binds the firm · proprietorship **`CONDITION`** — the proprietor contracts personally | **`UNKNOWN`** |
+| **14** | **Bank accounts** | **`SOURCE`** — **`RF-33`**, certificate of incorporation, memorandum and articles, PAN, board resolution | **`SOURCE`** — **`RF-33`**, as a juridical person not specifically covered: **a document showing the person authorised to act, and documents establishing legal existence** | **`SOURCE`** — **`RF-33`**, registration certificate and trust deed | **`SOURCE`** — **`RF-33`** | **LLP **`UNKNOWN`** · partnership **`SOURCE`** — **`RF-33`**, registration certificate and partnership deed · proprietorship **`CONDITION`** — **`RF-33`**, the proprietor's own identification | **`UNKNOWN`** |
+| **15** | **IP ownership** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** |
+| **16** | **Surplus** | **`SOURCE`** — profits applied to objects; **dividend prohibited** | **`CONDITION`** — property may not be used for the private benefit of members | **`CONDITION`** — **`RF-18`**, s.23 and the employment-of-trust-property-in-trade limb | **`SOURCE`** — distributable as dividend | **LLP **`CONDITION`** · partnership **`SOURCE`** — profits shared · proprietorship **`CONDITION`** — the proprietor's own | **`UNKNOWN`** |
+| **17** | **Distributions** | **`SOURCE`** — prohibited to members | **`CONDITION`** | **`CONDITION`** | **`SOURCE`** — permitted | **`SOURCE`** for a partnership · **`CONDITION`** for an LLP | **`UNKNOWN`** |
+| **18** | **Related-party transactions** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** |
+| **19** | **Succession** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`CONDITION`** — **`RF-23`** records the position after a partner's death for an LLP name; **`RF-24`** records that liability ends on ceasing to be a partner | ### **`UNKNOWN`** |
+| **20** | **Dissolution** | **`CONDITION`** — assets pass to another Section 8 company with similar objects; **`VERIFIED — SECONDARY`** | **`CONDITION`** — by consent of at least three-fifths of members; **`VERIFIED — SECONDARY`** | **`UNKNOWN`** | **`SOURCE`** — winding up under Chapter XX, **`RF-21`** | **`UNKNOWN`** | **`UNKNOWN`** |
+| **21** | **Reporting** | **`SOURCE`** — **`RF-16`**: annual return, financial statements, audit | **`CONDITION`** — annual list of office bearers to the Registrar; **accounts and audit requirements vary by state** | **`UNKNOWN`** | **`SOURCE`** — **`RF-16`** | **LLP **`SOURCE`** — annual return within sixty days · partnership **`CONDITION`** — return of income · proprietorship **`CONDITION`** | **`UNKNOWN`** |
+| **22** | **Accounting** | **`SOURCE`** — **`RF-15`, `RF-16`**: accrual basis, eight-year retention, the 2021 Rules unless listed or above ₹250 crore | **`UNKNOWN`** — no mandatory framework located | **`UNKNOWN`** | **`SOURCE`** — as above | **LLP **`UNKNOWN`** · partnership **`UNKNOWN`** · proprietorship **`UNKNOWN`** | **`UNKNOWN`** |
+| **23** | **Statutory compliance** | **`SOURCE`** — **`RF-16`, `RF-29`** | **`CONDITION`** — state-specific | **`CONDITION`** — state public-trust legislation not researched | **`SOURCE`** — **`RF-16`** | **LLP **`SOURCE`** · partnership **`CONDITION`** · proprietorship **`CONDITION`** | **`UNKNOWN`** |
+| **24** | **Fundraising and donations** | **`CONDITION`** — **`RF-35`, `RF-36`, `RF-30`**: registration, the charitable-activity exemption, and the three-year foreign-contribution rule | **`CONDITION`** — as above | **`CONDITION`** — as above | **`CONDITION`** — donor deduction depends on the recipient's approval, **`RF-37`** | **`CONDITION`** — and **`RF-30`** locates no foreign-contribution eligibility for these forms | **`CONDITION`** |
+| **25** | **Suitability to the current economic architecture** | ### **`UNKNOWN — AND NOT RESEARCHABLE. Suitability is a professional judgement on facts, not a proposition about a source. **Mandate §5 forbids selecting an entity, and this cell is where that prohibition bites hardest`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** | ### **`UNKNOWN`** |
+
+## VIII.5 What the matrix shows, without selecting anything
+
+**[P]** `[PROPOSED]`. **Counts computed from the matrix above.**
+
+| Measure | **Count** |
+|---|---|
+| **Attributes in the matrix** | **25** |
+| **Candidate-form columns** | **6, covering all ten candidates** |
+| **Cells displayed in the matrix** | **150 — 25 attributes × 6 columns** |
+| **Candidate forms those columns cover** | **10 — two columns each carry three candidates, so each of those cells holds three labels** |
+| **Labels appearing in the matrix** | ### **`177 — 57 `SOURCE`, 54 `CONDITION`, 66 `UNKNOWN`, counted by extraction from §VIII.4`** |
+| **Proportion `UNKNOWN`** | **66 of 177 — **37 per cent of every label placed in the matrix is an admission that nothing was found**** |
+| **Attributes `UNKNOWN` for every candidate** | ### **`4 — founder role, IP ownership, related-party transactions, and suitability to the current economic architecture`** |
+| **Attributes `UNKNOWN` for five of six columns** | **1 — succession, where only the LLP and partnership columns carry material** |
+| **Attributes with no `UNKNOWN` label in any column** | **4 — commercial activity, social-service activity, employment, and fundraising and donations** |
+| **Candidates with material located** | **6 of 10 — `OPT-A`, `OPT-B`, `OPT-C` in part, `OPT-D`, `OPT-E`, `OPT-F`** |
+| **Candidates with no material located at all** | **4 of 10 — `OPT-G` proprietorship, `OPT-H` hybrid, `OPT-I` parent plus operating, `OPT-J` other** |
+| **Entities selected by this Part** | ### **`0`** |
+| **Entities recommended, ranked or preferred by this Part** | ### **`0`** |
+
+> ### **`ONE HUNDRED AND SEVENTY-SEVEN LABELS WERE PLACED IN THIS MATRIX, AND SIXTY-SIX OF THEM — MORE THAN A THIRD — SAY THAT NOTHING WAS FOUND. FOUR ATTRIBUTES HAVE NO SOURCE FOR ANY CANDIDATE FORM: THE FOUNDER'S ROLE, OWNERSHIP OF INTELLECTUAL PROPERTY, RELATED-PARTY TRANSACTIONS, AND SUITABILITY TO THE CURRENT ECONOMIC ARCHITECTURE. THE FIRST THREE ARE PRECISELY THE ATTRIBUTES ON WHICH `GC-01`, `CF-16`, `SR-12`, `SR-13` AND THE WHOLE OF THE FOUNDER-AND-KRYPTOS RELATIONSHIP TURN. THE FOURTH IS NOT A GAP IN THE RESEARCH; IT IS A GAP IN WHAT RESEARCH CAN DO, BECAUSE SUITABILITY IS A JUDGEMENT ON FACTS AND NOT A PROPOSITION ABOUT A SOURCE.`**
+
+---
