@@ -388,7 +388,7 @@
 | **`QUESTION`** | **What distinguishes promised, earned, statutorily required, voluntary and unpaid compensation, and does the distinction have legal content?** |
 | **`LEGAL / TAX DOMAIN`** | **Labour law; **contract law; **accounting** |
 | **`RESEARCH FINDING`** | **The available sources indicate that the distinction has real legal content, and that the five categories attach to different regimes** |
-| **`PRIMARY SOURCE`** | **Composite of **SRC-26**, **SRC-27**, **SRC-53`, and the accounting material at **SRC-22 … SRC-25**** |
+| **`PRIMARY SOURCE`** | **Composite of **`SRC-26`**, **`SRC-27`**, **`SRC-53`**, and the accounting material at **`SRC-22 … SRC-25`**** |
 | **`SOURCE DATE / EFFECTIVE DATE`** | **As per the underlying sources; **all `CURRENT`** |
 | **`RELEVANT CONDITION`** | **Stated per category below** |
 | **`ENTITY DEPENDENCY`** | **`PARTLY — the statutory categories attach to an *employer*; **the contractual and accounting categories do not** |
@@ -2254,3 +2254,279 @@
 | **Propositions where a Tier 1 source existed but was not obtained in this research** | **9 — the CGST Act and its notifications, the Code on Social Security, the POCSO Act, the Motor Vehicles Act, the Societies Registration Act, the Partnership Act, the LLP Act, the Companies Act, and the Income-tax Act, 2025. **Each is recorded at **`RL-02`**** |
 
 ---
+
+# PART XXII — RESEARCH LIMITATIONS
+
+## XXII.1 Why this Part exists
+
+**[P]** Mandate §28 of this task. **A research instrument that does not state its own limits is an instrument that will be over-read. Every limitation below is a place where this document stops, and stops deliberately.**
+
+## XXII.2 The limitations
+
+| ID | **The limitation** | **What it means in practice** | **Where it bites hardest** |
+|---|---|---|---|
+| **`RL-01`** | ### **`Public research cannot establish any fact about this organisation`** | **Research establishes propositions about the law. **It cannot establish whether any person is an employee, whether any money has moved, whether any activity has occurred, whether any minor has been involved, or whether any document exists. **Twenty-nine of the thirty-five `ID-1` questions are fact-dependent** | **`SR-02`, `CQ-06`, and every question in `ID-1`'s disclosure pack, all fifty fields of which remain blank** |
+| **`RL-02`** | **Nine primary texts existed and were not obtained** | **The CGST Act and its notifications, the Code on Social Security, the POCSO Act, the Motor Vehicles Act, the Societies Registration Act, the Partnership Act, the LLP Act, the Companies Act, and the Income-tax Act, 2025. **For each, the statutory text was located through a reproduction rather than through India Code, a ministry or a regulator. **Sixteen of the forty-one findings record this expressly** | **Every finding classified `SUPPORTED BY SECONDARY SOURCE ONLY` — twenty-three of forty-one** |
+| **`RL-03`** | **Entity choice changes the answer to most of what was researched** | **Twenty of thirty-five questions are wholly entity-dependent and eight are partly so. **Six of the eleven liability regimes in Part VII attach only to one form. **The accounting framework, the retention period, the reporting obligations and the tax registration route all differ by form** | **Part VIII, where 66 of 177 matrix labels are `UNKNOWN`, and where four attributes have no source for any form at all** |
+| **`RL-04`** | **The Reserve Bank's Directions were obtained only in consolidated versions dated 2020 and 2021** | **The Reserve Bank updates the Directions periodically. **The text located may not be the text in force on the research date. **No provision was relied on that could have been removed by a later update, but the absence of a minimum-signatory requirement — a **negative** finding — cannot be verified against a version not obtained** | **`RF-33`, `RQ-15`, `ACN-09` — and therefore the architecture's own two-signatory rule** |
+| **`RL-05`** | **State law was not researched at all** | **Society registration, public charitable trusts, minimum wage rates, stamp duty, professional tax, shops-and-establishments registration and the Labour Codes' state Rules all vary by state. **The intended operating state is unknown — **`DIS-06`** is blank** | **`OPT-B`, `OPT-C`, `CQ-02`, `CQ-34`, `SCF-05`** |
+| **`RL-06`** | **One date is reported two ways** | **`SRC-14` gives Phase 1 of the data-protection commencement as 13 November 2025, the date of the notification. **`SRC-15` gives 14 November 2025, the date of publication in the Official Gazette. **The difference is one day and is immaterial to every conclusion, but it is recorded rather than smoothed** | **`RF-40`, `DTC-05`** |
+| **`RL-07`** | **Professional interpretation is unavoidable wherever a standard is expressed in evaluative language** | ***"Significantly higher than recovery of costs"*, *"in the course of the actual carrying out"*, *"reasonable activities"*, *"prejudicial to public interest"*, *"gross neglect"*, *"reasonably necessary to protect someone from immediate harm"* — none of these can be resolved by reading. **Each requires a judgement on facts** | **`RF-35`, `RF-30`, `RF-29`, `RF-22`, and the whole of the protection doctrine at Part XV** |
+| **`RL-08`** | **Legal advice remains mandatory before implementation, and research is not a substitute for it** | **No finding in this instrument authorises any act. **`C-15`, `C-19`, `C-20`, `C-21`, `C-22`, `C-23`, `C-25`, `C-26` and `C-27` remain in force, and **`GATE P0`** remains at zero of ten. **Mandate §24: *"this specific research question is provisionally clarified; overall deployment remains subject to the unresolved gates identified by the architecture"*** | **Every Part** |
+| **`RL-09`** | **Current law may change, and has changed three times during the life of this corpus** | **The Income-tax Act was replaced on 1 April 2026. **The Labour Codes commenced on 21 November 2025. **The data-protection regime commenced in phases from 13 November 2025 with two phases still future-dated. **The criminal statutes were replaced on 1 July 2024. **Anything in this instrument has a shelf life, and the shelf life of the data-protection findings expires on or about 13 May 2027** | **`DTC-01` to **`DTC-08`**, and every finding resting on them** |
+| **`RL-10`** | **Case-specific advice is required for every proposition that turns on a threshold** | **Twenty employees, ten employees, ten or more workers, ₹250 crore, twenty per cent of receipts, fifty per cent of wages, three years of existence, ₹15,000, ₹21,000, ten vehicles, ₹2,000, ₹30,000, ₹1,00,000 — every one of these is a line that either applies or does not, and which side of it this architecture falls on is a question of fact** | **`RF-28`, `RF-35`, `RF-37`, `RF-39`, `RF-30`, `RF-36`** |
+| **`RL-11`** | **No judicial authority was obtained** | **The Constitution Bench decision at **`SCF-01`**, the Gujarat High Court decision at **`RF-35`**, the Bombay High Court decision at **`RF-22`**, the Supreme Court's 2016 Good Samaritan directions at **`RF-25`** and the NCLT order at **`RF-21`** were all located through secondary reports except the last. **No ratio, no holding and no precedent value was verified against a judgment** | **`SCF-01` above all, where the conflict is between a reported Constitution Bench and three secondary sources** |
+| **`RL-12`** | **Insurance was not researched for cover** | **Nine of the fifteen risks in Part XVI are marked `NOT RESEARCHED` for cover. **No product, market, insurer, availability, premium or policy wording was sought, because mandate §19 forbids saying that coverage exists and this instrument would not say it even if a product were located** | **Part XVI, `L1 … L15`, `RSK-1 … RSK-15`, `CQ-22 … CQ-24`** |
+| **`RL-13`** | **The Bharatiya Nyaya Sanhita was not obtained, so no offence-level analysis was possible** | **The architecture's protection doctrine, its intervention boundary and its criminal-exposure questions all engage provisions that were renumbered on 1 July 2024. **This research establishes the renumbering and nothing about the offences** | **`CQ-25`, Part XV, `ACN-25`** |
+| **`RL-14`** | **This instrument cannot reduce the cost of professional validation to zero, and does not claim to** | **What it can do, and has done, is convert twenty open questions into twenty **precise** questions with their conditions, their sources and their conflicts already identified. **A professional engaged after this instrument will not need to be paid to discover that the Income-tax Act was replaced, that the Labour Codes commenced, that the data-protection duties are future-dated, that the society question is contested, or that the twenty-per-cent test re-frames `GC-01`. **That is the whole of its value, and it is not a small value, but it is not an opinion** | **Part XIX, register 2** |
+
+## XXII.3 What this Part does not say
+
+| Not said | **Why not** |
+|---|---|
+| ***"The research was thorough"*** | **Nine primary texts were not obtained, no judgment was obtained, no state law was researched, and insurance was not researched for cover. **Thoroughness is not claimed** |
+| ***"The findings are current"*** | **They are current **as at 8 October 2026**, on the sources located, and **`RL-09`** records that three of the relevant regimes changed within the preceding thirty months** |
+| ***"The questions are answered"*** | **Zero of the thirty-five `ID-1` questions is closed. **Twenty-five propositions were established, and a proposition is not an answer** |
+| ***"The architecture may proceed"*** | **Mandate §24 forbids it. **§XXIV items 5 and 6 state precisely what may continue and what must remain stopped** |
+| ***"Counsel is unnecessary"*** | **Twenty questions remain for a professional, and the register at §XIX.3 must remain open. **The absence of paid counsel is not a reason to close it** |
+
+---
+
+# PART XXIII — THE COMPLETENESS AUDIT, `RA-01 … RA-20`
+
+## XXIII.1 The rule
+
+**[P]** Mandate §29. **Every test was run against this file, by extraction or by search, on the research date. No test was passed by inspection or by intention.**
+
+## XXIII.2 The tests
+
+| Test | **What it requires** | **The method** | **The evidence obtained** | **Result** |
+|---|---|---|---|---|
+| **`RA-01`** | **`PVR-03` researched** | **Findings counted** | **Ten findings — **`RF-01 … RF-10`** — covering payment deadlines, the minimum floor, deductions and their cap, the penal consequence of underpayment, the claims machinery, appropriation, the five compensation categories, volunteers, absence-based reduction, and separation. **Synthesis at §V.3** | ### **`PASS`** |
+| **`RA-02`** | **`PVR-05` researched** | **Findings counted; **the six meanings checked against the mandate's list** | **Seven findings — **`RF-11 … RF-17`** — and all six required meanings separated at **`RF-17`**: accounting revenue, cash received, taxable income or tax base, GST taxable supply and its tax point, available cash, and the internal economic waterfall base, the last marked **`ARCHITECTURAL DEFINITION REQUIRED`** rather than given a borrowed definition** | ### **`PASS`** |
+| **`RA-03`** | **`PVR-22` researched** | **Findings counted; **the two prohibited formulations searched for** | **Eleven findings — **`RF-18 … RF-28`** — and eleven exposures mapped at §VII.3. ***"They are personally liable"* and *"they are protected"*: **0 occurrences as assertions** | ### **`PASS`** |
+| **`RA-04`** | **`SR-01` / `LDR-U08` researched** | **Matrix cells counted and labelled** | **Part VIII: **4 findings (**`RF-29 … RF-32`**), a matrix of **25 attributes across all 10 candidates**, displayed in **150 cells** carrying **177 labels** — **57 `SOURCE`, 54 `CONDITION`, 66 `UNKNOWN`**. **Entities selected: **0**** | ### **`PASS`** |
+| **`RA-05`** | **`A-N16` researched** | **Finding located; **the chain mapped** | **`RF-33` — the Reserve Bank of India's KYC Directions, Part III and Part IV, per legal form, with the eight-link chain at §IX.3 and the discipline named for each link. **Banks, signatories, signatory counts, accounts and approval hierarchies invented: **0**** | ### **`PASS`** |
+| **`RA-06`** | **Founder and Krytos legal dependencies researched** | **Finding located; **the prohibited assumptions searched for** | **`RF-34`, with Part X §X.3 recording ten items as **`UNRESOLVED UNTIL FACTUAL OR LEGAL STATUS IS ESTABLISHED`**. **Krytos is nowhere assumed to be a company, trust, society, LLP, legal person, parent, subsidiary, IP owner, data fiduciary or contracting party** | ### **`PASS`** |
+| **`RA-07`** | **Tax dependencies researched** | **Findings counted; **all nineteen heads checked** | **Seven findings — **`RF-35 … RF-41`** — and all **19 tax heads** mapped at §XI.3: **4 with a primary source, 7 partly supported, 1 ambiguous, 1 fact-dependent, **6 `NOT ESTABLISHED`**. **The five mandated distinctions — LAW, APPLICABILITY, FACT DEPENDENCY, ENTITY DEPENDENCY, PROFESSIONAL VALIDATION — are carried in every finding's fields 8, 9, 10 and 15** | ### **`PASS`** |
+| **`RA-08`** | **Accounting dependencies researched** | **Findings counted; **the requirement-versus-control distinction checked** | **`RF-15`, `RF-16` and **`RF-17`** row 1, with all **18 accounting heads** mapped at §XII.2 and the distinction drawn at §XII.1: **9 heads with a located external requirement, 7 `NOT ESTABLISHED`, and **18 of 18** management controls performable today on paper** | ### **`PASS`** |
+| **`RA-09`** | **Worker classification researched** | **Categories counted; **the classification decision searched for** | **Part XIII: **8 statutory categories with their tests and exclusions, **8 indicators** each with the reason it cannot be applied, and an **11-consequence map across 7 categories**. **No classification is decided for the organisation** | ### **`PASS`** |
+| **`RA-10`** | **Liability and insurance dependencies researched** | **Risks counted; **coverage claims and premiums searched for** | **Part XVI: **15 risks** in the mandated format `RISK → POSSIBLE COVERAGE → SOURCE → ENTITY DEPENDENCY → PROFESSIONAL / BROKER VALIDATION`. **Contracts of insurance located: **0**. **Premiums stated: **0**. **Policies recommended: **0**. **Coverage claimed: **0**. **Risks marked `NOT RESEARCHED` for cover: **9**, recorded rather than filled** | ### **`PASS`** |
+| **`RA-11`** | **Every finding has a source** | **All 41 finding blocks extracted; **the `PRIMARY SOURCE` field checked in each** | **41 of 41 findings carry a non-empty `PRIMARY SOURCE` field naming at least one **`SRC-nn`** identifier or stating expressly that none was located. **Findings with no source at all: **2**, both of which record an absence as their subject — **`RF-32`** and, in part, **`RF-06`**** | ### **`PASS`** |
+| **`RA-12`** | **Every source has a date and status check** | **All 130 register rows extracted; **the date and status columns checked** | **130 of 130 rows carry a publication or accessed date and a current-status assessment. **111 have a stated publication date; **19 are undated and are marked as accessed on the research date. **22 record a commencement or effective date. **22 are marked superseded or of doubtful currency. **5 are marked `CURRENT APPLICABILITY NOT ESTABLISHED`** | ### **`PASS`** |
+| **`RA-13`** | **No unsupported legal conclusion exists** | **All eleven prohibited formulations searched for across the file** | **Each of the eleven appears, and **every occurrence is inside the prohibition table at §II.4 or inside an express negation** — *"it does not establish that 'GST does not apply'"*. **Occurrences used as assertions: **0**. **Permitted substitutes are used throughout: *"the available source indicates"*, *"subject to the stated conditions"*, *"the source does not establish"*** | ### **`PASS`** |
+| **`RA-14`** | **No historical blueprint figure has been adopted** | **The blueprint's identifiers searched for; **every rupee figure traced to a source** | **The foundational economic blueprint remains absent — **`EV-B-01`, `RS-9`, `FD-1`, **`PV-1 … PV-6`** still absent. **`SR-21` and **`SR-22`** are not restated. ***"Zero-Capital"* is not treated as established. **No figure from the blueprint appears, because no figure from it has ever been received** | ### **`PASS`** |
+| **`RA-15`** | **No economic number has been invented** | **Every rupee figure and every percentage extracted and traced** | **101 occurrences of rupee figures, resolving to **31 distinct amounts**, every one of which is a statutory threshold, rate, ceiling or fee quoted from a registered source inside a finding that carries a source, a date and a classification. **Percentages: **1 numeric token, the one-per-cent withholding rate, with all others written in words. **Architectural figures invented: **0**. **Salaries, reserves, targets, ratios, budgets and pilot thresholds invented: **0**. **All 31 distinct figures were checked for a source reference and all 31 are traceable** | ### **`PASS`** |
+| **`RA-16`** | **Research findings are separated from professional conclusions** | **The two registers checked** | **Part XIX keeps them apart: **25 propositions established in register 1**, each with the architectural question that nonetheless remains open named beside it, and **20 questions in register 2**, which remains open. **Every finding carries a separate `WHAT THE SOURCE ACTUALLY ESTABLISHES` field and a separate `WHAT THE SOURCE DOES NOT ESTABLISH` field, and neither is ever empty — verified across all 41 blocks** | ### **`PASS`** |
+| **`RA-17`** | **Unresolved questions remain explicitly unresolved** | **The coverage matrix and the registers checked** | **35 of 35 `ID-1` questions appear in the Part XX matrix with **0 empty cells** across **350 cells**. **Questions closed: **0**. **Questions marked `NOT RESEARCHED`: **7**, each with its reason. **Register 2 remains open in full, as mandate §23 requires** | ### **`PASS`** |
+| **`RA-18`** | **The CEA has not been silently rewritten** | **The consequence register checked against the mandate §25 list** | **Part XVIII records **25 architectural consequences** using only the four permitted effects, of which **4 are `ARCHITECTURAL AMENDMENT MAY BE REQUIRED`** — recorded, **not applied**. **All **15 CEA findings** that mandate §25 requires to remain intact are listed at §XVIII.3: **12 intact and unchanged, **3 intact and strengthened, **0 altered**. **Amendments applied to the CEA: **0**. **The CEA remains committed at **`76a30b3`** and `ID-1` at **`7c49d0b`**** | ### **`PASS`** |
+| **`RA-19`** | **No entity has been silently selected** | **Selection, ranking, preference and recommendation language searched for** | **Entities selected: **0**. **Candidates ranked: **0**. **Candidates preferred: **0**. **The matrix at §VIII.4 carries **66 `UNKNOWN`** labels rather than filling gaps, and §VIII.3 attribute 25 records suitability as **`UNKNOWN — AND NOT RESEARCHABLE`** for every candidate. **Material supplied for **`OPT-E`** and **`OPT-F`**, which the corpus does not contain, is labelled **`PROFESSIONAL INPUT — NOT CURRENT ARCHITECTURE DECISION`**** | ### **`PASS`** |
+| **`RA-20`** | **The final document clearly states what can proceed and what remains blocked** | **Part XXIV items 5 and 6 checked** | **Item 5 lists **7** pieces of architectural work that can safely continue, each with its authority. **Item 6 lists **11** categories of work that must remain stopped, each with its prohibition. **Item 4 lists the gates that remain blocked. **Nothing is left implicit** | ### **`PASS`** |
+
+## XXIII.3 The audit counted
+
+| Measure | **Count** |
+|---|---|
+| **Tests specified by the mandate** | **20 — `RA-01 … RA-20`** |
+| **Tests run against this file on the research date** | **20** |
+| **Tests passed** | ### **`20 OF 20`** |
+| **Tests failed** | **0** |
+| **Tests not run** | **0** |
+| **Tests passed by inspection rather than by extraction or search** | **0** |
+| **Findings audited** | **41** |
+| **Sources audited** | **130** |
+| **Rupee figures audited** | **101 occurrences, 31 distinct, 31 traceable** |
+| **Prohibited formulations searched for** | **11** |
+| **Prohibited formulations used as assertions** | ### **`0`** |
+| **Entities selected** | ### **`0`** |
+| **`ID-1` questions closed** | ### **`0`** |
+| **Amendments applied to the CEA or to `ID-1`** | ### **`0`** |
+
+---
+
+# PART XXIV — THE VERDICT
+
+## XXIV.1 The four grades
+
+**[P]** Mandate §30. **The grades are reproduced so that the verdict is falsifiable rather than decorative.**
+
+| Grade | **Definition** |
+|---|---|
+| **`A`** | **Research sufficient for current architectural decisions — public authoritative sources are sufficient for the questions necessary at this stage, with professional validation deferred only where genuinely required** |
+| **`B`** | **Research clarifies material questions, professional validation still required** |
+| **`C`** | **Material questions remain unresolved after research** |
+| **`D`** | **Research cannot responsibly establish the required position** |
+
+## XXIV.2 The verdict
+
+> # **`VERDICT: B — RESEARCH CLARIFIES MATERIAL QUESTIONS, PROFESSIONAL VALIDATION STILL REQUIRED`**
+
+**Why not `A`:** grade `A` requires that public sources be sufficient *for the questions necessary at this stage*. **The question necessary at this stage is **`SR-01`** — which legal form should be created — and it is not answerable by research. **Mandate §5 forbids selecting an entity; **§VIII.3 attribute 25 records that suitability is a judgement on facts and not a proposition about a source; **66 of the 177 labels in the entity matrix are `UNKNOWN`; **and **`SCF-01`** puts the legal personality of one candidate in conflict at Constitution Bench level. **Research cannot close it, and no amount of further research could.
+
+**Why not `C`:** grade `C` would understate what was established. **Twenty-five propositions were established, twelve of them from Tier 1 sources. **Three of them change the architecture's understanding of its own central conflict. **Two identify duties that bind the people involved **today**, without any entity. **One establishes that the statute governing every tax question in the corpus was replaced six months ago. **One establishes that the data-protection duties have a commencement date. **One confirms, on a Tier 1 regulatory source, why `A-N16` is blocked. **One identifies a complaints route that already exists and costs nothing. **That is material clarification, and grade `C` would hide it.
+
+**Why not `D`:** grade `D` would be false. **Research did responsibly establish a position on twenty-five propositions, and it did so without inventing a single conclusion, a single figure or a single entity.
+
+## XXIV.3 The nine items
+
+### 1 — What research established
+
+| # | **Established** | **By** |
+|---|---|---|
+| **1.1** | **The Income-tax Act, 1961 was replaced by the Income-tax Act, 2025 with effect from **1 April 2026**, so every tax proposition in the corpus is expressed against a repealed statute, and the new Act's section numbering is in unresolved conflict between secondary sources** | **`DTC-01`, `DTC-02`, `RF-41`, `SCF-02`** |
+| **1.2** | **The four Labour Codes are in force from **21 November 2025**, consolidating twenty-nine central labour statutes, and the Code on Wages now reaches **all employees** with no wage ceiling** | **`DTC-03`, `RQ-23`, **`SRC-01`, `SRC-02`** — Tier 1** |
+| **1.3** | **The data-protection definitions and regulator are in force now; **the Consent Manager layer commences on or about **13 November 2026**; **and the core processing duties commence on or about **13 May 2027**** | **`DTC-05`, `RF-40`** |
+| **1.4** | **Paying an employee less than the amount due under the Code on Wages is a **penal** offence; **deductions are a closed list capped at fifty per cent; **a payment from employee to employer is **deemed a deduction**; **and claims run for **three years** with compensation up to **ten times** the claim, recoverable through the Collector** | **`RF-03`, `RF-04`, `RF-05`** |
+| **1.5** | **The GST tax point for services is the **earlier** of invoice and receipt, so the architecture's cash-resolution rule cannot be applied to GST** | **`RF-11`, `ACN-23`** |
+| **1.6** | **The operative tax restriction on a general-public-utility organisation is a **twenty-per-cent ceiling on commercial receipts** and a **cost-recovery discipline** — not a prohibition on distributions. **This re-frames **`GC-01`**** | **`RF-35`, `ACN-04`** |
+| **1.7** | **The GST charitable exemption requires an income-tax registration and an activity within a **closed** definition narrower than the income-tax definition; **inter-state supply of goods requires GST registration **irrespective of turnover**; **and aggregate turnover is counted **nationally, per Permanent Account Number, including exempt supplies**** | **`RF-38`, `RF-39`** |
+| **1.8** | **Opening any organisational account requires documentary evidence of legal existence, a governing resolution, an identified authorised signatory with a Permanent Account Number or Form No. 60, and beneficial-owner verification — **and the Reserve Bank's Directions prescribe **no minimum number of signatories**, so the architecture's two-signatory rule is an architectural control and not a legal requirement** | **`RF-33`, `RQ-14`, `RQ-15`, `ACN-09`** |
+| **1.9** | **A **Permanent Account Number in the organisation's own name** is a precondition of a bank account — a requirement absent from the entire corpus, which `ID-1` already recorded at **`ER-6`**** | **`RF-33` link 3, `ACN-10`** |
+| **1.10** | **Two regimes bind the people involved **today**, without any entity: **the POCSO duty to report, which is criminal and universal, with an enhanced penalty for an institutional head; **and the Motor Vehicles Act s.134A protection, which is narrow and confined to accidents involving a motor vehicle** | **`RF-26`, `RF-25`, `ACN-15`, `ACN-16`** |
+| **1.11** | **A district **Local Committee** for harassment complaints already exists by statute and requires no internal body, no entity and no funding where a workplace has fewer than ten employees** | **`RF-27`, `ACN-17`** |
+| **1.12** | **Normal foreign-contribution registration requires **three years of existence** and three years of audited core-activity expenditure, so a newly constituted entity cannot receive unrestricted foreign contribution at launch** | **`RF-30`, `ACN-19`** |
+| **1.13** | **Provident-fund coverage is **irreversible** once an establishment reaches twenty employees, and contractors' workers count toward the total — headcount is a one-way gate** | **`RF-28`, `ACN-18`** |
+| **1.14** | **Whether a registered society is a legal person is contested between a reported Supreme Court Constitution Bench and several secondary sources** | **`RF-20`, `SCF-01`, `ACN-11`** |
+| **1.15** | **Personal liability for corporate debts requires winding up **and** fraud; **personal liability for unrecoverable company tax requires a **private company**, tax due, non-recovery and directorship, with a reverse onus; **and an LLP with a vacancy in the designated-partner office makes **every** partner liable to all penalties imposed on the LLP** | **`RF-21`, `RF-22`, `RF-23`, `ACN-13`, `ACN-14`** |
+
+### 2 — What research did not establish
+
+| # | **Not established** | **Why** |
+|---|---|---|
+| **2.1** | **Which legal form should be created** | **Mandate §5 forbids it, and suitability is a judgement on facts** |
+| **2.2** | **Whether a society is a legal person** | **`SCF-01` — a conflict at Constitution Bench level, with the judgment not obtained** |
+| **2.3** | **Any person's classification** | **Wholly fact-dependent; **no statutory definition of *volunteer* exists in any source located** |
+| **2.4** | **Whether a consensual deferral of an earned wage is a *deduction*, or whether a deferred amount is *due*** | **The two questions on which the lawfulness of partial payment turns, and neither is settled by any source** |
+| **2.5** | **What protects a person who intervenes in an emergency that is not a motor-vehicle accident** | **`NOT ESTABLISHED`; **the Bharatiya Nyaya Sanhita was not obtained** |
+| **2.6** | **Who owns the founder's work, or on what terms it could be licensed, transferred or contributed** | **`NOT ESTABLISHED`; **intellectual-property ownership is **`UNKNOWN` for every candidate form** |
+| **2.7** | **Any related-party, transfer-pricing, management-fee or royalty regime** | **`NOT ESTABLISHED`** |
+| **2.8** | **The tax treatment of founder compensation** | **`NOT ESTABLISHED`; **and **`CF-16`** is independently `AUTHORITY UNRESOLVED`** |
+| **2.9** | **Any section number of the Income-tax Act, 2025** | **`SCF-02` — two sources give different destinations for the same provision; **the official concordance table was not obtained. **No 2025 Act section number is cited anywhere in this instrument** |
+| **2.10** | **Any insurance cover of any kind** | **Nine of fifteen risks `NOT RESEARCHED` for cover; **zero contracts of insurance located; **zero premiums stated** |
+| **2.11** | **Whether this architecture is a Data Fiduciary** | **The definitions are in force; **no source applies them to an unincorporated activity of this kind** |
+| **2.12** | **Any state-law position** | **`RL-05` — no state law was researched, and the intended state is unknown** |
+| **2.13** | **Any fact about this organisation** | **`RL-01` — research cannot establish facts, and all fifty disclosure fields remain blank** |
+| **2.14** | **Succession** | **`UNKNOWN` for every candidate form; **`LDR-U19`** remains `AUTHORITY UNRESOLVED`** |
+
+### 3 — What changed from `ID-1`
+
+| # | **`ID-1` position** | **Position after this research** | **What changed it** |
+|---|---|---|---|
+| **3.1** | **`PVR-03`: **`UNKNOWN — PROFESSIONAL DETERMINATION REQUIRED`**, with sixteen named legal variables** | **Narrowed to two precise professional questions, with the penal consequence, the deduction regime, the claims machinery and the appropriation rules all sourced** | **`RF-01 … RF-06`** |
+| **3.2** | **`PVR-05`: **`UNKNOWN`**, with four meanings of revenue separated** | **The mandate's six meanings separated, five regimes identified, and the sixth declared **`ARCHITECTURAL DEFINITION REQUIRED`**** | **`RF-11 … RF-17`** |
+| **3.3** | **`PVR-22`: twenty-seven dimensions, no source** | **Eleven regimes sourced, six of them wholly entity-dependent, two binding individuals today, one in conflict, one not established** | **`RF-18 … RF-28`** |
+| **3.4** | **`GC-01`: a conflict between the waterfall and *"restrictions on profit distribution and founder upside"*'*** | **Re-framed. **The operative tax restriction is a **quantitative ceiling on commercial receipts** and a **cost-recovery discipline**, which bears hardest on waterfall priority 5 and does not obviously reach priorities 4 and 8. **The conflict is not resolved, but it is no longer the conflict the architecture thinks it is** | **`RF-35`, `ACN-04`** |
+| **3.5** | **`A-N16`: blocked on internal analysis, five tests failing** | **Blocked on a **Tier 1 regulatory source**. **And the two-signatory rule is shown to be an architectural control exceeding the located requirement** | **`RF-33`, `ACN-09`** |
+| **3.6** | **`SR-06`: retention requires *"actual periods"*, none stated** | **A statutory period located **for a company form only**, and an erasure-on-purpose-completion rule located with a commencement date** | **`RF-16`, `RF-40`** |
+| **3.7** | **`CQ-26`: safeguarding duties stated as binding individuals, without source** | **Sourced: **a universal criminal duty to report, with an enhanced penalty for an institutional head; **and a **statutory complaints route** that already exists at district level** | **`RF-26`, `RF-27`** |
+| **3.8** | **`TX-01 … TX-19`: nineteen heads, all `UNKNOWN`** | **4 with a primary source, 7 partly supported, 1 ambiguous, 1 fact-dependent, 6 still `NOT ESTABLISHED`** | **Part XI** |
+| **3.9** | **Every tax question framed against the Income-tax Act, 1961** | **Framed against a statute repealed on 1 April 2026, whose replacement's numbering is in conflict** | **`DTC-01`, `SCF-02`** |
+| **3.10** | **The blueprint's absence treated as blocking nothing** | **Unchanged — and now shown to block nothing, because **`RF-30`** establishes that the funding constraint operates independently of it** | **`RF-30`** |
+| **3.11** | **Thirty-five questions open** | ### **`Thirty-five questions still open. **Zero closed. **Twenty-nine of them now carry researched material; **six carry none** | **Part XX** |
+
+### 4 — Which gates remain blocked
+
+| Gate or blocker | **Position** | **Authority** |
+|---|---|---|
+| **`GATE P0` — pilot authorisation** | ### **`0 OF 10 PASS. UNCHANGED BY THIS RESEARCH`** | **Rule F-14 requires evidence, not assertion. **This instrument produces no evidence for any sub-gate** |
+| **`P0-C` — economic readiness** | **`FAILS` — no account, no mandate, no signatories** | **`RF-33` confirms the documentary requirements and that none is met** |
+| **`P0-B` — legal and compliance readiness** | **`FAILS` — eleven validations incomplete** | **`BLK-B-01 … BLK-B-11`; **this research informs them and completes none** |
+| **`P0-F` — safety readiness** | **`FAILS` — no written insurance answer, no certified safeguarding** | **`RF-25`, Part XVI; **§9.2 rule 1** |
+| **`SR-01` / `LDR-U08` / `ID-1`** | **`DECISION REQUIRED` — UNCHANGED** | **Research cannot decide it, and mandate §5 forbids selecting an entity** |
+| **`SR-02` — worker classification** | **`DECISION REQUIRED` — UNCHANGED, AND NOW BETTER FRAMED** | **Part XIII supplies the categories and the indicators; **the facts are missing** |
+| **`SR-03` / `A-N16`** | **`BLOCKED` — UNCHANGED, AND NOW SUPPORTED BY A TIER 1 SOURCE** | **`RF-33`** |
+| **`SR-04` — `L1 … L15`** | **`DECISION REQUIRED` — UNCHANGED** | **Part XVI; **no coverage located for any risk** |
+| **`SR-05`, `SR-06`** | **`UNRESOLVED` — BUT **`SR-06`** NOW HAS A COMMENCEMENT DATE** | **`RF-40`, `RF-16`** |
+| **`GC-01`** | **`UNRESOLVED` — RE-FRAMED, NOT RESOLVED** | **`RF-35`, `ACN-04`; **`SCF-01`** for one limb** |
+| **`C-10 … C-29`** | **`IN FORCE — ALL TWENTY`** | **Nothing in this research lifts any of them** |
+| **`PP-01 … PP-09`** | **`IN FORCE — ALL NINE`** | **`RL-08`; **`ID-1` §I.4** |
+| **The twenty-two Tier-0 items** | **`OUTSTANDING — ALL TWENTY-TWO`** | **`C-25`** |
+| **`CF-16` — who may approve founder compensation** | **`AUTHORITY UNRESOLVED` — UNCHANGED** | **`PRQ-17`; **no source can supply an authority** |
+
+### 5 — Which architectural work can safely continue
+
+**[P]** Each row satisfies all eight tests at `ID-1` §XXVI.1 — no entity, no document, no professional determination, no payment, no authority, no pre-emption of any answer, a record rather than a conclusion, and stoppable without loss.
+
+| # | **The work** | **Why it is safe** | **Its authority** |
+|---|---|---|---|
+| **1** | **Complete the fifty blank fields of the `ID-1` founder disclosure pack** | **It is facts, not conclusions. **Twenty-nine of thirty-five questions are fact-dependent and wait on it. **Four of the fields determine whether a criminal reporting duty is already live** | **`ID-1` Part XXIV; **`RF-26`; **`RL-01`** |
+| **2** | **Gather the historical facts — `CQ-06`** | **The only question in the register with no entity dependency at all, and the escape hatch from the classification-and-operation circle** | **`ID-1` §XXI.4, §XXI.5 circle 3** |
+| **3** | **Design the record, on paper, with an appropriation field on every payment record** | **No entity needed. **`RF-06` establishes that where nobody appropriates a part-payment, the law appropriates it to the oldest debt — a design constraint the record can meet** | **`ID-1` `CQ-21`; **`RF-06`, `ACN-24`; **CEA §XXI.1** |
+| **4** | **Obtain the nine primary texts that this research could not obtain, and the official concordance table for the Income-tax Act, 2025** | **It is retrieval, not interpretation. **It would resolve six of the seven recorded conflicts without any professional** | **`RL-02`, `SCF-02 … SCF-07`** |
+| **5** | **Note the district Local Committee route and ensure people know how to reach it** | **A statutory mechanism that already exists, costs nothing, and requires no internal body and no entity** | **`RF-27`, `ACN-17`** |
+| **6** | **Record the two duties that bind individuals now — the POCSO reporting duty and the narrow scope of the Good Samaritan protection — in a form a person can obey** | **`ID-13` is one of only two CEA dependency steps available today, and recording a prohibition or a duty relaxes neither** | **`RF-25`, `RF-26`; **`ID-1` §XXVI.2 track 9** |
+| **7** | **Preserve and hash this instrument, its source register and its search record** | **Provenance is a record, not a conclusion. **`RL-09` establishes that the law moved three times in thirty months, so the research date is part of the evidence** | **Rule K-10; **Part XXI** |
+
+### 6 — Which work must remain stopped
+
+| # | **Stopped** | **Its prohibition** |
+|---|---|---|
+| **1** | **Registering, incorporating or constituting anything** | **Mandate §5 of this task; **`ID-1` mandate §10; **no entity is selected anywhere in this instrument** |
+| **2** | **Any payment of any kind, to anyone, from any source connected with this matter** | **`C-15`, `C-19`; ***"no external payment can lawfully or operationally be made"*** |
+| **3** | **Engaging anyone as a worker, volunteer, contractor or office-holder** | **`C-20`; **`SR-02` `DECISION REQUIRED`; **`PP-07`** |
+| **4** | **Collecting funds, donations or contributions** | **`C-19`; **no legal person, no account; **`RF-30`** for foreign funds** |
+| **5** | **Operating any protection or first-response activity** | **`C-21`; **`P0-F`; **§9.2 rule 1; **`RF-25`** shows the located protection is narrow** |
+| **6** | **Any activity involving minors** | **`C-22`; **`SR-31` outstanding; **`RF-26`** shows a criminal duty already attaches to individuals** |
+| **7** | **Collecting personal data** | **`C-23`; **`A-N14`; **`PP-05`. **The core duties commence on or about 13 May 2027, which is a reason to prepare and not a reason to collect** |
+| **8** | **Running any pilot** | **`C-25`; **`GATE P0` = 0 of 10; **22 of 22 Tier-0 items outstanding** |
+| **9** | **Procuring or building any technology** | **`C-27`; **`SR-77`; **`BLK-F-01`** |
+| **10** | **Publishing any claim above the lowest permitted level, or any identity mark** | **`C-24`, `C-10`; **`P0-G`; **`A-07` may not be published before **`L2`, `L3`, `L4`, `L8`, `L12`** exist** |
+| **11** | **Producing an `ID-2`, another economic architecture, a successor instrument, a pilot design, or any document that claims legal compliance** | **The terminal rule of this task; **`DA-31`; **`RL-08`; **mandate §1's absolute status rule** |
+
+### 7 — Which questions should eventually go to counsel
+
+**[P]** `[SOURCE]` — §XIX.3. **The professional-resolved register, in the order a professional would need them. **It remains open, and mandate §23 requires that it does.**
+
+| Priority | **The questions** | **Why this order** |
+|---|---|---|
+| **First** | **`PRQ-03` classification, and **`PRQ-01` the entity** | **Twenty-nine of thirty-five questions are fact-dependent and twenty are entity-dependent. **Everything else waits on these two, and **`PRQ-03`** is answerable as soon as **item 1 of §XXIV.3(5)** is done, because it needs facts rather than an entity** |
+| **Second** | **`PRQ-04` the society's legal personality, and **`PRQ-02` whether one entity can carry all four pillars** | **`SCF-01` blocks one candidate outright, and **`PRQ-02`** is **`GC-01`** in its re-framed form** |
+| **Third** | **`PRQ-05` deferral and discharge, and **`PRQ-12` the cost-recovery line** | **These two decide whether the architecture's compensation model and its service fee can exist at all** |
+| **Fourth** | **`PRQ-07` non-road intervention, and **`PRQ-08` the volunteer category** | **The protection pillar's two unresolved foundations. **`L4`** remains the row whose adverse answer could require the pillar to be redesigned or not activated** |
+| **Fifth** | **`PRQ-09` intellectual property and related-party matters, **`PRQ-11` founder compensation, **`PRQ-17` the disinterested approver, **`PRQ-18` succession** | **The founder-and-Krytos block, which research could not touch** |
+| **Sixth** | **`PRQ-10` the 2025 Act's numbering, **`PRQ-13` the GST closed list, **`PRQ-14` whether a Section 8 company is a private company, **`PRQ-16` fiduciary status, **`PRQ-19` the LLP deeming rule, **`PRQ-20` society officers, **`PRQ-06` the unincorporated-association route** | **Interpretive questions that arise only once a form is in view** |
+| **Throughout** | **`PRQ-15` insurance** | **A broker, not counsel, and it cannot begin until **`L1 … L15`** have facts to work on** |
+
+### 8 — What evidence should be preserved for future counsel
+
+| # | **The evidence** | **Why it matters** |
+|---|---|---|
+| **1** | **This instrument in full, with its research date of **8 October 2026** on its face** | **`RL-09`: **the law moved three times in thirty months. **An undated research instrument is worse than none, because counsel cannot tell what was current when it was written** |
+| **2** | **The source register at Part XXI, with all 130 URLs, publication dates, tiers and status assessments** | **Counsel can go directly to the primary texts and check. **Mandate §27 forbids fabricated URLs, and none appears** |
+| **3** | **The conflict register at Part XVII, with both sides of each of the seven conflicts and neither preferred** | **Six of the seven would be resolved in minutes by anyone holding the primary text. **Presenting them as resolved would waste the engagement** |
+| **4** | **The entity matrix at §VIII.4, with all 66 `UNKNOWN` labels intact** | **It shows counsel exactly where the gaps are, so that the engagement is scoped to the gaps rather than to the whole subject** |
+| **5** | **The completed disclosure pack, once the founder completes it** | **Twenty-nine of thirty-five questions are fact-dependent. **Without it, the first professional hour is spent asking what the pack already answers** |
+| **6** | **The two registers at Part XIX, kept separate** | **They show what need not be paid for again, and what must be** |
+| **7** | **The `ID-1` instruction pack at its §XXIII.1, unaltered** | **This instrument does not supersede it. **It supplies material for **Section 12** of that pack and for **deliverables 1 to 11**, and it should be enclosed with it as a sixth enclosure** |
+| **8** | **The CEA at `76a30b3` and `ID-1` at `7c49d0b`, both unmodified** | **`RA-18`: **zero amendments applied. **Counsel must see the architecture as it stands, with this instrument's consequences recorded beside it and not written into it** |
+
+### 9 — The exact next human action
+
+**[P]** One action. **Not two, and not a programme. **It is chosen because it costs nothing, requires no entity, no authority, no professional and no permission; **because it is the input that no research and no professional can supply; **because twenty-nine of the thirty-five questions are fact-dependent and wait on it; **and because four of its fields determine whether a criminal duty is already live.**
+
+| Item | **Content** |
+|---|---|
+| **The action** | **The founder completes, in his own hand, the fifty blank fields of the `ID-1` founder disclosure pack at its Part XXIV — beginning with **`DIS-08`** (whether any activity has taken place), **`DIS-18`** (whether any money has moved), **`DIS-23`** (whether any minor is or would be within scope) and **`DIS-24`** (whether any protection activity has occurred) — and signs and dates the ten confirmations at **`DIS-41 … DIS-50`**** |
+| **Why these four fields first** | **`RF-26` establishes that POCSO s.19 imposes a **criminal** duty on **any person** with knowledge or apprehension of an offence, **today**, without any entity, with an enhanced penalty for a person in charge of an institution. **If the answer to **`DIS-23`** or **`DIS-24`** is yes, a duty may already be live and the four fields are not administrative** |
+| **Why it is the highest-value action available** | **The alternative action — sending the `ID-1` instruction — requires paid counsel, which is not available. **This action requires nothing. **And it is the action that makes every future professional engagement cheaper, because **`RL-01`** establishes that no research can supply a single one of these facts** |
+| **What it does not do** | **It does not select an entity. **It does not answer any question. **It does not close any of the thirty-five. **It does not lift any prohibition, pass any gate or authorise any act. **It does not make this instrument an opinion** |
+| **What follows it** | **The nine parallel tracks at `ID-1` §XXVI.2 continue; **item 4 of §XXIV.3(5) above — obtaining the nine primary texts and the official concordance table — resolves six of the seven conflicts at no cost; **and the instruction at **`ID-1` §XXIII.1** is sent, with this instrument as a sixth enclosure, the moment any route to a qualified Indian professional opens, including a legal-services authority, a law-school clinic, a professional body's pro-bono scheme or a firm willing to act without fee** |
+| **What must not follow it** | **Any act on the list at §XXIV.3(6). **Completing a disclosure pack is not permission to do anything. **Mandate §24: *"overall deployment remains subject to the unresolved gates identified by the architecture"*** |
+
+## XXIV.4 The status, restated
+
+> ### **`RESEARCH-BASED PRE-VALIDATION — PROFESSIONAL VALIDATION STILL REQUIRED WHERE IDENTIFIED`**
+>
+> **This instrument is not legal advice, not a lawyer's opinion, not a chartered accountant's opinion, not a tax opinion, not a professional certification, not a regulatory approval, not permission to operate, and not a confirmation that the organisation is legally compliant. It is a record of what publicly available authoritative Indian material appeared to say on 8 October 2026, with its conditions, its dates, its tiers and its conflicts, prepared so that a qualified professional will not have to be paid to discover any of it.**
+>
+> **It established twenty-five propositions. It closed none of the thirty-five questions. It selected no entity. It invented no figure. It claimed no coverage. It amended nothing. And it leaves the professional-resolved register open, in full, as its mandate requires.**
+
+---
+
+> # **`NEXT HUMAN ACTION: THE FOUNDER COMPLETES AND SIGNS THE FIFTY BLANK FIELDS OF THE ID-1 FOUNDER DISCLOSURE PACK, BEGINNING WITH DIS-08, DIS-18, DIS-23 AND DIS-24.`**
+
+---
+
+**END OF `ID-1R` — RESEARCH-BASED INDIAN LEGAL AND TAX PRE-VALIDATION.**
+
+**`RESEARCH-BASED PRE-VALIDATION — PROFESSIONAL VALIDATION STILL REQUIRED WHERE IDENTIFIED` · RESEARCH DATE 8 OCTOBER 2026 · 41 FINDINGS · 130 SOURCES · 7 CONFLICTS RECORDED, 0 RESOLVED · 25 PROPOSITIONS ESTABLISHED · 20 QUESTIONS LEFT FOR A PROFESSIONAL · 35 `ID-1` QUESTIONS, 0 CLOSED · 0 ENTITIES SELECTED · 0 FIGURES INVENTED · 0 COVERAGE CLAIMED · 0 AMENDMENTS APPLIED · `RA-01 … RA-20`: 20 OF 20 PASS · VERDICT `B`**
